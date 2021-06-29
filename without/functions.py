@@ -1,8 +1,8 @@
 from selenium import webdriver
 import time
 import requests
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
+from pyvirtualdisplay import Display
 
 headers = {
         "method": "GET",
@@ -11,12 +11,14 @@ headers = {
     }
 
 def without(url):
+    display = Display(visible=0, size=(800, 600))
+    display.start()
     options = Options()
     options.headless = True
     options.add_argument('window-size=1400,600')
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
-    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+    driver = webdriver.Chrome(options=options)
     driver.get('https://snaptik.app/')   
     input = driver.find_element_by_id('url')
     input.send_keys(url)
