@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'TikTok Video Cutter Online Free – Tiksss.com' %} {% endblock %}
+{% block desc %}
+<meta name="description"
+    content="{% trans 'TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. Cut and Trim TikTok Videos Online Free.' %}" />
+{% endblock %}
+{% block body %}
+
+<!-- Hero Section -->
+<div class="hero" id="home">
+    <center>
+        <video controls style="max-height: 400px; max-width: 400px;">
+            <source src="{{rtr}}" type="video/mp4" media="all and (max-width:480px)">
+        </video>
+    </center>
+    <center>
+    <div class="form_style_trim">
+        <form class="video-form" method="POST" action="{% url 'down4' %}">
+            {% csrf_token %}
+            <input type="text" placeholder="Start time: 0" name="t1">
+            <input type="text" placeholder="End time: n" name="t2">
+            <select name="pick" id="cars">
+                <option value="mp3">mp3</option>
+                <option value="mp4">mp4</option>
+              </select>
+            <input class="buttons" type="submit" value="Convert">
+        </form>
+    </div>
+</center>
+</div>
+
+<script type="text/javascript">
+
+    function show() {
+        document.getElementById("myDiv").style.display = "block";
+        setTimeout("hide()", 500000);  // 5 seconds
+    }
+
+    function hide() {
+        document.getElementById("myDiv").style.display = "none";
+    }
+
+</script>
+
+<style>
+    .form_style_trim{
+        align-items: center;
+        margin: 20px 0px;
+    }
+    .form_style_trim  input,
+    .form_style_trim  select{
+        padding: 10px 20px;
+    }
+    .form_style_trim .buttons{
+        background: #ee0979; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ff6a00,
+    #ee0979
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff6a00, #ee0979);
+  color: white;
+    }
+</style>
+
+
+{% endblock %}

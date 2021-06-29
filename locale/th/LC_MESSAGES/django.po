@@ -1,0 +1,3127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-28 19:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: templates/about.html:3
+msgid "About Us - Tiksss.com"
+msgstr "เกี่ยวกับเรา - Tiksss.com"
+
+#: templates/about.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com. If"
+" you have any question regarding this than kindly let us know. Thanks."
+msgstr ""
+"ในหน้านี้ เราได้เพิ่มข้อมูลที่เป็นประโยชน์เกี่ยวกับเว็บไซต์ของเรา Tiksss.com"
+" หากคุณมีคำถามใด ๆ เกี่ยวกับเรื่องนี้ โปรดแจ้งให้เราทราบ ขอบคุณ"
+
+#: templates/about.html:10
+msgid "About US"
+msgstr "เกี่ยวกับเรา"
+
+#: templates/about.html:11
+msgid "is an amazing popular"
+msgstr "เป็นที่นิยมอย่างน่าอัศจรรย์"
+
+#: templates/about.html:11
+msgid ""
+"tool that allows users from different regions to download and convert TikTok"
+" videos online free."
+msgstr ""
+"เครื่องมือที่อนุญาตให้ผู้ใช้จากภูมิภาคต่างๆ ดาวน์โหลดและแปลงวิดีโอ TikTok "
+"ออนไลน์ได้ฟรี"
+
+#: templates/about.html:12
+msgid ""
+"Our platform supports different type of TikTok video converting tools like, "
+"TikTok to Mp4, Mp3, Video Cutter, and downloads TikTok videos without "
+"watermark or with watermark in just few seconds which you can view here in "
+"our website"
+msgstr ""
+"แพลตฟอร์มของเรารองรับเครื่องมือแปลงวิดีโอ TikTok ประเภทต่างๆ เช่น TikTok "
+"เป็น Mp4, Mp3, Video Cutter และดาวน์โหลดวิดีโอ TikTok "
+"แบบไม่มีลายน้ำหรือไม่มีลายน้ำในเวลาเพียงไม่กี่วินาที "
+"ซึ่งคุณสามารถดูได้ที่นี่ในเว็บไซต์ของเรา"
+
+#: templates/about.html:13
+msgid "Why Tiksss.com"
+msgstr "ทำไมต้อง Tiksss.com"
+
+#: templates/about.html:14
+msgid ""
+"Our tool design is very unique and simple. We made this tool for customers "
+"and users purpose only. It’s very fast, easy, and safe for everyone to use "
+"in your daily life routine even if you are a content creator. This tool "
+"helps you a lot and save your time for sure. Tiksss is always here and ready"
+" to help you out if you facing any problem. If you have any queries then "
+"kindly contact us over here:"
+msgstr ""
+"การออกแบบเครื่องมือของเรามีเอกลักษณ์และเรียบง่ายมาก "
+"เราสร้างเครื่องมือนี้ขึ้นเพื่อวัตถุประสงค์ของลูกค้าและผู้ใช้เท่านั้น "
+"มันรวดเร็ว ง่าย และปลอดภัยสำหรับทุกคนที่จะใช้ในชีวิตประจำวันของคุณ "
+"แม้ว่าคุณจะเป็นผู้สร้างเนื้อหาก็ตาม "
+"เครื่องมือนี้ช่วยคุณได้มากและประหยัดเวลาของคุณอย่างแน่นอน Tiksss "
+"พร้อมช่วยเหลือคุณเสมอหากคุณประสบปัญหา หากคุณมีคำถามใด ๆ โปรดติดต่อเราที่นี่:"
+
+#: templates/audio.html:4 templates/download1.html:4
+#: templates/download4.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "TikTok เป็น Mp3 Converter ออนไลน์ฟรี - Tiksss.com"
+
+#: templates/audio.html:7 templates/download1.html:5
+#: templates/download4.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok เป็น Mp3 Converter ออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"เป็นเครื่องมือที่เร็วที่สุดของเราในการแปลงวิดีโอ Tiktok เป็นรูปแบบ Mp3 "
+"สำหรับคนรัก Tiktok ซึ่งฟรีทั้งหมด"
+
+#: templates/audio.html:14 templates/without.html:13
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+#: templates/audio.html:14
+msgid "Audio"
+msgstr "เครื่องเสียง"
+
+#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
+#: templates/without.html:14
+msgid "Enter the URL Here"
+msgstr "ใส่ URL ที่นี่"
+
+#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
+#: templates/without.html:24
+msgid "Search"
+msgstr "ค้นหา"
+
+#: templates/audio.html:31
+msgid "TikTok to Mp3 Converter Online Free"
+msgstr "ตัวแปลง TikTok เป็น Mp3 ออนไลน์ฟรี"
+
+#: templates/audio.html:32
+msgid ""
+"If you are music lover then you will know the value of this TikTok to Mp3 "
+"Converter Online Tool. We have made this tool very easy and simple. You "
+"people can use this tool on your preferred devices without any limits. Make "
+"sure that you have to bookmark this tool page for future. We have added all "
+"the instructions of this tool that how you people can use and take benefits "
+"from it. Kindly share this tool with your friends and family member with the"
+" help of social media because they will definitely like and use this for "
+"sure. For more Info visit our Website"
+msgstr ""
+"หากคุณเป็นคนรักดนตรี คุณจะรู้ถึงคุณค่าของเครื่องมือ TikTok to Mp3 Converter "
+"Online เราได้ทำให้เครื่องมือนี้ง่ายและสะดวกมาก "
+"คุณสามารถใช้เครื่องมือนี้กับอุปกรณ์ที่คุณต้องการได้โดยไม่มีข้อจำกัด "
+"ตรวจสอบให้แน่ใจว่าคุณต้องบุ๊กมาร์กหน้าเครื่องมือนี้ไว้สำหรับอนาคต "
+"เราได้เพิ่มคำแนะนำทั้งหมดของเครื่องมือนี้ซึ่งเป็นวิธีที่ผู้คนสามารถใช้และใช้ประโยชน์จากเครื่องมือนี้ได้"
+" "
+"กรุณาแบ่งปันเครื่องมือนี้กับเพื่อนและสมาชิกในครอบครัวของคุณด้วยความช่วยเหลือของโซเชียลมีเดียเพราะพวกเขาจะชอบและใช้งานสิ่งนี้อย่างแน่นอน"
+" สำหรับข้อมูลเพิ่มเติม โปรดเยี่ยมชมเว็บไซต์ของเรา"
+
+#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
+#: templates/index.html:29
+msgid "Frequently Asked Questions"
+msgstr "คำถามที่พบบ่อย"
+
+#: templates/audio.html:39
+msgid ""
+"How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
+" to Mp3 Online Free:"
+msgstr ""
+"วิธีแปลง Tiktok เป็น Mp3 ออนไลน์ฟรีด้วยคุณภาพสูง - ดาวน์โหลด TikTok เป็น Mp3"
+" ออนไลน์ฟรี:"
+
+#: templates/audio.html:45 templates/faq.html:44
+msgid ""
+"Select a video URL on TikTok which you want to convert into mp3 format."
+msgstr "เลือก URL ของวิดีโอบน TikTok ที่คุณต้องการแปลงเป็นรูปแบบ mp3"
+
+#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+msgid "Copy the selected video link on your smartphone / computer or Laptop"
+msgstr "คัดลอกลิงก์วิดีโอที่เลือกบนสมาร์ทโฟน / คอมพิวเตอร์หรือแล็ปท็อป"
+
+#: templates/audio.html:51 templates/faq.html:50
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok to Mp3 Converter."
+msgstr ""
+"ไปที่เว็บไซต์ของเรา Tiksss.com และที่เมนูด้านบน คุณจะเห็น “เครื่องมือ” "
+"แตะที่มันและเลือก TikTok to Mp3 Converter"
+
+#: templates/audio.html:54 templates/faq.html:53
+msgid "Insert the TikTok video link in the field and press \"Convert Button\""
+msgstr "ใส่ลิงค์วิดีโอ TikTok ลงในช่องแล้วกด &quot;ปุ่มแปลง&quot;"
+
+#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:37 templates/without.html:51
+msgid "Now you will see a download button, click on download."
+msgstr "ตอนนี้คุณจะเห็นปุ่มดาวน์โหลด คลิกที่ดาวน์โหลด"
+
+#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine."
+msgstr "เพียงรอสักครู่เพื่อดาวน์โหลดวิดีโอลงในเครื่องของคุณโดยตรง"
+
+#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+msgid ""
+"If you like our tool and services than Kindly share our website with your "
+"friends and family members. Thanks!"
+msgstr ""
+"หากคุณชอบเครื่องมือและบริการของเรามากกว่า "
+"กรุณาแบ่งปันเว็บไซต์ของเรากับเพื่อนและสมาชิกในครอบครัวของคุณ ขอบคุณ!"
+
+#: templates/base.html:28
+msgid "Home"
+msgstr "บ้าน"
+
+#: templates/base.html:30 templates/base.html:32
+msgid "Tools"
+msgstr "เครื่องมือ"
+
+#: templates/base.html:34
+msgid "Download With Watermark"
+msgstr "ดาวน์โหลดพร้อมลายน้ำ"
+
+#: templates/base.html:37
+msgid "Download Without Watermark"
+msgstr "ดาวน์โหลดไม่มีลายน้ำ"
+
+#: templates/base.html:38
+msgid "Download Audio"
+msgstr "ดาวน์โหลดไฟล์เสียง"
+
+#: templates/base.html:39
+msgid "Audio/Video Cutter"
+msgstr "เครื่องตัดเสียง/วิดีโอ"
+
+#: templates/base.html:43
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+#: templates/base.html:76 templates/privacypolicy.html:10
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+#: templates/base.html:79 templates/tandc.html:10
+msgid "Terms and Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+#: templates/base.html:82
+msgid "FAQ"
+msgstr "คำถามที่พบบ่อย"
+
+#: templates/cutter.html:4 templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "เครื่องตัดวิดีโอ TikTok ออนไลน์ฟรี – Tiksss.com"
+
+#: templates/cutter.html:7 templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"เครื่องมือตัดวิดีโอ TikTok ออนไลน์ฟรี วิธีตัดวิดีโอ TikTok ออนไลน์ฟรี "
+"ตัดและตัดแต่งวิดีโอ TikTok ออนไลน์ฟรี"
+
+#: templates/cutter.html:14
+msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
+msgstr "เครื่องตัดวิดีโอออนไลน์ – เครื่องตัดวิดีโอ TikTok ออนไลน์ฟรี"
+
+#: templates/cutter.html:31
+msgid ""
+"Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
+"for your content creation. While using this tool on our website "
+msgstr ""
+"เอาล่ะ. TikTok Video Cutter Online Free Tool "
+"มอบโซลูชันสำหรับการสร้างเนื้อหาของคุณ ขณะใช้เครื่องมือนี้บนเว็บไซต์ของเรา"
+
+#: templates/cutter.html:31
+msgid ""
+" you people can easily Trim and Cut TikTok Video in your devices for free. "
+"It’s very unique and user friendly tool for everyone."
+msgstr ""
+"ผู้คนของคุณสามารถตัดและตัดวิดีโอ TikTok ในอุปกรณ์ของคุณได้ฟรี "
+"เป็นเครื่องมือที่ไม่ซ้ำใครและเป็นมิตรกับผู้ใช้สำหรับทุกคน"
+
+#: templates/cutter.html:39
+msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgstr "วิธีตัดและตัดแต่งวิดีโอ TikTok ในมือถือหรือพีซี:"
+
+#: templates/cutter.html:44
+msgid "Go to TikTok official website and copy the video link."
+msgstr "ไปที่เว็บไซต์ทางการของ TikTok และคัดลอกลิงก์วิดีโอ"
+
+#: templates/cutter.html:47
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok Video Cutter."
+msgstr ""
+"ไปที่เว็บไซต์ของเรา Tiksss.com และที่เมนูด้านบน คุณจะเห็น “เครื่องมือ” "
+"แตะที่มันและเลือก TikTok Video Cutter"
+
+#: templates/cutter.html:50
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr "ในหน้าถัดไป ให้วางลิงก์วิดีโอของคุณแล้วคลิก &quot;ปุ่มตัด&quot;"
+
+#: templates/cutter.html:53
+msgid ""
+"You will see a player down below. Kindly select the specific part which you "
+"want to cut it from tiktok video."
+msgstr ""
+"คุณจะเห็นผู้เล่นด้านล่าง กรุณาเลือกส่วนเฉพาะที่คุณต้องการตัดจากวิดีโอ tiktok"
+
+#: templates/cutter.html:56
+msgid ""
+"Now you see two options over here. The first one is to download that "
+"specific cut part of the video in mp4 format or download track in mp3 format"
+" of that specific Trim part of the video."
+msgstr ""
+"ตอนนี้คุณเห็นสองตัวเลือกตรงนี้ "
+"วิธีแรกคือการดาวน์โหลดส่วนที่ตัดเฉพาะของวิดีโอในรูปแบบ mp4 "
+"หรือดาวน์โหลดแทร็กในรูปแบบ mp3 ของส่วนที่ตัดเฉพาะของวิดีโอ"
+
+#: templates/cutter.html:59
+msgid ""
+"Choose one of the given options according to your needs and then proceed it."
+msgstr "เลือกหนึ่งในตัวเลือกที่กำหนดตามความต้องการของคุณแล้วดำเนินการต่อ"
+
+#: templates/cutter.html:62
+msgid "Now finally click on “Download Button” to download it in your device."
+msgstr "ตอนนี้คลิกที่ปุ่ม &quot;ดาวน์โหลด&quot; เพื่อดาวน์โหลดในอุปกรณ์ของคุณ"
+
+#: templates/cutter.html:65
+msgid ""
+"If you like our TikTok Video Cutter and Trimmer Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"หากคุณชอบเครื่องมือและบริการ TikTok Video Cutter และ Trimmer ของเรามากกว่า "
+"กรุณาแชร์เว็บไซต์ของเรากับเพื่อนและสมาชิกในครอบครัวของคุณ ขอบคุณ!"
+
+#: templates/download.html:6 templates/index.html:4
+msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
+msgstr "ดาวน์โหลดวิดีโอ Tiktok ไม่มีลายน้ำ - Tiksss.Com"
+
+#: templates/download.html:7 templates/index.html:5
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"Tiktok Video Downloader ออนไลน์ที่เร็วที่สุดสำหรับคนรัก Tiktok "
+"ซึ่งฟรีทั้งหมด"
+
+#: templates/download2.html:4 templates/without.html:4
+msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
+msgstr "ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ - Tiksss.com"
+
+#: templates/download2.html:6 templates/without.html:6
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"คุณสามารถดาวน์โหลดวิดีโอ Tiktok "
+"ได้อย่างง่ายดายโดยไม่มีลายน้ำในโทรศัพท์และแล็ปท็อปของคุณ"
+
+#: templates/faq.html:3
+msgid "Frequently Asked Questions - Tiksss.com"
+msgstr "คำถามที่พบบ่อย - Tiksss.com"
+
+#: templates/faq.html:5
+msgid ""
+"In this page we have added some useful frequently asked questions of our "
+"website Tiksss.com."
+msgstr ""
+"ในหน้านี้ เราได้เพิ่มคำถามที่พบบ่อยที่เป็นประโยชน์เกี่ยวกับเว็บไซต์ "
+"Tiksss.com ของเรา"
+
+#: templates/faq.html:13
+msgid "How to Download TikTok Videos Online Free?"
+msgstr "จะดาวน์โหลดวิดีโอ TikTok ออนไลน์ฟรีได้อย่างไร"
+
+#: templates/faq.html:19 templates/index.html:34
+msgid "Select a video on TikTok which you want to download"
+msgstr "เลือกวิดีโอบน TikTok ที่คุณต้องการดาวน์โหลด"
+
+#: templates/faq.html:25 templates/index.html:36
+msgid "Insert the TikTok video link on our website and press \"Search Button\""
+msgstr "ใส่ลิงค์วิดีโอ TikTok บนเว็บไซต์ของเราแล้วกด &quot;ปุ่มค้นหา&quot;"
+
+#: templates/faq.html:39
+msgid "Tiktok to Mp3 Converter online Free"
+msgstr "Tiktok เป็น Mp3 Converter ออนไลน์ฟรี"
+
+#: templates/faq.html:56
+msgid "Now you will see a download button, click on download"
+msgstr "ตอนนี้คุณจะเห็นปุ่มดาวน์โหลด คลิกที่ดาวน์โหลด"
+
+#: templates/faq.html:59
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine"
+msgstr "เพียงรอสักครู่เพื่อดาวน์โหลดวิดีโอลงในเครื่องของคุณโดยตรง"
+
+#: templates/faq.html:67 templates/without.html:37
+msgid "How to Download Tiktok Videos without Watermark:"
+msgstr "วิธีดาวน์โหลดวิดีโอ Tiktok โดยไม่มีลายน้ำ:"
+
+#: templates/faq.html:72 templates/without.html:42
+msgid "Select a video on TikTok app or web which you want to download."
+msgstr "เลือกวิดีโอบนแอพ TikTok หรือเว็บที่คุณต้องการดาวน์โหลด"
+
+#: templates/faq.html:78 templates/without.html:48
+msgid ""
+"Copy paste the selected TikTok video link on our Website Tool Which is "
+"\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
+msgstr ""
+"คัดลอกวางลิงก์วิดีโอ TikTok ที่เลือกบนเครื่องมือเว็บไซต์ของเราซึ่งก็คือ "
+"&quot;ดาวน์โหลดวิดีโอ Tiktok โดยไม่มีลายน้ำ&quot; แล้วกด "
+"&quot;ปุ่มค้นหา&quot;"
+
+#: templates/faq.html:84 templates/without.html:54
+msgid ""
+"Just wait a few seconds in which you can download the Tiktok video Without "
+"Watermark directly in your machine."
+msgstr ""
+"เพียงรอสักครู่เพื่อดาวน์โหลดวิดีโอ Tiktok "
+"แบบไม่มีลายน้ำลงในเครื่องของคุณโดยตรง"
+
+#: templates/index.html:11
+msgid "to Mp4 Downloader Online Free"
+msgstr "เป็น Mp4 Downloader ออนไลน์ฟรี"
+
+#: templates/index.html:24
+msgid ""
+"is an amazing tool for TikTok lovers to save TikTok videos to your device "
+"with a single click. This tool designed is very simple and everyone can use "
+"it easily without any hassle. We all love to watch Tik Tok videos in our "
+"devices which remain in our logs if we want to see those videos again but I "
+"have experienced that the videos no longer available and its gets lost due "
+"to the awesome feedback that platform produces every single day with full "
+"excessive. TikTok does not allow you to download or save videos on your "
+"preferred devices. But those uploaded videos from the user’s side available "
+"on their official website or app with a lot of restrictions. So the question"
+" is that how to solve all these video downloading issues. So I have decided "
+"to make a tool which will be easy to use for everyone because including me "
+"there are millions of people on this platform to watch TikTok videos on "
+"mobile or laptop but they can’t download it. So do not worry about it. I "
+"have made this tool for you people only to "
+msgstr ""
+"เป็นเครื่องมือที่ยอดเยี่ยมสำหรับผู้ชื่นชอบ TikTok ในการบันทึกวิดีโอ TikTok "
+"ลงในอุปกรณ์ของคุณด้วยการคลิกเพียงครั้งเดียว "
+"เครื่องมือนี้ได้รับการออกแบบมาอย่างเรียบง่ายและทุกคนสามารถใช้งานได้ง่ายโดยไม่ต้องยุ่งยาก"
+" เราทุกคนชอบที่จะดูวิดีโอ Tik Tok "
+"ในอุปกรณ์ของเราซึ่งยังคงอยู่ในบันทึกของเราหากเราต้องการดูวิดีโอเหล่านั้นอีกครั้ง"
+" "
+"แต่ฉันมีประสบการณ์ว่าวิดีโอไม่มีให้บริการอีกต่อไปและมันหายไปเนื่องจากข้อเสนอแนะที่ยอดเยี่ยมที่แพลตฟอร์มสร้างขึ้นทุกวัน"
+" เต็มเกิน TikTok "
+"ไม่อนุญาตให้คุณดาวน์โหลดหรือบันทึกวิดีโอบนอุปกรณ์ที่คุณต้องการ "
+"แต่วิดีโอที่อัปโหลดจากฝั่งผู้ใช้นั้นมีอยู่ในเว็บไซต์หรือแอปอย่างเป็นทางการซึ่งมีข้อจำกัดมากมาย"
+" ดังนั้นคำถามก็คือจะแก้ปัญหาการดาวน์โหลดวิดีโอเหล่านี้ได้อย่างไร "
+"ดังนั้นฉันจึงตัดสินใจสร้างเครื่องมือที่จะใช้งานง่ายสำหรับทุกคน "
+"เพราะในแพลตฟอร์มนี้มีคนนับล้านบนแพลตฟอร์มนี้เพื่อดูวิดีโอ TikTok "
+"บนมือถือหรือแล็ปท็อป แต่พวกเขาไม่สามารถดาวน์โหลดได้ "
+"ดังนั้นไม่ต้องกังวลกับมัน ฉันได้ทำเครื่องมือนี้เพื่อคุณคนเท่านั้นเพื่อ"
+
+#: templates/index.html:24
+msgid "I proud myself to introduce an amazing "
+msgstr "ภูมิใจนำเสนอความอัศจรรย์"
+
+#: templates/index.html:24
+msgid "web app which allow you to download TikTok videos to mp4 format."
+msgstr "เว็บแอพที่ให้คุณดาวน์โหลดวิดีโอ TikTok เป็นรูปแบบ mp4"
+
+#: templates/index.html:31
+msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
+msgstr "วิธีดาวน์โหลดวิดีโอ TikTok เป็น Mp4 ด้วย Tiksss.com"
+
+#: templates/index.html:48
+msgid "Introduction of TikTok"
+msgstr "แนะนำTikTok"
+
+#: templates/index.html:49
+msgid ""
+"Everyone knows that TikTok is very popular right now and with the help of "
+"Tik Tok app. You can create your own videos very easily. TikTok app also "
+"used for streaming and creating content for your own use."
+msgstr ""
+"ทุกคนรู้ดีว่า TikTok เป็นที่นิยมอย่างมากในขณะนี้และด้วยความช่วยเหลือของแอพ "
+"Tik Tok คุณสามารถสร้างวิดีโอของคุณเองได้อย่างง่ายดายมาก แอพ TikTok "
+"ยังใช้สำหรับการสตรีมและสร้างเนื้อหาสำหรับการใช้งานของคุณเอง"
+
+#: templates/index.html:50
+msgid ""
+"It’s a Chinese app which also allows you to share your videos on social "
+"media platform, friends and family. TikTok owned by a Chinese company which "
+"is also known as “Bytedance”. The main purpose of using this app to create "
+"videos with lisping, short music creation, dancing and voiceover video "
+"clippings."
+msgstr ""
+"เป็นแอปภาษาจีนที่ให้คุณแชร์วิดีโอของคุณบนแพลตฟอร์มโซเชียลมีเดีย "
+"เพื่อนและครอบครัว TikTok ที่เป็นเจ้าของโดยบริษัทจีนซึ่งเรียกอีกอย่างว่า "
+"“Bytedance” วัตถุประสงค์หลักของการใช้แอพนี้เพื่อสร้างวิดีโอที่มีเสียงเงียบ ๆ"
+" การสร้างเพลงสั้น ๆ การเต้นรำและการตัดต่อวิดีโอพากย์เสียง"
+
+#: templates/index.html:51
+msgid ""
+"If you are a content creator and passionate to produce a unique content to "
+"the customers then this app will helps you a lot to fulfill your dreams come"
+" true. Most of the time people love to do voiceover where people select and "
+"play any music in the background and then they act respectively with that "
+"sound. For me I love to watch funny voiceover videos on this app. Everyday "
+"people shows their talent in different ways and become celebrities via this "
+"platform. This platform has become a source for content creators for "
+"entertainment and viral videos. The content of TikTok may unreachable to "
+"those who do not have wifi or internet availability so make sure you have "
+"internet connection on you device to watch viral and amazing videos. So we "
+"are here to give you this amazing TikTok Mp4 Downloader tool to download "
+"favorite videos on you devices."
+msgstr ""
+"หากคุณเป็นผู้สร้างเนื้อหาและหลงใหลในการผลิตเนื้อหาที่ไม่ซ้ำใครให้กับลูกค้า "
+"แอปนี้จะช่วยคุณได้มากในการเติมเต็มความฝันของคุณให้เป็นจริง ส่วนใหญ่แล้ว "
+"คนชอบทำเสียงพากย์โดยที่ผู้คนเลือกและเล่นเพลงใดๆ ในพื้นหลัง "
+"จากนั้นพวกเขาจะทำตามลำดับด้วยเสียงนั้น สำหรับฉันฉันชอบดูวิดีโอพากย์เสียงตลกๆ"
+" ในแอปนี้ ผู้คนทุกวันแสดงความสามารถในรูปแบบต่างๆ "
+"และกลายเป็นคนดังผ่านแพลตฟอร์มนี้ "
+"แพลตฟอร์มนี้ได้กลายเป็นแหล่งสำหรับผู้สร้างเนื้อหาเพื่อความบันเทิงและวิดีโอไวรัส"
+" เนื้อหาของ TikTok อาจไม่สามารถเข้าถึงได้สำหรับผู้ที่ไม่มี wifi "
+"หรืออินเทอร์เน็ต "
+"ดังนั้นตรวจสอบให้แน่ใจว่าคุณมีการเชื่อมต่ออินเทอร์เน็ตบนอุปกรณ์ของคุณเพื่อรับชมวิดีโอไวรัลและน่าทึ่ง"
+" ดังนั้นเราจึงอยู่ที่นี่เพื่อมอบเครื่องมือ TikTok Mp4 Downloader "
+"ที่น่าทึ่งให้คุณเพื่อดาวน์โหลดวิดีโอโปรดบนอุปกรณ์ของคุณ"
+
+#: templates/index.html:61
+msgid "Unlimited Downloads"
+msgstr "ดาวน์โหลดไม่ จำกัด"
+
+#: templates/index.html:62
+msgid "Download unlimited videos with no limitations."
+msgstr "ดาวน์โหลดวิดีโอได้ไม่จำกัดโดยไม่มีข้อจำกัด"
+
+#: templates/index.html:66
+msgid "No Watermark on Videos:"
+msgstr "ไม่มีลายน้ำในวิดีโอ:"
+
+#: templates/index.html:67
+msgid "Download TikTok videos without watermark with no limits."
+msgstr "ดาวน์โหลดวิดีโอ TikTok แบบไม่มีลายน้ำได้ไม่จำกัด"
+
+#: templates/index.html:71
+msgid "Mp4 Supported HD:"
+msgstr "Mp4 รองรับ HD:"
+
+#: templates/index.html:72
+msgid "Download TikTok videos with Mp4 format HD."
+msgstr "ดาวน์โหลดวิดีโอ TikTok ด้วยรูปแบบ Mp4 HD"
+
+#: templates/index.html:76
+msgid "Mp3 Support:"
+msgstr "รองรับ Mp3:"
+
+#: templates/index.html:77
+msgid "Easily Convert TikTok to Mp3 with high quality."
+msgstr "แปลง TikTok เป็น Mp3 ได้อย่างง่ายดายด้วยคุณภาพสูง"
+
+#: templates/index.html:89
+msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
+msgstr "ดาวน์โหลดวิดีโอ TikTok เป็น Mp4 HD บนอุปกรณ์มือถือ:"
+
+#: templates/index.html:90
+msgid ""
+"If you want to download and save TikTok videos on your mobile device that "
+"you have to download and install TikTok app and then select your favorite "
+"video which you want to download. Here is some important thing when you are "
+"on video download page, see the share button on the right side of your "
+"device screen tap on it with the help of arrow and copy “link”. So open our "
+"website Tiksss.com and paste that copy link in given field and click on "
+"“Search Button”. It will take few seconds to get a downloadable link. You "
+"will see a “Download Button” hit on it to start video downloading on your "
+"device."
+msgstr ""
+"หากคุณต้องการดาวน์โหลดและบันทึกวิดีโอ TikTok บนอุปกรณ์มือถือของคุณ "
+"คุณต้องดาวน์โหลดและติดตั้งแอพ TikTok "
+"จากนั้นเลือกวิดีโอโปรดที่คุณต้องการดาวน์โหลด "
+"นี่คือสิ่งที่สำคัญเมื่อคุณอยู่ในหน้าดาวน์โหลดวิดีโอ "
+"ดูที่ปุ่มแชร์ที่ด้านขวาของหน้าจออุปกรณ์ของคุณ "
+"แตะที่ปุ่มนั้นโดยใช้ลูกศรและคัดลอก &quot;ลิงก์&quot; เปิดเว็บไซต์ Tiksss.com"
+" ของเราแล้ววางลิงก์คัดลอกในช่องที่กำหนดแล้วคลิก &quot;ปุ่มค้นหา&quot; "
+"จะใช้เวลาสองสามวินาทีในการรับลิงก์ที่ดาวน์โหลดได้ คุณจะเห็นปุ่ม "
+"&quot;ดาวน์โหลด&quot; เพื่อเริ่มการดาวน์โหลดวิดีโอบนอุปกรณ์ของคุณ"
+
+#: templates/index.html:101
+msgid "Download TikTok Video Without Watermark on your Device:"
+msgstr "ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำบนอุปกรณ์ของคุณ:"
+
+#: templates/index.html:102
+msgid ""
+"This method is very unique to get download video without watermark in "
+"original quality. We made this tool very easy and it works smoothly on "
+"windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t "
+"need to install any extra software or App and this is the only specialty of "
+"this TikTok no watermark video download tool. Go to Tiksss.com and you will "
+"see dropdown menu click on it and select “Without Watermark”. On the next "
+"page just paste the link and click “Download Button”. Wait a few seconds to "
+"get start downloading of your video."
+msgstr ""
+"วิธีนี้เป็นวิธีพิเศษในการดาวน์โหลดวิดีโอโดยไม่มีลายน้ำในคุณภาพดั้งเดิม "
+"เราทำให้เครื่องมือนี้ง่ายมากและทำงานได้อย่างราบรื่นบน windows, Mac OS, Ipad,"
+" อุปกรณ์ Android โดยเฉพาะอย่างยิ่งสำหรับผู้ใช้พีซี "
+"พวกเขาไม่จำเป็นต้องติดตั้งซอฟต์แวร์หรือแอพเพิ่มเติมใด ๆ "
+"และนี่เป็นความสามารถพิเศษเพียงอย่างเดียวของ TikTok "
+"ที่ไม่มีเครื่องมือดาวน์โหลดวิดีโอลายน้ำ ไปที่ Tiksss.com "
+"แล้วคุณจะเห็นเมนูแบบเลื่อนลงคลิกที่มันและเลือก &quot;ไม่มีลายน้ำ&quot; "
+"ในหน้าถัดไปเพียงวางลิงก์แล้วคลิก &quot;ปุ่มดาวน์โหลด&quot; "
+"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ"
+
+#: templates/index.html:119
+msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
+msgstr "Tiktok เป็น MP3 converter ออนไลน์ฟรีสำหรับอุปกรณ์พกพาและเดสก์ท็อป:"
+
+#: templates/index.html:120
+msgid "If you are music lover then you will know the value of this"
+msgstr "หากคุณเป็นคนรักเสียงเพลง แล้วคุณจะรู้ถึงคุณค่าของสิ่งนี้"
+
+#: templates/index.html:120
+msgid ""
+"We have made this tool very easy and simple. You people can use this tool on"
+" your preferred devices without any limits. Make sure that you have to "
+"bookmark this tool page for future. We have added all the instructions of "
+"this tool that how you people can use and take benefits from it. Kindly "
+"share this tool with your friends and family member with the help of social "
+"media because they will definitely like and use this for sure."
+msgstr ""
+"เราได้ทำให้เครื่องมือนี้ง่ายและสะดวกมาก "
+"คุณสามารถใช้เครื่องมือนี้กับอุปกรณ์ที่คุณต้องการได้โดยไม่มีข้อจำกัด "
+"ตรวจสอบให้แน่ใจว่าคุณต้องบุ๊กมาร์กหน้าเครื่องมือนี้ไว้สำหรับอนาคต "
+"เราได้เพิ่มคำแนะนำทั้งหมดของเครื่องมือนี้ซึ่งเป็นวิธีที่ผู้คนสามารถใช้และใช้ประโยชน์จากเครื่องมือนี้ได้"
+" "
+"กรุณาแบ่งปันเครื่องมือนี้กับเพื่อนและสมาชิกในครอบครัวของคุณด้วยความช่วยเหลือของโซเชียลมีเดียเพราะพวกเขาจะชอบและใช้งานสิ่งนี้อย่างแน่นอน"
+
+#: templates/index.html:128
+msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgstr "Tiktok Video Cutter ออนไลน์ – TikTok Video Trimmer ออนไลน์ฟรี:"
+
+#: templates/index.html:129
+msgid "Here you go. "
+msgstr "เอาล่ะ."
+
+#: templates/index.html:129
+msgid ""
+" provides you a solution for your content creation. While using this tool on"
+" our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
+"your devices for free. It’s very unique and user friendly tool for everyone."
+msgstr ""
+"มอบโซลูชันสำหรับการสร้างเนื้อหาของคุณ "
+"ในขณะที่ใช้เครื่องมือนี้บนเว็บไซต์ของเรา Tiksss.com "
+"ผู้คนสามารถตัดแต่งและตัดวิดีโอ TikTok ในอุปกรณ์ของคุณได้ฟรี "
+"เป็นเครื่องมือที่ไม่ซ้ำใครและเป็นมิตรกับผู้ใช้สำหรับทุกคน"
+
+#: templates/privacypolicy.html:3
+msgid "Privacy Policy - Tiksss.com"
+msgstr "นโยบายความเป็นส่วนตัว - Tiksss.com"
+
+#: templates/privacypolicy.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Privacy Policy. If you have any question regarding this than kindly let us "
+"know. Thanks."
+msgstr ""
+"ในหน้านี้ "
+"เราได้เพิ่มข้อมูลที่เป็นประโยชน์เกี่ยวกับนโยบายความเป็นส่วนตัวของเว็บไซต์ "
+"Tiksss.com ของเรา หากคุณมีคำถามใด ๆ เกี่ยวกับเรื่องนี้ โปรดแจ้งให้เราทราบ "
+"ขอบคุณ"
+
+#: templates/privacypolicy.html:13
+msgid "By using"
+msgstr "โดยใช้"
+
+#: templates/privacypolicy.html:13
+msgid ""
+"you signify your agreement to follow all the privacy policy set forth on "
+"this page:"
+msgstr ""
+"คุณหมายถึงข้อตกลงของคุณในการปฏิบัติตามนโยบายความเป็นส่วนตัวทั้งหมดที่กำหนดไว้ในหน้านี้:"
+
+#: templates/privacypolicy.html:16
+msgid ""
+"This Website does not collect personally identifiable information from your "
+"computer when you browse the Website and request pages from our servers. "
+"This means that, unless you voluntarily and knowingly provide us with "
+"personally identifiable information, we will not know your name, your e-mail"
+" address, or any other personally identifiable information."
+msgstr ""
+"เว็บไซต์นี้ไม่ได้รวบรวมข้อมูลส่วนบุคคลจากคอมพิวเตอร์ของคุณเมื่อคุณเรียกดูเว็บไซต์และขอหน้าจากเซิร์ฟเวอร์ของเรา"
+" ซึ่งหมายความว่า "
+"เว้นแต่คุณจะให้ข้อมูลที่สามารถระบุตัวบุคคลกับเราโดยสมัครใจและรู้เท่าทัน "
+"เราจะไม่ทราบชื่อของคุณ ที่อยู่อีเมลของคุณ หรือข้อมูลระบุตัวบุคคลอื่นๆ"
+
+#: templates/privacypolicy.html:19
+msgid ""
+"When you request a page from our Website, our servers log the information "
+"provided in the HTTP request header, JavaScript or similar technical tools, "
+"including the IP number, the time of the request, the URL of your request "
+"and other information. We collect this information in order to make our "
+"Website function correctly and provide you the functionality that you see on"
+" the Website, as our servers use this information to deliver to you the "
+"pages on this Website. We also use this information to better understand how"
+" visitors use our Website and how we can better tune our Website, its "
+"contents and functionality to meet your needs. However, this information is "
+"not associated with any personally identifiable information of persons "
+"browsing the Website."
+msgstr ""
+"เมื่อคุณขอหน้าจากเว็บไซต์ของเรา "
+"เซิร์ฟเวอร์ของเราจะบันทึกข้อมูลที่ให้ไว้ในส่วนหัวคำขอ HTTP, JavaScript "
+"หรือเครื่องมือทางเทคนิคที่คล้ายคลึงกัน รวมถึงหมายเลข IP เวลาที่ร้องขอ URL "
+"ของคำขอของคุณ และข้อมูลอื่นๆ "
+"เราเก็บรวบรวมข้อมูลนี้เพื่อทำให้เว็บไซต์ของเราทำงานได้อย่างถูกต้องและให้ฟังก์ชันการทำงานที่คุณเห็นบนเว็บไซต์"
+" เนื่องจากเซิร์ฟเวอร์ของเราใช้ข้อมูลนี้เพื่อส่งหน้าต่างๆ "
+"บนเว็บไซต์นี้ให้กับคุณ "
+"เรายังใช้ข้อมูลนี้เพื่อทำความเข้าใจว่าผู้เยี่ยมชมใช้เว็บไซต์ของเราอย่างไร "
+"และเราสามารถปรับแต่งเว็บไซต์ของเรา "
+"เนื้อหาและฟังก์ชันการทำงานให้ตรงกับความต้องการของคุณได้อย่างไร อย่างไรก็ตาม "
+"ข้อมูลนี้ไม่เกี่ยวข้องกับข้อมูลระบุตัวบุคคลใด ๆ ของบุคคลที่เรียกดูเว็บไซต์"
+
+#: templates/privacypolicy.html:22
+msgid ""
+"We use Google Analytics cookies to understand and save your preferences for "
+"future visits. Cookies are small files that a site or its service provider "
+"transfers to your computers hard drive through your Web browser (if you "
+"allow) that enables the sites or service providers systems to recognize your"
+" browser and capture and remember certain information)"
+msgstr ""
+"เราใช้คุกกี้ Google Analytics "
+"เพื่อทำความเข้าใจและบันทึกการตั้งค่าของคุณสำหรับการเข้าชมในอนาคต "
+"คุกกี้คือไฟล์ขนาดเล็กที่ไซต์หรือผู้ให้บริการถ่ายโอนไปยังฮาร์ดไดรฟ์ของคอมพิวเตอร์ของคุณผ่านเว็บเบราว์เซอร์ของคุณ"
+" (หากคุณอนุญาต) "
+"ซึ่งช่วยให้ไซต์หรือระบบของผู้ให้บริการสามารถจดจำเบราว์เซอร์ของคุณและบันทึกและจดจำข้อมูลบางอย่างได้)"
+
+#: templates/privacypolicy.html:25
+msgid ""
+"Some of the advertisements you see on the Site are selected and delivered by"
+" third parties, such as ad networks, advertising agencies, advertisers, and "
+"audience segment providers. These third parties may collect information "
+"about you and your online activities, either on the Site or on other "
+"websites, through cookies, web beacons, and other technologies in an effort "
+"to understand your interests and deliver to you advertisements that are "
+"tailored to your interests. The information practices of these third parties"
+" are not covered by this privacy policy"
+msgstr ""
+"โฆษณาบางรายการที่คุณเห็นบนเว็บไซต์ได้รับการคัดเลือกและจัดส่งโดยบุคคลที่สาม "
+"เช่น เครือข่ายโฆษณา บริษัทตัวแทนโฆษณา ผู้โฆษณา และผู้ให้บริการกลุ่มผู้ชม "
+"บุคคลที่สามเหล่านี้อาจรวบรวมข้อมูลเกี่ยวกับคุณและกิจกรรมออนไลน์ของคุณ "
+"ทั้งบนเว็บไซต์หรือบนเว็บไซต์อื่น ๆ ผ่านคุกกี้ เว็บบีคอน และเทคโนโลยีอื่น ๆ "
+"เพื่อพยายามทำความเข้าใจความสนใจของคุณและนำเสนอโฆษณาที่เหมาะกับความสนใจของคุณ"
+" "
+"แนวทางปฏิบัติด้านข้อมูลของบุคคลที่สามเหล่านี้ไม่ครอบคลุมถึงนโยบายความเป็นส่วนตัวนี้"
+
+#: templates/privacypolicy.html:28
+msgid ""
+"We do not sell, trade, or otherwise transfer to outside parties your "
+"personally identifiable information. This does not include trusted third "
+"parties who assist us in operating our website, conducting our business, or "
+"servicing you, so long as those parties agree to keep this information "
+"confidential. We may also release your information when we believe release "
+"is appropriate to comply with the law, enforce our site policies, or protect"
+" ours or others rights, property, or safety. However, non-personally "
+"identifiable visitor information may be provided to other parties for "
+"marketing, advertising, or other uses"
+msgstr ""
+"เราไม่ขาย แลกเปลี่ยน "
+"หรือโอนข้อมูลที่สามารถระบุตัวบุคคลของคุณไปยังบุคคลภายนอกได้ "
+"ไม่รวมถึงบุคคลที่สามที่เชื่อถือได้ซึ่งช่วยเราในการดำเนินงานเว็บไซต์ของเรา "
+"ดำเนินธุรกิจของเรา หรือให้บริการคุณ "
+"ตราบใดที่ฝ่ายเหล่านั้นตกลงที่จะเก็บข้อมูลนี้เป็นความลับ "
+"เราอาจเปิดเผยข้อมูลของคุณเมื่อเราเชื่อว่าการเปิดเผยนั้นเหมาะสมที่จะปฏิบัติตามกฎหมาย"
+" บังคับใช้นโยบายเว็บไซต์ของเรา หรือปกป้องสิทธิ์ ทรัพย์สิน "
+"หรือความปลอดภัยของเราหรือผู้อื่น อย่างไรก็ตาม "
+"ข้อมูลผู้เยี่ยมชมที่ไม่สามารถระบุตัวบุคคลอาจถูกจัดเตรียมให้กับบุคคลอื่นเพื่อการตลาด"
+" การโฆษณา หรือการใช้งานอื่นๆ"
+
+#: templates/privacypolicy.html:31
+msgid ""
+"Occasionally, at our discretion, we may include or offer third party "
+"products or services on our website. These third party sites have separate "
+"and independent privacy policies. We therefore have no responsibility or "
+"liability for the content and activities of these linked sites. Nonetheless,"
+" we seek to protect the integrity of our site and welcome any feedback about"
+" these sites"
+msgstr ""
+"ในบางครั้ง ตามดุลยพินิจของเรา "
+"เราอาจรวมหรือเสนอผลิตภัณฑ์หรือบริการของบุคคลที่สามในเว็บไซต์ของเรา "
+"เว็บไซต์บุคคลที่สามเหล่านี้มีนโยบายความเป็นส่วนตัวแยกต่างหากและเป็นอิสระ "
+"ดังนั้นเราจึงไม่มีความรับผิดชอบหรือรับผิดต่อเนื้อหาและกิจกรรมของไซต์ที่เชื่อมโยงเหล่านี้"
+" อย่างไรก็ตาม "
+"เราพยายามปกป้องความสมบูรณ์ของไซต์ของเราและยินดีรับข้อเสนอแนะใดๆ "
+"เกี่ยวกับไซต์เหล่านี้"
+
+#: templates/privacypolicy.html:34
+msgid ""
+"Changes to our Privacy Policy. If we decide to change our privacy policy, we"
+" will post those changes on this page"
+msgstr ""
+"การเปลี่ยนแปลงนโยบายความเป็นส่วนตัวของเรา "
+"หากเราตัดสินใจเปลี่ยนแปลงนโยบายความเป็นส่วนตัว "
+"เราจะโพสต์การเปลี่ยนแปลงเหล่านั้นในหน้านี้"
+
+#: templates/privacypolicy.html:37
+msgid "TIKSSS Video Downloader"
+msgstr "โปรแกรมดาวน์โหลดวิดีโอ TIKSSS"
+
+#: templates/privacypolicy.html:38
+msgid ""
+"TIK built the TIKSSS Mp4 Video Downloader for TikTok</b> app as an Ad "
+"Supported app. This SERVICE is provided by TIKsss at no cost and is intended"
+" for use as is"
+msgstr ""
+"TIK สร้าง TIKSSS Mp4 Video Downloader สำหรับแอพ TikTok เป็นแอพที่รองรับโฆษณา"
+" บริการนี้จัดทำโดย TIKsss "
+"โดยไม่มีค่าใช้จ่ายและมีไว้สำหรับการใช้งานตามที่เป็นอยู่"
+
+#: templates/privacypolicy.html:39
+msgid ""
+"This page is used to inform visitors regarding our policies with the "
+"collection, use, and disclosure of Personal Information if anyone decided to"
+" use our Service"
+msgstr ""
+"หน้านี้ใช้เพื่อแจ้งให้ผู้เยี่ยมชมทราบเกี่ยวกับนโยบายของเราเกี่ยวกับการรวบรวม"
+" การใช้ และการเปิดเผยข้อมูลส่วนบุคคล หากใครตัดสินใจใช้บริการของเรา"
+
+#: templates/privacypolicy.html:40
+msgid ""
+"If you choose to use our Service, then you agree to the collection and use "
+"of information in relation to this policy. The Personal Information that we "
+"collect is used for providing and improving the Service. We will not use or "
+"share your information with anyone except as described in this Privacy "
+"Policy"
+msgstr ""
+"หากคุณเลือกใช้บริการของเรา "
+"แสดงว่าคุณตกลงที่จะรวบรวมและใช้ข้อมูลที่เกี่ยวข้องกับนโยบายนี้ "
+"ข้อมูลส่วนบุคคลที่เรารวบรวมใช้เพื่อให้บริการและปรับปรุงบริการ "
+"เราจะไม่ใช้หรือแบ่งปันข้อมูลของคุณกับใคร "
+"ยกเว้นตามที่อธิบายไว้ในนโยบายความเป็นส่วนตัวนี้"
+
+#: templates/privacypolicy.html:41
+msgid ""
+"The terms used in this Privacy Policy have the same meanings as in our Terms"
+" and Conditions, which is accessible at TIKSSS Video Downloader and Mp3 "
+"Converter for TikTok unless otherwise defined in this Privacy Policy"
+msgstr ""
+"ข้อกำหนดที่ใช้ในนโยบายความเป็นส่วนตัวนี้มีความหมายเช่นเดียวกับในข้อกำหนดและเงื่อนไขของเรา"
+" ซึ่งสามารถเข้าถึงได้ที่ TIKSSS Video Downloader และ Mp3 Converter สำหรับ "
+"TikTok เว้นแต่จะกำหนดไว้เป็นอย่างอื่นในนโยบายความเป็นส่วนตัวนี้"
+
+#: templates/privacypolicy.html:42
+msgid "Information we collect"
+msgstr "ข้อมูลที่เรารวบรวม"
+
+#: templates/privacypolicy.html:43
+msgid ""
+"The personal information that you are asked to provide, and the reasons why "
+"you are asked to provide it, will be made clear to you at the point we ask "
+"you to provide your personal information"
+msgstr ""
+"ข้อมูลส่วนบุคคลที่คุณถูกขอให้ระบุและเหตุผลที่ขอให้คุณให้ข้อมูลนั้น "
+"จะแสดงให้คุณทราบอย่างชัดเจน ณ จุดที่เราขอให้คุณให้ข้อมูลส่วนบุคคลของคุณ"
+
+#: templates/privacypolicy.html:44
+msgid ""
+"If you contact us directly, we may receive additional information about you "
+"such as your name, email address, phone number, and the contents of the "
+"message and/or attachments you may send us, and any other information you "
+"may choose to provide"
+msgstr ""
+"หากคุณติดต่อเราโดยตรง เราอาจได้รับข้อมูลเพิ่มเติมเกี่ยวกับคุณ เช่น ชื่อ "
+"ที่อยู่อีเมล หมายเลขโทรศัพท์ "
+"และเนื้อหาของข้อความและ/หรือไฟล์แนบที่คุณอาจส่งถึงเรา และข้อมูลอื่นๆ "
+"ที่คุณอาจเลือกให้"
+
+#: templates/privacypolicy.html:45
+msgid ""
+"When you register for an Account, we may ask for your contact information, "
+"including items such as name, company name, address, email address, and "
+"telephone number."
+msgstr ""
+"เมื่อคุณลงทะเบียนบัญชี เราอาจขอข้อมูลติดต่อของคุณ รวมถึงรายการต่างๆ เช่น "
+"ชื่อ ชื่อบริษัท ที่อยู่ ที่อยู่อีเมล และหมายเลขโทรศัพท์"
+
+#: templates/privacypolicy.html:46
+msgid "Log Data"
+msgstr "บันทึกข้อมูล"
+
+#: templates/privacypolicy.html:47
+msgid ""
+"we want to inform you that whenever you use our Service, in a case of an "
+"error in the app we collect data and information (through third party "
+"products) on your phone called Log Data. This Log Data may include "
+"information such as your device Internet Protocol (\"IP\") address, device "
+"name, operating system version, the configuration of the app when utilizing "
+"our Service, the time and date of your use of the Service, and other "
+"statistics"
+msgstr ""
+"เราต้องการแจ้งให้คุณทราบว่าเมื่อใดก็ตามที่คุณใช้บริการของเรา "
+"ในกรณีที่มีข้อผิดพลาดในแอป เราจะรวบรวมข้อมูลและข้อมูล "
+"(ผ่านผลิตภัณฑ์ของบุคคลที่สาม) บนโทรศัพท์ของคุณที่เรียกว่า Log Data "
+"ข้อมูลบันทึกนี้อาจรวมถึงข้อมูลต่างๆ เช่น ที่อยู่ Internet Protocol "
+"(&quot;IP&quot;) ของอุปกรณ์ ชื่ออุปกรณ์ เวอร์ชันของระบบปฏิบัติการ "
+"การกำหนดค่าของแอปเมื่อใช้บริการของเรา เวลาและวันที่ของการใช้บริการ "
+"และสถิติอื่นๆ"
+
+#: templates/privacypolicy.html:49 templates/tandc.html:15
+msgid "Cookies"
+msgstr "คุ้กกี้"
+
+#: templates/privacypolicy.html:50
+msgid ""
+"Cookies are files with a small amount of data that are commonly used as "
+"anonymous unique identifiers. These are sent to your browser from the "
+"websites that you visit and are stored on your device's internal memory"
+msgstr ""
+"คุกกี้คือไฟล์ที่มีข้อมูลจำนวนเล็กน้อยซึ่งโดยทั่วไปจะใช้เป็นตัวระบุที่ไม่ระบุตัวตน"
+" "
+"สิ่งเหล่านี้จะถูกส่งไปยังเบราว์เซอร์ของคุณจากเว็บไซต์ที่คุณเยี่ยมชมและจัดเก็บไว้ในหน่วยความจำภายในของอุปกรณ์"
+
+#: templates/privacypolicy.html:51
+msgid ""
+"This Service does not use these \"cookies\" explicitly. However, the app may"
+" use third party code and libraries that use \"cookies\" to collect "
+"information and improve their services. You have the option to either accept"
+" or refuse these cookies and know when a cookie is being sent to your "
+"device. If you choose to refuse our cookies, you may not be able to use some"
+" portions of this Service."
+msgstr ""
+"บริการนี้ไม่ได้ใช้ &quot;คุกกี้&quot; เหล่านี้อย่างชัดเจน อย่างไรก็ตาม "
+"แอปอาจใช้รหัสและไลบรารีของบุคคลที่สามที่ใช้ &quot;คุกกี้&quot; "
+"เพื่อรวบรวมข้อมูลและปรับปรุงบริการของพวกเขา "
+"คุณมีตัวเลือกที่จะยอมรับหรือปฏิเสธคุกกี้เหล่านี้ "
+"และรู้ว่าเมื่อใดที่คุกกี้จะถูกส่งไปยังอุปกรณ์ของคุณ "
+"หากคุณเลือกที่จะปฏิเสธคุกกี้ของเรา คุณอาจไม่สามารถใช้บริการบางส่วนได้"
+
+#: templates/privacypolicy.html:52
+msgid "Service Providers"
+msgstr "ผู้ให้บริการ"
+
+#: templates/privacypolicy.html:53
+msgid ""
+"We may employ third-party companies and individuals due to the following "
+"reasons:"
+msgstr "เราอาจจ้างบริษัทและบุคคลภายนอกด้วยเหตุผลดังต่อไปนี้:"
+
+#: templates/privacypolicy.html:56
+msgid "To facilitate our Service"
+msgstr "เพื่ออำนวยความสะดวกในการให้บริการของเรา"
+
+#: templates/privacypolicy.html:59
+msgid "To provide the Service on our behalf"
+msgstr "เพื่อให้บริการในนามของเรา"
+
+#: templates/privacypolicy.html:62
+msgid "To perform Service-related services; or"
+msgstr "เพื่อดำเนินการบริการที่เกี่ยวข้องกับบริการ หรือ"
+
+#: templates/privacypolicy.html:65
+msgid "To assist us in analyzing how our Service is used."
+msgstr "เพื่อช่วยเราในการวิเคราะห์วิธีการใช้บริการของเรา"
+
+#: templates/privacypolicy.html:68
+msgid ""
+"We want to inform users of this Service that these third parties have access"
+" to your Personal Information. The reason is to perform the tasks assigned "
+"to them on our behalf. However, they are obligated not to disclose or use "
+"the information for any other purpose."
+msgstr ""
+"เราต้องการแจ้งผู้ใช้บริการนี้ว่าบุคคลภายนอกเหล่านี้สามารถเข้าถึงข้อมูลส่วนบุคคลของคุณได้"
+" เหตุผลก็คือการทำงานที่ได้รับมอบหมายให้พวกเขาในนามของเรา อย่างไรก็ตาม "
+"พวกเขามีหน้าที่ไม่เปิดเผยหรือใช้ข้อมูลเพื่อวัตถุประสงค์อื่นใด"
+
+#: templates/privacypolicy.html:69
+msgid "Security"
+msgstr "ความปลอดภัย"
+
+#: templates/privacypolicy.html:70
+#, python-format
+msgid ""
+"We value your trust in providing us your Personal Information, thus we are "
+"striving to use commercially acceptable means of protecting it. But remember"
+" that no method of transmission over the internet, or method of electronic "
+"storage is 100%% secure and reliable, and we cannot guarantee its absolute "
+"security."
+msgstr ""
+"เราให้ความสำคัญกับความไว้วางใจของคุณในการให้ข้อมูลส่วนบุคคลของคุณแก่เรา "
+"ดังนั้นเราจึงพยายามใช้วิธีการปกป้องข้อมูลที่ยอมรับได้ในเชิงพาณิชย์ "
+"แต่อย่าลืมว่าไม่มีวิธีการส่งข้อมูลทางอินเทอร์เน็ตหรือวิธีการจัดเก็บข้อมูลอิเล็กทรอนิกส์ใดที่ปลอดภัยและเชื่อถือได้"
+" 100% และเราไม่สามารถรับประกันความปลอดภัยได้อย่างสมบูรณ์"
+
+#: templates/privacypolicy.html:71
+msgid "Links to Other Sites"
+msgstr "ลิงค์ไปยังเว็บไซต์อื่น"
+
+#: templates/privacypolicy.html:72
+msgid ""
+"This Service may contain links to other sites. If you click on a third-party"
+" link, you will be directed to that site. Note that these external sites are"
+" not operated by us. Therefore, we strongly advise you to review the Privacy"
+" Policy of these websites. we have no control over and assume no "
+"responsibility for the content, privacy policies, or practices of any third-"
+"party sites or services."
+msgstr ""
+"บริการนี้อาจมีลิงค์ไปยังเว็บไซต์อื่น หากคุณคลิกลิงก์ของบุคคลที่สาม "
+"คุณจะถูกนำไปยังไซต์นั้น โปรดทราบว่าไซต์ภายนอกเหล่านี้ไม่ได้ดำเนินการโดยเรา "
+"ดังนั้น เราขอแนะนำให้คุณตรวจสอบนโยบายความเป็นส่วนตัวของเว็บไซต์เหล่านี้ "
+"เราไม่สามารถควบคุมและไม่รับผิดชอบต่อเนื้อหา นโยบายความเป็นส่วนตัว "
+"หรือแนวปฏิบัติของเว็บไซต์หรือบริการของบุคคลที่สาม"
+
+#: templates/privacypolicy.html:73
+msgid "Children's Privacy"
+msgstr "ความเป็นส่วนตัวของเด็ก"
+
+#: templates/privacypolicy.html:74
+msgid ""
+"These Services do not address anyone under the age of 13. we do not "
+"knowingly collect personally identifiable information from children under "
+"13. In the case we discover that a child under 13 has provided us with "
+"personal information, we immediately delete this from our servers. If you "
+"are a parent or guardian and you are aware that your child has provided us "
+"with personal information, please contact us so that we will be able to do "
+"necessary actions."
+msgstr ""
+"บริการเหล่านี้ไม่ได้ระบุถึงผู้ใดก็ตามที่อายุต่ำกว่า 13 ปี "
+"เราไม่ได้เก็บรวบรวมข้อมูลส่วนบุคคลที่สามารถระบุตัวบุคคลได้จากเด็กอายุต่ำกว่า"
+" 13 ปีโดยเจตนา ในกรณีที่เราพบว่าเด็กอายุต่ำกว่า 13 "
+"ปีให้ข้อมูลส่วนบุคคลแก่เรา เราจะลบข้อมูลนี้ออกจากเซิร์ฟเวอร์ของเราทันที "
+"หากคุณเป็นพ่อแม่หรือผู้ปกครองและคุณทราบว่าบุตรหลานของคุณได้ให้ข้อมูลส่วนบุคคลแก่เรา"
+" โปรดติดต่อเราเพื่อให้เราสามารถดำเนินการที่จำเป็นได้"
+
+#: templates/privacypolicy.html:75
+msgid "Google Double-Click DART Cookie"
+msgstr "คุกกี้ DART ดับเบิลคลิกของ Google"
+
+#: templates/privacypolicy.html:76
+msgid ""
+"Google is one of a third-party vendor on our site. It also uses cookies, "
+"known as DART cookies, to serve ads to our site visitors based upon their "
+"visit to www.website.com and other sites on the internet. However, visitors "
+"may choose to decline the use of DART cookies by visiting the Google ad and "
+"content network Privacy Policy at the following URL – "
+msgstr ""
+"Google เป็นหนึ่งในผู้ให้บริการบุคคลที่สามบนเว็บไซต์ของเรา "
+"นอกจากนี้ยังใช้คุกกี้ที่เรียกว่าคุกกี้ DART "
+"เพื่อให้บริการโฆษณาแก่ผู้เยี่ยมชมเว็บไซต์ของเราตามการเยี่ยมชม "
+"www.website.com และเว็บไซต์อื่น ๆ บนอินเทอร์เน็ต อย่างไรก็ตาม "
+"ผู้เข้าชมสามารถเลือกที่จะปฏิเสธการใช้คุกกี้ DART โดยไปที่โฆษณา Google "
+"และนโยบายความเป็นส่วนตัวของเครือข่ายเนื้อหาที่ URL ต่อไปนี้ –"
+
+#: templates/privacypolicy.html:78
+msgid "Our Advertising Partners"
+msgstr "พันธมิตรโฆษณาของเรา"
+
+#: templates/privacypolicy.html:79
+msgid ""
+"Our Advertising Partners Some of advertisers on our site may use cookies and"
+" web beacons. Our advertising partners are listed below. Each of our "
+"advertising partners has their own Privacy Policy for their policies on user"
+" data. For easier access, we hyperlinked to their Privacy Policies below."
+msgstr ""
+"พันธมิตรการโฆษณาของเรา "
+"ผู้โฆษณาบางรายในเว็บไซต์ของเราอาจใช้คุกกี้และเว็บบีคอน "
+"พันธมิตรโฆษณาของเราแสดงอยู่ด้านล่าง "
+"พันธมิตรโฆษณาของเราแต่ละรายมีนโยบายความเป็นส่วนตัวสำหรับนโยบายเกี่ยวกับข้อมูลผู้ใช้"
+" เพื่อให้เข้าถึงได้ง่ายขึ้น "
+"เราได้เชื่อมโยงไปยังนโยบายความเป็นส่วนตัวด้านล่าง"
+
+#: templates/privacypolicy.html:82
+msgid "Changes to This Privacy Policy"
+msgstr "การเปลี่ยนแปลงนโยบายความเป็นส่วนตัวนี้"
+
+#: templates/privacypolicy.html:83
+msgid ""
+"We may update our Privacy Policy from time to time. Thus, you are advised to"
+" review this page periodically for any changes. We will notify you of any "
+"changes by posting the new Privacy Policy on this page."
+msgstr ""
+"เราอาจอัปเดตนโยบายความเป็นส่วนตัวเป็นครั้งคราว ดังนั้น "
+"คุณควรตรวจสอบหน้านี้เป็นระยะสำหรับการเปลี่ยนแปลงใดๆ "
+"เราจะแจ้งให้คุณทราบถึงการเปลี่ยนแปลงใด ๆ "
+"โดยการโพสต์นโยบายความเป็นส่วนตัวใหม่ในหน้านี้"
+
+#: templates/privacypolicy.html:85
+msgid "Advertising Partners Privacy Policies"
+msgstr "นโยบายความเป็นส่วนตัวของพันธมิตรการโฆษณา"
+
+#: templates/privacypolicy.html:86
+msgid ""
+"You may consult this list to find the Privacy Policy for each of the "
+"advertising partners of qload.info. Third-party ad servers or ad networks "
+"uses technologies like cookies, JavaScript, or Web Beacons that are used in "
+"their respective advertisements and links that appear on qload.info, which "
+"are sent directly to users' browser. They automatically receive your IP "
+"address when this occurs. These technologies are used to measure the "
+"effectiveness of their advertising campaigns and/or to personalize the "
+"advertising content that you see on websites that you visit. Note that "
+"qload.info has no access to or control over these cookies that are used by "
+"third-party advertisers."
+msgstr ""
+"คุณอาจศึกษารายการนี้เพื่อค้นหานโยบายความเป็นส่วนตัวสำหรับพันธมิตรโฆษณาแต่ละรายของ"
+" qload.info เซิร์ฟเวอร์โฆษณาบุคคลที่สามหรือเครือข่ายโฆษณาใช้เทคโนโลยี เช่น "
+"คุกกี้ JavaScript หรือเว็บบีคอนที่ใช้ในโฆษณาและลิงก์ที่เกี่ยวข้องซึ่งปรากฏบน"
+" qload.info ซึ่งส่งตรงไปยังเบราว์เซอร์ของผู้ใช้ พวกเขาจะได้รับที่อยู่ IP "
+"ของคุณโดยอัตโนมัติเมื่อสิ่งนี้เกิดขึ้น "
+"เทคโนโลยีเหล่านี้ใช้เพื่อวัดประสิทธิภาพของแคมเปญโฆษณาและ/หรือเพื่อปรับแต่งเนื้อหาโฆษณาที่คุณเห็นบนเว็บไซต์ที่คุณเยี่ยมชม"
+" โปรดทราบว่า qload.info "
+"ไม่มีสิทธิ์เข้าถึงหรือควบคุมคุกกี้เหล่านี้ที่ใช้โดยผู้โฆษณาบุคคลที่สาม"
+
+#: templates/privacypolicy.html:88
+msgid "Third Party Privacy Policies"
+msgstr "นโยบายความเป็นส่วนตัวของบุคคลที่สาม"
+
+#: templates/privacypolicy.html:89
+msgid ""
+"qload.info's Privacy Policy does not apply to other advertisers or websites."
+" Thus, we are advising you to consult the respective Privacy Policies of "
+"these third-party ad servers for more detailed information. It may include "
+"their practices and instructions about how to opt-out of certain options. "
+"You may find a complete list of these Privacy Policies and their links here:"
+" Privacy Policy Links. You can choose to disable cookies through your "
+"individual browser options. To know more detailed information about cookie "
+"management with specific web browsers, it can be found at the browsers' "
+"respective websites. What Are Cookies?"
+msgstr ""
+"นโยบายความเป็นส่วนตัวของ qload.info ใช้ไม่ได้กับผู้โฆษณาหรือเว็บไซต์อื่น "
+"ดังนั้น "
+"เราขอแนะนำให้คุณศึกษานโยบายความเป็นส่วนตัวที่เกี่ยวข้องของเซิร์ฟเวอร์โฆษณาบุคคลที่สามเหล่านี้สำหรับข้อมูลโดยละเอียดเพิ่มเติม"
+" อาจรวมถึงแนวทางปฏิบัติและคำแนะนำเกี่ยวกับวิธีการเลือกไม่รับตัวเลือกบางอย่าง"
+" คุณอาจพบรายการนโยบายความเป็นส่วนตัวฉบับสมบูรณ์และลิงก์ได้ที่นี่: "
+"ลิงก์นโยบายความเป็นส่วนตัว "
+"คุณสามารถเลือกที่จะปิดการใช้งานคุกกี้ผ่านตัวเลือกเบราว์เซอร์ของคุณ "
+"หากต้องการทราบข้อมูลโดยละเอียดเพิ่มเติมเกี่ยวกับการจัดการคุกกี้ด้วยเว็บเบราว์เซอร์เฉพาะ"
+" สามารถดูได้ที่เว็บไซต์ที่เกี่ยวข้องของเบราว์เซอร์ คุกกี้คืออะไร?"
+
+#: templates/privacypolicy.html:90
+msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+msgstr "สิทธิ์ความเป็นส่วนตัวของ CCPA (อย่าขายข้อมูลส่วนบุคคลของฉัน)"
+
+#: templates/privacypolicy.html:91
+msgid ""
+"Under the CCPA, among other rights, California consumers have the right to:"
+msgstr "ภายใต้ CCPA ผู้บริโภคในแคลิฟอร์เนียมีสิทธิ์ที่จะ:"
+
+#: templates/privacypolicy.html:92
+msgid ""
+"Request that a business that collects a consumer's personal data disclose "
+"the categories and specific pieces of personal data that a business has "
+"collected about consumers."
+msgstr ""
+"ขอให้ธุรกิจที่รวบรวมข้อมูลส่วนบุคคลของผู้บริโภคเปิดเผยหมวดหมู่และข้อมูลส่วนบุคคลเฉพาะที่ธุรกิจได้รวบรวมเกี่ยวกับผู้บริโภค"
+
+#: templates/privacypolicy.html:93
+msgid ""
+"Request that a business delete any personal data about the consumer that a "
+"business has collected."
+msgstr "ขอให้ธุรกิจลบข้อมูลส่วนบุคคลเกี่ยวกับผู้บริโภคที่ธุรกิจได้รวบรวมไว้"
+
+#: templates/privacypolicy.html:95
+msgid ""
+"Request that a business that sells a consumer's personal data, not sell the "
+"consumer's personal data."
+msgstr ""
+"ขอให้ธุรกิจที่ขายข้อมูลส่วนบุคคลของผู้บริโภคไม่ขายข้อมูลส่วนบุคคลของผู้บริโภค"
+
+#: templates/privacypolicy.html:96
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us"
+msgstr ""
+"หากคุณส่งคำขอ เรามีเวลาหนึ่งเดือนในการตอบกลับคุณ หากคุณต้องการใช้สิทธิใดๆ "
+"เหล่านี้ โปรดติดต่อเรา"
+
+#: templates/privacypolicy.html:97
+msgid "GDPR Data Protection Rights"
+msgstr "สิทธิในการปกป้องข้อมูลของ GDPR"
+
+#: templates/privacypolicy.html:98
+msgid ""
+"We would like to make sure you are fully aware of all of your data "
+"protection rights. Every user is entitled to the following:"
+msgstr ""
+"เราต้องการให้แน่ใจว่าคุณตระหนักดีถึงสิทธิ์ในการปกป้องข้อมูลทั้งหมดของคุณ "
+"ผู้ใช้ทุกคนมีสิทธิ์ดังต่อไปนี้:"
+
+#: templates/privacypolicy.html:99
+msgid ""
+"The right to access – You have the right to request copies of your personal "
+"data. We may charge you a small fee for this service."
+msgstr ""
+"สิทธิ์ในการเข้าถึง – คุณมีสิทธิ์ขอสำเนาข้อมูลส่วนบุคคลของคุณ "
+"เราอาจเรียกเก็บค่าธรรมเนียมเล็กน้อยสำหรับบริการนี้"
+
+#: templates/privacypolicy.html:100
+msgid ""
+"The right to rectification – You have the right to request that we correct "
+"any information you believe is inaccurate. You also have the right to "
+"request that we complete the information you believe is incomplete."
+msgstr ""
+"สิทธิ์ในการแก้ไข – คุณมีสิทธิ์ที่จะขอให้เราแก้ไขข้อมูลใดๆ "
+"ที่คุณเชื่อว่าไม่ถูกต้อง "
+"คุณมีสิทธิ์ขอให้เรากรอกข้อมูลที่คุณเชื่อว่าไม่สมบูรณ์"
+
+#: templates/privacypolicy.html:101
+msgid ""
+"he right to erasure – You have the right to request that we erase your "
+"personal data, under certain conditions. The right to restrict processing – "
+"You have the right to request that we restrict the processing of your "
+"personal data, under certain conditions."
+msgstr ""
+"เขามีสิทธิที่จะลบ – คุณมีสิทธิ์ที่จะขอให้เราลบข้อมูลส่วนบุคคลของคุณ "
+"ภายใต้เงื่อนไขบางประการ สิทธิ์ในการจำกัดการประมวลผล – "
+"คุณมีสิทธิ์ร้องขอให้เราจำกัดการประมวลผลข้อมูลส่วนบุคคลของคุณ "
+"ภายใต้เงื่อนไขบางประการ"
+
+#: templates/privacypolicy.html:102
+msgid ""
+"The right to object to processing – You have the right to object to our "
+"processing of your personal data, under certain conditions."
+msgstr ""
+"สิทธิ์ในการคัดค้านการประมวลผล – "
+"คุณมีสิทธิ์คัดค้านการประมวลผลข้อมูลส่วนบุคคลของคุณภายใต้เงื่อนไขบางประการ"
+
+#: templates/privacypolicy.html:103
+msgid ""
+"The right to data portability – You have the right to request that we "
+"transfer the data that we have collected to another organization, or "
+"directly to you, under certain conditions."
+msgstr ""
+"สิทธิ์ในการเคลื่อนย้ายข้อมูล – "
+"คุณมีสิทธิ์ที่จะขอให้เราถ่ายโอนข้อมูลที่เรารวบรวมไปยังองค์กรอื่นหรือส่งตรงถึงคุณภายใต้เงื่อนไขบางประการ"
+
+#: templates/privacypolicy.html:104
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us."
+msgstr ""
+"หากคุณส่งคำขอ เรามีเวลาหนึ่งเดือนในการตอบกลับคุณ "
+"หากคุณต้องการใช้สิทธิ์เหล่านี้ โปรดติดต่อเรา"
+
+#: templates/tandc.html:3
+msgid "Terms of Services - Tiksss.com"
+msgstr "ข้อกำหนดในการให้บริการ - Tiksss.com"
+
+#: templates/tandc.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Terms and Services. If you have any question regarding this than kindly let "
+"us know. Thanks."
+msgstr ""
+"ในหน้านี้ "
+"เราได้เพิ่มข้อมูลที่เป็นประโยชน์เกี่ยวกับข้อกำหนดในการให้บริการของเว็บไซต์ "
+"Tiksss.com ของเรา หากคุณมีคำถามใด ๆ เกี่ยวกับเรื่องนี้ โปรดแจ้งให้เราทราบ "
+"ขอบคุณ"
+
+#: templates/tandc.html:11
+msgid "Welcome to"
+msgstr "ยินดีต้อนรับสู่"
+
+#: templates/tandc.html:12
+msgid ""
+"These terms and conditions outline the rules and regulations for the use of "
+"Tiksss.com Website, located at"
+msgstr ""
+"ข้อกำหนดและเงื่อนไขเหล่านี้ร่างกฎและข้อบังคับสำหรับการใช้งานเว็บไซต์ "
+"Tiksss.com ซึ่งอยู่ที่"
+
+#: templates/tandc.html:13
+msgid ""
+"By accessing this website we assume you accept these terms and conditions. "
+"Do not continue to use Tiksss.com if you do not agree to take all of the "
+"terms and conditions stated on this page."
+msgstr ""
+"โดยการเข้าถึงเว็บไซต์นี้ เราถือว่าคุณยอมรับข้อกำหนดและเงื่อนไขเหล่านี้ "
+"อย่าใช้ Tiksss.com "
+"ต่อไปหากคุณไม่ยอมรับข้อกำหนดและเงื่อนไขทั้งหมดที่ระบุไว้ในหน้านี้"
+
+#: templates/tandc.html:14
+msgid ""
+"The following terminology applies to these Terms and Conditions, Privacy "
+"Statement and Discla Notice and all Agreements: \"Client\", \"You\" and "
+"\"Your\" refers to you, the person log on this website compliant to the "
+"Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", "
+"\"Our\" and \"Us\", refers to Company. \"Party\", \"Parties\", or \"Us\", "
+"refers to both the Client and ourselves. All terms refer to the of "
+"acceptance and consideration of payment necessary to undertake the process "
+"of our assistance to the Clien the most appropriate manner for the express "
+"purpose of meeting the Client’s needs in respect of provision of Company’s "
+"stated services, in accordance with and subject to, prevailing law of "
+"Netherlands. Any use of above terminology or other words in the singular, "
+"plural, capitalization and/or he/she or they, are take interchangeable and "
+"therefore as referring to same."
+msgstr ""
+"คำศัพท์ต่อไปนี้ใช้กับข้อกำหนดและเงื่อนไข คำชี้แจงสิทธิ์ส่วนบุคคล และประกาศ "
+"Discla และข้อตกลงทั้งหมด: &quot;ลูกค้า&quot;, &quot;คุณ&quot; และ "
+"&quot;ของคุณ&quot; หมายถึงคุณ "
+"บุคคลที่เข้าสู่ระบบเว็บไซต์นี้เป็นไปตามข้อกำหนดและเงื่อนไขของบริษัท "
+"&quot;บริษัท&quot; &quot;ตัวเรา&quot; &quot;เรา&quot; &quot;ของเรา&quot; และ"
+" &quot;เรา&quot; หมายถึงบริษัท &quot;คู่สัญญา&quot; &quot;คู่สัญญา&quot; "
+"หรือ &quot;เรา&quot; หมายถึงทั้งลูกค้าและตัวเราเอง "
+"ข้อกำหนดทั้งหมดอ้างถึงการยอมรับและการพิจารณาการชำระเงินที่จำเป็นเพื่อดำเนินการตามขั้นตอนการช่วยเหลือลูกค้าในลักษณะที่เหมาะสมที่สุดเพื่อวัตถุประสงค์ที่ชัดเจนในการตอบสนองความต้องการของลูกค้าในส่วนที่เกี่ยวกับการจัดหาบริการตามที่ระบุไว้ของบริษัท"
+" ตามและอยู่ภายใต้ , กฎหมายที่ใช้บังคับของเนเธอร์แลนด์. "
+"การใช้คำศัพท์ข้างต้นหรือคำอื่นๆ ในรูปเอกพจน์ พหูพจน์ "
+"การใช้อักษรตัวพิมพ์ใหญ่และ/หรือเขา/เธอหรือพวกเขา "
+"สามารถใช้แทนกันได้และดังนั้นจึงหมายถึงสิ่งเดียวกัน"
+
+#: templates/tandc.html:16
+msgid ""
+"We employ the use of cookies. By accessing Tiksss.com, you agreed to use "
+"cookies in agreement  the Tiksss.com Privacy Policy"
+msgstr ""
+"เราใช้คุกกี้ โดยการเข้าถึง Tiksss.com "
+"คุณตกลงที่จะใช้คุกกี้ตามข้อตกลงนโยบายความเป็นส่วนตัว Tiksss.com"
+
+#: templates/tandc.html:17
+msgid ""
+"Most interactive websites use cookies to let us retrieve the user’s details "
+"for each visit. Coo are used by our website to enable the functionality of "
+"certain areas to make it easier for people visiting website. Some of our "
+"affiliate/advertising partners may also use cookies"
+msgstr ""
+"เว็บไซต์เชิงโต้ตอบส่วนใหญ่ใช้คุกกี้เพื่อให้เราดึงรายละเอียดของผู้ใช้สำหรับการเยี่ยมชมแต่ละครั้ง"
+" เว็บไซต์ของเราใช้ Coo "
+"เพื่อเปิดใช้งานการทำงานของบางพื้นที่เพื่อให้ผู้เข้าชมเว็บไซต์ง่ายขึ้น "
+"บริษัทในเครือ/พันธมิตรโฆษณาบางรายอาจใช้คุกกี้"
+
+#: templates/tandc.html:18
+msgid "License"
+msgstr "ใบอนุญาต"
+
+#: templates/tandc.html:19
+msgid ""
+"Unless otherwise stated, Tiksss.com and/or its licensors own the "
+"intellectual property rights all material on Tiksss.com. All intellectual "
+"property rights are reserved. You may access this from Tiksss for your own "
+"personal use subjected to restrictions set in these terms and conditions"
+msgstr ""
+"เว้นแต่จะระบุไว้เป็นอย่างอื่น Tiksss.com "
+"และ/หรือผู้อนุญาตเป็นเจ้าของสิทธิ์ในทรัพย์สินทางปัญญาเนื้อหาทั้งหมดบน "
+"Tiksss.com สงวนลิขสิทธิ์ทรัพย์สินทางปัญญาทั้งหมด คุณสามารถเข้าถึงสิ่งนี้จาก "
+"Tiksss "
+"เพื่อการใช้งานส่วนตัวของคุณเองภายใต้ข้อจำกัดที่กำหนดไว้ในข้อกำหนดและเงื่อนไขเหล่านี้"
+
+#: templates/tandc.html:20
+msgid "You must not"
+msgstr "คุณต้องไม่"
+
+#: templates/tandc.html:23
+msgid "Republish material from Tiksss.com"
+msgstr "เผยแพร่เนื้อหาจาก Tiksss.com"
+
+#: templates/tandc.html:26
+msgid "Sell, rent or sub-license material from Tiksss.com"
+msgstr "ขาย เช่า หรือออกใบอนุญาตจาก Tiksss.com"
+
+#: templates/tandc.html:29
+msgid "Reproduce, duplicate or copy material from Tiksss.com"
+msgstr "ทำซ้ำ ทำซ้ำ หรือคัดลอกเนื้อหาจาก Tiksss.com"
+
+#: templates/tandc.html:32
+msgid "Redistribute content from Tiksss.com"
+msgstr "แจกจ่ายเนื้อหาจาก Tiksss.com"
+
+#: templates/tandc.html:35
+msgid "This Agreement shall begin on the date hereof."
+msgstr "ข้อตกลงนี้จะเริ่มในวันที่ที่นี้"
+
+#: templates/tandc.html:36
+msgid ""
+"Parts of this website offer an opportunity for users to post and exchange "
+"opinions and informa in certain areas of the website. Tiksss.com does not "
+"filter, edit, publish or review Comments prior to t presence on the website."
+" Comments do not reflect the views and opinions of Tiksss.com, its agents an"
+" affiliates. Comments reflect the views and opinions of the person who post "
+"their views and opinions. To extent permitted by applicable laws, Tiksss.com"
+" shall not be liable for the Comments or for any liabil damages or expenses "
+"caused and/or suffered as a result of any use of and/or posting of and/or "
+"appearance of Comments on this website."
+msgstr ""
+"บางส่วนของเว็บไซต์นี้เปิดโอกาสให้ผู้ใช้โพสต์และแลกเปลี่ยนความคิดเห็นและข้อมูลในบางพื้นที่ของเว็บไซต์"
+" Tiksss.com ไม่ได้กรอง แก้ไข เผยแพร่ "
+"หรือตรวจสอบความคิดเห็นก่อนที่จะแสดงบนเว็บไซต์ "
+"ความคิดเห็นไม่ได้สะท้อนถึงมุมมองและความคิดเห็นของ Tiksss.com "
+"ตัวแทนของบริษัทในเครือ "
+"ความคิดเห็นสะท้อนความคิดเห็นและความคิดเห็นของบุคคลที่โพสต์ความคิดเห็นและความคิดเห็น"
+" ในขอบเขตที่อนุญาตโดยกฎหมายที่ใช้บังคับ Tiksss.com "
+"จะไม่รับผิดชอบต่อความคิดเห็นหรือความเสียหายหรือค่าใช้จ่ายที่รับผิดชอบใด ๆ "
+"ที่เกิดขึ้นและ / หรือได้รับความเดือดร้อนอันเป็นผลมาจากการใช้และ / "
+"หรือการโพสต์และ / หรือการแสดงความเห็นในเว็บไซต์นี้ ."
+
+#: templates/tandc.html:37
+msgid ""
+"Tiksss.com reserves the right to monitor all Comments and to remove any "
+"Comments which ca considered inappropriate, offensive or causes breach of "
+"these Terms and Conditions."
+msgstr ""
+"Tiksss.com ขอสงวนสิทธิ์ในการตรวจสอบความคิดเห็นทั้งหมดและเพื่อลบความคิดเห็นใด"
+" ๆ ที่อาจถือว่าไม่เหมาะสม "
+"เป็นที่น่ารังเกียจหรือทำให้เกิดการละเมิดข้อกำหนดและเงื่อนไขเหล่านี้"
+
+#: templates/tandc.html:38
+msgid "You warrant and represent that:"
+msgstr "คุณรับประกันและรับรองว่า:"
+
+#: templates/tandc.html:41
+msgid ""
+"You are entitled to post the Comments on our website and have all necessary "
+"licenses and consents to do so;"
+msgstr ""
+"คุณมีสิทธิ์โพสต์ความคิดเห็นบนเว็บไซต์ของเราและมีสิทธิ์อนุญาตที่จำเป็นทั้งหมดและยินยอมให้ทำเช่นนั้น"
+
+#: templates/tandc.html:44
+msgid ""
+"The Comments do not invade any intellectual property right, including "
+"without limitation copyright, patent or trademark of any third party;"
+msgstr ""
+"ความคิดเห็นไม่ละเมิดสิทธิ์ในทรัพย์สินทางปัญญา "
+"ซึ่งรวมถึงแต่ไม่จำกัดเพียงลิขสิทธิ์ สิทธิบัตร "
+"หรือเครื่องหมายการค้าของบุคคลที่สาม"
+
+#: templates/tandc.html:47
+msgid ""
+"The Comments do not contain any defamatory, libelous, offensive, indecent or"
+" otherwise unlawful material which is an invasion of privacy"
+msgstr ""
+"ความคิดเห็นไม่มีเนื้อหาที่ทำให้เสื่อมเสียชื่อเสียง ใส่ร้าย ล่วงละเมิด "
+"อนาจารหรือผิดกฎหมายซึ่งเป็นการบุกรุกความเป็นส่วนตัว"
+
+#: templates/tandc.html:50
+msgid ""
+"The Comments will not be used to solicit or promote business or custom or "
+"present commercial activities or unlawful activity."
+msgstr ""
+"ความคิดเห็นจะไม่ถูกนำมาใช้เพื่อเรียกร้องหรือส่งเสริมธุรกิจหรือประเพณีหรือนำเสนอกิจกรรมเชิงพาณิชย์หรือกิจกรรมที่ผิดกฎหมาย"
+
+#: templates/tandc.html:53
+msgid ""
+"You hereby grant Tiksss.com a non-exclusive license to use, reproduce, edit "
+"and authorize others to use, reproduce and edit any of your Comments in any "
+"and all forms, formats or media."
+msgstr ""
+"คุณให้สิทธิ์ Tiksss.com ในการใช้งาน ทำซ้ำ แก้ไข และอนุญาตให้ผู้อื่นใช้ ทำซ้ำ"
+" และแก้ไขความคิดเห็นของคุณในรูปแบบ รูปแบบ หรือสื่อใดๆ และทั้งหมด"
+
+#: templates/tandc.html:54
+msgid "Hyper linking to our Content"
+msgstr "ไฮเปอร์ลิงก์ไปยังเนื้อหาของเรา"
+
+#: templates/tandc.html:55
+msgid ""
+"The following organizations may link to our Website without prior written "
+"approval"
+msgstr ""
+"องค์กรต่อไปนี้อาจเชื่อมโยงไปยังเว็บไซต์ของเราโดยไม่ได้รับการอนุมัติเป็นลายลักษณ์อักษรล่วงหน้า"
+
+#: templates/tandc.html:58
+msgid "Government agencies"
+msgstr "เจ้าหน้าที่รัฐบาล"
+
+#: templates/tandc.html:61
+msgid "Search engines"
+msgstr "เครื่องมือค้นหา"
+
+#: templates/tandc.html:64
+msgid "News organizations"
+msgstr "องค์กรข่าว"
+
+#: templates/tandc.html:67
+msgid ""
+"Online directory distributors may link to our Website in the same manner as "
+"they hyperlink to the Websites of other listed businesses; and"
+msgstr ""
+"ผู้จัดจำหน่ายไดเรกทอรีออนไลน์อาจเชื่อมโยงไปยังเว็บไซต์ของเราในลักษณะเดียวกับที่พวกเขาเชื่อมโยงไปยังเว็บไซต์ของธุรกิจอื่น"
+" ๆ ที่อยู่ในรายการ และ"
+
+#: templates/tandc.html:70
+msgid ""
+"System wide Accredited Businesses except soliciting non-profit "
+"organizations, charity shopping malls, and charity fundraising groups which "
+"may not hyperlink to our Web site."
+msgstr ""
+"ธุรกิจที่ได้รับการรับรองทั้งระบบ ยกเว้นการชักชวนองค์กรไม่แสวงหาผลกำไร "
+"ห้างสรรพสินค้าเพื่อการกุศล "
+"และกลุ่มการระดมทุนเพื่อการกุศลซึ่งอาจไม่มีไฮเปอร์ลิงก์ไปยังเว็บไซต์ของเรา"
+
+#: templates/tandc.html:73
+msgid ""
+"These organizations may link to our home page, to publications or to other "
+"Website information so long as the link: (a) is not in any way deceptive; "
+"(b) does not falsely imply sponsorship, endorsement or approval of the "
+"linking party and its products and/or services; and (c) fits within the "
+"context of the linking party’s site."
+msgstr ""
+"องค์กรเหล่านี้อาจเชื่อมโยงไปยังโฮมเพจของเรา สิ่งพิมพ์ หรือข้อมูลเว็บไซต์อื่น"
+" ๆ ตราบเท่าที่ลิงก์: (a) ไม่หลอกลวงในทางใดทางหนึ่ง; (b) "
+"ไม่ได้กล่าวเป็นนัยถึงการสนับสนุน การรับรอง "
+"หรือการอนุมัติของฝ่ายที่เชื่อมโยงและผลิตภัณฑ์และ/หรือบริการของฝ่ายที่เชื่อมโยง"
+" และ (c) เหมาะสมกับบริบทของเว็บไซต์ของฝ่ายที่เชื่อมโยง"
+
+#: templates/tandc.html:74
+msgid ""
+"We may consider and approve other link requests from the following types of "
+"organizations"
+msgstr "เราอาจพิจารณาและอนุมัติคำขอเชื่อมโยงอื่นๆ จากองค์กรประเภทต่อไปนี้"
+
+#: templates/tandc.html:77
+msgid "commonly-known consumer and/or business information sources"
+msgstr "แหล่งข้อมูลผู้บริโภคและ/หรือธุรกิจที่เป็นที่รู้จักทั่วไป"
+
+#: templates/tandc.html:80
+msgid "dot.com community sites"
+msgstr "เว็บไซต์ชุมชน dot.comcom"
+
+#: templates/tandc.html:83
+msgid "associations or other groups representing charities"
+msgstr "สมาคมหรือกลุ่มอื่น ๆ ที่เป็นตัวแทนขององค์กรการกุศล"
+
+#: templates/tandc.html:86
+msgid "online directory distributors"
+msgstr "ตัวแทนจำหน่ายไดเร็กทอรีออนไลน์"
+
+#: templates/tandc.html:89
+msgid "internet portals"
+msgstr "พอร์ทัลอินเทอร์เน็ต"
+
+#: templates/tandc.html:92
+msgid "accounting, law and consulting firms; and"
+msgstr "สำนักงานบัญชี กฎหมาย และที่ปรึกษา และ"
+
+#: templates/tandc.html:95
+msgid "Educational institutions and trade associations."
+msgstr "สถาบันการศึกษาและสมาคมการค้า"
+
+#: templates/tandc.html:98
+msgid ""
+"We will approve link requests from these organizations if we decide that: "
+"(a) the link would not make us look unfavorably to ourselves or to our "
+"accredited businesses; (b) the organization does not have any negative "
+"records with us; (c) the benefit to us from the visibility of the hyperlink "
+"compensates the absence of Tiksss.com; and (d) the link is in the context of"
+" general resource information."
+msgstr ""
+"เราจะอนุมัติคำขอเชื่อมโยงจากองค์กรเหล่านี้หากเราตัดสินใจว่า: (ก) "
+"ลิงก์จะไม่ทำให้เราดูไม่ดีต่อตนเองหรือธุรกิจที่ได้รับการรับรองของเรา (b) "
+"องค์กรไม่มีบันทึกเชิงลบใด ๆ กับเรา (c) "
+"ประโยชน์ที่เราจะได้รับจากการมองเห็นของไฮเปอร์ลิงก์จะชดเชยการไม่มี "
+"Tiksss.com; และ (d) ลิงก์อยู่ในบริบทของข้อมูลทรัพยากรทั่วไป"
+
+#: templates/tandc.html:99
+msgid ""
+"These organizations may link to our home page so long as the link: (a) is "
+"not in any way deceptive; (b) does not falsely imply sponsorship, "
+"endorsement or approval of the linking party and its products or services; "
+"and (c) fits within the context of the linking party’s site."
+msgstr ""
+"องค์กรเหล่านี้อาจเชื่อมโยงไปยังโฮมเพจของเราตราบเท่าที่ลิงก์: (a) "
+"ไม่ได้หลอกลวงในทางใดทางหนึ่ง; (b) ไม่ได้กล่าวเป็นนัยถึงการสนับสนุน การรับรอง"
+" หรือการอนุมัติของฝ่ายที่เชื่อมโยงและผลิตภัณฑ์หรือบริการของฝ่ายที่เชื่อมโยง "
+"และ (c) เหมาะสมกับบริบทของเว็บไซต์ของฝ่ายที่เชื่อมโยง"
+
+#: templates/tandc.html:100
+msgid ""
+"If you are one of the organizations listed in paragraph 2 above and are "
+"interested in linking to our website, you must inform us by sending an "
+"e-mail to Tiksss.com. Please include your name, your organization name, "
+"contact information as well as the URL of your site, a list of any URLs from"
+" which you intend to link to our Website, and a list of the URLs on our site"
+" to which you would like to link. Wait 2-3 weeks for a response."
+msgstr ""
+"หากคุณเป็นหนึ่งในองค์กรที่ระบุไว้ในวรรค 2 "
+"ด้านบนและสนใจที่จะเชื่อมโยงไปยังเว็บไซต์ของเรา "
+"คุณต้องแจ้งให้เราทราบโดยส่งอีเมลไปที่ Tiksss.com โปรดระบุชื่อของคุณ "
+"ชื่อองค์กรของคุณ ข้อมูลติดต่อ ตลอดจน URL ของไซต์ของคุณ รายการ URL ใด ๆ "
+"ที่คุณตั้งใจจะเชื่อมโยงไปยังเว็บไซต์ของเรา และรายการ URL "
+"บนไซต์ของเราที่คุณต้องการ ลิงค์ รอ 2-3 สัปดาห์สำหรับการตอบกลับ"
+
+#: templates/tandc.html:102
+msgid "Approved organizations may hyperlink to our Website as follows:"
+msgstr ""
+"องค์กรที่ได้รับการอนุมัติอาจไฮเปอร์ลิงก์ไปยังเว็บไซต์ของเราดังต่อไปนี้:"
+
+#: templates/tandc.html:105
+msgid "By use of our corporate name; or"
+msgstr "โดยใช้ชื่อบริษัทของเรา หรือ"
+
+#: templates/tandc.html:108
+msgid "By use of the uniform resource locator being linked to; or"
+msgstr "โดยการใช้ตัวระบุตำแหน่งทรัพยากรแบบเดียวกันที่เชื่อมโยงกับ; หรือ"
+
+#: templates/tandc.html:111
+msgid ""
+"By use of any other description of our Website being linked to that makes "
+"sense within the context and format of content on the linking party’s site."
+msgstr ""
+"โดยการใช้คำอธิบายอื่นใดของเว็บไซต์ของเราที่เชื่อมโยงกับเนื้อหาที่เหมาะสมภายในบริบทและรูปแบบของเนื้อหาบนเว็บไซต์ของฝ่ายที่เชื่อมโยง"
+
+#: templates/tandc.html:114
+msgid ""
+"No use of Tiksss.com logo or other artwork will be allowed for linking "
+"absent a trademark license agreement."
+msgstr ""
+"ไม่อนุญาตให้ใช้โลโก้ Tiksss.com หรืองานศิลปะอื่น ๆ "
+"สำหรับการเชื่อมโยงหากไม่มีข้อตกลงใบอนุญาตเครื่องหมายการค้า"
+
+#: templates/tandc.html:115
+msgid "iFrames"
+msgstr "iFrames"
+
+#: templates/tandc.html:116
+msgid ""
+"Without prior approval and written permission, you may not create frames "
+"around our Webpages that alter in any way the visual presentation or "
+"appearance of our Website"
+msgstr ""
+"โดยไม่ได้รับอนุญาตล่วงหน้าและได้รับอนุญาตเป็นลายลักษณ์อักษร "
+"คุณไม่สามารถสร้างเฟรมรอบ ๆ "
+"หน้าเว็บของเราที่เปลี่ยนแปลงการนำเสนอด้วยภาพหรือลักษณะที่ปรากฏของเว็บไซต์ของเราในทางใดทางหนึ่ง"
+
+#: templates/tandc.html:117
+msgid "Content Liability"
+msgstr "ความรับผิดในเนื้อหา"
+
+#: templates/tandc.html:118
+msgid ""
+"We shall not be hold responsible for any content that appears on your "
+"Website. You agree to protect and defend us against all claims that is "
+"rising on your Website. No link(s) should appear on any Website that may be "
+"interpreted as libelous, obscene or criminal, or which infringes, otherwise "
+"violates, or advocates the infringement or other violation of, any third "
+"party rights"
+msgstr ""
+"เราจะไม่รับผิดชอบต่อเนื้อหาใด ๆ ที่ปรากฏบนเว็บไซต์ของคุณ "
+"คุณตกลงที่จะปกป้องและปกป้องเราจากการเรียกร้องทั้งหมดที่เกิดขึ้นบนเว็บไซต์ของคุณ"
+" ลิงก์ไม่ควรปรากฏบนเว็บไซต์ใด ๆ ที่อาจตีความได้ว่าเป็นการหมิ่นประมาท "
+"ลามกอนาจารหรือทางอาญา หรือที่ละเมิด ละเมิด "
+"หรือสนับสนุนการละเมิดหรือการละเมิดสิทธิของบุคคลที่สาม"
+
+#: templates/tandc.html:119
+msgid "Your Privacy"
+msgstr "ความเป็นส่วนตัวของคุณ"
+
+#: templates/tandc.html:120
+msgid "Please read Privacy Policy"
+msgstr "โปรดอ่านนโยบายความเป็นส่วนตัว"
+
+#: templates/tandc.html:121
+msgid "Reservation of Rights"
+msgstr "สงวนสิทธิ์"
+
+#: templates/tandc.html:122
+msgid ""
+"We reserve the right to request that you remove all links or any particular "
+"link to our Website. You approve to immediately remove all links to our "
+"Website upon request. We also reserve the right to amen these terms and "
+"conditions and it’s linking policy at any time. By continuously linking to "
+"our Website, you agree to be bound to and follow these linking terms and "
+"conditions"
+msgstr ""
+"เราขอสงวนสิทธิ์ในการขอให้คุณลบลิงค์ทั้งหมดหรือลิงค์ใด ๆ "
+"ที่มายังเว็บไซต์ของเรา "
+"คุณอนุมัติให้ลบลิงก์ทั้งหมดไปยังเว็บไซต์ของเราทันทีเมื่อมีการร้องขอ "
+"เราขอสงวนสิทธิ์ในการแก้ไขข้อกำหนดและเงื่อนไขเหล่านี้และเป็นนโยบายที่เชื่อมโยงได้ตลอดเวลา"
+" โดยการเชื่อมโยงอย่างต่อเนื่องกับเว็บไซต์ของเรา "
+"คุณตกลงที่จะผูกพันและปฏิบัติตามข้อกำหนดและเงื่อนไขการเชื่อมโยงเหล่านี้"
+
+#: templates/tandc.html:123
+msgid "Removal of links from our website"
+msgstr "การลบลิงค์ออกจากเว็บไซต์ของเรา"
+
+#: templates/tandc.html:124
+msgid ""
+"If you find any link on our Website that is offensive for any reason, you "
+"are free to contact and inform us any moment. We will consider requests to "
+"remove links but we are not obligated to or so or to respond to you directly"
+msgstr ""
+"หากคุณพบลิงก์ใด ๆ บนเว็บไซต์ของเราที่ไม่เหมาะสมไม่ว่าด้วยเหตุผลใดก็ตาม "
+"คุณสามารถติดต่อและแจ้งให้เราทราบได้ทุกเมื่อ เราจะพิจารณาคำขอให้ลบลิงก์ "
+"แต่เราไม่ผูกพันหรือตอบกลับคุณโดยตรง"
+
+#: templates/tandc.html:125
+msgid ""
+"We do not ensure that the information on this website is correct, we do not "
+"warrant its completeness or accuracy; nor do we promise to ensure that the "
+"website remains available or that the material on the website is kept up to "
+"date"
+msgstr ""
+"เราไม่รับรองว่าข้อมูลบนเว็บไซต์นี้ถูกต้อง "
+"เราไม่รับประกันความสมบูรณ์หรือความถูกต้อง "
+"และเราสัญญาว่าจะไม่รับประกันว่าเว็บไซต์จะยังใช้ได้อยู่หรือเนื้อหาบนเว็บไซต์เป็นปัจจุบันอยู่เสมอ"
+
+#: templates/tandc.html:126
+msgid "Disclaimer"
+msgstr "ข้อจำกัดความรับผิดชอบ"
+
+#: templates/tandc.html:127
+msgid ""
+"To the maximum extent permitted by applicable law, we exclude all "
+"representations, warranties and conditions relating to our website and the "
+"use of this website. Nothing in this disclaimer will"
+msgstr ""
+"ในขอบเขตสูงสุดที่กฎหมายที่ใช้บังคับอนุญาต เราไม่รวมการรับรอง การรับประกัน "
+"และเงื่อนไขทั้งหมดที่เกี่ยวข้องกับเว็บไซต์ของเราและการใช้เว็บไซต์นี้ "
+"ไม่มีอะไรในข้อจำกัดความรับผิดชอบนี้จะ"
+
+#: templates/tandc.html:130
+msgid "limit or exclude our or your liability for death or personal injury;"
+msgstr ""
+"จำกัดหรือยกเว้นความรับผิดของเราหรือของคุณสำหรับการเสียชีวิตหรือการบาดเจ็บส่วนบุคคล"
+
+#: templates/tandc.html:133
+msgid ""
+"limit or exclude our or your liability for fraud or fraudulent "
+"misrepresentation;"
+msgstr ""
+"จำกัดหรือยกเว้นความรับผิดของเราหรือของคุณสำหรับการฉ้อโกงหรือการบิดเบือนความจริงฉ้อฉล"
+
+#: templates/tandc.html:136
+msgid ""
+"limit any of our or your liabilities in any way that is not permitted under "
+"applicable law; or"
+msgstr ""
+"จำกัดความรับผิดใด ๆ "
+"ของเราหรือของคุณในลักษณะที่ไม่ได้รับอนุญาตภายใต้กฎหมายที่บังคับใช้ หรือ"
+
+#: templates/tandc.html:139
+msgid ""
+"exclude any of our or your liabilities that may not be excluded under "
+"applicable law."
+msgstr ""
+"ไม่รวมความรับผิดใด ๆ "
+"ของเราหรือของคุณที่อาจไม่ได้รับการยกเว้นภายใต้กฎหมายที่บังคับใช้"
+
+#: templates/tandc.html:142
+msgid ""
+"The limitations and prohibitions of liability set in this Section and "
+"elsewhere in this disclaimer: (a) are subject to the preceding paragraph; "
+"and (b) govern all liabilities arising under the disclaimer, including "
+"liabilities arising in contract, in tort and for breach of statutory duty."
+msgstr ""
+"ข้อจำกัดและข้อห้ามของความรับผิดที่กำหนดไว้ในส่วนนี้และที่อื่น ๆ "
+"ในข้อจำกัดความรับผิดชอบนี้: (a) อยู่ภายใต้วรรคก่อนหน้า; และ (b) "
+"ควบคุมความรับผิดทั้งหมดที่เกิดขึ้นภายใต้ข้อจำกัดความรับผิดชอบ "
+"รวมถึงความรับผิดที่เกิดขึ้นในสัญญา การละเมิด และการละเมิดหน้าที่ตามกฎหมาย"
+
+#: templates/tandc.html:143
+msgid ""
+"As long as the website and the information and services on the website are "
+"provided free of charge, we will not be liable for any loss or damage of any"
+" nature."
+msgstr ""
+"ตราบใดที่เว็บไซต์และข้อมูลและบริการบนเว็บไซต์มีให้ฟรี "
+"เราจะไม่รับผิดชอบต่อความสูญเสียหรือความเสียหายใดๆ"
+
+#: templates/without.html:13
+msgid "Video Without Watermark"
+msgstr "วิดีโอไม่มีลายน้ำ"
+
+#: templates/without.html:29
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำออนไลน์ฟรี:"
+
+#: templates/without.html:30
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำหรือไม่มีลายน้ำ "
+"วิธีนี้เป็นวิธีพิเศษในการดาวน์โหลดวิดีโอโดยไม่มีลายน้ำในคุณภาพดั้งเดิม "
+"เราทำให้เครื่องมือนี้ง่ายมากและทำงานได้อย่างราบรื่นบน windows, Mac OS, Ipad,"
+" อุปกรณ์ Android โดยเฉพาะอย่างยิ่งสำหรับผู้ใช้พีซี "
+"พวกเขาไม่จำเป็นต้องติดตั้งซอฟต์แวร์หรือแอพเพิ่มเติมใด ๆ "
+"และนี่เป็นความสามารถพิเศษเพียงอย่างเดียวของ TikTok "
+"ที่ไม่มีเครื่องมือดาวน์โหลดวิดีโอลายน้ำ ไปที่"
+
+#: templates/without.html:30
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"และคุณจะเห็นเมนูแบบเลื่อนลงคลิกที่มันและเลือก &quot;ไม่มีลายน้ำ&quot; "
+"ในหน้าถัดไปเพียงวางลิงก์แล้วคลิก &quot;ปุ่มดาวน์โหลด&quot; "
+"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ คุณยังสามารถ “ดาวน์โหลดวิดีโอ "
+"TikTok พร้อมลายน้ำ” "
+"และสำหรับการเยี่ยมชมหน้าแรกของเว็บไซต์ของเราและดาวน์โหลดวิดีโอโปรดของคุณในเวลาน้อยกว่า"
+" 10 วินาที"
+
+#: templates/without.html:34
+msgid "Frequently Asked Questions "
+msgstr "คำถามที่พบบ่อย"
+
+#: tiktok/settings.py:138
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+#: tiktok/settings.py:139
+msgid "Italian"
+msgstr "ภาษาอิตาลี"
+
+#: tiktok/settings.py:140
+msgid "Polish"
+msgstr "ขัด"
+
+#: tiktok/settings.py:141
+msgid "French"
+msgstr "ภาษาฝรั่งเศส"
+
+#: tiktok/settings.py:142
+msgid "German"
+msgstr "เยอรมัน"
+
+#: tiktok/settings.py:143
+msgid "Spanish"
+msgstr "สเปน"
+
+#: tiktok/settings.py:144
+msgid "Indonesian"
+msgstr "ชาวอินโดนีเซีย"
+
+#: tiktok/settings.py:145
+msgid "Japanese"
+msgstr "ญี่ปุ่น"
+
+#: tiktok/settings.py:146
+msgid "Korean"
+msgstr "เกาหลี"
+
+#: tiktok/settings.py:147
+msgid "Portuguese"
+msgstr "โปรตุเกส"
+
+#: tiktok/settings.py:148
+msgid "Russian"
+msgstr "รัสเซีย"
+
+#: tiktok/settings.py:149
+msgid "Arabic"
+msgstr "อารบิก"
+
+#: tiktok/settings.py:150
+msgid "Turkish"
+msgstr "ภาษาตุรกี"
+
+#: tiktok/settings.py:151
+msgid "Thai"
+msgstr "ไทย"
+
+#: tiktok/settings.py:152
+msgid "Vietnamese"
+msgstr "ภาษาเวียดนาม"
+
+#: venv/lib/python3.8/site-packages/django/contrib/messages/apps.py:7
+msgid "Messages"
+msgstr "ข้อความ"
+
+#: venv/lib/python3.8/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "แผนผังเว็บไซต์"
+
+#: venv/lib/python3.8/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "ไฟล์คงที่"
+
+#: venv/lib/python3.8/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "ซินดิเคชั่น"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:51
+msgid "That page number is not an integer"
+msgstr "เลขหน้านั้นไม่ใช่จำนวนเต็ม"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:53
+msgid "That page number is less than 1"
+msgstr "เลขหน้านั้นน้อยกว่า 1"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:58
+msgid "That page contains no results"
+msgstr "หน้านั้นไม่มีผลลัพธ์"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr "ป้อนค่าที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:93
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:664
+msgid "Enter a valid URL."
+msgstr "ป้อน URL ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:150
+msgid "Enter a valid integer."
+msgstr "ป้อนจำนวนเต็มที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:161
+msgid "Enter a valid email address."
+msgstr "ใส่อีเมล์ที่ถูกต้อง."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.8/site-packages/django/core/validators.py:262
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"ป้อน “slug” ที่ถูกต้องซึ่งประกอบด้วยตัวอักษร ตัวเลข ขีดล่าง หรือขีดกลาง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:269
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"ป้อน “slug” ที่ถูกต้องซึ่งประกอบด้วยตัวอักษร Unicode ตัวเลข ขีดล่าง "
+"หรือขีดกลาง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:278
+#: venv/lib/python3.8/site-packages/django/core/validators.py:288
+#: venv/lib/python3.8/site-packages/django/core/validators.py:311
+msgid "Enter a valid IPv4 address."
+msgstr "ป้อนที่อยู่ IPv4 ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:296
+#: venv/lib/python3.8/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv6 address."
+msgstr "ป้อนที่อยู่ IPv6 ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:306
+#: venv/lib/python3.8/site-packages/django/core/validators.py:310
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "ป้อนที่อยู่ IPv4 หรือ IPv6 ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:340
+msgid "Enter only digits separated by commas."
+msgstr "ป้อนเฉพาะตัวเลขที่คั่นด้วยเครื่องหมายจุลภาค"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:346
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "ตรวจสอบให้แน่ใจว่าค่านี้เป็น %(limit_value)s (คือ %(show_value)s)"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:379
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "ตรวจสอบให้แน่ใจว่าค่านี้น้อยกว่าหรือเท่ากับ %(limit_value)s"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:388
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "ตรวจสอบให้แน่ใจว่าค่านี้มากกว่าหรือเท่ากับ %(limit_value)s"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:398
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"ตรวจสอบให้แน่ใจว่าค่านี้มีอักขระอย่างน้อย %(limit_value)d (มี "
+"%(show_value)d)"
+msgstr[1] ""
+"ตรวจสอบให้แน่ใจว่าค่านี้มีอักขระอย่างน้อย %(limit_value)d ตัว (มี "
+"%(show_value)d)"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:413
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"ตรวจสอบให้แน่ใจว่าค่านี้มีอักขระไม่เกิน %(limit_value)d ตัว (มี "
+"%(show_value)d)"
+msgstr[1] ""
+"ตรวจสอบให้แน่ใจว่าค่านี้มีอักขระไม่เกิน %(limit_value)d ตัว (มี "
+"%(show_value)d)"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:432
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:292
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:327
+msgid "Enter a number."
+msgstr "ป้อนหมายเลข"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:434
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "ตรวจสอบให้แน่ใจว่ามีทั้งหมดไม่เกิน %(max)s หลัก"
+msgstr[1] "ตรวจสอบให้แน่ใจว่ามีทั้งหมดไม่เกิน %(max)s หลัก"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:439
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "ตรวจสอบให้แน่ใจว่ามีทศนิยมไม่เกิน %(max)s ตำแหน่ง"
+msgstr[1] "ตรวจสอบให้แน่ใจว่ามีจุดทศนิยมไม่เกิน %(max)s ตำแหน่ง"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:444
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] "ตรวจสอบให้แน่ใจว่าไม่เกิน %(max)s หลักก่อนจุดทศนิยม"
+msgstr[1] "ตรวจสอบให้แน่ใจว่าไม่เกิน %(max)s หลักก่อนจุดทศนิยม"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:506
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"ไม่อนุญาตให้ใช้นามสกุลไฟล์ “%(extension)s” ส่วนขยายที่อนุญาตคือ: "
+"%(allowed_extensions)s"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:559
+msgid "Null characters are not allowed."
+msgstr "ไม่อนุญาตให้ใช้อักขระ Null"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1197
+#: venv/lib/python3.8/site-packages/django/forms/models.py:768
+msgid "and"
+msgstr "และ"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1199
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "%(model_name)s ที่มี %(field_labels)s มีอยู่แล้ว"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:100
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "ค่า %(value)r ไม่ใช่ตัวเลือกที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:101
+msgid "This field cannot be null."
+msgstr "ฟิลด์นี้ไม่สามารถเป็นค่าว่างได้"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:102
+msgid "This field cannot be blank."
+msgstr "ฟิลด์นี้ไม่สามารถเว้นว่างได้"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:103
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "%(model_name)s ที่มี %(field_label)s มีอยู่แล้ว"
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:107
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)s ต้องไม่ซ้ำกันสำหรับ %(date_field_label)s %(lookup_type)s"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "ประเภทฟิลด์: %(field_type)s"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:958
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "ค่า “%(value)s” ต้องเป็น True หรือ False"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:959
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "ค่า “%(value)s” ต้องเป็น True, False หรือ None"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:961
+msgid "Boolean (Either True or False)"
+msgstr "บูลีน (จริงหรือเท็จ)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1002
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "สตริง (สูงสุด %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1096
+msgid "Comma-separated integers"
+msgstr "จำนวนเต็มคั่นด้วยเครื่องหมายจุลภาค"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1145
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"ค่า “%(value)s” มีรูปแบบวันที่ที่ไม่ถูกต้อง ต้องอยู่ในรูปแบบ ปปปป-ดด-วว"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1147
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1290
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"ค่า “%(value)s” มีรูปแบบที่ถูกต้อง (YYYY-MM-DD) แต่เป็นวันที่ที่ไม่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
+msgid "Date (without time)"
+msgstr "วันที่ (ไม่มีเวลา)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1288
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"ค่า “%(value)s” มีรูปแบบที่ไม่ถูกต้อง ต้องอยู่ในรูปแบบ YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1292
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"ค่า “%(value)s” มีรูปแบบที่ถูกต้อง (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) "
+"แต่เป็นวันที่/เวลาที่ไม่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
+msgid "Date (with time)"
+msgstr "วันที่ (พร้อมเวลา)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "ค่า “%(value)s” ต้องเป็นตัวเลขทศนิยม"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
+msgid "Decimal number"
+msgstr "เลขทศนิยม"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1585
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+"ค่า “%(value)s” มีรูปแบบที่ไม่ถูกต้อง ต้องอยู่ในรูปแบบ [DD] "
+"[[HH:]MM:]ss[.uuuuuu]"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1588
+msgid "Duration"
+msgstr "Duration"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1638
+msgid "Email address"
+msgstr "ที่อยู่อีเมล"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1661
+msgid "File path"
+msgstr "เส้นทางของไฟล์"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1727
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "ค่า “%(value)s” ต้องเป็นค่าทศนิยม"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1729
+msgid "Floating point number"
+msgstr "เลขทศนิยม"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "ค่า “%(value)s” ต้องเป็นจำนวนเต็ม"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1769
+msgid "Integer"
+msgstr "จำนวนเต็ม"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1852
+msgid "Big (8 byte) integer"
+msgstr "จำนวนเต็มขนาดใหญ่ (8 ไบต์)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1867
+msgid "Small integer"
+msgstr "จำนวนเต็มขนาดเล็ก"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1875
+msgid "IPv4 address"
+msgstr "ที่อยู่ IPv4"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1906
+msgid "IP address"
+msgstr "ที่อยู่ IP"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1986
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1987
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "ค่า “%(value)s” ต้องเป็น None, True หรือ False"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1989
+msgid "Boolean (Either True, False or None)"
+msgstr "บูลีน (จริง เท็จ หรือไม่มี)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2043
+msgid "Positive big integer"
+msgstr "จำนวนเต็มบวกขนาดใหญ่ Positive"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2056
+msgid "Positive integer"
+msgstr "จำนวนเต็มบวก"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2069
+msgid "Positive small integer"
+msgstr "จำนวนเต็มบวกขนาดเล็ก"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2083
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "กระสุน (สูงสุด %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2115
+msgid "Text"
+msgstr "ข้อความ"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2181
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"ค่า “%(value)s” มีรูปแบบที่ไม่ถูกต้อง ต้องอยู่ในรูปแบบ HH:MM[:ss[.uuuuuu]]"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2183
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"ค่า “%(value)s” มีรูปแบบที่ถูกต้อง (HH:MM[:ss[.uuuuuu]]) "
+"แต่เป็นเวลาที่ไม่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2186
+msgid "Time"
+msgstr "เวลา"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2312
+msgid "URL"
+msgstr "URL"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Raw binary data"
+msgstr "ข้อมูลไบนารีดิบ"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2399
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "“%(value)s” ไม่ใช่ UUID ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2401
+msgid "Universally unique identifier"
+msgstr "ตัวระบุที่ไม่ซ้ำแบบสากล"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:226
+msgid "File"
+msgstr "ไฟล์"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:375
+msgid "Image"
+msgstr "ภาพ"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr "วัตถุ JSON"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr "ค่าต้องเป็น JSON ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:790
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "ไม่มีอินสแตนซ์%(model)s ที่มี %(field)s %(value)r"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
+msgid "Foreign Key (type determined by related field)"
+msgstr "กุญแจต่างประเทศ (ประเภทที่กำหนดโดยฟิลด์ที่เกี่ยวข้อง)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
+msgid "One-to-one relationship"
+msgstr "ความสัมพันธ์แบบตัวต่อตัว"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1099
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s%(to)s ถึง__ความสัมพันธ์"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1100
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s%(to)s to__ ความสัมพันธ์"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
+msgid "Many-to-many relationship"
+msgstr "ความสัมพันธ์แบบกลุ่มต่อกลุ่ม"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: venv/lib/python3.8/site-packages/django/forms/boundfield.py:150
+msgid ":?.!"
+msgstr ":?.!"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:54
+msgid "This field is required."
+msgstr "ต้องระบุฟิลด์นี้"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:247
+msgid "Enter a whole number."
+msgstr "ป้อนจำนวนเต็ม"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:391
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1132
+msgid "Enter a valid date."
+msgstr "ป้อนวันที่ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:415
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1133
+msgid "Enter a valid time."
+msgstr "ป้อนเวลาที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:443
+msgid "Enter a valid date/time."
+msgstr "ป้อนวันที่/เวลาที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:477
+msgid "Enter a valid duration."
+msgstr "ป้อนระยะเวลาที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:478
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "จำนวนวันต้องอยู่ระหว่าง {min_days} ถึง {max_days}"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:538
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "ไม่มีไฟล์ถูกส่ง ตรวจสอบประเภทการเข้ารหัสในแบบฟอร์ม"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:539
+msgid "No file was submitted."
+msgstr "ไม่มีไฟล์ถูกส่ง"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:540
+msgid "The submitted file is empty."
+msgstr "ไฟล์ที่ส่งว่างเปล่า"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:542
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"ตรวจสอบให้แน่ใจว่าชื่อไฟล์นี้มีอักขระไม่เกิน %(max)d ตัว (มี %(length)d)"
+msgstr[1] ""
+"ตรวจสอบให้แน่ใจว่าชื่อไฟล์นี้มีอักขระไม่เกิน %(max)d ตัว (มี %(length)d)"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:545
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr "โปรดส่งไฟล์หรือทำเครื่องหมายที่ช่องล้าง ไม่ใช่ทั้งสองอย่าง"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:606
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"อัปโหลดรูปภาพที่ถูกต้อง ไฟล์ที่คุณอัปโหลดไม่ใช่รูปภาพหรือรูปภาพที่เสียหาย"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:768
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:858
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1309
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "เลือกตัวเลือกที่ถูกต้อง %(value)s ไม่ใช่หนึ่งในตัวเลือกที่มี"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:859
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:974
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1308
+msgid "Enter a list of values."
+msgstr "ป้อนรายการค่า"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:975
+msgid "Enter a complete value."
+msgstr "ป้อนค่าที่สมบูรณ์"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1191
+msgid "Enter a valid UUID."
+msgstr "ป้อน UUID ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1221
+msgid "Enter a valid JSON."
+msgstr "ป้อน JSON ที่ถูกต้อง"
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:76
+msgid ":"
+msgstr ":"
+
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:203
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(ฟิลด์ที่ซ่อนอยู่ %(name)s) %(error)s"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"ข้อมูล ManagementForm หายไปหรือถูกดัดแปลง ฟิลด์ที่ขาดหายไป: "
+"%(field_names)sคุณอาจต้องยื่นรายงานข้อบกพร่องหากปัญหายังคงมีอยู่"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:370
+#, python-format
+msgid "Please submit at most %d form."
+msgid_plural "Please submit at most %d forms."
+msgstr[0] "กรุณาส่งแบบฟอร์มไม่เกิน %d "
+msgstr[1] "กรุณาส่งแบบฟอร์มไม่เกิน %d "
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
+#, python-format
+msgid "Please submit at least %d form."
+msgid_plural "Please submit at least %d forms."
+msgstr[0] "กรุณาส่งแบบฟอร์มอย่างน้อย %d "
+msgstr[1] "กรุณาส่งแบบฟอร์มอย่างน้อย %d "
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:412
+msgid "Order"
+msgstr "ใบสั่ง"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:417
+msgid "Delete"
+msgstr "ลบ"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:763
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "โปรดแก้ไขข้อมูลที่ซ้ำกันสำหรับ %(field)s"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:767
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "โปรดแก้ไขข้อมูลที่ซ้ำกันสำหรับ %(field)sซึ่งต้องไม่ซ้ำกัน"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:773
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"โปรดแก้ไขข้อมูลที่ซ้ำกันสำหรับ %(field_name)s ซึ่งต้องไม่ซ้ำกันสำหรับ "
+"%(lookup)s ใน %(date_field)s"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:782
+msgid "Please correct the duplicate values below."
+msgstr "โปรดแก้ไขค่าที่ซ้ำกันด้านล่าง"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1109
+msgid "The inline value did not match the parent instance."
+msgstr "ค่าอินไลน์ไม่ตรงกับอินสแตนซ์หลัก"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1193
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr "เลือกตัวเลือกที่ถูกต้อง ตัวเลือกนั้นไม่ใช่หนึ่งในตัวเลือกที่มี"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1311
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "“%(pk)s” ไม่ใช่ค่าที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/forms/utils.py:172
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s ไม่สามารถตีความได้ในเขตเวลา %(current_timezone)s; "
+"มันอาจจะคลุมเครือหรืออาจไม่มีอยู่จริง"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:403
+msgid "Clear"
+msgstr "ชัดเจน"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:404
+msgid "Currently"
+msgstr "ปัจจุบัน"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:405
+msgid "Change"
+msgstr "เปลี่ยน"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:714
+msgid "Unknown"
+msgstr "ไม่รู้จัก"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:715
+msgid "Yes"
+msgstr "ใช่"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:716
+msgid "No"
+msgstr "ไม่"
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:805
+msgid "yes,no,maybe"
+msgstr "ใช่ ไม่ บางที"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:834
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:851
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d ไบต์"
+msgstr[1] "%(size)d ไบต์"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:853
+#, python-format
+msgid "%s KB"
+msgstr "%s KB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:855
+#, python-format
+msgid "%s MB"
+msgstr "%s MB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:857
+#, python-format
+msgid "%s GB"
+msgstr "%s GB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:859
+#, python-format
+msgid "%s TB"
+msgstr "%s TB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:861
+#, python-format
+msgid "%s PB"
+msgstr "%s PB"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:66
+msgid "p.m."
+msgstr "บ่ายโมง"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:67
+msgid "a.m."
+msgstr "ฉัน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:72
+msgid "PM"
+msgstr "PM"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:73
+msgid "AM"
+msgstr "AM"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:146
+msgid "midnight"
+msgstr "เที่ยงคืน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:148
+msgid "noon"
+msgstr "เที่ยง"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Monday"
+msgstr "วันจันทร์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr "วันอังคาร"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Thursday"
+msgstr "วันพฤหัสบดี"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Friday"
+msgstr "วันศุกร์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Mon"
+msgstr "จันทร์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Tue"
+msgstr "อ."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Wed"
+msgstr "พุธ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Thu"
+msgstr "พฤ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Fri"
+msgstr "ศ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sat"
+msgstr "ส."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sun"
+msgstr "อา"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "January"
+msgstr "มกราคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "February"
+msgstr "กุมภาพันธ์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "March"
+msgstr "มีนาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "April"
+msgstr "เมษายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "May"
+msgstr "อาจ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "June"
+msgstr "มิถุนายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "July"
+msgstr "กรกฎาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "August"
+msgstr "สิงหาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "September"
+msgstr "กันยายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "October"
+msgstr "ตุลาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "November"
+msgstr "พฤศจิกายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:16
+msgid "December"
+msgstr "ธันวาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jan"
+msgstr "jan"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "feb"
+msgstr "ก.พ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "mar"
+msgstr "มาร์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "apr"
+msgstr "เมษายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "may"
+msgstr "อาจ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jun"
+msgstr "จุน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "jul"
+msgstr "Jul"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "aug"
+msgstr "สิงหาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "sep"
+msgstr "ก.ย"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "oct"
+msgstr "ต.ค"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "nov"
+msgstr "น"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "dec"
+msgstr "ธ.ค"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "ม.ค."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "ก.พ."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "มีนาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "เมษายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "อาจ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "มิถุนายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "กรกฎาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "ส.ค."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "กันยายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "ต.ค."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "พ.ย."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "ธ.ค."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr "มกราคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr "กุมภาพันธ์"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr "มีนาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr "เมษายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr "อาจ"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr "มิถุนายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr "กรกฎาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr "สิงหาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr "กันยายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr "ตุลาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr "พฤศจิกายน"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr "ธันวาคม"
+
+#: venv/lib/python3.8/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "นี่ไม่ใช่ที่อยู่ IPv6 ที่ถูกต้อง"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:71
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:240
+msgid "or"
+msgstr "หรือ"
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.8/site-packages/django/utils/text.py:259
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ","
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d ปี"
+msgstr[1] "%d ปี"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d เดือน"
+msgstr[1] "%d เดือน"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d สัปดาห์"
+msgstr[1] "%d สัปดาห์"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d วัน"
+msgstr[1] "%d วัน"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ชั่วโมง"
+msgstr[1] "%d ชั่วโมง"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d นาที"
+msgstr[1] "%d นาที"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:110
+msgid "Forbidden"
+msgstr "ต้องห้าม"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr "การตรวจสอบ CSRF ล้มเหลว คำขอถูกยกเลิก"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"คุณเห็นข้อความนี้เนื่องจากไซต์ HTTPS นี้ต้องการ &quot;ส่วนหัวอ้างอิง&quot; "
+"ที่จะส่งโดยเว็บเบราว์เซอร์ของคุณ แต่ไม่มีการส่ง "
+"ส่วนหัวนี้จำเป็นสำหรับเหตุผลด้านความปลอดภัย "
+"เพื่อให้แน่ใจว่าเบราว์เซอร์ของคุณจะไม่ถูกขโมยโดยบุคคลที่สาม"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:120
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"หากคุณได้กำหนดค่าเบราว์เซอร์ของคุณเพื่อปิดใช้งานส่วนหัว "
+"&quot;ผู้อ้างอิง&quot; โปรดเปิดใช้งานอีกครั้ง อย่างน้อยสำหรับไซต์นี้ "
+"หรือสำหรับการเชื่อมต่อ HTTPS หรือสำหรับคำขอ &quot;ต้นทางเดียวกัน&quot;"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"หากคุณกำลังใช้<meta name=\"referrer\" content=\"no-referrer\"> หรือใส่หัวข้อ"
+" &quot;Referrer-Policy: no-referrer&quot; โปรดลบออก การป้องกัน CSRF "
+"ต้องการส่วนหัว &quot;ผู้อ้างอิง&quot; เพื่อตรวจสอบผู้อ้างอิงที่เข้มงวด "
+"หากคุณกังวลเกี่ยวกับความเป็นส่วนตัว ให้ใช้ทางเลือกอื่น เช่น <a "
+"rel=\"noreferrer\" …>ลิงก์ไปยังเว็บไซต์บุคคลที่สาม</a>"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"คุณเห็นข้อความนี้เนื่องจากไซต์นี้ต้องใช้คุกกี้ CSRF เมื่อส่งแบบฟอร์ม "
+"คุกกี้นี้จำเป็นสำหรับเหตุผลด้านความปลอดภัย "
+"เพื่อให้แน่ใจว่าเบราว์เซอร์ของคุณจะไม่ถูกขโมยโดยบุคคลที่สาม"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"หากคุณได้กำหนดค่าเบราว์เซอร์ของคุณเพื่อปิดการใช้งานคุกกี้ "
+"โปรดเปิดใช้งานอีกครั้ง อย่างน้อยสำหรับไซต์นี้ หรือสำหรับคำขอ "
+"&quot;ต้นกำเนิดเดียวกัน&quot;"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr "ข้อมูลเพิ่มเติมสามารถดูได้จาก DEBUG=True"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:41
+msgid "No year specified"
+msgstr "ไม่ระบุปี"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:61
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:111
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:208
+msgid "Date out of range"
+msgstr "วันที่อยู่นอกช่วง"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:90
+msgid "No month specified"
+msgstr "ไม่ระบุเดือน"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:142
+msgid "No day specified"
+msgstr "ไม่ระบุวัน"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:188
+msgid "No week specified"
+msgstr "ไม่ระบุสัปดาห์"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:338
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "ไม่มี %(verbose_name_plural)s พร้อมใช้งาน"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:594
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+" %(verbose_name_plural)s ในอนาคตไม่พร้อมใช้งานเนื่องจาก "
+"%(class_name)s.allow_future เป็นเท็จ"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:628
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+"สตริงวันที่ไม่ถูกต้อง &quot;%(datestr)s&quot; รูปแบบที่กำหนด "
+"&quot;%(format)s&quot;"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "ไม่พบ %(verbose_name)s ที่ตรงกับคำค้นหา"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:67
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "หน้าไม่ใช่ &quot;สุดท้าย&quot; และไม่สามารถแปลงเป็น int ได้"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "หน้าไม่ถูกต้อง (%(page_number)s): %(message)s"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:154
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "รายการที่ว่างเปล่าและ “%(class_name)s.allow_empty” เป็นเท็จ"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr "ไม่อนุญาตให้ใช้ดัชนีไดเรกทอรีที่นี่"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:42
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "“%(path)s” ไม่มีอยู่จริง"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "ดัชนีของ %(directory)s"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "การติดตั้งทำงานสำเร็จ! ขอแสดงความยินดี!"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"ดู <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">บันทึกประจำรุ่น</a> สำหรับ Django "
+"%(version)s"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"คุณเห็นหน้านี้เนื่องจาก <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> อยู่ในไฟล์การตั้งค่าของคุณ"
+" และคุณยังไม่ได้กำหนดค่า URL ใดๆ"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr "เอกสาร Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "หัวข้อ ข้อมูลอ้างอิง และวิธีการ"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "บทช่วยสอน: แอพโพล"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "เริ่มต้นกับ Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr "ชุมชนจังโก้"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "เชื่อมต่อ รับความช่วยเหลือ หรือมีส่วนร่วม"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:368
+#, python-format
+msgid "Content purported to be compressed with %s but failed to decompress."
+msgstr "เนื้อหาอ้างว่าถูกบีบอัดด้วย %s แต่ไม่สามารถขยายขนาดได้"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:532
+#, python-format
+msgid "Unsupported value for qop: %s."
+msgstr "ค่าที่ไม่รองรับสำหรับ qop: %s"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:536
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:614
+#, python-format
+msgid "Unsupported value for algorithm: %s."
+msgstr "ค่าที่ไม่รองรับสำหรับอัลกอริทึม: %s"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:609
+msgid "The challenge doesn't contain a server nonce, or this one is empty."
+msgstr "ความท้าทายไม่มีเซิร์ฟเวอร์ nonce หรืออันนี้ว่างเปล่า"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:619
+#, python-format
+msgid "Unsupported value for pw-algorithm: %s."
+msgstr "ค่าที่ไม่รองรับสำหรับ pw-algorithm: %s"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
+msgid "Redirected but the response is missing a Location: header."
+msgstr "เปลี่ยนเส้นทางแล้ว แต่การตอบกลับไม่มีส่วนหัว Location:"

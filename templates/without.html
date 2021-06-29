@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'Download Tiktok Videos Without Watermark Online - Tiksss.com' %}{% endblock %}
+{% block desc %}
+<meta name="description" content="{% trans 'Download Tiktok Videos Without Watermark Online Free on Our website Tiksss.com. You can easily download Tiktok videos Without watermark in your phone and laptop.' %}" />
+{% endblock %}
+{% block body %}
+
+<!-- Hero Section -->
+<div class="hero" id="home">
+  <div class="hero__container">
+    <h1 class="hero__heading">{% trans 'Download' %} <span>Tiktok</span> {% trans 'Video Without Watermark' %} </h1>
+    <p class="hero__description">{% trans 'Enter the URL Here' %}</p>
+    <center>
+      <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
+    </center>
+  </div>
+
+  <form class="example" method="POST" action="{% url 'down2' %}">
+    {% csrf_token %}
+    <input type="text" placeholder="Search.." aria-describedby="url" name="url" required>
+    <input type="hidden" name="todo" value="1">
+    <button type="submit" onclick="show()">{% trans 'Search' %}</button>
+  </form>
+</div>
+
+<div class="about_tiktok">
+  <h1 style="margin-bottom: 10px;">{% trans 'Download TikTok Video Without Watermark Online Free:' %}</h1>
+  <p>{% trans 'Download TikTok Videos without Watermark or No Watermark. This method is very unique to get download video without watermark in original quality. We made this tool very easy and it works smoothly on windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t need to install any extra software or App and this is the only specialty of this TikTok no watermark video download tool. Go to' %} <a href="{% url 'index' %}" style="color: #ee0979;">Tiksss.com</a> {% trans 'and you will see dropdown menu click on it and select “Without Watermark”. On the next page just paste the link and click “Download Button”. Wait a few seconds to get start downloading of your video. You can also “Download TikTok Video with Watermark” and for this visit our website Home Page and download you favorite video less than 10 seconds.' %} </p>
+</div>
+
+<div class="faq" id="faq" style="margin-top: -100px;">
+  <h1>{% trans 'Frequently Asked Questions ' %}</h1>
+  <div class="faq__main">
+    <button class="accordion">
+      <h2>{% trans '' %}{% trans 'How to Download Tiktok Videos without Watermark:' %}</h2>
+    </button>
+    <div class="panel">
+      <ol style="margin-left: 20px;">
+        <li>
+          <p>{% trans 'Select a video on TikTok app or web which you want to download.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Copy the selected video link on your smartphone / computer or Laptop' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Copy paste the selected TikTok video link on our Website Tool Which is "Tiktok Videos Download Without watermark" and press "Search Button".' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Now you will see a download button, click on download.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Just wait a few seconds in which you can download the Tiktok video Without Watermark directly in your machine.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'If you like our tool and services than Kindly share our website with your friends and family members. Thanks!' %}</p>
+        </li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+
+  function show() {
+    document.getElementById("myDiv").style.display = "block";
+    setTimeout("hide()", 30000);  // 5 seconds
+  }
+
+  function hide() {
+    document.getElementById("myDiv").style.display = "none";
+  }
+
+</script>
+
+
+{% endblock %}

@@ -1,0 +1,85 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'TikTok To Mp3 Converter Online Free - Tiksss.com' %}{% endblock %}
+{% block desc %}
+<meta name="description"
+  content="{% trans 'TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which is totally free.' %}" />
+{% endblock %}
+{% block body %}
+
+<!-- Hero Section -->
+<div class="hero" id="home">
+  <div class="hero__container">
+    <h1 class="hero__heading">{% trans 'Download' %} <span>Tiktok </span>{% trans 'Audio' %}</h1>
+    <p class="hero__description">{% trans 'Enter the URL Here' %}</p>
+    <center>
+      <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
+    </center>
+  </div>
+
+  <form class="example" method="POST" action="{% url 'down1' %}">
+    {% csrf_token %}
+    <input type="text" placeholder="Search.." aria-describedby="url" name="url" required>
+    <input type="hidden" name="todo" value="1">
+    <button type="submit" onclick="show()">{% trans 'Search' %}</button>
+  </form>
+
+</div>
+
+<div class="about_tiktok">
+  <h1 style="margin-bottom: 10px;">{% trans 'TikTok to Mp3 Converter Online Free' %}:</h1>
+  <p>{% trans 'If you are music lover then you will know the value of this TikTok to Mp3 Converter Online Tool. We have made this tool very easy and simple. You people can use this tool on your preferred devices without any limits. Make sure that you have to bookmark this tool page for future. We have added all the instructions of this tool that how you people can use and take benefits from it. Kindly share this tool with your friends and family member with the help of social media because they will definitely like and use this for sure. For more Info visit our Website' %} <a href="{% url 'index' %}" style="color: #ee0979;">Tiksss.com.</a></p>
+</div>
+
+<div class="faq" id="faq" style="margin-top: -100px;">
+  <h1>{% trans 'Frequently Asked Questions' %} </h1>
+  <div class="faq__main">
+    <button class="accordion">
+      <h2>{% trans 'How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok to Mp3 Online Free:' %}
+      </h2>
+    </button>
+    <div class="panel">
+      <ol style="margin-left: 20px;">
+        <li>
+          <p>{% trans 'Select a video URL on TikTok which you want to convert into mp3 format.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Copy the selected video link on your smartphone / computer or Laptop' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Go to our website Tiksss.com and on the top menu you will see “Tools” tap on it and select TikTok to Mp3 Converter.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Insert the TikTok video link in the field and press "Convert Button"' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Now you will see a download button, click on download.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Just wait a few seconds in which you can download the video directly in your machine.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'If you like our tool and services than Kindly share our website with your friends and family members. Thanks!' %}</p>
+        </li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+
+  function show() {
+    document.getElementById("myDiv").style.display = "block";
+    setTimeout("hide()", 10000);  // 5 seconds
+  }
+
+  function hide() {
+    document.getElementById("myDiv").style.display = "none";
+  }
+
+</script>
+
+
+{% endblock %}

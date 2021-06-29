@@ -1,0 +1,3214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-28 19:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: templates/about.html:3
+msgid "About Us - Tiksss.com"
+msgstr "Hakkımızda - Tiksss.com"
+
+#: templates/about.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com. If"
+" you have any question regarding this than kindly let us know. Thanks."
+msgstr ""
+"Bu sayfada Tiksss.com web sitemiz hakkında bazı yararlı bilgiler ekledik. "
+"Bununla ilgili herhangi bir sorunuz varsa, lütfen bize bildirin. "
+"Teşekkürler."
+
+#: templates/about.html:10
+msgid "About US"
+msgstr "Hakkımızda"
+
+#: templates/about.html:11
+msgid "is an amazing popular"
+msgstr "inanılmaz popüler"
+
+#: templates/about.html:11
+msgid ""
+"tool that allows users from different regions to download and convert TikTok"
+" videos online free."
+msgstr ""
+"Farklı bölgelerden kullanıcıların TikTok videolarını çevrimiçi olarak "
+"ücretsiz indirip dönüştürmelerine olanak tanıyan bir araç."
+
+#: templates/about.html:12
+msgid ""
+"Our platform supports different type of TikTok video converting tools like, "
+"TikTok to Mp4, Mp3, Video Cutter, and downloads TikTok videos without "
+"watermark or with watermark in just few seconds which you can view here in "
+"our website"
+msgstr ""
+"Platformumuz, TikTok&#39;tan Mp4, Mp3&#39;e, Video Cutter gibi farklı türde "
+"TikTok video dönüştürme araçlarını destekler ve burada web sitemizde "
+"görüntüleyebileceğiniz sadece birkaç saniye içinde filigransız veya "
+"filigranlı TikTok videolarını indirir."
+
+#: templates/about.html:13
+msgid "Why Tiksss.com"
+msgstr "Neden Tiksss.com"
+
+#: templates/about.html:14
+msgid ""
+"Our tool design is very unique and simple. We made this tool for customers "
+"and users purpose only. It’s very fast, easy, and safe for everyone to use "
+"in your daily life routine even if you are a content creator. This tool "
+"helps you a lot and save your time for sure. Tiksss is always here and ready"
+" to help you out if you facing any problem. If you have any queries then "
+"kindly contact us over here:"
+msgstr ""
+"Alet tasarımımız çok benzersiz ve basittir. Bu aracı yalnızca müşteriler ve "
+"kullanıcılar için yaptık. Bir içerik yaratıcısı olsanız bile herkesin günlük"
+" yaşam rutininizde kullanması çok hızlı, kolay ve güvenlidir. Bu araç size "
+"çok yardımcı olur ve zamandan tasarruf etmenizi sağlar. Tiksss her zaman "
+"burada ve herhangi bir sorunla karşılaşırsanız size yardım etmeye hazır. "
+"Herhangi bir sorunuz varsa, lütfen bizimle buradan iletişime geçin:"
+
+#: templates/audio.html:4 templates/download1.html:4
+#: templates/download4.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Dönüştürücü Çevrimiçi Ücretsiz - Tiksss.com"
+
+#: templates/audio.html:7 templates/download1.html:5
+#: templates/download4.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok To Mp3 Converter Online Ücretsiz Tiksss.com web sitemizde. Tamamen "
+"ücretsiz olan Tiktok Severler için Tiktok Videolarını Mp3 Formatına "
+"Dönüştürmek İçin En Hızlı Aracımız."
+
+#: templates/audio.html:14 templates/without.html:13
+msgid "Download"
+msgstr "İndir"
+
+#: templates/audio.html:14
+msgid "Audio"
+msgstr "Ses"
+
+#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
+#: templates/without.html:14
+msgid "Enter the URL Here"
+msgstr "URL&#39;yi Buraya Girin"
+
+#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
+#: templates/without.html:24
+msgid "Search"
+msgstr "Arama"
+
+#: templates/audio.html:31
+msgid "TikTok to Mp3 Converter Online Free"
+msgstr "TikTok&#39;tan Mp3&#39;e Dönüştürücü Çevrimiçi Ücretsiz"
+
+#: templates/audio.html:32
+msgid ""
+"If you are music lover then you will know the value of this TikTok to Mp3 "
+"Converter Online Tool. We have made this tool very easy and simple. You "
+"people can use this tool on your preferred devices without any limits. Make "
+"sure that you have to bookmark this tool page for future. We have added all "
+"the instructions of this tool that how you people can use and take benefits "
+"from it. Kindly share this tool with your friends and family member with the"
+" help of social media because they will definitely like and use this for "
+"sure. For more Info visit our Website"
+msgstr ""
+"Müzik aşığıysanız, bu TikTok&#39;un Mp3 Dönüştürücü Çevrimiçi Aracının "
+"değerini bileceksiniz. Bu aracı çok kolay ve basit hale getirdik. Bu aracı "
+"dilediğiniz cihazlarda sınırsız olarak kullanabilirsiniz. Bu araç sayfasını "
+"gelecek için işaretlemeniz gerektiğinden emin olun. Sizlerin nasıl "
+"kullanabileceğinizi ve ondan nasıl yararlanabileceğinizi anlatan bu aracın "
+"tüm talimatlarını ekledik. Lütfen bu aracı sosyal medya yardımıyla "
+"arkadaşlarınızla ve aile üyenizle paylaşın, çünkü bunu kesinlikle "
+"beğenecekler ve kullanacaklardır. Daha fazla Bilgi için Web Sitemizi ziyaret"
+" edin"
+
+#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
+#: templates/index.html:29
+msgid "Frequently Asked Questions"
+msgstr "Sıkça Sorulan Sorular"
+
+#: templates/audio.html:39
+msgid ""
+"How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
+" to Mp3 Online Free:"
+msgstr ""
+"Tiktok&#39;u Yüksek Kaliteyle Ücretsiz Online Mp3&#39;e Dönüştürme – "
+"TikTok&#39;u Mp3 Online Bedava İndirin:"
+
+#: templates/audio.html:45 templates/faq.html:44
+msgid ""
+"Select a video URL on TikTok which you want to convert into mp3 format."
+msgstr ""
+"TikTok&#39;ta mp3 formatına dönüştürmek istediğiniz bir video URL&#39;si "
+"seçin."
+
+#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+msgid "Copy the selected video link on your smartphone / computer or Laptop"
+msgstr ""
+"Seçilen video bağlantısını akıllı telefonunuza / bilgisayarınıza veya "
+"Dizüstü bilgisayarınıza kopyalayın"
+
+#: templates/audio.html:51 templates/faq.html:50
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok to Mp3 Converter."
+msgstr ""
+"Tiksss.com web sitemize gidin ve üst menüde “Araçlar” öğesini göreceksiniz "
+"ve üzerine dokunun ve TikTok to Mp3 Converter&#39;ı seçin."
+
+#: templates/audio.html:54 templates/faq.html:53
+msgid "Insert the TikTok video link in the field and press \"Convert Button\""
+msgstr ""
+"TikTok video bağlantısını alana yerleştirin ve &quot;Dönüştür "
+"Düğmesine&quot; basın"
+
+#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:37 templates/without.html:51
+msgid "Now you will see a download button, click on download."
+msgstr "Şimdi bir indirme düğmesi göreceksiniz, indir&#39;e tıklayın."
+
+#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine."
+msgstr "Videoyu doğrudan makinenize indirebileceğiniz birkaç saniye bekleyin."
+
+#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+msgid ""
+"If you like our tool and services than Kindly share our website with your "
+"friends and family members. Thanks!"
+msgstr ""
+"Aracımızı ve hizmetlerimizi beğendiyseniz, lütfen web sitemizi "
+"arkadaşlarınız ve aile üyelerinizle paylaşın. Teşekkürler!"
+
+#: templates/base.html:28
+msgid "Home"
+msgstr "Ev"
+
+#: templates/base.html:30 templates/base.html:32
+msgid "Tools"
+msgstr "Araçlar"
+
+#: templates/base.html:34
+msgid "Download With Watermark"
+msgstr "Filigranlı İndir"
+
+#: templates/base.html:37
+msgid "Download Without Watermark"
+msgstr "Filigran Olmadan İndir"
+
+#: templates/base.html:38
+msgid "Download Audio"
+msgstr "Ses İndir"
+
+#: templates/base.html:39
+msgid "Audio/Video Cutter"
+msgstr "Ses/Video Kesici"
+
+#: templates/base.html:43
+msgid "About"
+msgstr "hakkında"
+
+#: templates/base.html:76 templates/privacypolicy.html:10
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: templates/base.html:79 templates/tandc.html:10
+msgid "Terms and Conditions"
+msgstr "Şartlar ve koşullar"
+
+#: templates/base.html:82
+msgid "FAQ"
+msgstr "SSS"
+
+#: templates/cutter.html:4 templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok Video Kesici Çevrimiçi Ücretsiz – Tiksss.com"
+
+#: templates/cutter.html:7 templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Video Kesici Çevrimiçi Ücretsiz Araç. TikTok Videoları çevrimiçi "
+"ücretsiz nasıl kesilir. TikTok Videolarını Çevrimiçi Olarak Kesin ve Kesin."
+
+#: templates/cutter.html:14
+msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
+msgstr "Video Kesici Çevrimiçi – TikTok Video Kırpıcı Çevrimiçi Ücretsiz"
+
+#: templates/cutter.html:31
+msgid ""
+"Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
+"for your content creation. While using this tool on our website "
+msgstr ""
+"Hadi bakalım. TikTok Video Cutter Online Free Tool, içerik oluşturmanız için"
+" size bir çözüm sunar. Bu aracı web sitemizde kullanırken"
+
+#: templates/cutter.html:31
+msgid ""
+" you people can easily Trim and Cut TikTok Video in your devices for free. "
+"It’s very unique and user friendly tool for everyone."
+msgstr ""
+"Siz insanlar TikTok Video&#39;yu cihazlarınızda ücretsiz olarak kolayca "
+"Kırpabilir ve Kesebilirsiniz. Herkes için çok benzersiz ve kullanıcı dostu "
+"bir araçtır."
+
+#: templates/cutter.html:39
+msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgstr "Mobil veya PC&#39;de TikTok Videoları Nasıl Kesilir ve Kesilir:"
+
+#: templates/cutter.html:44
+msgid "Go to TikTok official website and copy the video link."
+msgstr "TikTok resmi web sitesine gidin ve video bağlantısını kopyalayın."
+
+#: templates/cutter.html:47
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok Video Cutter."
+msgstr ""
+"Tiksss.com web sitemize gidin ve üst menüde “Araçlar” öğesini göreceksiniz "
+"ve üzerine dokunun ve TikTok Video Cutter&#39;ı seçin."
+
+#: templates/cutter.html:50
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr ""
+"Sonraki sayfada video bağlantınızı yapıştırın ve “Kes Düğmesine” tıklayın."
+
+#: templates/cutter.html:53
+msgid ""
+"You will see a player down below. Kindly select the specific part which you "
+"want to cut it from tiktok video."
+msgstr ""
+"Aşağıda bir oyuncu göreceksiniz. Tiktok videosundan kesmek istediğiniz "
+"bölümü seçiniz."
+
+#: templates/cutter.html:56
+msgid ""
+"Now you see two options over here. The first one is to download that "
+"specific cut part of the video in mp4 format or download track in mp3 format"
+" of that specific Trim part of the video."
+msgstr ""
+"Şimdi burada iki seçenek görüyorsunuz. Birincisi, videonun o belirli kesim "
+"kısmını mp4 formatında indirmek veya parçayı videonun o belirli Trim "
+"kısmının mp3 formatında indirmektir."
+
+#: templates/cutter.html:59
+msgid ""
+"Choose one of the given options according to your needs and then proceed it."
+msgstr ""
+"İhtiyaçlarınıza göre verilen seçeneklerden birini seçin ve devam edin."
+
+#: templates/cutter.html:62
+msgid "Now finally click on “Download Button” to download it in your device."
+msgstr "Şimdi nihayet cihazınıza indirmek için “İndir Düğmesine” tıklayın."
+
+#: templates/cutter.html:65
+msgid ""
+"If you like our TikTok Video Cutter and Trimmer Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"TikTok Video Kesici ve Düzeltici Aracımızı ve hizmetlerimizi beğendiyseniz, "
+"lütfen web sitemizi arkadaşlarınız ve aile üyelerinizle paylaşın. "
+"Teşekkürler!"
+
+#: templates/download.html:6 templates/index.html:4
+msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
+msgstr "Filigransız Tiktok Videolarını İndirin - Tiksss.Com"
+
+#: templates/download.html:7 templates/index.html:5
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"Tiktok Videolarını Filigran Olmadan Çevrimiçi Ücretsiz indirin web sitemiz "
+"Tiksss.com&#39;dan. Tamamen ücretsiz olan Tiktok Severler için Çevrimiçi En "
+"Hızlı Tiktok Video İndiricimiz."
+
+#: templates/download2.html:4 templates/without.html:4
+msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
+msgstr "Tiktok Videolarını Filigransız Çevrimiçi İndirin - Tiksss.com"
+
+#: templates/download2.html:6 templates/without.html:6
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Tiktok Videolarını Filigran Olmadan Çevrimiçi Ücretsiz İndirin Web sitemiz "
+"Tiksss.com&#39;dan. Tiktok videolarını filigransız olarak telefonunuza ve "
+"dizüstü bilgisayarınıza kolayca indirebilirsiniz."
+
+#: templates/faq.html:3
+msgid "Frequently Asked Questions - Tiksss.com"
+msgstr "Sıkça Sorulan Sorular - Tiksss.com"
+
+#: templates/faq.html:5
+msgid ""
+"In this page we have added some useful frequently asked questions of our "
+"website Tiksss.com."
+msgstr ""
+"Bu sayfada, Tiksss.com web sitemizin sık sorulan bazı yararlı sorularını "
+"ekledik."
+
+#: templates/faq.html:13
+msgid "How to Download TikTok Videos Online Free?"
+msgstr "TikTok Videoları Çevrimiçi Ücretsiz Nasıl İndirilir?"
+
+#: templates/faq.html:19 templates/index.html:34
+msgid "Select a video on TikTok which you want to download"
+msgstr "İndirmek istediğiniz TikTok&#39;ta bir video seçin"
+
+#: templates/faq.html:25 templates/index.html:36
+msgid "Insert the TikTok video link on our website and press \"Search Button\""
+msgstr ""
+"TikTok video bağlantısını web sitemize ekleyin ve &quot;Ara Düğmesine&quot; "
+"basın"
+
+#: templates/faq.html:39
+msgid "Tiktok to Mp3 Converter online Free"
+msgstr "Tiktok Mp3 Dönüştürücü çevrimiçi Ücretsiz"
+
+#: templates/faq.html:56
+msgid "Now you will see a download button, click on download"
+msgstr "Şimdi bir indirme düğmesi göreceksiniz, indir&#39;e tıklayın"
+
+#: templates/faq.html:59
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine"
+msgstr "Videoyu doğrudan makinenize indirebileceğiniz birkaç saniye bekleyin"
+
+#: templates/faq.html:67 templates/without.html:37
+msgid "How to Download Tiktok Videos without Watermark:"
+msgstr "Filigransız Tiktok Videoları Nasıl İndirilir:"
+
+#: templates/faq.html:72 templates/without.html:42
+msgid "Select a video on TikTok app or web which you want to download."
+msgstr ""
+"İndirmek istediğiniz TikTok uygulamasında veya web&#39;de bir video seçin."
+
+#: templates/faq.html:78 templates/without.html:48
+msgid ""
+"Copy paste the selected TikTok video link on our Website Tool Which is "
+"\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
+msgstr ""
+"Seçilen TikTok video bağlantısını kopyalayıp &quot;Tiktok Videolarını "
+"Filigransız İndir&quot; olan Web Sitesi Aracımıza yapıştırın ve &quot;Ara "
+"Düğmesine&quot; basın."
+
+#: templates/faq.html:84 templates/without.html:54
+msgid ""
+"Just wait a few seconds in which you can download the Tiktok video Without "
+"Watermark directly in your machine."
+msgstr ""
+"Tiktok Videosuz Filigran&#39;ı doğrudan makinenize indirebileceğiniz birkaç "
+"saniye bekleyin."
+
+#: templates/index.html:11
+msgid "to Mp4 Downloader Online Free"
+msgstr "Mp4 Downloader Online Ücretsiz"
+
+#: templates/index.html:24
+msgid ""
+"is an amazing tool for TikTok lovers to save TikTok videos to your device "
+"with a single click. This tool designed is very simple and everyone can use "
+"it easily without any hassle. We all love to watch Tik Tok videos in our "
+"devices which remain in our logs if we want to see those videos again but I "
+"have experienced that the videos no longer available and its gets lost due "
+"to the awesome feedback that platform produces every single day with full "
+"excessive. TikTok does not allow you to download or save videos on your "
+"preferred devices. But those uploaded videos from the user’s side available "
+"on their official website or app with a lot of restrictions. So the question"
+" is that how to solve all these video downloading issues. So I have decided "
+"to make a tool which will be easy to use for everyone because including me "
+"there are millions of people on this platform to watch TikTok videos on "
+"mobile or laptop but they can’t download it. So do not worry about it. I "
+"have made this tool for you people only to "
+msgstr ""
+"TikTok sevenler için TikTok videolarını tek bir tıklamayla cihazınıza "
+"kaydetmeleri için harika bir araçtır. Tasarlanan bu araç çok basittir ve "
+"herkes herhangi bir güçlük çekmeden kolayca kullanabilir. Hepimiz, bu "
+"videoları tekrar görmek istiyorsak günlüklerimizde kalan cihazlarımızda Tik "
+"Tok videoları izlemeyi seviyoruz, ancak videoların artık mevcut olmadığını "
+"ve platformun her gün ürettiği harika geri bildirimler nedeniyle "
+"kaybolduğunu deneyimledim. tam aşırı. TikTok, tercih ettiğiniz cihazlara "
+"video indirmenize veya kaydetmenize izin vermez. Ancak, kullanıcı tarafından"
+" yüklenen videolar, birçok kısıtlama ile resmi web sitelerinde veya "
+"uygulamalarında mevcuttur. Soru şu ki, tüm bu video indirme sorunlarının "
+"nasıl çözüleceği. Bu yüzden herkes için kullanımı kolay bir araç yapmaya "
+"karar verdim çünkü ben dahil bu platformda TikTok videolarını mobil veya "
+"dizüstü bilgisayarda izleyen milyonlarca insan var ama indiremiyorlar. Bu "
+"yüzden endişelenme. Bu aracı sadece sizin için yaptım."
+
+#: templates/index.html:24
+msgid "I proud myself to introduce an amazing "
+msgstr "Harika bir şeyi tanıtmaktan gurur duyuyorum"
+
+#: templates/index.html:24
+msgid "web app which allow you to download TikTok videos to mp4 format."
+msgstr ""
+"TikTok videolarını mp4 formatına indirmenize izin veren web uygulaması."
+
+#: templates/index.html:31
+msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
+msgstr "TikTok Videolarını Tiksss.com ile Mp4&#39;e İndirme"
+
+#: templates/index.html:48
+msgid "Introduction of TikTok"
+msgstr "TikTok&#39;un Tanıtımı"
+
+#: templates/index.html:49
+msgid ""
+"Everyone knows that TikTok is very popular right now and with the help of "
+"Tik Tok app. You can create your own videos very easily. TikTok app also "
+"used for streaming and creating content for your own use."
+msgstr ""
+"Herkes TikTok&#39;un şu anda çok popüler olduğunu ve Tik Tok uygulamasının "
+"yardımıyla biliyor. Kendi videolarınızı çok kolay bir şekilde "
+"oluşturabilirsiniz. TikTok uygulaması ayrıca kendi kullanımınız için içerik "
+"yayınlamak ve oluşturmak için de kullanılır."
+
+#: templates/index.html:50
+msgid ""
+"It’s a Chinese app which also allows you to share your videos on social "
+"media platform, friends and family. TikTok owned by a Chinese company which "
+"is also known as “Bytedance”. The main purpose of using this app to create "
+"videos with lisping, short music creation, dancing and voiceover video "
+"clippings."
+msgstr ""
+"Videolarınızı sosyal medya platformunda, arkadaşlarınızda ve ailenizde "
+"paylaşmanıza da izin veren bir Çin uygulamasıdır. TikTok, “Bytedance” olarak"
+" da bilinen Çinli bir şirkete aittir. Bu uygulamayı lisping, kısa müzik "
+"oluşturma, dans ve seslendirme video kupürleri ile videolar oluşturmak için "
+"kullanmanın temel amacı."
+
+#: templates/index.html:51
+msgid ""
+"If you are a content creator and passionate to produce a unique content to "
+"the customers then this app will helps you a lot to fulfill your dreams come"
+" true. Most of the time people love to do voiceover where people select and "
+"play any music in the background and then they act respectively with that "
+"sound. For me I love to watch funny voiceover videos on this app. Everyday "
+"people shows their talent in different ways and become celebrities via this "
+"platform. This platform has become a source for content creators for "
+"entertainment and viral videos. The content of TikTok may unreachable to "
+"those who do not have wifi or internet availability so make sure you have "
+"internet connection on you device to watch viral and amazing videos. So we "
+"are here to give you this amazing TikTok Mp4 Downloader tool to download "
+"favorite videos on you devices."
+msgstr ""
+"Bir içerik yaratıcısıysanız ve müşterilere benzersiz bir içerik üretme "
+"konusunda tutkuluysanız, bu uygulama hayallerinizi gerçekleştirmeniz için "
+"size çok yardımcı olacaktır. Çoğu zaman insanlar arka planda herhangi bir "
+"müziği seçip çaldıkları ve ardından sırasıyla o sesle hareket ettikleri "
+"seslendirme yapmayı severler. Benim için bu uygulamada komik seslendirme "
+"videoları izlemeyi seviyorum. Her gün insanlar yeteneklerini farklı "
+"şekillerde gösteriyor ve bu platform aracılığıyla ünlü oluyorlar. Bu "
+"platform, eğlence ve viral videolar için içerik oluşturucular için bir "
+"kaynak haline geldi. TikTok&#39;un içeriğine wifi veya internet erişimi "
+"olmayanlar ulaşamayabilir, bu nedenle viral ve şaşırtıcı videoları izlemek "
+"için cihazınızda internet bağlantınızın olduğundan emin olun. Bu yüzden, en "
+"sevdiğiniz videoları cihazlarınıza indirmeniz için size bu harika TikTok Mp4"
+" İndirici aracını vermek için buradayız."
+
+#: templates/index.html:61
+msgid "Unlimited Downloads"
+msgstr "Sınırsız İndirme"
+
+#: templates/index.html:62
+msgid "Download unlimited videos with no limitations."
+msgstr "Sınırsız sınırsız video indirin."
+
+#: templates/index.html:66
+msgid "No Watermark on Videos:"
+msgstr "Videolarda Filigran Yok:"
+
+#: templates/index.html:67
+msgid "Download TikTok videos without watermark with no limits."
+msgstr "TikTok videolarını filigran olmadan sınırsız indirin."
+
+#: templates/index.html:71
+msgid "Mp4 Supported HD:"
+msgstr "Mp4 Desteklenen HD:"
+
+#: templates/index.html:72
+msgid "Download TikTok videos with Mp4 format HD."
+msgstr "TikTok videolarını Mp4 formatında HD olarak indirin."
+
+#: templates/index.html:76
+msgid "Mp3 Support:"
+msgstr "Mp3 Desteği:"
+
+#: templates/index.html:77
+msgid "Easily Convert TikTok to Mp3 with high quality."
+msgstr "TikTok&#39;u yüksek kalitede kolayca Mp3&#39;e dönüştürün."
+
+#: templates/index.html:89
+msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
+msgstr "TikTok Videosunu Mobil Cihazda Mp4 HD Olarak İndirin:"
+
+#: templates/index.html:90
+msgid ""
+"If you want to download and save TikTok videos on your mobile device that "
+"you have to download and install TikTok app and then select your favorite "
+"video which you want to download. Here is some important thing when you are "
+"on video download page, see the share button on the right side of your "
+"device screen tap on it with the help of arrow and copy “link”. So open our "
+"website Tiksss.com and paste that copy link in given field and click on "
+"“Search Button”. It will take few seconds to get a downloadable link. You "
+"will see a “Download Button” hit on it to start video downloading on your "
+"device."
+msgstr ""
+"TikTok videolarını mobil cihazınıza indirmek ve kaydetmek istiyorsanız, "
+"TikTok uygulamasını indirip yüklemeniz ve ardından indirmek istediğiniz "
+"favori videonuzu seçmeniz gerekir. Burada önemli olan bir şey var, video "
+"indirme sayfasındayken cihazınızın ekranının sağ tarafında bulunan paylaş "
+"butonuna bakın, ok yardımıyla üzerine dokunun ve “bağlantıyı” kopyalayın. Bu"
+" yüzden Tiksss.com web sitemizi açın ve bu kopya bağlantısını verilen alana "
+"yapıştırın ve “Ara Düğmesine” tıklayın. İndirilebilir bir bağlantı almak "
+"birkaç saniye sürecektir. Cihazınızda video indirmeye başlamak için üzerinde"
+" bir “İndirme Düğmesi” göreceksiniz."
+
+#: templates/index.html:101
+msgid "Download TikTok Video Without Watermark on your Device:"
+msgstr "Cihazınıza Filigransız TikTok Videosunu İndirin:"
+
+#: templates/index.html:102
+msgid ""
+"This method is very unique to get download video without watermark in "
+"original quality. We made this tool very easy and it works smoothly on "
+"windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t "
+"need to install any extra software or App and this is the only specialty of "
+"this TikTok no watermark video download tool. Go to Tiksss.com and you will "
+"see dropdown menu click on it and select “Without Watermark”. On the next "
+"page just paste the link and click “Download Button”. Wait a few seconds to "
+"get start downloading of your video."
+msgstr ""
+"Bu yöntem, orijinal kalitede filigran olmadan video indirmek için çok "
+"benzersizdir. Bu aracı çok kolay hale getirdik ve Windows, Mac OS, Ipad, "
+"Android cihazlarda sorunsuz çalışıyor. Özellikle PC kullanıcıları için "
+"ekstra bir yazılım veya Uygulama yüklemeleri gerekmez ve bu TikTok "
+"filigransız video indirme aracının tek özelliği budur. Tiksss.com&#39;a "
+"gidin ve açılır menüyü göreceksiniz, üzerine tıklayın ve “Filigransız” "
+"seçeneğini seçin. Bir sonraki sayfada sadece bağlantıyı yapıştırın ve “İndir"
+" Düğmesine” tıklayın. Videonuzu indirmeye başlamak için birkaç saniye "
+"bekleyin."
+
+#: templates/index.html:119
+msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
+msgstr ""
+"Tiktok&#39;tan MP3&#39;e çevirici çevrimiçi Mobil ve Masaüstü Cihazlar için "
+"Ücretsiz:"
+
+#: templates/index.html:120
+msgid "If you are music lover then you will know the value of this"
+msgstr "Müzik aşığıysanız bunun değerini bileceksiniz."
+
+#: templates/index.html:120
+msgid ""
+"We have made this tool very easy and simple. You people can use this tool on"
+" your preferred devices without any limits. Make sure that you have to "
+"bookmark this tool page for future. We have added all the instructions of "
+"this tool that how you people can use and take benefits from it. Kindly "
+"share this tool with your friends and family member with the help of social "
+"media because they will definitely like and use this for sure."
+msgstr ""
+"Bu aracı çok kolay ve basit hale getirdik. Bu aracı dilediğiniz cihazlarda "
+"sınırsız olarak kullanabilirsiniz. Bu araç sayfasını gelecek için "
+"işaretlemeniz gerektiğinden emin olun. Sizlerin nasıl kullanabileceğinizi ve"
+" ondan nasıl yararlanabileceğinizi anlatan bu aracın tüm talimatlarını "
+"ekledik. Lütfen bu aracı sosyal medya yardımıyla arkadaşlarınızla ve aile "
+"üyenizle paylaşın, çünkü bunu kesinlikle beğenecekler ve kullanacaklardır."
+
+#: templates/index.html:128
+msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgstr "Tiktok Video Cutter Online – TikTok Video Trimmer Online Ücretsiz:"
+
+#: templates/index.html:129
+msgid "Here you go. "
+msgstr "Hadi bakalım."
+
+#: templates/index.html:129
+msgid ""
+" provides you a solution for your content creation. While using this tool on"
+" our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
+"your devices for free. It’s very unique and user friendly tool for everyone."
+msgstr ""
+"içerik oluşturmanız için size bir çözüm sunar. Bu aracı Tiksss.com web "
+"sitemizde kullanırken, sizler TikTok Video&#39;yu cihazlarınızda ücretsiz "
+"olarak kolayca Kırpabilir ve Kesebilirsiniz. Herkes için çok benzersiz ve "
+"kullanıcı dostu bir araçtır."
+
+#: templates/privacypolicy.html:3
+msgid "Privacy Policy - Tiksss.com"
+msgstr "Gizlilik Politikası - Tiksss.com"
+
+#: templates/privacypolicy.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Privacy Policy. If you have any question regarding this than kindly let us "
+"know. Thanks."
+msgstr ""
+"Bu sayfada, web sitemiz Tiksss.com Gizlilik Politikası hakkında bazı yararlı"
+" bilgiler ekledik. Bununla ilgili herhangi bir sorunuz varsa, lütfen bize "
+"bildirin. Teşekkürler."
+
+#: templates/privacypolicy.html:13
+msgid "By using"
+msgstr "Kullanarak"
+
+#: templates/privacypolicy.html:13
+msgid ""
+"you signify your agreement to follow all the privacy policy set forth on "
+"this page:"
+msgstr ""
+"bu sayfada belirtilen tüm gizlilik politikasına uymayı kabul ettiğinizi "
+"belirtirsiniz:"
+
+#: templates/privacypolicy.html:16
+msgid ""
+"This Website does not collect personally identifiable information from your "
+"computer when you browse the Website and request pages from our servers. "
+"This means that, unless you voluntarily and knowingly provide us with "
+"personally identifiable information, we will not know your name, your e-mail"
+" address, or any other personally identifiable information."
+msgstr ""
+"Bu Web Sitesi, Web Sitesinde gezinirken ve sunucularımızdan sayfa talep "
+"ettiğinizde bilgisayarınızdan kişisel olarak tanımlanabilir bilgiler "
+"toplamaz. Bu, gönüllü olarak ve bilerek bize kişisel olarak tanımlanabilir "
+"bilgiler vermediğiniz sürece, adınızı, e-posta adresinizi veya diğer kişisel"
+" olarak tanımlanabilir bilgilerinizi bilemeyeceğimiz anlamına gelir."
+
+#: templates/privacypolicy.html:19
+msgid ""
+"When you request a page from our Website, our servers log the information "
+"provided in the HTTP request header, JavaScript or similar technical tools, "
+"including the IP number, the time of the request, the URL of your request "
+"and other information. We collect this information in order to make our "
+"Website function correctly and provide you the functionality that you see on"
+" the Website, as our servers use this information to deliver to you the "
+"pages on this Website. We also use this information to better understand how"
+" visitors use our Website and how we can better tune our Website, its "
+"contents and functionality to meet your needs. However, this information is "
+"not associated with any personally identifiable information of persons "
+"browsing the Website."
+msgstr ""
+"Web Sitemizden bir sayfa talep ettiğinizde, sunucularımız HTTP istek "
+"başlığında, JavaScript&#39;te veya IP numarası, isteğin zamanı, isteğinizin "
+"URL&#39;si ve diğer bilgiler dahil olmak üzere benzer teknik araçlarda "
+"sağlanan bilgileri günlüğe kaydeder. Sunucularımız bu bilgileri size bu Web "
+"Sitesindeki sayfaları sunmak için kullandığından, Web Sitemizin doğru bir "
+"şekilde çalışmasını sağlamak ve Web Sitesinde gördüğünüz işlevselliği "
+"sağlamak için bu bilgileri topluyoruz. Bu bilgileri ayrıca ziyaretçilerin "
+"Web Sitemizi nasıl kullandığını ve Web Sitemizi, içeriğini ve işlevselliğini"
+" ihtiyaçlarınızı karşılayacak şekilde nasıl daha iyi ayarlayabileceğimizi "
+"daha iyi anlamak için kullanırız. Ancak bu bilgiler, Web Sitesini gezen "
+"kişilerin kişisel olarak tanımlanabilir bilgileriyle ilişkilendirilmez."
+
+#: templates/privacypolicy.html:22
+msgid ""
+"We use Google Analytics cookies to understand and save your preferences for "
+"future visits. Cookies are small files that a site or its service provider "
+"transfers to your computers hard drive through your Web browser (if you "
+"allow) that enables the sites or service providers systems to recognize your"
+" browser and capture and remember certain information)"
+msgstr ""
+"Gelecekteki ziyaretleriniz için tercihlerinizi anlamak ve kaydetmek için "
+"Google Analytics çerezlerini kullanıyoruz. Çerezler, bir sitenin veya hizmet"
+" sağlayıcısının Web tarayıcınız aracılığıyla (izin verirseniz) "
+"bilgisayarlarınızın sabit diskine aktardığı, sitelerin veya hizmet sağlayıcı"
+" sistemlerinin tarayıcınızı tanımasını ve belirli bilgileri yakalamasını ve "
+"hatırlamasını sağlayan küçük dosyalardır)"
+
+#: templates/privacypolicy.html:25
+msgid ""
+"Some of the advertisements you see on the Site are selected and delivered by"
+" third parties, such as ad networks, advertising agencies, advertisers, and "
+"audience segment providers. These third parties may collect information "
+"about you and your online activities, either on the Site or on other "
+"websites, through cookies, web beacons, and other technologies in an effort "
+"to understand your interests and deliver to you advertisements that are "
+"tailored to your interests. The information practices of these third parties"
+" are not covered by this privacy policy"
+msgstr ""
+"Sitede gördüğünüz reklamlardan bazıları, reklam ağları, reklam ajansları, "
+"reklamcılar ve izleyici segmenti sağlayıcıları gibi üçüncü şahıslar "
+"tarafından seçilir ve iletilir. Bu üçüncü taraflar, ilgi alanlarınızı "
+"anlamak ve size ilgi alanlarınıza göre uyarlanmış reklamlar sunmak amacıyla "
+"çerezler, web işaretçileri ve diğer teknolojiler aracılığıyla Sitede veya "
+"diğer web sitelerinde sizin ve çevrimiçi etkinlikleriniz hakkında bilgi "
+"toplayabilir. Bu üçüncü tarafların bilgi uygulamaları bu gizlilik politikası"
+" kapsamında değildir."
+
+#: templates/privacypolicy.html:28
+msgid ""
+"We do not sell, trade, or otherwise transfer to outside parties your "
+"personally identifiable information. This does not include trusted third "
+"parties who assist us in operating our website, conducting our business, or "
+"servicing you, so long as those parties agree to keep this information "
+"confidential. We may also release your information when we believe release "
+"is appropriate to comply with the law, enforce our site policies, or protect"
+" ours or others rights, property, or safety. However, non-personally "
+"identifiable visitor information may be provided to other parties for "
+"marketing, advertising, or other uses"
+msgstr ""
+"Kişisel olarak tanımlanabilir bilgilerinizi dış taraflara satmayız, "
+"ticaretini yapmayız veya başka bir şekilde aktarmayız. Bu, web sitemizi "
+"işletmemize, işimizi yürütmemize veya size hizmet vermemize yardımcı olan "
+"güvenilir üçüncü tarafları, bu taraflar bu bilgileri gizli tutmayı kabul "
+"ettikleri sürece içermez. Ayrıca, yayınlamanın yasalara uymak, site "
+"politikalarımızı uygulamak veya bizim veya başkalarının haklarını, "
+"mülkiyetini veya güvenliğini korumak için uygun olduğuna inandığımızda da "
+"bilgilerinizi yayınlayabiliriz. Ancak, kişisel olarak tanımlanamayan "
+"ziyaretçi bilgileri, pazarlama, reklam veya diğer kullanımlar için diğer "
+"taraflara sağlanabilir."
+
+#: templates/privacypolicy.html:31
+msgid ""
+"Occasionally, at our discretion, we may include or offer third party "
+"products or services on our website. These third party sites have separate "
+"and independent privacy policies. We therefore have no responsibility or "
+"liability for the content and activities of these linked sites. Nonetheless,"
+" we seek to protect the integrity of our site and welcome any feedback about"
+" these sites"
+msgstr ""
+"Bazen, kendi takdirimize bağlı olarak, web sitemize üçüncü taraf ürünleri "
+"veya hizmetleri ekleyebilir veya sunabiliriz. Bu üçüncü taraf sitelerinin "
+"ayrı ve bağımsız gizlilik politikaları vardır. Bu nedenle, bu bağlantılı "
+"sitelerin içeriği ve faaliyetleri için hiçbir sorumluluğumuz veya "
+"yükümlülüğümüz yoktur. Bununla birlikte, sitemizin bütünlüğünü korumaya "
+"çalışıyoruz ve bu siteler hakkında her türlü geri bildirimi memnuniyetle "
+"karşılıyoruz."
+
+#: templates/privacypolicy.html:34
+msgid ""
+"Changes to our Privacy Policy. If we decide to change our privacy policy, we"
+" will post those changes on this page"
+msgstr ""
+"Gizlilik Politikamızdaki Değişiklikler. Gizlilik politikamızı değiştirmeye "
+"karar verirsek, bu değişiklikleri bu sayfada yayınlayacağız."
+
+#: templates/privacypolicy.html:37
+msgid "TIKSSS Video Downloader"
+msgstr "TIKSSS Video İndirici"
+
+#: templates/privacypolicy.html:38
+msgid ""
+"TIK built the TIKSSS Mp4 Video Downloader for TikTok</b> app as an Ad "
+"Supported app. This SERVICE is provided by TIKsss at no cost and is intended"
+" for use as is"
+msgstr ""
+"TIK, TikTok uygulaması için TIKSSS Mp4 Video İndiricisini Reklam Destekli "
+"bir uygulama olarak oluşturdu. Bu HİZMET TIKsss tarafından ücretsiz olarak "
+"sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır."
+
+#: templates/privacypolicy.html:39
+msgid ""
+"This page is used to inform visitors regarding our policies with the "
+"collection, use, and disclosure of Personal Information if anyone decided to"
+" use our Service"
+msgstr ""
+"Bu sayfa, herhangi biri Hizmetimizi kullanmaya karar verirse, Kişisel "
+"Bilgilerin toplanması, kullanılması ve ifşa edilmesiyle ilgili "
+"politikalarımız hakkında ziyaretçileri bilgilendirmek için kullanılır."
+
+#: templates/privacypolicy.html:40
+msgid ""
+"If you choose to use our Service, then you agree to the collection and use "
+"of information in relation to this policy. The Personal Information that we "
+"collect is used for providing and improving the Service. We will not use or "
+"share your information with anyone except as described in this Privacy "
+"Policy"
+msgstr ""
+"Hizmetimizi kullanmayı seçerseniz, bu politikayla ilgili bilgilerin "
+"toplanmasını ve kullanılmasını kabul etmiş olursunuz. Topladığımız Kişisel "
+"Bilgiler, Hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi bu "
+"Gizlilik Politikasında açıklananlar dışında kimseyle kullanmayacağız veya "
+"paylaşmayacağız."
+
+#: templates/privacypolicy.html:41
+msgid ""
+"The terms used in this Privacy Policy have the same meanings as in our Terms"
+" and Conditions, which is accessible at TIKSSS Video Downloader and Mp3 "
+"Converter for TikTok unless otherwise defined in this Privacy Policy"
+msgstr ""
+"Bu Gizlilik Politikasında kullanılan terimler, bu Gizlilik Politikasında "
+"aksi belirtilmedikçe, TIKSSS Video İndirici ve TikTok için Mp3 "
+"Dönüştürücü&#39;den erişilebilen Hüküm ve Koşullarımızdakiyle aynı anlamlara"
+" sahiptir."
+
+#: templates/privacypolicy.html:42
+msgid "Information we collect"
+msgstr "Topladığımız bilgiler"
+
+#: templates/privacypolicy.html:43
+msgid ""
+"The personal information that you are asked to provide, and the reasons why "
+"you are asked to provide it, will be made clear to you at the point we ask "
+"you to provide your personal information"
+msgstr ""
+"Sizden istenen kişisel bilgiler ve neden vermenizin istendiği, kişisel "
+"bilgilerinizi vermenizi istediğimiz noktada size açıklığa kavuşturulacaktır."
+
+#: templates/privacypolicy.html:44
+msgid ""
+"If you contact us directly, we may receive additional information about you "
+"such as your name, email address, phone number, and the contents of the "
+"message and/or attachments you may send us, and any other information you "
+"may choose to provide"
+msgstr ""
+"Bizimle doğrudan iletişime geçerseniz, adınız, e-posta adresiniz, telefon "
+"numaranız ve bize gönderebileceğiniz mesajın ve/veya eklerin içeriği ve "
+"vermeyi seçebileceğiniz diğer bilgiler gibi sizinle ilgili ek bilgiler "
+"alabiliriz."
+
+#: templates/privacypolicy.html:45
+msgid ""
+"When you register for an Account, we may ask for your contact information, "
+"including items such as name, company name, address, email address, and "
+"telephone number."
+msgstr ""
+"Bir Hesap için kaydolduğunuzda, ad, şirket adı, adres, e-posta adresi ve "
+"telefon numarası gibi öğeler dahil olmak üzere iletişim bilgilerinizi "
+"isteyebiliriz."
+
+#: templates/privacypolicy.html:46
+msgid "Log Data"
+msgstr "Günlük Verileri"
+
+#: templates/privacypolicy.html:47
+msgid ""
+"we want to inform you that whenever you use our Service, in a case of an "
+"error in the app we collect data and information (through third party "
+"products) on your phone called Log Data. This Log Data may include "
+"information such as your device Internet Protocol (\"IP\") address, device "
+"name, operating system version, the configuration of the app when utilizing "
+"our Service, the time and date of your use of the Service, and other "
+"statistics"
+msgstr ""
+"Hizmetimizi her kullandığınızda, uygulamada bir hata olması durumunda, "
+"telefonunuzdaki Log Data adlı veri ve bilgileri (üçüncü taraf ürünler "
+"aracılığıyla) topladığımızı size bildirmek isteriz. Bu Günlük Verileri, "
+"cihazınızın İnternet Protokolü (&quot;IP&quot;) adresi, cihaz adı, işletim "
+"sistemi sürümü, Hizmetimizi kullanırken uygulamanın yapılandırması, Hizmeti "
+"kullanımınızın saati ve tarihi ve diğer istatistikler gibi bilgileri "
+"içerebilir."
+
+#: templates/privacypolicy.html:49 templates/tandc.html:15
+msgid "Cookies"
+msgstr "Kurabiye"
+
+#: templates/privacypolicy.html:50
+msgid ""
+"Cookies are files with a small amount of data that are commonly used as "
+"anonymous unique identifiers. These are sent to your browser from the "
+"websites that you visit and are stored on your device's internal memory"
+msgstr ""
+"Çerezler, genellikle anonim benzersiz tanımlayıcılar olarak kullanılan az "
+"miktarda veri içeren dosyalardır. Bunlar, ziyaret ettiğiniz web sitelerinden"
+" tarayıcınıza gönderilir ve cihazınızın dahili hafızasında saklanır."
+
+#: templates/privacypolicy.html:51
+msgid ""
+"This Service does not use these \"cookies\" explicitly. However, the app may"
+" use third party code and libraries that use \"cookies\" to collect "
+"information and improve their services. You have the option to either accept"
+" or refuse these cookies and know when a cookie is being sent to your "
+"device. If you choose to refuse our cookies, you may not be able to use some"
+" portions of this Service."
+msgstr ""
+"Bu Hizmet, bu &quot;çerezleri&quot; açıkça kullanmaz. Ancak uygulama, bilgi "
+"toplamak ve hizmetlerini iyileştirmek için üçüncü taraf kodu ve "
+"&quot;çerezler&quot; kullanan kitaplıklar kullanabilir. Bu tanımlama "
+"bilgilerini kabul etme veya reddetme seçeneğine sahipsiniz ve cihazınıza bir"
+" tanımlama bilgisinin ne zaman gönderildiğini bilirsiniz. Çerezlerimizi "
+"reddetmeyi seçerseniz, bu Hizmetin bazı kısımlarını kullanamayabilirsiniz."
+
+#: templates/privacypolicy.html:52
+msgid "Service Providers"
+msgstr "Servis sağlayıcıları"
+
+#: templates/privacypolicy.html:53
+msgid ""
+"We may employ third-party companies and individuals due to the following "
+"reasons:"
+msgstr ""
+"Aşağıdaki nedenlerden dolayı üçüncü taraf şirketleri ve bireyleri istihdam "
+"edebiliriz:"
+
+#: templates/privacypolicy.html:56
+msgid "To facilitate our Service"
+msgstr "Hizmetimizi kolaylaştırmak için"
+
+#: templates/privacypolicy.html:59
+msgid "To provide the Service on our behalf"
+msgstr "Hizmeti bizim adımıza sağlamak için"
+
+#: templates/privacypolicy.html:62
+msgid "To perform Service-related services; or"
+msgstr "Hizmetle ilgili hizmetleri gerçekleştirmek için; veya"
+
+#: templates/privacypolicy.html:65
+msgid "To assist us in analyzing how our Service is used."
+msgstr ""
+"Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak için."
+
+#: templates/privacypolicy.html:68
+msgid ""
+"We want to inform users of this Service that these third parties have access"
+" to your Personal Information. The reason is to perform the tasks assigned "
+"to them on our behalf. However, they are obligated not to disclose or use "
+"the information for any other purpose."
+msgstr ""
+"Bu Hizmetin kullanıcılarını, bu üçüncü tarafların Kişisel Bilgilerinize "
+"erişimi olduğu konusunda bilgilendirmek istiyoruz. Sebebi ise kendilerine "
+"verilen görevleri bizim adımıza yerine getirmektir. Ancak, bilgileri başka "
+"bir amaçla açıklamamak veya kullanmamakla yükümlüdürler."
+
+#: templates/privacypolicy.html:69
+msgid "Security"
+msgstr "Güvenlik"
+
+#: templates/privacypolicy.html:70
+#, python-format
+msgid ""
+"We value your trust in providing us your Personal Information, thus we are "
+"striving to use commercially acceptable means of protecting it. But remember"
+" that no method of transmission over the internet, or method of electronic "
+"storage is 100%% secure and reliable, and we cannot guarantee its absolute "
+"security."
+msgstr ""
+"Bize Kişisel Bilgilerinizi sağlama konusundaki güveninize değer veriyoruz, "
+"bu nedenle ticari olarak kabul edilebilir koruma yöntemlerini kullanmaya "
+"çalışıyoruz. Ancak internet üzerinden hiçbir iletim yönteminin veya "
+"elektronik depolama yönteminin %100 güvenli ve güvenilir olmadığını ve "
+"mutlak güvenliğini garanti edemeyiz."
+
+#: templates/privacypolicy.html:71
+msgid "Links to Other Sites"
+msgstr "Diğer Sitelere Bağlantılar"
+
+#: templates/privacypolicy.html:72
+msgid ""
+"This Service may contain links to other sites. If you click on a third-party"
+" link, you will be directed to that site. Note that these external sites are"
+" not operated by us. Therefore, we strongly advise you to review the Privacy"
+" Policy of these websites. we have no control over and assume no "
+"responsibility for the content, privacy policies, or practices of any third-"
+"party sites or services."
+msgstr ""
+"Bu Hizmet, diğer sitelere bağlantılar içerebilir. Üçüncü taraf bir "
+"bağlantıya tıklarsanız, o siteye yönlendirileceksiniz. Bu harici sitelerin "
+"bizim tarafımızdan işletilmediğini unutmayın. Bu nedenle, bu web sitelerinin"
+" Gizlilik Politikasını incelemenizi şiddetle tavsiye ederiz. herhangi bir "
+"üçüncü taraf sitelerinin veya hizmetlerinin içeriği, gizlilik politikaları "
+"veya uygulamaları üzerinde hiçbir kontrole sahip değiliz ve hiçbir "
+"sorumluluk kabul etmiyoruz."
+
+#: templates/privacypolicy.html:73
+msgid "Children's Privacy"
+msgstr "Çocukların Gizliliği"
+
+#: templates/privacypolicy.html:74
+msgid ""
+"These Services do not address anyone under the age of 13. we do not "
+"knowingly collect personally identifiable information from children under "
+"13. In the case we discover that a child under 13 has provided us with "
+"personal information, we immediately delete this from our servers. If you "
+"are a parent or guardian and you are aware that your child has provided us "
+"with personal information, please contact us so that we will be able to do "
+"necessary actions."
+msgstr ""
+"Bu Hizmetler 13 yaşın altındaki hiç kimseye hitap etmez. 13 yaşın altındaki "
+"çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 13 "
+"yaşın altındaki bir çocuğun bize kişisel bilgiler verdiğini keşfetmemiz "
+"durumunda, bunu derhal sunucularımızdan sileriz. Ebeveyn veya vasi iseniz ve"
+" çocuğunuzun bize kişisel bilgiler verdiğini biliyorsanız, gerekli işlemleri"
+" yapabilmemiz için lütfen bizimle iletişime geçin."
+
+#: templates/privacypolicy.html:75
+msgid "Google Double-Click DART Cookie"
+msgstr "Google Çift Tıklama DART Çerez"
+
+#: templates/privacypolicy.html:76
+msgid ""
+"Google is one of a third-party vendor on our site. It also uses cookies, "
+"known as DART cookies, to serve ads to our site visitors based upon their "
+"visit to www.website.com and other sites on the internet. However, visitors "
+"may choose to decline the use of DART cookies by visiting the Google ad and "
+"content network Privacy Policy at the following URL – "
+msgstr ""
+"Google, sitemizde üçüncü taraf satıcılardan biridir. Ayrıca, www.website.com"
+" ve internetteki diğer siteleri ziyaretlerine dayalı olarak sitemizin "
+"ziyaretçilerine reklam sunmak için DART çerezleri olarak bilinen çerezleri "
+"kullanır. Ancak ziyaretçiler, aşağıdaki URL&#39;deki Google reklam ve içerik"
+" ağı Gizlilik Politikası&#39;nı ziyaret ederek DART çerezlerinin kullanımını"
+" reddetmeyi seçebilir:"
+
+#: templates/privacypolicy.html:78
+msgid "Our Advertising Partners"
+msgstr "Reklam Ortaklarımız"
+
+#: templates/privacypolicy.html:79
+msgid ""
+"Our Advertising Partners Some of advertisers on our site may use cookies and"
+" web beacons. Our advertising partners are listed below. Each of our "
+"advertising partners has their own Privacy Policy for their policies on user"
+" data. For easier access, we hyperlinked to their Privacy Policies below."
+msgstr ""
+"Reklam Ortaklarımız Sitemizdeki bazı reklamcılar çerezler ve web "
+"işaretçileri kullanabilir. Reklam ortaklarımız aşağıda listelenmiştir. "
+"Reklam ortaklarımızın her birinin, kullanıcı verileriyle ilgili politikaları"
+" için kendi Gizlilik Politikası vardır. Daha kolay erişim için, aşağıda "
+"Gizlilik Politikalarına köprü oluşturduk."
+
+#: templates/privacypolicy.html:82
+msgid "Changes to This Privacy Policy"
+msgstr "Bu Gizlilik Politikasındaki Değişiklikler"
+
+#: templates/privacypolicy.html:83
+msgid ""
+"We may update our Privacy Policy from time to time. Thus, you are advised to"
+" review this page periodically for any changes. We will notify you of any "
+"changes by posting the new Privacy Policy on this page."
+msgstr ""
+"Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi "
+"bir değişiklik için bu sayfayı periyodik olarak gözden geçirmeniz önerilir. "
+"Bu sayfada yeni Gizlilik Politikasını yayınlayarak herhangi bir değişiklik "
+"hakkında sizi bilgilendireceğiz."
+
+#: templates/privacypolicy.html:85
+msgid "Advertising Partners Privacy Policies"
+msgstr "Reklam Ortakları Gizlilik Politikaları"
+
+#: templates/privacypolicy.html:86
+msgid ""
+"You may consult this list to find the Privacy Policy for each of the "
+"advertising partners of qload.info. Third-party ad servers or ad networks "
+"uses technologies like cookies, JavaScript, or Web Beacons that are used in "
+"their respective advertisements and links that appear on qload.info, which "
+"are sent directly to users' browser. They automatically receive your IP "
+"address when this occurs. These technologies are used to measure the "
+"effectiveness of their advertising campaigns and/or to personalize the "
+"advertising content that you see on websites that you visit. Note that "
+"qload.info has no access to or control over these cookies that are used by "
+"third-party advertisers."
+msgstr ""
+"qload.info&#39;nun reklamcılık ortaklarının her biri için Gizlilik "
+"Politikasını bulmak için bu listeye başvurabilirsiniz. Üçüncü taraf reklam "
+"sunucuları veya reklam ağları, ilgili reklamlarında kullanılan çerezler, "
+"JavaScript veya Web İşaretçileri gibi teknolojileri ve doğrudan "
+"kullanıcıların tarayıcısına gönderilen qload.info&#39;da görünen "
+"bağlantıları kullanır. Bu gerçekleştiğinde otomatik olarak IP adresinizi "
+"alırlar. Bu teknolojiler, reklam kampanyalarının etkinliğini ölçmek ve/veya "
+"ziyaret ettiğiniz web sitelerinde gördüğünüz reklam içeriğini "
+"kişiselleştirmek için kullanılır. qload.info&#39;nun üçüncü taraf "
+"reklamcılar tarafından kullanılan bu çerezlere erişimi veya bunlar üzerinde "
+"kontrolü olmadığını unutmayın."
+
+#: templates/privacypolicy.html:88
+msgid "Third Party Privacy Policies"
+msgstr "Üçüncü Taraf Gizlilik Politikaları"
+
+#: templates/privacypolicy.html:89
+msgid ""
+"qload.info's Privacy Policy does not apply to other advertisers or websites."
+" Thus, we are advising you to consult the respective Privacy Policies of "
+"these third-party ad servers for more detailed information. It may include "
+"their practices and instructions about how to opt-out of certain options. "
+"You may find a complete list of these Privacy Policies and their links here:"
+" Privacy Policy Links. You can choose to disable cookies through your "
+"individual browser options. To know more detailed information about cookie "
+"management with specific web browsers, it can be found at the browsers' "
+"respective websites. What Are Cookies?"
+msgstr ""
+"qload.info&#39;nun Gizlilik Politikası, diğer reklamverenler veya web "
+"siteleri için geçerli değildir. Bu nedenle, daha ayrıntılı bilgi için bu "
+"üçüncü taraf reklam sunucularının ilgili Gizlilik Politikalarına "
+"başvurmanızı tavsiye ediyoruz. Belirli seçeneklerden nasıl vazgeçileceğine "
+"ilişkin uygulamalarını ve talimatlarını içerebilir. Bu Gizlilik "
+"Politikalarının tam listesini ve bağlantılarını burada bulabilirsiniz: "
+"Gizlilik Politikası Bağlantıları. Bireysel tarayıcı seçenekleriniz "
+"aracılığıyla çerezleri devre dışı bırakmayı seçebilirsiniz. Belirli web "
+"tarayıcılarıyla tanımlama bilgisi yönetimi hakkında daha ayrıntılı bilgi "
+"edinmek için tarayıcıların ilgili web sitelerinde bulunabilir. Çerezler "
+"Nedir?"
+
+#: templates/privacypolicy.html:90
+msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+msgstr "CCPA Gizlilik Hakları (Kişisel Bilgilerimi Satmayın)"
+
+#: templates/privacypolicy.html:91
+msgid ""
+"Under the CCPA, among other rights, California consumers have the right to:"
+msgstr ""
+"CCPA kapsamında, diğer hakların yanı sıra, California tüketicileri aşağıdaki"
+" haklara sahiptir:"
+
+#: templates/privacypolicy.html:92
+msgid ""
+"Request that a business that collects a consumer's personal data disclose "
+"the categories and specific pieces of personal data that a business has "
+"collected about consumers."
+msgstr ""
+"Bir tüketicinin kişisel verilerini toplayan bir işletmenin, bir işletmenin "
+"tüketiciler hakkında topladığı kişisel verilerin kategorilerini ve belirli "
+"parçalarını ifşa etmesini isteyin."
+
+#: templates/privacypolicy.html:93
+msgid ""
+"Request that a business delete any personal data about the consumer that a "
+"business has collected."
+msgstr ""
+"Bir işletmenin, tüketici hakkında topladığı tüm kişisel verileri silmesini "
+"isteyin."
+
+#: templates/privacypolicy.html:95
+msgid ""
+"Request that a business that sells a consumer's personal data, not sell the "
+"consumer's personal data."
+msgstr ""
+"Tüketicinin kişisel verilerini satan bir işletmenin, tüketicinin kişisel "
+"verilerini satmamasını talep edin."
+
+#: templates/privacypolicy.html:96
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us"
+msgstr ""
+"Bir istekte bulunursanız, size yanıt vermek için bir ayımız var. Bu "
+"haklardan herhangi birini kullanmak isterseniz, lütfen bizimle iletişime "
+"geçin."
+
+#: templates/privacypolicy.html:97
+msgid "GDPR Data Protection Rights"
+msgstr "GDPR Veri Koruma Hakları"
+
+#: templates/privacypolicy.html:98
+msgid ""
+"We would like to make sure you are fully aware of all of your data "
+"protection rights. Every user is entitled to the following:"
+msgstr ""
+"Tüm veri koruma haklarınızın tam olarak farkında olduğunuzdan emin olmak "
+"istiyoruz. Her kullanıcı aşağıdaki haklara sahiptir:"
+
+#: templates/privacypolicy.html:99
+msgid ""
+"The right to access – You have the right to request copies of your personal "
+"data. We may charge you a small fee for this service."
+msgstr ""
+"Erişim hakkı – Kişisel verilerinizin kopyalarını talep etme hakkına "
+"sahipsiniz. Bu hizmet için sizden küçük bir ücret talep edebiliriz."
+
+#: templates/privacypolicy.html:100
+msgid ""
+"The right to rectification – You have the right to request that we correct "
+"any information you believe is inaccurate. You also have the right to "
+"request that we complete the information you believe is incomplete."
+msgstr ""
+"Düzeltme hakkı – Yanlış olduğuna inandığınız herhangi bir bilgiyi "
+"düzeltmemizi talep etme hakkınız vardır. Ayrıca, eksik olduğuna inandığınız "
+"bilgileri tamamlamamızı talep etme hakkına da sahipsiniz."
+
+#: templates/privacypolicy.html:101
+msgid ""
+"he right to erasure – You have the right to request that we erase your "
+"personal data, under certain conditions. The right to restrict processing – "
+"You have the right to request that we restrict the processing of your "
+"personal data, under certain conditions."
+msgstr ""
+"silme hakkı – Belirli koşullar altında kişisel verilerinizi silmemizi talep "
+"etme hakkına sahipsiniz. İşlemeyi kısıtlama hakkı – Belirli koşullar altında"
+" kişisel verilerinizin işlenmesini kısıtlamamızı talep etme hakkına "
+"sahipsiniz."
+
+#: templates/privacypolicy.html:102
+msgid ""
+"The right to object to processing – You have the right to object to our "
+"processing of your personal data, under certain conditions."
+msgstr ""
+"İşlemeye itiraz etme hakkı – Belirli koşullar altında kişisel verilerinizi "
+"işlememize itiraz etme hakkınız vardır."
+
+#: templates/privacypolicy.html:103
+msgid ""
+"The right to data portability – You have the right to request that we "
+"transfer the data that we have collected to another organization, or "
+"directly to you, under certain conditions."
+msgstr ""
+"Veri taşınabilirliği hakkı – Topladığımız verileri belirli koşullar altında "
+"başka bir kuruluşa veya doğrudan size aktarmamızı talep etme hakkınız "
+"vardır."
+
+#: templates/privacypolicy.html:104
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us."
+msgstr ""
+"Bir istekte bulunursanız, size yanıt vermek için bir ayımız var. Bu "
+"haklardan herhangi birini kullanmak isterseniz, lütfen bizimle iletişime "
+"geçin."
+
+#: templates/tandc.html:3
+msgid "Terms of Services - Tiksss.com"
+msgstr "Hizmet Şartları - Tiksss.com"
+
+#: templates/tandc.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Terms and Services. If you have any question regarding this than kindly let "
+"us know. Thanks."
+msgstr ""
+"Bu sayfada, web sitemiz Tiksss.com Şartlar ve Hizmetleri hakkında bazı "
+"yararlı bilgiler ekledik. Bununla ilgili herhangi bir sorunuz varsa, lütfen "
+"bize bildirin. Teşekkürler."
+
+#: templates/tandc.html:11
+msgid "Welcome to"
+msgstr "Hoşgeldiniz"
+
+#: templates/tandc.html:12
+msgid ""
+"These terms and conditions outline the rules and regulations for the use of "
+"Tiksss.com Website, located at"
+msgstr ""
+"Bu şartlar ve koşullar, adresinde bulunan Tiksss.com Web Sitesinin "
+"kullanımına ilişkin kural ve düzenlemeleri özetlemektedir."
+
+#: templates/tandc.html:13
+msgid ""
+"By accessing this website we assume you accept these terms and conditions. "
+"Do not continue to use Tiksss.com if you do not agree to take all of the "
+"terms and conditions stated on this page."
+msgstr ""
+"Bu web sitesine erişerek, bu hüküm ve koşulları kabul ettiğinizi "
+"varsayıyoruz. Bu sayfada belirtilen tüm hüküm ve koşulları kabul "
+"etmiyorsanız, Tiksss.com&#39;u kullanmaya devam etmeyin."
+
+#: templates/tandc.html:14
+msgid ""
+"The following terminology applies to these Terms and Conditions, Privacy "
+"Statement and Discla Notice and all Agreements: \"Client\", \"You\" and "
+"\"Your\" refers to you, the person log on this website compliant to the "
+"Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", "
+"\"Our\" and \"Us\", refers to Company. \"Party\", \"Parties\", or \"Us\", "
+"refers to both the Client and ourselves. All terms refer to the of "
+"acceptance and consideration of payment necessary to undertake the process "
+"of our assistance to the Clien the most appropriate manner for the express "
+"purpose of meeting the Client’s needs in respect of provision of Company’s "
+"stated services, in accordance with and subject to, prevailing law of "
+"Netherlands. Any use of above terminology or other words in the singular, "
+"plural, capitalization and/or he/she or they, are take interchangeable and "
+"therefore as referring to same."
+msgstr ""
+"Bu Hüküm ve Koşullar, Gizlilik Bildirimi ve Gizlilik Bildirimi ve tüm "
+"Sözleşmeler için aşağıdaki terminoloji geçerlidir: &quot;Müşteri&quot;, "
+"&quot;Siz&quot; ve &quot;Sizin&quot;, Şirketin hüküm ve koşullarına uygun "
+"olarak bu web sitesinde oturum açan kişi, sizi ifade eder. "
+"&quot;Şirket&quot;, &quot;Kendimiz&quot;, &quot;Biz&quot;, &quot;Bizim&quot;"
+" ve &quot;Biz&quot;, Şirket&#39;i ifade eder. &quot;Taraf&quot;, "
+"&quot;Taraflar&quot; veya &quot;Biz&quot;, hem Müşteriyi hem de kendimizi "
+"ifade eder. Tüm şartlar, Müşteri&#39;nin Şirketin belirtilen hizmetlerinin "
+"sağlanmasına ilişkin ihtiyaçlarının açık bir şekilde karşılanması amacıyla "
+"Müşteri&#39;ye yardım sürecini en uygun şekilde gerçekleştirmek için gerekli"
+" ödemenin kabulünü ve değerlendirilmesini ifade eder. , Hollanda&#39;nın "
+"geçerli kanunu. Yukarıdaki terminolojinin veya diğer kelimelerin tekil, "
+"çoğul, büyük harf kullanımı ve/veya kendisi veya bunlar birbirinin yerine "
+"kullanılabilir ve dolayısıyla aynı anlama gelir."
+
+#: templates/tandc.html:16
+msgid ""
+"We employ the use of cookies. By accessing Tiksss.com, you agreed to use "
+"cookies in agreement  the Tiksss.com Privacy Policy"
+msgstr ""
+"Çerez kullanımı kullanıyoruz. Tiksss.com&#39;a erişerek, Tiksss.com Gizlilik"
+" Politikasını kabul ederek çerezleri kullanmayı kabul etmiş olursunuz."
+
+#: templates/tandc.html:17
+msgid ""
+"Most interactive websites use cookies to let us retrieve the user’s details "
+"for each visit. Coo are used by our website to enable the functionality of "
+"certain areas to make it easier for people visiting website. Some of our "
+"affiliate/advertising partners may also use cookies"
+msgstr ""
+"Çoğu etkileşimli web sitesi, her ziyaret için kullanıcının ayrıntılarını "
+"almamıza izin vermek için çerezleri kullanır. Coo, web sitemiz tarafından "
+"insanların web sitesini ziyaret etmesini kolaylaştırmak için belirli "
+"alanların işlevselliğini sağlamak için kullanılır. Bağlı kuruluş/reklam "
+"ortaklarımızdan bazıları da çerez kullanabilir"
+
+#: templates/tandc.html:18
+msgid "License"
+msgstr "Lisans"
+
+#: templates/tandc.html:19
+msgid ""
+"Unless otherwise stated, Tiksss.com and/or its licensors own the "
+"intellectual property rights all material on Tiksss.com. All intellectual "
+"property rights are reserved. You may access this from Tiksss for your own "
+"personal use subjected to restrictions set in these terms and conditions"
+msgstr ""
+"Aksi belirtilmedikçe, Tiksss.com ve/veya lisans verenleri, "
+"Tiksss.com&#39;daki tüm materyallerin fikri mülkiyet haklarına sahiptir. Tüm"
+" fikri mülkiyet hakları saklıdır. Bu hüküm ve koşullarda belirtilen "
+"kısıtlamalara tabi olarak kendi kişisel kullanımınız için Tiksss&#39;ten "
+"buna erişebilirsiniz."
+
+#: templates/tandc.html:20
+msgid "You must not"
+msgstr "Yapmamalısın"
+
+#: templates/tandc.html:23
+msgid "Republish material from Tiksss.com"
+msgstr "Tiksss.com&#39;dan materyali yeniden yayınlayın"
+
+#: templates/tandc.html:26
+msgid "Sell, rent or sub-license material from Tiksss.com"
+msgstr "Tiksss.com&#39;dan malzeme satmak, kiralamak veya alt lisans vermek"
+
+#: templates/tandc.html:29
+msgid "Reproduce, duplicate or copy material from Tiksss.com"
+msgstr "Tiksss.com&#39;daki materyalleri çoğaltın, çoğaltın veya kopyalayın"
+
+#: templates/tandc.html:32
+msgid "Redistribute content from Tiksss.com"
+msgstr "İçeriği Tiksss.com&#39;dan yeniden dağıtın"
+
+#: templates/tandc.html:35
+msgid "This Agreement shall begin on the date hereof."
+msgstr "Bu Sözleşme, işbu Sözleşme tarihinde başlayacaktır."
+
+#: templates/tandc.html:36
+msgid ""
+"Parts of this website offer an opportunity for users to post and exchange "
+"opinions and informa in certain areas of the website. Tiksss.com does not "
+"filter, edit, publish or review Comments prior to t presence on the website."
+" Comments do not reflect the views and opinions of Tiksss.com, its agents an"
+" affiliates. Comments reflect the views and opinions of the person who post "
+"their views and opinions. To extent permitted by applicable laws, Tiksss.com"
+" shall not be liable for the Comments or for any liabil damages or expenses "
+"caused and/or suffered as a result of any use of and/or posting of and/or "
+"appearance of Comments on this website."
+msgstr ""
+"Bu web sitesinin bölümleri, kullanıcılara web sitesinin belirli alanlarında "
+"fikir ve bilgi gönderme ve alışverişinde bulunma fırsatı sunar. Tiksss.com, "
+"web sitesinde bulunmadan önce Yorumları filtrelemez, düzenlemez, yayınlamaz "
+"veya incelemez. Yorumlar, acenteleri ve iştirakleri olan Tiksss.com&#39;un "
+"görüş ve düşüncelerini yansıtmaz. Yorumlar, görüş ve düşüncelerini "
+"yayınlayan kişinin görüş ve düşüncelerini yansıtır. Yürürlükteki yasaların "
+"izin verdiği ölçüde, Tiksss.com, Yorumlardan veya bu web sitesindeki "
+"Yorumların herhangi bir şekilde kullanılması ve/veya yayınlanması ve/veya "
+"görünümünden kaynaklanan ve/veya maruz kalınan herhangi bir sorumlu zarar "
+"veya masraftan sorumlu olmayacaktır. ."
+
+#: templates/tandc.html:37
+msgid ""
+"Tiksss.com reserves the right to monitor all Comments and to remove any "
+"Comments which ca considered inappropriate, offensive or causes breach of "
+"these Terms and Conditions."
+msgstr ""
+"Tiksss.com, tüm Yorumları izleme ve uygunsuz, saldırgan olarak "
+"değerlendirilebilecek veya bu Hüküm ve Koşulların ihlaline neden olabilecek "
+"Yorumları kaldırma hakkını saklı tutar."
+
+#: templates/tandc.html:38
+msgid "You warrant and represent that:"
+msgstr "Şunları garanti ve beyan ediyorsunuz:"
+
+#: templates/tandc.html:41
+msgid ""
+"You are entitled to post the Comments on our website and have all necessary "
+"licenses and consents to do so;"
+msgstr ""
+"Yorumları web sitemizde yayınlama hakkına sahipsiniz ve bunun için gerekli "
+"tüm lisanslara ve izinlere sahipsiniz;"
+
+#: templates/tandc.html:44
+msgid ""
+"The Comments do not invade any intellectual property right, including "
+"without limitation copyright, patent or trademark of any third party;"
+msgstr ""
+"Yorumlar, herhangi bir üçüncü şahsın telif hakkı, patenti veya ticari "
+"markası dahil ancak bunlarla sınırlı olmamak üzere herhangi bir fikri "
+"mülkiyet hakkını ihlal etmez;"
+
+#: templates/tandc.html:47
+msgid ""
+"The Comments do not contain any defamatory, libelous, offensive, indecent or"
+" otherwise unlawful material which is an invasion of privacy"
+msgstr ""
+"Yorumlar, mahremiyeti ihlal eden, karalayıcı, karalayıcı, saldırgan, "
+"uygunsuz veya başka bir şekilde yasa dışı materyal içermemektedir."
+
+#: templates/tandc.html:50
+msgid ""
+"The Comments will not be used to solicit or promote business or custom or "
+"present commercial activities or unlawful activity."
+msgstr ""
+"Yorumlar, ticari faaliyetleri veya gelenekleri teşvik etmek veya teşvik "
+"etmek veya ticari faaliyetler veya yasa dışı faaliyetler sunmak için "
+"kullanılmayacaktır."
+
+#: templates/tandc.html:53
+msgid ""
+"You hereby grant Tiksss.com a non-exclusive license to use, reproduce, edit "
+"and authorize others to use, reproduce and edit any of your Comments in any "
+"and all forms, formats or media."
+msgstr ""
+"İşbu belgeyle Tiksss.com&#39;a münhasır olmayan bir lisans veriyorsunuz, "
+"kullanmak, çoğaltmak, düzenlemek ve başkalarına herhangi bir şekilde, "
+"herhangi bir biçimde, formatta veya ortamda Yorumlarınızı kullanmak, "
+"çoğaltmak ve düzenlemek için yetki vermektesiniz."
+
+#: templates/tandc.html:54
+msgid "Hyper linking to our Content"
+msgstr "İçeriğimize hiper bağlantı"
+
+#: templates/tandc.html:55
+msgid ""
+"The following organizations may link to our Website without prior written "
+"approval"
+msgstr ""
+"Aşağıdaki kuruluşlar önceden yazılı onay almadan Web Sitemize bağlantı "
+"verebilir"
+
+#: templates/tandc.html:58
+msgid "Government agencies"
+msgstr "Devlet kurumları"
+
+#: templates/tandc.html:61
+msgid "Search engines"
+msgstr "Arama motorları"
+
+#: templates/tandc.html:64
+msgid "News organizations"
+msgstr "Haber kuruluşları"
+
+#: templates/tandc.html:67
+msgid ""
+"Online directory distributors may link to our Website in the same manner as "
+"they hyperlink to the Websites of other listed businesses; and"
+msgstr ""
+"Çevrimiçi rehber dağıtıcıları, Web Sitemize, listelenen diğer işletmelerin "
+"Web Sitelerine köprü oluşturdukları gibi bağlantı verebilirler; ve"
+
+#: templates/tandc.html:70
+msgid ""
+"System wide Accredited Businesses except soliciting non-profit "
+"organizations, charity shopping malls, and charity fundraising groups which "
+"may not hyperlink to our Web site."
+msgstr ""
+"Kar amacı gütmeyen kuruluşlar, hayır amaçlı alışveriş merkezleri ve Web "
+"sitemize köprü oluşturamayan hayır kurumu bağış toplama grupları talep eden "
+"hariç, sistem çapında Akredite İşletmeler."
+
+#: templates/tandc.html:73
+msgid ""
+"These organizations may link to our home page, to publications or to other "
+"Website information so long as the link: (a) is not in any way deceptive; "
+"(b) does not falsely imply sponsorship, endorsement or approval of the "
+"linking party and its products and/or services; and (c) fits within the "
+"context of the linking party’s site."
+msgstr ""
+"Bu kuruluşlar, bağlantı: (a) hiçbir şekilde yanıltıcı olmadığı sürece; (b) "
+"bağlantı veren tarafın ve ürünlerinin ve/veya hizmetlerinin sponsorluğunu, "
+"onayını veya onayını yanlış bir şekilde ima etmez; ve (c) bağlantı veren "
+"tarafın sitesi bağlamına uyması."
+
+#: templates/tandc.html:74
+msgid ""
+"We may consider and approve other link requests from the following types of "
+"organizations"
+msgstr ""
+"Aşağıdaki kuruluş türlerinden gelen diğer bağlantı isteklerini dikkate "
+"alabilir ve onaylayabiliriz."
+
+#: templates/tandc.html:77
+msgid "commonly-known consumer and/or business information sources"
+msgstr "yaygın olarak bilinen tüketici ve/veya işletme bilgi kaynakları"
+
+#: templates/tandc.html:80
+msgid "dot.com community sites"
+msgstr "dot.com topluluk siteleri"
+
+#: templates/tandc.html:83
+msgid "associations or other groups representing charities"
+msgstr "hayır kurumlarını temsil eden dernekler veya diğer gruplar"
+
+#: templates/tandc.html:86
+msgid "online directory distributors"
+msgstr "çevrimiçi dizin dağıtıcıları"
+
+#: templates/tandc.html:89
+msgid "internet portals"
+msgstr "internet portalları"
+
+#: templates/tandc.html:92
+msgid "accounting, law and consulting firms; and"
+msgstr "muhasebe, hukuk ve danışmanlık firmaları; ve"
+
+#: templates/tandc.html:95
+msgid "Educational institutions and trade associations."
+msgstr "Eğitim kurumları ve ticaret birlikleri."
+
+#: templates/tandc.html:98
+msgid ""
+"We will approve link requests from these organizations if we decide that: "
+"(a) the link would not make us look unfavorably to ourselves or to our "
+"accredited businesses; (b) the organization does not have any negative "
+"records with us; (c) the benefit to us from the visibility of the hyperlink "
+"compensates the absence of Tiksss.com; and (d) the link is in the context of"
+" general resource information."
+msgstr ""
+"Aşağıdakilere karar verirsek, bu kuruluşlardan gelen bağlantı isteklerini "
+"onaylayacağız: (a) bağlantı, kendimiz veya akredite işletmelerimiz için "
+"olumsuz görünmemize neden olmaz; (b) kuruluşun bizimle herhangi bir olumsuz "
+"kaydının olmaması; (c) hiper bağlantının görünürlüğünün bize sağladığı "
+"fayda, Tiksss.com&#39;un yokluğunu telafi eder; ve (d) bağlantı, genel "
+"kaynak bilgileri bağlamındadır."
+
+#: templates/tandc.html:99
+msgid ""
+"These organizations may link to our home page so long as the link: (a) is "
+"not in any way deceptive; (b) does not falsely imply sponsorship, "
+"endorsement or approval of the linking party and its products or services; "
+"and (c) fits within the context of the linking party’s site."
+msgstr ""
+"Bu kuruluşlar, bağlantı: (a) hiçbir şekilde yanıltıcı olmadığı; (b) bağlantı"
+" veren tarafın ve ürün veya hizmetlerinin sponsorluğunu, onayını veya "
+"onayını yanlış bir şekilde ima etmez; ve (c) bağlantı veren tarafın sitesi "
+"bağlamına uyması."
+
+#: templates/tandc.html:100
+msgid ""
+"If you are one of the organizations listed in paragraph 2 above and are "
+"interested in linking to our website, you must inform us by sending an "
+"e-mail to Tiksss.com. Please include your name, your organization name, "
+"contact information as well as the URL of your site, a list of any URLs from"
+" which you intend to link to our Website, and a list of the URLs on our site"
+" to which you would like to link. Wait 2-3 weeks for a response."
+msgstr ""
+"Yukarıdaki 2. paragrafta listelenen kuruluşlardan biriyseniz ve web sitemize"
+" bağlantı vermekle ilgileniyorsanız, Tiksss.com&#39;a bir e-posta göndererek"
+" bizi bilgilendirmelisiniz. Lütfen adınızı, kuruluşunuzun adını, iletişim "
+"bilgilerinizin yanı sıra sitenizin URL&#39;sini, Web Sitemize bağlantı "
+"vermeyi düşündüğünüz URL&#39;lerin bir listesini ve sitemizde yer almak "
+"istediğiniz URL&#39;lerin bir listesini ekleyin. bağlantı. Yanıt için 2-3 "
+"hafta bekleyin."
+
+#: templates/tandc.html:102
+msgid "Approved organizations may hyperlink to our Website as follows:"
+msgstr ""
+"Onaylı kuruluşlar Web Sitemize aşağıdaki şekilde hiper bağlantı verebilir:"
+
+#: templates/tandc.html:105
+msgid "By use of our corporate name; or"
+msgstr "Kurumsal ismimizi kullanarak; veya"
+
+#: templates/tandc.html:108
+msgid "By use of the uniform resource locator being linked to; or"
+msgstr "Bağlantılı olan tek tip kaynak bulucu kullanılarak; veya"
+
+#: templates/tandc.html:111
+msgid ""
+"By use of any other description of our Website being linked to that makes "
+"sense within the context and format of content on the linking party’s site."
+msgstr ""
+"Web Sitemizin bağlantılı olduğu diğer herhangi bir açıklamanın kullanılması,"
+" bağlantı veren tarafın sitesindeki içeriğin bağlamı ve formatı içinde "
+"mantıklıdır."
+
+#: templates/tandc.html:114
+msgid ""
+"No use of Tiksss.com logo or other artwork will be allowed for linking "
+"absent a trademark license agreement."
+msgstr ""
+"Tiksss.com logosunun veya diğer sanat eserlerinin, ticari marka lisans "
+"sözleşmesi olmadan bağlantı oluşturmak için kullanılmasına izin "
+"verilmeyecektir."
+
+#: templates/tandc.html:115
+msgid "iFrames"
+msgstr "iFrame&#39;ler"
+
+#: templates/tandc.html:116
+msgid ""
+"Without prior approval and written permission, you may not create frames "
+"around our Webpages that alter in any way the visual presentation or "
+"appearance of our Website"
+msgstr ""
+"Önceden onay ve yazılı izin olmaksızın, Web Sayfalarımızın çevresinde, Web "
+"Sitemizin görsel sunumunu veya görünümünü herhangi bir şekilde değiştiren "
+"çerçeveler oluşturamazsınız."
+
+#: templates/tandc.html:117
+msgid "Content Liability"
+msgstr "İçerik Sorumluluğu"
+
+#: templates/tandc.html:118
+msgid ""
+"We shall not be hold responsible for any content that appears on your "
+"Website. You agree to protect and defend us against all claims that is "
+"rising on your Website. No link(s) should appear on any Website that may be "
+"interpreted as libelous, obscene or criminal, or which infringes, otherwise "
+"violates, or advocates the infringement or other violation of, any third "
+"party rights"
+msgstr ""
+"Web Sitenizde görünen herhangi bir içerikten sorumlu tutulamayız. Web "
+"Sitenizde ortaya çıkan tüm iddialara karşı bizi korumayı ve savunmayı kabul "
+"ediyorsunuz. Herhangi bir Web sitesinde iftira niteliğinde, müstehcen veya "
+"suçlu olarak yorumlanabilecek veya herhangi bir üçüncü taraf hakkını ihlal "
+"eden, başka bir şekilde ihlal eden veya ihlal veya diğer ihlalleri savunan "
+"hiçbir bağlantı görünmemelidir."
+
+#: templates/tandc.html:119
+msgid "Your Privacy"
+msgstr "Gizliliğiniz"
+
+#: templates/tandc.html:120
+msgid "Please read Privacy Policy"
+msgstr "Lütfen Gizlilik Politikasını okuyun"
+
+#: templates/tandc.html:121
+msgid "Reservation of Rights"
+msgstr "Hakların Saklanması"
+
+#: templates/tandc.html:122
+msgid ""
+"We reserve the right to request that you remove all links or any particular "
+"link to our Website. You approve to immediately remove all links to our "
+"Website upon request. We also reserve the right to amen these terms and "
+"conditions and it’s linking policy at any time. By continuously linking to "
+"our Website, you agree to be bound to and follow these linking terms and "
+"conditions"
+msgstr ""
+"Web Sitemize olan tüm bağlantıları veya belirli bir bağlantıyı kaldırmanızı "
+"talep etme hakkımızı saklı tutarız. Talep üzerine Web Sitemize olan tüm "
+"bağlantıları derhal kaldırmayı onaylıyorsunuz. Ayrıca, bu hüküm ve koşulları"
+" ve bağlantı politikasını herhangi bir zamanda değiştirme hakkını saklı "
+"tutarız. Web Sitemize sürekli olarak bağlanarak, bu bağlantı şart ve "
+"koşullarına bağlı kalmayı ve bunlara uymayı kabul etmektesiniz."
+
+#: templates/tandc.html:123
+msgid "Removal of links from our website"
+msgstr "Web sitemizden bağlantıların kaldırılması"
+
+#: templates/tandc.html:124
+msgid ""
+"If you find any link on our Website that is offensive for any reason, you "
+"are free to contact and inform us any moment. We will consider requests to "
+"remove links but we are not obligated to or so or to respond to you directly"
+msgstr ""
+"Web Sitemizde herhangi bir nedenle saldırgan bir bağlantı bulursanız, "
+"istediğiniz zaman bizimle iletişime geçebilir ve bizi "
+"bilgilendirebilirsiniz. Bağlantıları kaldırma isteklerini dikkate alacağız, "
+"ancak size doğrudan yanıt vermekle yükümlü değiliz."
+
+#: templates/tandc.html:125
+msgid ""
+"We do not ensure that the information on this website is correct, we do not "
+"warrant its completeness or accuracy; nor do we promise to ensure that the "
+"website remains available or that the material on the website is kept up to "
+"date"
+msgstr ""
+"Bu web sitesindeki bilgilerin doğruluğunu garanti etmiyoruz, eksiksizliğini "
+"veya doğruluğunu garanti etmiyoruz; ne de web sitesinin kullanılabilir "
+"kalmasını veya web sitesindeki materyalin güncel tutulmasını sağlamayı "
+"taahhüt etmiyoruz."
+
+#: templates/tandc.html:126
+msgid "Disclaimer"
+msgstr "sorumluluk reddi"
+
+#: templates/tandc.html:127
+msgid ""
+"To the maximum extent permitted by applicable law, we exclude all "
+"representations, warranties and conditions relating to our website and the "
+"use of this website. Nothing in this disclaimer will"
+msgstr ""
+"Yürürlükteki yasaların izin verdiği azami ölçüde, web sitemize ve bu web "
+"sitesinin kullanımına ilişkin tüm beyanları, garantileri ve koşulları hariç "
+"tutuyoruz. Bu sorumluluk reddindeki hiçbir şey"
+
+#: templates/tandc.html:130
+msgid "limit or exclude our or your liability for death or personal injury;"
+msgstr ""
+"ölüm veya kişisel yaralanma için bizim veya sizin sorumluluğunuzu sınırlamak"
+" veya hariç tutmak;"
+
+#: templates/tandc.html:133
+msgid ""
+"limit or exclude our or your liability for fraud or fraudulent "
+"misrepresentation;"
+msgstr ""
+"dolandırıcılık veya hileli yanlış beyan için bizim veya sizin "
+"sorumluluğunuzu sınırlamak veya hariç tutmak;"
+
+#: templates/tandc.html:136
+msgid ""
+"limit any of our or your liabilities in any way that is not permitted under "
+"applicable law; or"
+msgstr ""
+"bizim veya sizin yükümlülüklerinizden herhangi birini geçerli yasaların izin"
+" vermediği şekilde sınırlamak; veya"
+
+#: templates/tandc.html:139
+msgid ""
+"exclude any of our or your liabilities that may not be excluded under "
+"applicable law."
+msgstr ""
+"yürürlükteki yasalar kapsamında hariç tutulmayan herhangi bir "
+"yükümlülüğümüzü veya sizin yükümlülüklerinizi hariç tutun."
+
+#: templates/tandc.html:142
+msgid ""
+"The limitations and prohibitions of liability set in this Section and "
+"elsewhere in this disclaimer: (a) are subject to the preceding paragraph; "
+"and (b) govern all liabilities arising under the disclaimer, including "
+"liabilities arising in contract, in tort and for breach of statutory duty."
+msgstr ""
+"Bu Bölümde ve bu sorumluluk reddinin başka yerlerinde belirtilen sorumluluk "
+"sınırlamaları ve yasakları: (a) önceki paragrafa tabidir; ve (b) "
+"sözleşmeden, haksız fiilden ve kanuni görevin ihlalinden doğan yükümlülükler"
+" de dahil olmak üzere, sorumluluk reddinden doğan tüm yükümlülükleri "
+"yönetir."
+
+#: templates/tandc.html:143
+msgid ""
+"As long as the website and the information and services on the website are "
+"provided free of charge, we will not be liable for any loss or damage of any"
+" nature."
+msgstr ""
+"Web sitesi ve web sitesindeki bilgi ve hizmetler ücretsiz olarak sağlandığı "
+"sürece, herhangi bir kayıp veya hasardan sorumlu olmayacağız."
+
+#: templates/without.html:13
+msgid "Video Without Watermark"
+msgstr "Filigransız Video"
+
+#: templates/without.html:29
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Filigran Olmadan TikTok Videosunu Çevrimiçi Ücretsiz İndirin:"
+
+#: templates/without.html:30
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"Filigransız veya Filigransız TikTok Videolarını İndirin. Bu yöntem, orijinal"
+" kalitede filigran olmadan video indirmek için çok benzersizdir. Bu aracı "
+"çok kolay hale getirdik ve Windows, Mac OS, Ipad, Android cihazlarda "
+"sorunsuz çalışıyor. Özellikle PC kullanıcıları için ekstra bir yazılım veya "
+"Uygulama yüklemeleri gerekmez ve bu TikTok filigransız video indirme "
+"aracının tek özelliği budur. git"
+
+#: templates/without.html:30
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"ve açılır menüyü göreceksiniz, üzerine tıklayın ve “Filigransız” seçeneğini "
+"seçin. Bir sonraki sayfada sadece bağlantıyı yapıştırın ve “İndir Düğmesine”"
+" tıklayın. Videonuzu indirmeye başlamak için birkaç saniye bekleyin. Ayrıca "
+"“Filigranlı TikTok Videosunu İndirin” ve bunun için web sitemizin Ana "
+"Sayfasını ziyaret edebilir ve en sevdiğiniz videoyu 10 saniyeden daha kısa "
+"sürede indirebilirsiniz."
+
+#: templates/without.html:34
+msgid "Frequently Asked Questions "
+msgstr "Sıkça Sorulan Sorular"
+
+#: tiktok/settings.py:138
+msgid "English"
+msgstr "ingilizce"
+
+#: tiktok/settings.py:139
+msgid "Italian"
+msgstr "İtalyan"
+
+#: tiktok/settings.py:140
+msgid "Polish"
+msgstr "Lehçe"
+
+#: tiktok/settings.py:141
+msgid "French"
+msgstr "Fransızca"
+
+#: tiktok/settings.py:142
+msgid "German"
+msgstr "Almanca"
+
+#: tiktok/settings.py:143
+msgid "Spanish"
+msgstr "İspanyol"
+
+#: tiktok/settings.py:144
+msgid "Indonesian"
+msgstr "Endonezya dili"
+
+#: tiktok/settings.py:145
+msgid "Japanese"
+msgstr "Japonca"
+
+#: tiktok/settings.py:146
+msgid "Korean"
+msgstr "Koreli"
+
+#: tiktok/settings.py:147
+msgid "Portuguese"
+msgstr "Portekizce"
+
+#: tiktok/settings.py:148
+msgid "Russian"
+msgstr "Rusça"
+
+#: tiktok/settings.py:149
+msgid "Arabic"
+msgstr "Arapça"
+
+#: tiktok/settings.py:150
+msgid "Turkish"
+msgstr "Türk"
+
+#: tiktok/settings.py:151
+msgid "Thai"
+msgstr "Tay"
+
+#: tiktok/settings.py:152
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: venv/lib/python3.8/site-packages/django/contrib/messages/apps.py:7
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: venv/lib/python3.8/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "Site Haritaları"
+
+#: venv/lib/python3.8/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "Statik Dosyalar"
+
+#: venv/lib/python3.8/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "sendikasyon"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:51
+msgid "That page number is not an integer"
+msgstr "Bu sayfa numarası bir tam sayı değil"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:53
+msgid "That page number is less than 1"
+msgstr "Bu sayfa numarası 1&#39;den az"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:58
+msgid "That page contains no results"
+msgstr "O sayfa sonuç içermiyor"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr "Geçerli bir değer girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:93
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:664
+msgid "Enter a valid URL."
+msgstr "Geçerli bir URL girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:150
+msgid "Enter a valid integer."
+msgstr "Geçerli bir tam sayı girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:161
+msgid "Enter a valid email address."
+msgstr "Geçerli bir e-posta adresi girin."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.8/site-packages/django/core/validators.py:262
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"Harf, sayı, alt çizgi veya kısa çizgiden oluşan geçerli bir "
+"&quot;bilgi&quot; girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:269
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"Unicode harfleri, sayıları, alt çizgileri veya kısa çizgilerden oluşan "
+"geçerli bir &quot;bilgi&quot; girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:278
+#: venv/lib/python3.8/site-packages/django/core/validators.py:288
+#: venv/lib/python3.8/site-packages/django/core/validators.py:311
+msgid "Enter a valid IPv4 address."
+msgstr "Geçerli bir IPv4 adresi girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:296
+#: venv/lib/python3.8/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv6 address."
+msgstr "Geçerli bir IPv6 adresi girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:306
+#: venv/lib/python3.8/site-packages/django/core/validators.py:310
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "Geçerli bir IPv4 veya IPv6 adresi girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:340
+msgid "Enter only digits separated by commas."
+msgstr "Yalnızca virgülle ayrılmış rakamları girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:346
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+"Bu değerin %(limit_value)s olduğundan emin olun ( %(show_value)s&#39;dir)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:379
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+"Bu değerin %(limit_value)sdeğerinden küçük veya ona eşit olduğundan emin "
+"olun."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:388
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+"Bu değerin %(limit_value)sdeğerinden büyük veya ona eşit olduğundan emin "
+"olun."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:398
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Bu değerin en az %(limit_value)d karakterine sahip olduğundan emin olun ( "
+"%(show_value)diçerir)."
+msgstr[1] ""
+"Bu değerin en az %(limit_value)d karaktere sahip olduğundan emin olun ( "
+"%(show_value)diçerir)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:413
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Bu değerin en fazla %(limit_value)d karakterine sahip olduğundan emin olun ("
+" %(show_value)ddeğerine sahiptir)."
+msgstr[1] ""
+"Bu değerin en fazla %(limit_value)d karaktere sahip olduğundan emin olun ( "
+"%(show_value)diçerir)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:432
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:292
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:327
+msgid "Enter a number."
+msgstr "Bir numara girin."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:434
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "Toplamda %(max)s basamaktan fazla olmadığından emin olun."
+msgstr[1] "Toplamda %(max)s basamaktan fazla olmadığından emin olun."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:439
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] " %(max)s ondalık basamaktan fazla olmadığından emin olun."
+msgstr[1] " %(max)s ondalık basamaktan fazla olmadığından emin olun."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:444
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+"Ondalık noktadan önce %(max)s basamaktan fazla olmadığından emin olun."
+msgstr[1] ""
+"Ondalık noktadan önce %(max)s basamaktan fazla olmadığından emin olun."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:506
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"“%(extension)s” dosya uzantısına izin verilmiyor. İzin verilen uzantılar: "
+"%(allowed_extensions)s."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:559
+msgid "Null characters are not allowed."
+msgstr "Boş karakterlere izin verilmez."
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1197
+#: venv/lib/python3.8/site-packages/django/forms/models.py:768
+msgid "and"
+msgstr "ve"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1199
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "Bu%(model_name)s ile %(field_labels)s zaten var."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:100
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "Değer %(değer)r geçerli bir seçim değil."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:101
+msgid "This field cannot be null."
+msgstr "Bu alan boş olamaz."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:102
+msgid "This field cannot be blank."
+msgstr "Bu alan boş bırakılamaz."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:103
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "Bu%(model_name)s ile %(field_label)s zaten var."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:107
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)s , %(date_field_label)s %(lookup_type)siçin benzersiz "
+"olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "Tür alanı: %(field_type)s"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:958
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "“%(value)s” değeri True veya False olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:959
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "“%(value)s” değeri Doğru, Yanlış veya Yok olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:961
+msgid "Boolean (Either True or False)"
+msgstr "Boolean (Doğru veya Yanlış)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1002
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "Dize ( %(max_length)s&#39;e kadar)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1096
+msgid "Comma-separated integers"
+msgstr "Virgülle ayrılmış tam sayılar"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1145
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"“%(value)s” değeri geçersiz bir tarih biçimine sahip. YYYY-AA-GG formatında "
+"olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1147
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1290
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"“%(value)s” değeri doğru formatta (YYYY-AA-GG) ancak geçersiz bir tarih."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
+msgid "Date (without time)"
+msgstr "Tarih (zamansız)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1288
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"“%(value)s” değeri geçersiz bir biçime sahip. YYYY-AA-GG "
+"SS:DD[:ss[.uuuuuu]][TZ] biçiminde olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1292
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"“%(value)s” değeri doğru biçime sahip (YYYY-AA-GG SS:DD[:ss[.uuuuu]][TZ]) "
+"ancak geçersiz bir tarih/saat."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
+msgid "Date (with time)"
+msgstr "Tarih (zamanla birlikte)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "“%(value)s” değeri ondalık bir sayı olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
+msgid "Decimal number"
+msgstr "Ondalık sayı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1585
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+"“%(value)s” değeri geçersiz bir biçime sahip. [GG] [[SS:]MM:]ss[.uuuuuu] "
+"biçiminde olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1588
+msgid "Duration"
+msgstr "Süre"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1638
+msgid "Email address"
+msgstr "E"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1661
+msgid "File path"
+msgstr "Dosya yolu"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1727
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "“%(value)s” değeri bir kayan nokta olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1729
+msgid "Floating point number"
+msgstr "Kayan nokta numarası"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "“%(value)s” değeri bir tamsayı olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1769
+msgid "Integer"
+msgstr "tamsayı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1852
+msgid "Big (8 byte) integer"
+msgstr "Büyük (8 bayt) tam sayı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1867
+msgid "Small integer"
+msgstr "Küçük tamsayı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1875
+msgid "IPv4 address"
+msgstr "IPv4 adresi"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1906
+msgid "IP address"
+msgstr "IP adresi"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1986
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1987
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "“%(value)s” değeri Yok, Doğru veya Yanlış olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1989
+msgid "Boolean (Either True, False or None)"
+msgstr "Boolean (Doğru, Yanlış veya Yok)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2043
+msgid "Positive big integer"
+msgstr "pozitif büyük tamsayı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2056
+msgid "Positive integer"
+msgstr "Pozitif tamsayı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2069
+msgid "Positive small integer"
+msgstr "pozitif küçük tamsayı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2083
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Bilgi ( %(max_length)s&#39;e kadar)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2115
+msgid "Text"
+msgstr "Metin"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2181
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"“%(value)s” değeri geçersiz bir biçime sahip. SS:DD[:ss[.uuuuuu]] biçiminde "
+"olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2183
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"“%(value)s” değeri doğru biçime sahip (SS:DD[:ss[.uuuuu]]) ancak geçersiz "
+"bir zaman."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2186
+msgid "Time"
+msgstr "Zaman"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2312
+msgid "URL"
+msgstr "URL"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Raw binary data"
+msgstr "Ham ikili veri"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2399
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "&quot;%(value)s&quot; geçerli bir UUID değil."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2401
+msgid "Universally unique identifier"
+msgstr "Evrensel benzersiz tanımlayıcı"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:226
+msgid "File"
+msgstr "Dosya"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:375
+msgid "Image"
+msgstr "resim"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr "Bir JSON nesnesi"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr "Değer, geçerli JSON olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:790
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "%(model)s %(value)r ile %(field)s örneği mevcut değil."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
+msgid "Foreign Key (type determined by related field)"
+msgstr "Yabancı Anahtar (ilgili alan tarafından belirlenen tür)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
+msgid "One-to-one relationship"
+msgstr "Bire bir ilişki"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1099
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s ilişki"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1100
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s ilişkiler"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
+msgid "Many-to-many relationship"
+msgstr "Çoktan çoğa ilişki"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: venv/lib/python3.8/site-packages/django/forms/boundfield.py:150
+msgid ":?.!"
+msgstr ":?.!"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:54
+msgid "This field is required."
+msgstr "Bu alan gereklidir."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:247
+msgid "Enter a whole number."
+msgstr "Bir tam sayı girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:391
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1132
+msgid "Enter a valid date."
+msgstr "Geçerli bir tarih girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:415
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1133
+msgid "Enter a valid time."
+msgstr "Geçerli bir zaman girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:443
+msgid "Enter a valid date/time."
+msgstr "Geçerli bir tarih/saat girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:477
+msgid "Enter a valid duration."
+msgstr "Geçerli bir süre girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:478
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "Gün sayısı {min_days} ile {max_days} arasında olmalıdır."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:538
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "Dosya gönderilmedi. Formdaki kodlama türünü kontrol edin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:539
+msgid "No file was submitted."
+msgstr "Dosya gönderilmedi."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:540
+msgid "The submitted file is empty."
+msgstr "Gönderilen dosya boş."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:542
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"Bu dosya adının en fazla %(max)d karaktere sahip olduğundan emin olun ( "
+"%(length)diçerir)."
+msgstr[1] ""
+"Bu dosya adının en fazla %(max)d karakter içerdiğinden emin olun ( "
+"%(length)diçerir)."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:545
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+"Lütfen bir dosya gönderin veya her ikisini birden değil, onay kutusunu "
+"işaretleyin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:606
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Geçerli bir resim yükleyin. Yüklediğiniz dosya bir resim değil ya da bozuk "
+"bir resim."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:768
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:858
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1309
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "Geçerli bir seçim seçin. %(value)s mevcut seçeneklerden biri değil."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:859
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:974
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1308
+msgid "Enter a list of values."
+msgstr "Bir değerler listesi girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:975
+msgid "Enter a complete value."
+msgstr "Tam bir değer girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1191
+msgid "Enter a valid UUID."
+msgstr "Geçerli bir UUID girin."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1221
+msgid "Enter a valid JSON."
+msgstr "Geçerli bir JSON girin."
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:76
+msgid ":"
+msgstr ":"
+
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:203
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(Gizli alan %(name)s) %(error)s"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"ManagementForm verileri eksik veya değiştirilmiş. Eksik alanlar: "
+"%(field_names)s. Sorun devam ederse, bir hata raporu göndermeniz "
+"gerekebilir."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:370
+#, python-format
+msgid "Please submit at most %d form."
+msgid_plural "Please submit at most %d forms."
+msgstr[0] "Lütfen en fazla %d formu gönderin."
+msgstr[1] "Lütfen en fazla %d form gönderin."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
+#, python-format
+msgid "Please submit at least %d form."
+msgid_plural "Please submit at least %d forms."
+msgstr[0] "Lütfen en az %d formu gönderin."
+msgstr[1] "Lütfen en az %d form gönderin."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:412
+msgid "Order"
+msgstr "Sipariş"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:417
+msgid "Delete"
+msgstr "Sil"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:763
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "Lütfen %(field)siçin yinelenen verileri düzeltin."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:767
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+"Lütfen benzersiz olması gereken %(field)siçin yinelenen verileri düzeltin."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:773
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"Lütfen %(field_name)s içindeki %(lookup)s için benzersiz olması gereken "
+"%(date_field)siçin yinelenen verileri düzeltin."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:782
+msgid "Please correct the duplicate values below."
+msgstr "Lütfen aşağıdaki yinelenen değerleri düzeltin."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1109
+msgid "The inline value did not match the parent instance."
+msgstr "Satır içi değer, üst örnekle eşleşmedi."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1193
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr "Geçerli bir seçim seçin. Bu seçim mevcut seçeneklerden biri değildir."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1311
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "“%(pk)s” geçerli bir değer değil."
+
+#: venv/lib/python3.8/site-packages/django/forms/utils.py:172
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s , %(current_timezone)ssaat diliminde yorumlanamadı; belirsiz "
+"olabilir veya mevcut olmayabilir."
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:403
+msgid "Clear"
+msgstr "Açık"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:404
+msgid "Currently"
+msgstr "Şu anda"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:405
+msgid "Change"
+msgstr "Değişiklik"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:714
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:715
+msgid "Yes"
+msgstr "Evet"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:716
+msgid "No"
+msgstr "Hayır"
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:805
+msgid "yes,no,maybe"
+msgstr "Evet Hayır Belki"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:834
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:851
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d bayt"
+msgstr[1] "%(size)d bayt"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:853
+#, python-format
+msgid "%s KB"
+msgstr "%s KB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:855
+#, python-format
+msgid "%s MB"
+msgstr "%s MB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:857
+#, python-format
+msgid "%s GB"
+msgstr "%s GB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:859
+#, python-format
+msgid "%s TB"
+msgstr "%s TB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:861
+#, python-format
+msgid "%s PB"
+msgstr "%s PB"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:66
+msgid "p.m."
+msgstr "öğleden sonra"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:67
+msgid "a.m."
+msgstr "ben"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:72
+msgid "PM"
+msgstr "PM"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:73
+msgid "AM"
+msgstr "AM"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:146
+msgid "midnight"
+msgstr "gece yarısı"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:148
+msgid "noon"
+msgstr "öğle vakti"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr "Salı"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Friday"
+msgstr "Cuma"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Sunday"
+msgstr "Pazar"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Mon"
+msgstr "Pzt"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Tue"
+msgstr "sal"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Wed"
+msgstr "evlenmek"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Thu"
+msgstr "Per"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Fri"
+msgstr "Cuma"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sat"
+msgstr "Oturdu"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sun"
+msgstr "Güneş"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "January"
+msgstr "Ocak"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "February"
+msgstr "Şubat"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "March"
+msgstr "Mart"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "April"
+msgstr "Nisan"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "May"
+msgstr "Mayıs"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "June"
+msgstr "Haziran"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "July"
+msgstr "Temmuz"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "August"
+msgstr "Ağustos"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "September"
+msgstr "Eylül"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "October"
+msgstr "Ekim"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "November"
+msgstr "Kasım"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:16
+msgid "December"
+msgstr "Aralık"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jan"
+msgstr "ocak"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "feb"
+msgstr "Şubat"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "mar"
+msgstr "mar"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "apr"
+msgstr "nisan"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "may"
+msgstr "Mayıs"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jun"
+msgstr "haziran"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "jul"
+msgstr "temmuz"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "aug"
+msgstr "ağustos"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "sep"
+msgstr "eylül"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "oct"
+msgstr "ekim"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "nov"
+msgstr "kasım"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "dec"
+msgstr "aralık"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "Ocak"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "Şubat."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "Mart"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "Nisan"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "Mayıs"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "Haziran"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "Temmuz"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "Ağustos"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "Eylül."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "Ekim"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "Kasım"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "Aralık"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr "Ocak"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr "Şubat"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr "Mart"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr "Nisan"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr "Mayıs"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr "Haziran"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr "Temmuz"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr "Ağustos"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr "Eylül"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr "Ekim"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr "Kasım"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr "Aralık"
+
+#: venv/lib/python3.8/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "Bu geçerli bir IPv6 adresi değil."
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:71
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:240
+msgid "or"
+msgstr "veya"
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.8/site-packages/django/utils/text.py:259
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ","
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d yıl"
+msgstr[1] "%d yıl"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d ay"
+msgstr[1] "%d ay"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d hafta"
+msgstr[1] "%d hafta"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d gün"
+msgstr[1] "%d gün"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d saat"
+msgstr[1] "%d saat"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d dakika"
+msgstr[1] "%d dakika"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:110
+msgid "Forbidden"
+msgstr "yasak"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr "CSRF doğrulaması başarısız oldu. İstek iptal edildi."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"Bu mesajı görüyorsunuz çünkü bu HTTPS sitesi, Web tarayıcınız tarafından bir"
+" &quot;Yönlendiren başlığı&quot; gönderilmesini gerektiriyor, ancak hiçbiri "
+"gönderilmedi. Bu başlık, güvenlik nedenleriyle, tarayıcınızın üçüncü "
+"şahıslar tarafından ele geçirilmediğinden emin olmak için gereklidir."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:120
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"Tarayıcınızı &quot;Yönlendiren&quot; başlıklarını devre dışı bırakacak "
+"şekilde yapılandırdıysanız, lütfen bunları en azından bu site için veya "
+"HTTPS bağlantıları için veya &quot;aynı kaynaktan&quot; istekler için "
+"yeniden etkinleştirin."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"kullanıyorsanız<meta name=\"referrer\" content=\"no-referrer\"> etiketi veya"
+" &quot;Yönlendiren-Policy: no-referrer&quot; başlığı dahil, lütfen bunları "
+"kaldırın. CSRF koruması, &quot;Yönlendiren&quot; başlığının sıkı başvuru "
+"denetimi yapmasını gerektirir. Gizlilik konusunda endişeleriniz varsa, <a "
+"rel=\"noreferrer\" …>üçüncü taraf sitelere bağlantılar gibi alternatifleri "
+"kullanın.</a>"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"Bu mesajı, bu site form gönderirken bir CSRF tanımlama bilgisi gerektirdiği "
+"için görüyorsunuz. Bu çerez, güvenlik nedenleriyle, tarayıcınızın üçüncü "
+"şahıslar tarafından ele geçirilmediğinden emin olmak için gereklidir."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"Tarayıcınızı tanımlama bilgilerini devre dışı bırakacak şekilde "
+"yapılandırdıysanız, lütfen bunları en azından bu site için veya &quot;aynı "
+"kaynaktan&quot; istekler için yeniden etkinleştirin."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr "DEBUG=True ile daha fazla bilgi edinilebilir."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:41
+msgid "No year specified"
+msgstr "Yıl belirtilmedi"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:61
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:111
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:208
+msgid "Date out of range"
+msgstr "Aralık dışı tarih"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:90
+msgid "No month specified"
+msgstr "Ay belirtilmedi"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:142
+msgid "No day specified"
+msgstr "Gün belirtilmedi"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:188
+msgid "No week specified"
+msgstr "Hafta belirtilmedi"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:338
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "Kullanılabilir %(verbose_name_plural)s yok"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:594
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+"Gelecek %(verbose_name_plural)s kullanılamıyor çünkü "
+"%(class_name)s.allow_future Yanlış."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:628
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+"Geçersiz tarih dizesi &quot;%(datestr)s&quot;, &quot;%(format)s&quot; "
+"biçiminde verildi"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "Sorguyla eşleşen %(verbose_name)s bulunamadı"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:67
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "Sayfa &quot;son&quot; değildir ve bir int&#39;ye dönüştürülemez."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "Geçersiz sayfa (%(page_number)s): %(message)s"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:154
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "Boş liste ve “%(class_name)s.allow_empty” False."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr "Burada dizin dizinlerine izin verilmez."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:42
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "“%(path)s” mevcut değil"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr " %(directory)sdizini"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "Kurulum başarıyla çalıştı! Tebrikler!"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"Django%(version)siçin <a href=\"https://docs.djangoproject.com/en/ "
+"%(version)s/releases/\" target=\"_blank\" rel=\"noopener\">sürüm "
+"notlarını</a> görüntüleyin"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"Bu sayfayı görüyorsunuz çünkü <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> ayar dosyanızda bulunuyor "
+"ve herhangi bir URL yapılandırmadınız."
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr "Django Belgeleri"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "Konular, referanslar ve nasıl yapılır"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "Öğretici: Bir Oylama Uygulaması"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "Django&#39;yu kullanmaya başlayın"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr "Django Topluluğu"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "Bağlanın, yardım alın veya katkıda bulunun"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:368
+#, python-format
+msgid "Content purported to be compressed with %s but failed to decompress."
+msgstr ""
+"İçeriğin %s ile sıkıştırıldığı iddia edildi ancak sıkıştırması açılamadı."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:532
+#, python-format
+msgid "Unsupported value for qop: %s."
+msgstr "qop için desteklenmeyen değer: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:536
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:614
+#, python-format
+msgid "Unsupported value for algorithm: %s."
+msgstr "Algoritma için desteklenmeyen değer: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:609
+msgid "The challenge doesn't contain a server nonce, or this one is empty."
+msgstr "Meydan okuma bir sunucu nonce içermiyor veya bu boş."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:619
+#, python-format
+msgid "Unsupported value for pw-algorithm: %s."
+msgstr "pw-algoritması için desteklenmeyen değer: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
+msgid "Redirected but the response is missing a Location: header."
+msgstr "Yönlendirildi ancak yanıtta Location: başlığı eksik."

@@ -1,0 +1,3247 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-28 19:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: templates/about.html:3
+msgid "About Us - Tiksss.com"
+msgstr "Chi siamo - Tiksss.com"
+
+#: templates/about.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com. If"
+" you have any question regarding this than kindly let us know. Thanks."
+msgstr ""
+"In questa pagina abbiamo aggiunto alcune informazioni utili sul nostro sito "
+"Tiksss.com. Se hai qualche domanda in merito, faccelo sapere gentilmente. "
+"Grazie."
+
+#: templates/about.html:10
+msgid "About US"
+msgstr "Chi siamo"
+
+#: templates/about.html:11
+msgid "is an amazing popular"
+msgstr "è un incredibile popolare"
+
+#: templates/about.html:11
+msgid ""
+"tool that allows users from different regions to download and convert TikTok"
+" videos online free."
+msgstr ""
+"strumento che consente agli utenti di diverse regioni di scaricare e "
+"convertire video TikTok online gratuitamente."
+
+#: templates/about.html:12
+msgid ""
+"Our platform supports different type of TikTok video converting tools like, "
+"TikTok to Mp4, Mp3, Video Cutter, and downloads TikTok videos without "
+"watermark or with watermark in just few seconds which you can view here in "
+"our website"
+msgstr ""
+"La nostra piattaforma supporta diversi tipi di strumenti di conversione "
+"video TikTok come TikTok in Mp4, Mp3, Video Cutter e scarica video TikTok "
+"senza filigrana o con filigrana in pochi secondi che puoi visualizzare qui "
+"nel nostro sito web"
+
+#: templates/about.html:13
+msgid "Why Tiksss.com"
+msgstr "Perché Tiksss.com"
+
+#: templates/about.html:14
+msgid ""
+"Our tool design is very unique and simple. We made this tool for customers "
+"and users purpose only. It’s very fast, easy, and safe for everyone to use "
+"in your daily life routine even if you are a content creator. This tool "
+"helps you a lot and save your time for sure. Tiksss is always here and ready"
+" to help you out if you facing any problem. If you have any queries then "
+"kindly contact us over here:"
+msgstr ""
+"Il design del nostro strumento è davvero unico e semplice. Abbiamo "
+"realizzato questo strumento solo per i clienti e gli utenti. È molto veloce,"
+" facile e sicuro da usare per tutti nella tua routine quotidiana, anche se "
+"sei un creatore di contenuti. Questo strumento ti aiuta molto e ti fa "
+"sicuramente risparmiare tempo. Tiksss è sempre qui e pronto ad aiutarti in "
+"caso di problemi. Se hai domande, ti preghiamo gentilmente di contattarci "
+"qui:"
+
+#: templates/audio.html:4 templates/download1.html:4
+#: templates/download4.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "Convertitore da TikTok a Mp3 online gratuito - Tiksss.com"
+
+#: templates/audio.html:7 templates/download1.html:5
+#: templates/download4.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"Convertitore da TikTok a Mp3 online gratuito sul nostro sito Web Tiksss.com."
+" È il nostro strumento più veloce per convertire i video Tiktok in formato "
+"Mp3 per gli amanti di Tiktok, che è totalmente gratuito."
+
+#: templates/audio.html:14 templates/without.html:13
+msgid "Download"
+msgstr "Scarica"
+
+#: templates/audio.html:14
+msgid "Audio"
+msgstr "Audio"
+
+#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
+#: templates/without.html:14
+msgid "Enter the URL Here"
+msgstr "Inserisci l&#39;URL qui"
+
+#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
+#: templates/without.html:24
+msgid "Search"
+msgstr "Ricerca"
+
+#: templates/audio.html:31
+msgid "TikTok to Mp3 Converter Online Free"
+msgstr "Convertitore da TikTok a Mp3 online gratuito"
+
+#: templates/audio.html:32
+msgid ""
+"If you are music lover then you will know the value of this TikTok to Mp3 "
+"Converter Online Tool. We have made this tool very easy and simple. You "
+"people can use this tool on your preferred devices without any limits. Make "
+"sure that you have to bookmark this tool page for future. We have added all "
+"the instructions of this tool that how you people can use and take benefits "
+"from it. Kindly share this tool with your friends and family member with the"
+" help of social media because they will definitely like and use this for "
+"sure. For more Info visit our Website"
+msgstr ""
+"Se sei un amante della musica, allora conoscerai il valore di questo "
+"strumento online di conversione da TikTok a Mp3. Abbiamo reso questo "
+"strumento molto facile e semplice. Voi persone potete utilizzare questo "
+"strumento sui vostri dispositivi preferiti senza limiti. Assicurati di "
+"aggiungere questa pagina degli strumenti ai segnalibri per il futuro. "
+"Abbiamo aggiunto tutte le istruzioni di questo strumento su come le persone "
+"possono utilizzarlo e trarne vantaggio. Si prega di condividere questo "
+"strumento con i tuoi amici e familiari con l&#39;aiuto dei social media "
+"perché sicuramente apprezzeranno e lo useranno di sicuro. Per maggiori "
+"informazioni visita il nostro sito web"
+
+#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
+#: templates/index.html:29
+msgid "Frequently Asked Questions"
+msgstr "Domande frequenti"
+
+#: templates/audio.html:39
+msgid ""
+"How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
+" to Mp3 Online Free:"
+msgstr ""
+"Come convertire Tiktok in Mp3 online gratuitamente con alta qualità - "
+"Scarica TikTok in Mp3 online gratuitamente:"
+
+#: templates/audio.html:45 templates/faq.html:44
+msgid ""
+"Select a video URL on TikTok which you want to convert into mp3 format."
+msgstr ""
+"Seleziona un URL video su TikTok che desideri convertire in formato mp3."
+
+#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+msgid "Copy the selected video link on your smartphone / computer or Laptop"
+msgstr ""
+"Copia il collegamento video selezionato sul tuo smartphone/computer o laptop"
+
+#: templates/audio.html:51 templates/faq.html:50
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok to Mp3 Converter."
+msgstr ""
+"Vai al nostro sito Web Tiksss.com e nel menu in alto vedrai "
+"&quot;Strumenti&quot; toccalo e seleziona Convertitore da TikTok a Mp3."
+
+#: templates/audio.html:54 templates/faq.html:53
+msgid "Insert the TikTok video link in the field and press \"Convert Button\""
+msgstr ""
+"Inserisci il link del video TikTok nel campo e premi &quot;Convert "
+"Button&quot;"
+
+#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:37 templates/without.html:51
+msgid "Now you will see a download button, click on download."
+msgstr "Ora vedrai un pulsante di download, fai clic su download."
+
+#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine."
+msgstr ""
+"Attendi solo qualche secondo in cui puoi scaricare il video direttamente "
+"nella tua macchina."
+
+#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+msgid ""
+"If you like our tool and services than Kindly share our website with your "
+"friends and family members. Thanks!"
+msgstr ""
+"Se ti piacciono il nostro strumento e i nostri servizi, condividi "
+"gentilmente il nostro sito Web con i tuoi amici e familiari. Grazie!"
+
+#: templates/base.html:28
+msgid "Home"
+msgstr "Casa"
+
+#: templates/base.html:30 templates/base.html:32
+msgid "Tools"
+msgstr "Utensili"
+
+#: templates/base.html:34
+msgid "Download With Watermark"
+msgstr "Scarica con filigrana"
+
+#: templates/base.html:37
+msgid "Download Without Watermark"
+msgstr "Scarica senza filigrana"
+
+#: templates/base.html:38
+msgid "Download Audio"
+msgstr "Scarica audio"
+
+#: templates/base.html:39
+msgid "Audio/Video Cutter"
+msgstr "Taglierina audio/video"
+
+#: templates/base.html:43
+msgid "About"
+msgstr "Di"
+
+#: templates/base.html:76 templates/privacypolicy.html:10
+msgid "Privacy Policy"
+msgstr "politica sulla riservatezza"
+
+#: templates/base.html:79 templates/tandc.html:10
+msgid "Terms and Conditions"
+msgstr "Termini e Condizioni"
+
+#: templates/base.html:82
+msgid "FAQ"
+msgstr "FAQ"
+
+#: templates/cutter.html:4 templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok Video Cutter online gratuito - Tiksss.com"
+
+#: templates/cutter.html:7 templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"Strumento gratuito online per tagliare video TikTok. Come tagliare i video "
+"TikTok online gratuitamente. Taglia e taglia i video TikTok online "
+"gratuitamente."
+
+#: templates/cutter.html:14
+msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
+msgstr "Video Cutter online – TikTok Video Trimmer online gratis"
+
+#: templates/cutter.html:31
+msgid ""
+"Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
+"for your content creation. While using this tool on our website "
+msgstr ""
+"Ecco qui. TikTok Video Cutter Online Free Tool ti offre una soluzione per la"
+" creazione di contenuti. Durante l&#39;utilizzo di questo strumento sul "
+"nostro sito Web"
+
+#: templates/cutter.html:31
+msgid ""
+" you people can easily Trim and Cut TikTok Video in your devices for free. "
+"It’s very unique and user friendly tool for everyone."
+msgstr ""
+"voi persone potete facilmente tagliare e tagliare i video TikTok nei vostri "
+"dispositivi gratuitamente. È uno strumento davvero unico e facile da usare "
+"per tutti."
+
+#: templates/cutter.html:39
+msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgstr "Come tagliare e ritagliare i video TikTok su dispositivi mobili o PC:"
+
+#: templates/cutter.html:44
+msgid "Go to TikTok official website and copy the video link."
+msgstr "Vai al sito Web ufficiale di TikTok e copia il link del video."
+
+#: templates/cutter.html:47
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok Video Cutter."
+msgstr ""
+"Vai al nostro sito Web Tiksss.com e nel menu in alto vedrai "
+"&quot;Strumenti&quot; toccalo e seleziona TikTok Video Cutter."
+
+#: templates/cutter.html:50
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr ""
+"Nella pagina successiva incolla il link del tuo video e fai clic su "
+"&quot;Cut Button&quot;."
+
+#: templates/cutter.html:53
+msgid ""
+"You will see a player down below. Kindly select the specific part which you "
+"want to cut it from tiktok video."
+msgstr ""
+"Vedrai un giocatore in basso. Seleziona gentilmente la parte specifica che "
+"vuoi tagliarla dal video tiktok."
+
+#: templates/cutter.html:56
+msgid ""
+"Now you see two options over here. The first one is to download that "
+"specific cut part of the video in mp4 format or download track in mp3 format"
+" of that specific Trim part of the video."
+msgstr ""
+"Ora vedi due opzioni qui. Il primo è scaricare quella specifica parte "
+"tagliata del video in formato mp4 o scaricare la traccia in formato mp3 di "
+"quella specifica parte tagliata del video."
+
+#: templates/cutter.html:59
+msgid ""
+"Choose one of the given options according to your needs and then proceed it."
+msgstr ""
+"Scegli una delle opzioni fornite in base alle tue esigenze e quindi procedi."
+
+#: templates/cutter.html:62
+msgid "Now finally click on “Download Button” to download it in your device."
+msgstr ""
+"Ora finalmente fai clic su &quot;Pulsante Download&quot; per scaricarlo sul "
+"tuo dispositivo."
+
+#: templates/cutter.html:65
+msgid ""
+"If you like our TikTok Video Cutter and Trimmer Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"Se ti piace il nostro strumento e i servizi TikTok Video Cutter e Trimmer, "
+"condividi gentilmente il nostro sito Web con i tuoi amici e familiari. "
+"Grazie!"
+
+#: templates/download.html:6 templates/index.html:4
+msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
+msgstr "Scarica video Tiktok senza filigrana - Tiksss.Com"
+
+#: templates/download.html:7 templates/index.html:5
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"Scarica video Tiktok senza filigrana online gratuitamente sul nostro sito "
+"Web Tiksss.com. È il nostro downloader di video Tiktok più veloce online per"
+" gli amanti di Tiktok che è totalmente gratuito."
+
+#: templates/download2.html:4 templates/without.html:4
+msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
+msgstr "Scarica video Tiktok senza filigrana online - Tiksss.com"
+
+#: templates/download2.html:6 templates/without.html:6
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Scarica video Tiktok senza filigrana online gratuitamente sul nostro sito "
+"Web Tiksss.com. Puoi facilmente scaricare video Tiktok senza filigrana nel "
+"telefono e nel laptop."
+
+#: templates/faq.html:3
+msgid "Frequently Asked Questions - Tiksss.com"
+msgstr "Domande frequenti - Tiksss.com"
+
+#: templates/faq.html:5
+msgid ""
+"In this page we have added some useful frequently asked questions of our "
+"website Tiksss.com."
+msgstr ""
+"In questa pagina abbiamo aggiunto alcune utili domande frequenti del nostro "
+"sito Tiksss.com."
+
+#: templates/faq.html:13
+msgid "How to Download TikTok Videos Online Free?"
+msgstr "Come scaricare video TikTok online gratuitamente?"
+
+#: templates/faq.html:19 templates/index.html:34
+msgid "Select a video on TikTok which you want to download"
+msgstr "Seleziona un video su TikTok che vuoi scaricare"
+
+#: templates/faq.html:25 templates/index.html:36
+msgid "Insert the TikTok video link on our website and press \"Search Button\""
+msgstr ""
+"Inserisci il link del video TikTok sul nostro sito Web e premi il pulsante "
+"&quot;Cerca&quot;"
+
+#: templates/faq.html:39
+msgid "Tiktok to Mp3 Converter online Free"
+msgstr "Convertitore da Tiktok a Mp3 online gratuito"
+
+#: templates/faq.html:56
+msgid "Now you will see a download button, click on download"
+msgstr "Ora vedrai un pulsante di download, fai clic su download"
+
+#: templates/faq.html:59
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine"
+msgstr ""
+"Attendi solo qualche secondo in cui puoi scaricare il video direttamente "
+"nella tua macchina"
+
+#: templates/faq.html:67 templates/without.html:37
+msgid "How to Download Tiktok Videos without Watermark:"
+msgstr "Come scaricare video Tiktok senza filigrana:"
+
+#: templates/faq.html:72 templates/without.html:42
+msgid "Select a video on TikTok app or web which you want to download."
+msgstr ""
+"Seleziona un video sull&#39;app TikTok o sul Web che desideri scaricare."
+
+#: templates/faq.html:78 templates/without.html:48
+msgid ""
+"Copy paste the selected TikTok video link on our Website Tool Which is "
+"\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
+msgstr ""
+"Copia incolla il link del video TikTok selezionato sul nostro strumento del "
+"sito Web che è &quot;Scarica video Tiktok senza filigrana&quot; e premi il "
+"pulsante &quot;Cerca&quot;."
+
+#: templates/faq.html:84 templates/without.html:54
+msgid ""
+"Just wait a few seconds in which you can download the Tiktok video Without "
+"Watermark directly in your machine."
+msgstr ""
+"Attendi solo qualche secondo in cui puoi scaricare il video di Tiktok senza "
+"filigrana direttamente nella tua macchina."
+
+#: templates/index.html:11
+msgid "to Mp4 Downloader Online Free"
+msgstr "a Mp4 Downloader online gratuito"
+
+#: templates/index.html:24
+msgid ""
+"is an amazing tool for TikTok lovers to save TikTok videos to your device "
+"with a single click. This tool designed is very simple and everyone can use "
+"it easily without any hassle. We all love to watch Tik Tok videos in our "
+"devices which remain in our logs if we want to see those videos again but I "
+"have experienced that the videos no longer available and its gets lost due "
+"to the awesome feedback that platform produces every single day with full "
+"excessive. TikTok does not allow you to download or save videos on your "
+"preferred devices. But those uploaded videos from the user’s side available "
+"on their official website or app with a lot of restrictions. So the question"
+" is that how to solve all these video downloading issues. So I have decided "
+"to make a tool which will be easy to use for everyone because including me "
+"there are millions of people on this platform to watch TikTok videos on "
+"mobile or laptop but they can’t download it. So do not worry about it. I "
+"have made this tool for you people only to "
+msgstr ""
+"è uno strumento straordinario per gli amanti di TikTok per salvare i video "
+"TikTok sul tuo dispositivo con un solo clic. Questo strumento progettato è "
+"molto semplice e tutti possono usarlo facilmente senza problemi. Tutti "
+"amiamo guardare i video di Tik Tok nei nostri dispositivi che rimangono nei "
+"nostri registri se vogliamo vedere di nuovo quei video, ma ho sperimentato "
+"che i video non sono più disponibili e si perdono a causa del fantastico "
+"feedback che la piattaforma produce ogni singolo giorno con pieno eccessivo."
+" TikTok non ti consente di scaricare o salvare video sui tuoi dispositivi "
+"preferiti. Ma quei video caricati dal lato dell&#39;utente sono disponibili "
+"sul loro sito Web o app ufficiale con molte restrizioni. Quindi la domanda è"
+" come risolvere tutti questi problemi di download di video. Quindi ho deciso"
+" di creare uno strumento che sarà facile da usare per tutti perché incluso "
+"me ci sono milioni di persone su questa piattaforma per guardare video "
+"TikTok su cellulare o laptop ma non possono scaricarlo. Quindi non "
+"preoccuparti. Ho creato questo strumento solo per voi persone"
+
+#: templates/index.html:24
+msgid "I proud myself to introduce an amazing "
+msgstr "Sono orgoglioso di presentare un fantastico"
+
+#: templates/index.html:24
+msgid "web app which allow you to download TikTok videos to mp4 format."
+msgstr "app web che ti consente di scaricare video TikTok in formato mp4."
+
+#: templates/index.html:31
+msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
+msgstr "Come scaricare video TikTok su Mp4 con Tiksss.com"
+
+#: templates/index.html:48
+msgid "Introduction of TikTok"
+msgstr "Introduzione di TikTok"
+
+#: templates/index.html:49
+msgid ""
+"Everyone knows that TikTok is very popular right now and with the help of "
+"Tik Tok app. You can create your own videos very easily. TikTok app also "
+"used for streaming and creating content for your own use."
+msgstr ""
+"Tutti sanno che TikTok è molto popolare in questo momento e con l&#39;aiuto "
+"dell&#39;app Tik Tok. Puoi creare i tuoi video molto facilmente. L&#39;app "
+"TikTok viene utilizzata anche per lo streaming e la creazione di contenuti "
+"per uso personale."
+
+#: templates/index.html:50
+msgid ""
+"It’s a Chinese app which also allows you to share your videos on social "
+"media platform, friends and family. TikTok owned by a Chinese company which "
+"is also known as “Bytedance”. The main purpose of using this app to create "
+"videos with lisping, short music creation, dancing and voiceover video "
+"clippings."
+msgstr ""
+"È un&#39;app cinese che ti consente anche di condividere i tuoi video su "
+"piattaforme di social media, amici e familiari. TikTok di proprietà di una "
+"società cinese nota anche come &quot;Bytedance&quot;. Lo scopo principale "
+"dell&#39;utilizzo di questa app per creare video con ritagli di musica, "
+"brevi ritagli di musica, balli e voci fuori campo."
+
+#: templates/index.html:51
+msgid ""
+"If you are a content creator and passionate to produce a unique content to "
+"the customers then this app will helps you a lot to fulfill your dreams come"
+" true. Most of the time people love to do voiceover where people select and "
+"play any music in the background and then they act respectively with that "
+"sound. For me I love to watch funny voiceover videos on this app. Everyday "
+"people shows their talent in different ways and become celebrities via this "
+"platform. This platform has become a source for content creators for "
+"entertainment and viral videos. The content of TikTok may unreachable to "
+"those who do not have wifi or internet availability so make sure you have "
+"internet connection on you device to watch viral and amazing videos. So we "
+"are here to give you this amazing TikTok Mp4 Downloader tool to download "
+"favorite videos on you devices."
+msgstr ""
+"Se sei un creatore di contenuti e sei appassionato di produrre un contenuto "
+"unico per i clienti, questa app ti aiuterà molto a realizzare i tuoi sogni. "
+"La maggior parte delle volte le persone amano fare la voce fuori campo in "
+"cui le persone selezionano e suonano qualsiasi musica in sottofondo e poi "
+"agiscono rispettivamente con quel suono. Per quanto mi riguarda, amo "
+"guardare video divertenti di voiceover su questa app. Le persone comuni "
+"mostrano il loro talento in modi diversi e diventano celebrità tramite "
+"questa piattaforma. Questa piattaforma è diventata una fonte per i creatori "
+"di contenuti per l&#39;intrattenimento e i video virali. Il contenuto di "
+"TikTok potrebbe non essere raggiungibile da coloro che non dispongono di Wi-"
+"Fi o disponibilità di Internet, quindi assicurati di avere una connessione "
+"Internet sul tuo dispositivo per guardare video virali e sorprendenti. "
+"Quindi siamo qui per darti questo fantastico strumento TikTok Mp4 Downloader"
+" per scaricare i video preferiti sui tuoi dispositivi."
+
+#: templates/index.html:61
+msgid "Unlimited Downloads"
+msgstr "Download illimitati"
+
+#: templates/index.html:62
+msgid "Download unlimited videos with no limitations."
+msgstr "Scarica video illimitati senza limitazioni."
+
+#: templates/index.html:66
+msgid "No Watermark on Videos:"
+msgstr "Nessuna filigrana sui video:"
+
+#: templates/index.html:67
+msgid "Download TikTok videos without watermark with no limits."
+msgstr "Scarica video TikTok senza filigrana senza limiti."
+
+#: templates/index.html:71
+msgid "Mp4 Supported HD:"
+msgstr "Mp4 supportato HD:"
+
+#: templates/index.html:72
+msgid "Download TikTok videos with Mp4 format HD."
+msgstr "Scarica video TikTok con formato Mp4 HD."
+
+#: templates/index.html:76
+msgid "Mp3 Support:"
+msgstr "Supporto Mp3:"
+
+#: templates/index.html:77
+msgid "Easily Convert TikTok to Mp3 with high quality."
+msgstr "Converti facilmente TikTok in Mp3 con alta qualità."
+
+#: templates/index.html:89
+msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
+msgstr "Scarica TikTok Video su Mp4 HD sul dispositivo mobile:"
+
+#: templates/index.html:90
+msgid ""
+"If you want to download and save TikTok videos on your mobile device that "
+"you have to download and install TikTok app and then select your favorite "
+"video which you want to download. Here is some important thing when you are "
+"on video download page, see the share button on the right side of your "
+"device screen tap on it with the help of arrow and copy “link”. So open our "
+"website Tiksss.com and paste that copy link in given field and click on "
+"“Search Button”. It will take few seconds to get a downloadable link. You "
+"will see a “Download Button” hit on it to start video downloading on your "
+"device."
+msgstr ""
+"Se desideri scaricare e salvare video TikTok sul tuo dispositivo mobile, "
+"devi scaricare e installare l&#39;app TikTok e quindi selezionare il tuo "
+"video preferito che desideri scaricare. Ecco una cosa importante quando sei "
+"nella pagina di download del video, vedi il pulsante di condivisione sul "
+"lato destro dello schermo del tuo dispositivo toccalo con l&#39;aiuto della "
+"freccia e copia &quot;link&quot;. Quindi apri il nostro sito Web Tiksss.com "
+"e incolla il link di copia nel campo indicato e fai clic su &quot;Pulsante "
+"di ricerca&quot;. Ci vorranno alcuni secondi per ottenere un collegamento "
+"scaricabile. Vedrai un pulsante &quot;Download&quot; su di esso per avviare "
+"il download del video sul tuo dispositivo."
+
+#: templates/index.html:101
+msgid "Download TikTok Video Without Watermark on your Device:"
+msgstr "Scarica video TikTok senza filigrana sul tuo dispositivo:"
+
+#: templates/index.html:102
+msgid ""
+"This method is very unique to get download video without watermark in "
+"original quality. We made this tool very easy and it works smoothly on "
+"windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t "
+"need to install any extra software or App and this is the only specialty of "
+"this TikTok no watermark video download tool. Go to Tiksss.com and you will "
+"see dropdown menu click on it and select “Without Watermark”. On the next "
+"page just paste the link and click “Download Button”. Wait a few seconds to "
+"get start downloading of your video."
+msgstr ""
+"Questo metodo è davvero unico per scaricare video senza filigrana in qualità"
+" originale. Abbiamo reso questo strumento molto semplice e funziona senza "
+"problemi su Windows, Mac OS, Ipad, dispositivi Android. Soprattutto per gli "
+"utenti di PC, non è necessario installare alcun software o app aggiuntivo e "
+"questa è l&#39;unica specialità di questo strumento di download di video "
+"TikTok senza filigrana. Vai su Tiksss.com e vedrai il menu a discesa, fai "
+"clic su di esso e seleziona &quot;Senza filigrana&quot;. Nella pagina "
+"successiva basta incollare il collegamento e fare clic su &quot;Pulsante "
+"Download&quot;. Attendi qualche secondo per iniziare a scaricare il tuo "
+"video."
+
+#: templates/index.html:119
+msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
+msgstr ""
+"Convertitore da Tiktok a MP3 online gratuito per dispositivi mobili e "
+"desktop:"
+
+#: templates/index.html:120
+msgid "If you are music lover then you will know the value of this"
+msgstr "Se sei un amante della musica, allora conoscerai il valore di questo"
+
+#: templates/index.html:120
+msgid ""
+"We have made this tool very easy and simple. You people can use this tool on"
+" your preferred devices without any limits. Make sure that you have to "
+"bookmark this tool page for future. We have added all the instructions of "
+"this tool that how you people can use and take benefits from it. Kindly "
+"share this tool with your friends and family member with the help of social "
+"media because they will definitely like and use this for sure."
+msgstr ""
+"Abbiamo reso questo strumento molto facile e semplice. Voi persone potete "
+"utilizzare questo strumento sui vostri dispositivi preferiti senza limiti. "
+"Assicurati di aggiungere questa pagina degli strumenti ai segnalibri per il "
+"futuro. Abbiamo aggiunto tutte le istruzioni di questo strumento su come le "
+"persone possono utilizzarlo e trarne vantaggio. Si prega di condividere "
+"questo strumento con i tuoi amici e familiari con l&#39;aiuto dei social "
+"media perché a loro piacerà sicuramente e lo useranno sicuramente."
+
+#: templates/index.html:128
+msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgstr "Tiktok Video Cutter online - TikTok Video Trimmer online gratuito:"
+
+#: templates/index.html:129
+msgid "Here you go. "
+msgstr "Ecco qui."
+
+#: templates/index.html:129
+msgid ""
+" provides you a solution for your content creation. While using this tool on"
+" our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
+"your devices for free. It’s very unique and user friendly tool for everyone."
+msgstr ""
+"ti fornisce una soluzione per la creazione dei tuoi contenuti. Durante "
+"l&#39;utilizzo di questo strumento sul nostro sito Web Tiksss.com, puoi "
+"facilmente tagliare e tagliare i video TikTok sui tuoi dispositivi "
+"gratuitamente. È uno strumento davvero unico e facile da usare per tutti."
+
+#: templates/privacypolicy.html:3
+msgid "Privacy Policy - Tiksss.com"
+msgstr "Informativa sulla privacy - Tiksss.com"
+
+#: templates/privacypolicy.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Privacy Policy. If you have any question regarding this than kindly let us "
+"know. Thanks."
+msgstr ""
+"In questa pagina abbiamo aggiunto alcune informazioni utili sulla Privacy "
+"Policy del nostro sito Tiksss.com. Se hai qualche domanda in merito, faccelo"
+" sapere gentilmente. Grazie."
+
+#: templates/privacypolicy.html:13
+msgid "By using"
+msgstr "Usando"
+
+#: templates/privacypolicy.html:13
+msgid ""
+"you signify your agreement to follow all the privacy policy set forth on "
+"this page:"
+msgstr ""
+"dichiari di accettare di seguire tutta la politica sulla privacy esposta in "
+"questa pagina:"
+
+#: templates/privacypolicy.html:16
+msgid ""
+"This Website does not collect personally identifiable information from your "
+"computer when you browse the Website and request pages from our servers. "
+"This means that, unless you voluntarily and knowingly provide us with "
+"personally identifiable information, we will not know your name, your e-mail"
+" address, or any other personally identifiable information."
+msgstr ""
+"Questo sito Web non raccoglie informazioni di identificazione personale dal "
+"tuo computer quando navighi nel sito Web e richiedi pagine dai nostri "
+"server. Ciò significa che, a meno che tu non ci fornisca volontariamente e "
+"consapevolmente informazioni di identificazione personale, non conosceremo "
+"il tuo nome, il tuo indirizzo e-mail o qualsiasi altra informazione di "
+"identificazione personale."
+
+#: templates/privacypolicy.html:19
+msgid ""
+"When you request a page from our Website, our servers log the information "
+"provided in the HTTP request header, JavaScript or similar technical tools, "
+"including the IP number, the time of the request, the URL of your request "
+"and other information. We collect this information in order to make our "
+"Website function correctly and provide you the functionality that you see on"
+" the Website, as our servers use this information to deliver to you the "
+"pages on this Website. We also use this information to better understand how"
+" visitors use our Website and how we can better tune our Website, its "
+"contents and functionality to meet your needs. However, this information is "
+"not associated with any personally identifiable information of persons "
+"browsing the Website."
+msgstr ""
+"Quando richiedi una pagina dal nostro sito Web, i nostri server registrano "
+"le informazioni fornite nell&#39;intestazione della richiesta HTTP, "
+"JavaScript o strumenti tecnici simili, incluso il numero IP, l&#39;ora della"
+" richiesta, l&#39;URL della richiesta e altre informazioni. Raccogliamo "
+"queste informazioni per far funzionare correttamente il nostro sito Web e "
+"fornirti le funzionalità che vedi sul sito Web, poiché i nostri server "
+"utilizzano queste informazioni per fornirti le pagine di questo sito Web. "
+"Utilizziamo queste informazioni anche per comprendere meglio come i "
+"visitatori utilizzano il nostro sito Web e come possiamo ottimizzare il "
+"nostro sito Web, i suoi contenuti e le funzionalità per soddisfare le vostre"
+" esigenze. Tuttavia, queste informazioni non sono associate ad alcuna "
+"informazione di identificazione personale delle persone che navigano nel "
+"sito web."
+
+#: templates/privacypolicy.html:22
+msgid ""
+"We use Google Analytics cookies to understand and save your preferences for "
+"future visits. Cookies are small files that a site or its service provider "
+"transfers to your computers hard drive through your Web browser (if you "
+"allow) that enables the sites or service providers systems to recognize your"
+" browser and capture and remember certain information)"
+msgstr ""
+"Utilizziamo i cookie di Google Analytics per comprendere e salvare le tue "
+"preferenze per le visite future. I cookie sono piccoli file che un sito o il"
+" suo fornitore di servizi trasferisce sul disco rigido del tuo computer "
+"tramite il tuo browser Web (se lo consenti) che consente ai siti o ai "
+"sistemi dei fornitori di servizi di riconoscere il tuo browser e acquisire e"
+" ricordare determinate informazioni)"
+
+#: templates/privacypolicy.html:25
+msgid ""
+"Some of the advertisements you see on the Site are selected and delivered by"
+" third parties, such as ad networks, advertising agencies, advertisers, and "
+"audience segment providers. These third parties may collect information "
+"about you and your online activities, either on the Site or on other "
+"websites, through cookies, web beacons, and other technologies in an effort "
+"to understand your interests and deliver to you advertisements that are "
+"tailored to your interests. The information practices of these third parties"
+" are not covered by this privacy policy"
+msgstr ""
+"Alcuni degli annunci pubblicitari che vedi sul Sito sono selezionati e "
+"forniti da terze parti, come reti pubblicitarie, agenzie pubblicitarie, "
+"inserzionisti e fornitori di segmenti di pubblico. Queste terze parti "
+"possono raccogliere informazioni su di te e sulle tue attività online, sul "
+"Sito o su altri siti Web, tramite cookie, web beacon e altre tecnologie nel "
+"tentativo di comprendere i tuoi interessi e fornirti annunci pubblicitari "
+"personalizzati in base ai tuoi interessi. Le pratiche informative di queste "
+"terze parti non sono coperte da questa politica sulla privacy"
+
+#: templates/privacypolicy.html:28
+msgid ""
+"We do not sell, trade, or otherwise transfer to outside parties your "
+"personally identifiable information. This does not include trusted third "
+"parties who assist us in operating our website, conducting our business, or "
+"servicing you, so long as those parties agree to keep this information "
+"confidential. We may also release your information when we believe release "
+"is appropriate to comply with the law, enforce our site policies, or protect"
+" ours or others rights, property, or safety. However, non-personally "
+"identifiable visitor information may be provided to other parties for "
+"marketing, advertising, or other uses"
+msgstr ""
+"Non vendiamo, scambiamo o trasferiamo in altro modo a terzi le tue "
+"informazioni di identificazione personale. Ciò non include terze parti "
+"fidate che ci assistono nella gestione del nostro sito Web, nella conduzione"
+" della nostra attività o nell&#39;assistenza all&#39;utente, a condizione "
+"che tali parti accettino di mantenere riservate queste informazioni. "
+"Potremmo anche rilasciare le tue informazioni quando riteniamo che il "
+"rilascio sia appropriato per rispettare la legge, far rispettare le "
+"politiche del nostro sito o proteggere i nostri o altri diritti, proprietà o"
+" sicurezza. Tuttavia, informazioni sui visitatori non identificabili "
+"personalmente possono essere fornite ad altre parti per scopi di marketing, "
+"pubblicità o altri usi"
+
+#: templates/privacypolicy.html:31
+msgid ""
+"Occasionally, at our discretion, we may include or offer third party "
+"products or services on our website. These third party sites have separate "
+"and independent privacy policies. We therefore have no responsibility or "
+"liability for the content and activities of these linked sites. Nonetheless,"
+" we seek to protect the integrity of our site and welcome any feedback about"
+" these sites"
+msgstr ""
+"Occasionalmente, a nostra discrezione, possiamo includere o offrire prodotti"
+" o servizi di terze parti sul nostro sito web. Questi siti di terze parti "
+"hanno politiche sulla privacy separate e indipendenti. Pertanto non abbiamo "
+"alcuna responsabilità per il contenuto e le attività di questi siti "
+"collegati. Tuttavia, cerchiamo di proteggere l&#39;integrità del nostro sito"
+" e accogliamo con favore qualsiasi feedback su questi siti"
+
+#: templates/privacypolicy.html:34
+msgid ""
+"Changes to our Privacy Policy. If we decide to change our privacy policy, we"
+" will post those changes on this page"
+msgstr ""
+"Modifiche alla nostra Informativa sulla privacy. Se decidiamo di modificare "
+"la nostra politica sulla privacy, pubblicheremo tali modifiche su questa "
+"pagina"
+
+#: templates/privacypolicy.html:37
+msgid "TIKSSS Video Downloader"
+msgstr "TIKSSS Video Downloader"
+
+#: templates/privacypolicy.html:38
+msgid ""
+"TIK built the TIKSSS Mp4 Video Downloader for TikTok</b> app as an Ad "
+"Supported app. This SERVICE is provided by TIKsss at no cost and is intended"
+" for use as is"
+msgstr ""
+"TIK ha creato TIKSSS Mp4 Video Downloader per l&#39;app TikTok come app "
+"supportata da pubblicità. Questo SERVIZIO è fornito gratuitamente da TIKsss "
+"ed è inteso per l&#39;uso così com&#39;è"
+
+#: templates/privacypolicy.html:39
+msgid ""
+"This page is used to inform visitors regarding our policies with the "
+"collection, use, and disclosure of Personal Information if anyone decided to"
+" use our Service"
+msgstr ""
+"Questa pagina viene utilizzata per informare i visitatori in merito alle "
+"nostre politiche con la raccolta, l&#39;uso e la divulgazione di "
+"informazioni personali se qualcuno ha deciso di utilizzare il nostro "
+"servizio"
+
+#: templates/privacypolicy.html:40
+msgid ""
+"If you choose to use our Service, then you agree to the collection and use "
+"of information in relation to this policy. The Personal Information that we "
+"collect is used for providing and improving the Service. We will not use or "
+"share your information with anyone except as described in this Privacy "
+"Policy"
+msgstr ""
+"Se scegli di utilizzare il nostro Servizio, accetti la raccolta e "
+"l&#39;utilizzo delle informazioni in relazione a questa politica. Le "
+"informazioni personali che raccogliamo vengono utilizzate per fornire e "
+"migliorare il Servizio. Non utilizzeremo o condivideremo le tue informazioni"
+" con nessuno se non come descritto nella presente Informativa sulla privacy"
+
+#: templates/privacypolicy.html:41
+msgid ""
+"The terms used in this Privacy Policy have the same meanings as in our Terms"
+" and Conditions, which is accessible at TIKSSS Video Downloader and Mp3 "
+"Converter for TikTok unless otherwise defined in this Privacy Policy"
+msgstr ""
+"I termini utilizzati in questa Informativa sulla privacy hanno gli stessi "
+"significati dei nostri Termini e condizioni, accessibili da TIKSSS Video "
+"Downloader e Convertitore Mp3 per TikTok se non diversamente definito in "
+"questa Informativa sulla privacy"
+
+#: templates/privacypolicy.html:42
+msgid "Information we collect"
+msgstr "Informazioni che raccogliamo"
+
+#: templates/privacypolicy.html:43
+msgid ""
+"The personal information that you are asked to provide, and the reasons why "
+"you are asked to provide it, will be made clear to you at the point we ask "
+"you to provide your personal information"
+msgstr ""
+"Le informazioni personali che ti viene chiesto di fornire e i motivi per cui"
+" ti viene chiesto di fornirle ti saranno chiarite nel momento in cui ti "
+"chiediamo di fornire le tue informazioni personali"
+
+#: templates/privacypolicy.html:44
+msgid ""
+"If you contact us directly, we may receive additional information about you "
+"such as your name, email address, phone number, and the contents of the "
+"message and/or attachments you may send us, and any other information you "
+"may choose to provide"
+msgstr ""
+"Se ci contatti direttamente, potremmo ricevere ulteriori informazioni su di "
+"te come il tuo nome, indirizzo e-mail, numero di telefono e il contenuto del"
+" messaggio e/o degli allegati che potresti inviarci e qualsiasi altra "
+"informazione che potresti scegliere di fornire"
+
+#: templates/privacypolicy.html:45
+msgid ""
+"When you register for an Account, we may ask for your contact information, "
+"including items such as name, company name, address, email address, and "
+"telephone number."
+msgstr ""
+"Quando ti registri per un Account, potremmo richiedere le tue informazioni "
+"di contatto, inclusi elementi come nome, ragione sociale, indirizzo, "
+"indirizzo e-mail e numero di telefono."
+
+#: templates/privacypolicy.html:46
+msgid "Log Data"
+msgstr "Dati di registro"
+
+#: templates/privacypolicy.html:47
+msgid ""
+"we want to inform you that whenever you use our Service, in a case of an "
+"error in the app we collect data and information (through third party "
+"products) on your phone called Log Data. This Log Data may include "
+"information such as your device Internet Protocol (\"IP\") address, device "
+"name, operating system version, the configuration of the app when utilizing "
+"our Service, the time and date of your use of the Service, and other "
+"statistics"
+msgstr ""
+"desideriamo informarti che ogni volta che utilizzi il nostro Servizio, in "
+"caso di errore nell&#39;app raccogliamo dati e informazioni (tramite "
+"prodotti di terze parti) sul tuo telefono chiamati Log Data. Questi dati di "
+"registro possono includere informazioni quali l&#39;indirizzo del protocollo"
+" Internet (&quot;IP&quot;) del dispositivo, il nome del dispositivo, la "
+"versione del sistema operativo, la configurazione dell&#39;app durante "
+"l&#39;utilizzo del nostro servizio, l&#39;ora e la data di utilizzo del "
+"servizio e altre statistiche"
+
+#: templates/privacypolicy.html:49 templates/tandc.html:15
+msgid "Cookies"
+msgstr "Biscotti"
+
+#: templates/privacypolicy.html:50
+msgid ""
+"Cookies are files with a small amount of data that are commonly used as "
+"anonymous unique identifiers. These are sent to your browser from the "
+"websites that you visit and are stored on your device's internal memory"
+msgstr ""
+"I cookie sono file con una piccola quantità di dati comunemente utilizzati "
+"come identificatori univoci anonimi. Questi vengono inviati al tuo browser "
+"dai siti web che visiti e sono memorizzati nella memoria interna del tuo "
+"dispositivo"
+
+#: templates/privacypolicy.html:51
+msgid ""
+"This Service does not use these \"cookies\" explicitly. However, the app may"
+" use third party code and libraries that use \"cookies\" to collect "
+"information and improve their services. You have the option to either accept"
+" or refuse these cookies and know when a cookie is being sent to your "
+"device. If you choose to refuse our cookies, you may not be able to use some"
+" portions of this Service."
+msgstr ""
+"Questo Servizio non utilizza esplicitamente questi &quot;cookie&quot;. "
+"Tuttavia, l&#39;app potrebbe utilizzare codici e librerie di terze parti che"
+" utilizzano &quot;cookie&quot; per raccogliere informazioni e migliorare i "
+"propri servizi. Hai la possibilità di accettare o rifiutare questi cookie e "
+"sapere quando un cookie viene inviato al tuo dispositivo. Se scegli di "
+"rifiutare i nostri cookie, potresti non essere in grado di utilizzare alcune"
+" parti di questo Servizio."
+
+#: templates/privacypolicy.html:52
+msgid "Service Providers"
+msgstr "Fornitori di servizi"
+
+#: templates/privacypolicy.html:53
+msgid ""
+"We may employ third-party companies and individuals due to the following "
+"reasons:"
+msgstr ""
+"Potremmo impiegare società e individui di terze parti per i seguenti motivi:"
+
+#: templates/privacypolicy.html:56
+msgid "To facilitate our Service"
+msgstr "Per facilitare il nostro Servizio"
+
+#: templates/privacypolicy.html:59
+msgid "To provide the Service on our behalf"
+msgstr "Per fornire il Servizio per nostro conto"
+
+#: templates/privacypolicy.html:62
+msgid "To perform Service-related services; or"
+msgstr "Per eseguire servizi relativi al Servizio; o"
+
+#: templates/privacypolicy.html:65
+msgid "To assist us in analyzing how our Service is used."
+msgstr "Per aiutarci ad analizzare come viene utilizzato il nostro Servizio."
+
+#: templates/privacypolicy.html:68
+msgid ""
+"We want to inform users of this Service that these third parties have access"
+" to your Personal Information. The reason is to perform the tasks assigned "
+"to them on our behalf. However, they are obligated not to disclose or use "
+"the information for any other purpose."
+msgstr ""
+"Desideriamo informare gli utenti di questo Servizio che queste terze parti "
+"hanno accesso alle tue informazioni personali. Il motivo è svolgere i "
+"compiti loro assegnati per nostro conto. Tuttavia, sono obbligati a non "
+"divulgare o utilizzare le informazioni per nessun altro scopo."
+
+#: templates/privacypolicy.html:69
+msgid "Security"
+msgstr "Sicurezza"
+
+#: templates/privacypolicy.html:70
+#, python-format
+msgid ""
+"We value your trust in providing us your Personal Information, thus we are "
+"striving to use commercially acceptable means of protecting it. But remember"
+" that no method of transmission over the internet, or method of electronic "
+"storage is 100%% secure and reliable, and we cannot guarantee its absolute "
+"security."
+msgstr ""
+"Apprezziamo la tua fiducia nel fornirci le tue informazioni personali, "
+"quindi ci stiamo sforzando di utilizzare mezzi commercialmente accettabili "
+"per proteggerle. Ma ricorda che nessun metodo di trasmissione su Internet o "
+"metodo di archiviazione elettronica è sicuro e affidabile al 100% e non "
+"possiamo garantire la sua assoluta sicurezza."
+
+#: templates/privacypolicy.html:71
+msgid "Links to Other Sites"
+msgstr "Collegamenti ad altri siti"
+
+#: templates/privacypolicy.html:72
+msgid ""
+"This Service may contain links to other sites. If you click on a third-party"
+" link, you will be directed to that site. Note that these external sites are"
+" not operated by us. Therefore, we strongly advise you to review the Privacy"
+" Policy of these websites. we have no control over and assume no "
+"responsibility for the content, privacy policies, or practices of any third-"
+"party sites or services."
+msgstr ""
+"Questo Servizio può contenere collegamenti ad altri siti. Se fai clic su un "
+"collegamento di terze parti, verrai indirizzato a quel sito. Tieni presente "
+"che questi siti esterni non sono gestiti da noi. Pertanto, ti consigliamo "
+"vivamente di rivedere l&#39;Informativa sulla privacy di questi siti Web. "
+"non abbiamo alcun controllo e non ci assumiamo alcuna responsabilità per il "
+"contenuto, le politiche sulla privacy o le pratiche di siti o servizi di "
+"terze parti."
+
+#: templates/privacypolicy.html:73
+msgid "Children's Privacy"
+msgstr "Privacy dei bambini"
+
+#: templates/privacypolicy.html:74
+msgid ""
+"These Services do not address anyone under the age of 13. we do not "
+"knowingly collect personally identifiable information from children under "
+"13. In the case we discover that a child under 13 has provided us with "
+"personal information, we immediately delete this from our servers. If you "
+"are a parent or guardian and you are aware that your child has provided us "
+"with personal information, please contact us so that we will be able to do "
+"necessary actions."
+msgstr ""
+"Questi Servizi non sono rivolti a persone di età inferiore ai 13 anni. Non "
+"raccogliamo consapevolmente informazioni di identificazione personale da "
+"bambini di età inferiore a 13 anni. Nel caso in cui scopriamo che un bambino"
+" di età inferiore a 13 anni ci ha fornito informazioni personali, le "
+"eliminiamo immediatamente dai nostri server. Se sei un genitore o un tutore "
+"e sei consapevole che tuo figlio ci ha fornito informazioni personali, ti "
+"preghiamo di contattarci in modo che saremo in grado di fare le azioni "
+"necessarie."
+
+#: templates/privacypolicy.html:75
+msgid "Google Double-Click DART Cookie"
+msgstr "Cookie di Google Double-Click DART"
+
+#: templates/privacypolicy.html:76
+msgid ""
+"Google is one of a third-party vendor on our site. It also uses cookies, "
+"known as DART cookies, to serve ads to our site visitors based upon their "
+"visit to www.website.com and other sites on the internet. However, visitors "
+"may choose to decline the use of DART cookies by visiting the Google ad and "
+"content network Privacy Policy at the following URL – "
+msgstr ""
+"Google è uno dei fornitori di terze parti sul nostro sito. Utilizza anche i "
+"cookie, noti come cookie DART, per offrire annunci ai visitatori del nostro "
+"sito in base alla loro visita a www.website.com e ad altri siti su Internet."
+" Tuttavia, i visitatori possono scegliere di rifiutare l&#39;uso dei cookie "
+"DART visitando l&#39;Informativa sulla privacy degli annunci e della rete di"
+" contenuti di Google al seguente URL:"
+
+#: templates/privacypolicy.html:78
+msgid "Our Advertising Partners"
+msgstr "I nostri partner pubblicitari"
+
+#: templates/privacypolicy.html:79
+msgid ""
+"Our Advertising Partners Some of advertisers on our site may use cookies and"
+" web beacons. Our advertising partners are listed below. Each of our "
+"advertising partners has their own Privacy Policy for their policies on user"
+" data. For easier access, we hyperlinked to their Privacy Policies below."
+msgstr ""
+"I nostri partner pubblicitari Alcuni inserzionisti sul nostro sito possono "
+"utilizzare cookie e web beacon. I nostri partner pubblicitari sono elencati "
+"di seguito. Ciascuno dei nostri partner pubblicitari ha la propria "
+"Informativa sulla privacy per le proprie politiche sui dati degli utenti. "
+"Per un accesso più semplice, abbiamo inserito un collegamento ipertestuale "
+"alle loro politiche sulla privacy di seguito."
+
+#: templates/privacypolicy.html:82
+msgid "Changes to This Privacy Policy"
+msgstr "Modifiche alla presente Informativa sulla privacy"
+
+#: templates/privacypolicy.html:83
+msgid ""
+"We may update our Privacy Policy from time to time. Thus, you are advised to"
+" review this page periodically for any changes. We will notify you of any "
+"changes by posting the new Privacy Policy on this page."
+msgstr ""
+"Potremmo aggiornare la nostra Informativa sulla privacy di volta in volta. "
+"Pertanto, si consiglia di rivedere periodicamente questa pagina per "
+"eventuali modifiche. Ti informeremo di eventuali modifiche pubblicando la "
+"nuova Privacy Policy in questa pagina."
+
+#: templates/privacypolicy.html:85
+msgid "Advertising Partners Privacy Policies"
+msgstr "Informative sulla privacy dei partner pubblicitari"
+
+#: templates/privacypolicy.html:86
+msgid ""
+"You may consult this list to find the Privacy Policy for each of the "
+"advertising partners of qload.info. Third-party ad servers or ad networks "
+"uses technologies like cookies, JavaScript, or Web Beacons that are used in "
+"their respective advertisements and links that appear on qload.info, which "
+"are sent directly to users' browser. They automatically receive your IP "
+"address when this occurs. These technologies are used to measure the "
+"effectiveness of their advertising campaigns and/or to personalize the "
+"advertising content that you see on websites that you visit. Note that "
+"qload.info has no access to or control over these cookies that are used by "
+"third-party advertisers."
+msgstr ""
+"Puoi consultare questo elenco per trovare l&#39;Informativa sulla privacy "
+"per ciascuno dei partner pubblicitari di qload.info. Ad server o reti "
+"pubblicitarie di terze parti utilizzano tecnologie come cookie, JavaScript o"
+" Web Beacon che vengono utilizzati nei rispettivi annunci pubblicitari e "
+"collegamenti che appaiono su qload.info, che vengono inviati direttamente al"
+" browser degli utenti. Ricevono automaticamente il tuo indirizzo IP quando "
+"ciò si verifica. Queste tecnologie vengono utilizzate per misurare "
+"l&#39;efficacia delle loro campagne pubblicitarie e/o per personalizzare i "
+"contenuti pubblicitari che vedi sui siti web che visiti. Tieni presente che "
+"qload.info non ha accesso o controllo su questi cookie utilizzati da "
+"inserzionisti di terze parti."
+
+#: templates/privacypolicy.html:88
+msgid "Third Party Privacy Policies"
+msgstr "Politiche sulla privacy di terze parti"
+
+#: templates/privacypolicy.html:89
+msgid ""
+"qload.info's Privacy Policy does not apply to other advertisers or websites."
+" Thus, we are advising you to consult the respective Privacy Policies of "
+"these third-party ad servers for more detailed information. It may include "
+"their practices and instructions about how to opt-out of certain options. "
+"You may find a complete list of these Privacy Policies and their links here:"
+" Privacy Policy Links. You can choose to disable cookies through your "
+"individual browser options. To know more detailed information about cookie "
+"management with specific web browsers, it can be found at the browsers' "
+"respective websites. What Are Cookies?"
+msgstr ""
+"L&#39;Informativa sulla privacy di qload.info non si applica ad altri "
+"inserzionisti o siti Web. Pertanto, ti consigliamo di consultare le "
+"rispettive politiche sulla privacy di questi ad server di terze parti per "
+"informazioni più dettagliate. Può includere le loro pratiche e istruzioni su"
+" come rinunciare a determinate opzioni. È possibile trovare un elenco "
+"completo di queste Norme sulla privacy e dei relativi collegamenti qui: "
+"Collegamenti alla politica sulla privacy. Puoi scegliere di disabilitare i "
+"cookie attraverso le opzioni del tuo browser. Per conoscere informazioni più"
+" dettagliate sulla gestione dei cookie con browser web specifici, è "
+"possibile trovarle nei rispettivi siti web dei browser. Cosa sono i cookie?"
+
+#: templates/privacypolicy.html:90
+msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+msgstr ""
+"Diritti sulla privacy CCPA (non vendere le mie informazioni personali)"
+
+#: templates/privacypolicy.html:91
+msgid ""
+"Under the CCPA, among other rights, California consumers have the right to:"
+msgstr ""
+"Ai sensi del CCPA, tra gli altri diritti, i consumatori della California "
+"hanno il diritto di:"
+
+#: templates/privacypolicy.html:92
+msgid ""
+"Request that a business that collects a consumer's personal data disclose "
+"the categories and specific pieces of personal data that a business has "
+"collected about consumers."
+msgstr ""
+"Richiedere a un&#39;azienda che raccoglie i dati personali di un consumatore"
+" di divulgare le categorie e le parti specifiche di dati personali che "
+"un&#39;azienda ha raccolto sui consumatori."
+
+#: templates/privacypolicy.html:93
+msgid ""
+"Request that a business delete any personal data about the consumer that a "
+"business has collected."
+msgstr ""
+"Richiedere a un&#39;azienda di eliminare tutti i dati personali del "
+"consumatore raccolti dall&#39;azienda."
+
+#: templates/privacypolicy.html:95
+msgid ""
+"Request that a business that sells a consumer's personal data, not sell the "
+"consumer's personal data."
+msgstr ""
+"Richiedi che un&#39;azienda che venda i dati personali di un consumatore, "
+"non venda i dati personali del consumatore."
+
+#: templates/privacypolicy.html:96
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us"
+msgstr ""
+"Se fai una richiesta, abbiamo un mese per risponderti. Se desideri "
+"esercitare uno di questi diritti, ti preghiamo di contattarci"
+
+#: templates/privacypolicy.html:97
+msgid "GDPR Data Protection Rights"
+msgstr "Diritti di protezione dei dati GDPR"
+
+#: templates/privacypolicy.html:98
+msgid ""
+"We would like to make sure you are fully aware of all of your data "
+"protection rights. Every user is entitled to the following:"
+msgstr ""
+"Vorremmo assicurarci che tu sia pienamente consapevole di tutti i tuoi "
+"diritti di protezione dei dati. Ogni utente ha diritto a quanto segue:"
+
+#: templates/privacypolicy.html:99
+msgid ""
+"The right to access – You have the right to request copies of your personal "
+"data. We may charge you a small fee for this service."
+msgstr ""
+"Il diritto di accesso – Hai il diritto di richiedere copie dei tuoi dati "
+"personali. Potremmo addebitarti una piccola commissione per questo servizio."
+
+#: templates/privacypolicy.html:100
+msgid ""
+"The right to rectification – You have the right to request that we correct "
+"any information you believe is inaccurate. You also have the right to "
+"request that we complete the information you believe is incomplete."
+msgstr ""
+"Il diritto alla rettifica: hai il diritto di richiedere la correzione di "
+"qualsiasi informazione che ritieni inesatta. Hai anche il diritto di "
+"richiedere che completiamo le informazioni che ritieni incomplete."
+
+#: templates/privacypolicy.html:101
+msgid ""
+"he right to erasure – You have the right to request that we erase your "
+"personal data, under certain conditions. The right to restrict processing – "
+"You have the right to request that we restrict the processing of your "
+"personal data, under certain conditions."
+msgstr ""
+"il diritto alla cancellazione – Hai il diritto di richiedere la "
+"cancellazione dei tuoi dati personali, a determinate condizioni. Il diritto "
+"di limitare il trattamento – Hai il diritto di richiedere che limitiamo il "
+"trattamento dei tuoi dati personali, a determinate condizioni."
+
+#: templates/privacypolicy.html:102
+msgid ""
+"The right to object to processing – You have the right to object to our "
+"processing of your personal data, under certain conditions."
+msgstr ""
+"Il diritto di opporsi al trattamento – Hai il diritto di opporti al nostro "
+"trattamento dei tuoi dati personali, a determinate condizioni."
+
+#: templates/privacypolicy.html:103
+msgid ""
+"The right to data portability – You have the right to request that we "
+"transfer the data that we have collected to another organization, or "
+"directly to you, under certain conditions."
+msgstr ""
+"Il diritto alla portabilità dei dati – Hai il diritto di richiedere il "
+"trasferimento dei dati che abbiamo raccolto a un&#39;altra organizzazione, o"
+" direttamente a te, a determinate condizioni."
+
+#: templates/privacypolicy.html:104
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us."
+msgstr ""
+"Se fai una richiesta, abbiamo un mese per risponderti. Se desideri "
+"esercitare uno di questi diritti, ti preghiamo di contattarci."
+
+#: templates/tandc.html:3
+msgid "Terms of Services - Tiksss.com"
+msgstr "Termini di servizio - Tiksss.com"
+
+#: templates/tandc.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Terms and Services. If you have any question regarding this than kindly let "
+"us know. Thanks."
+msgstr ""
+"In questa pagina abbiamo aggiunto alcune informazioni utili sui Termini e "
+"Servizi del nostro sito web Tiksss.com. Se hai qualche domanda in merito, "
+"faccelo sapere gentilmente. Grazie."
+
+#: templates/tandc.html:11
+msgid "Welcome to"
+msgstr "Benvenuto a"
+
+#: templates/tandc.html:12
+msgid ""
+"These terms and conditions outline the rules and regulations for the use of "
+"Tiksss.com Website, located at"
+msgstr ""
+"Questi termini e condizioni delineano le regole e i regolamenti per "
+"l&#39;uso del sito Web Tiksss.com, che si trova all&#39;indirizzo"
+
+#: templates/tandc.html:13
+msgid ""
+"By accessing this website we assume you accept these terms and conditions. "
+"Do not continue to use Tiksss.com if you do not agree to take all of the "
+"terms and conditions stated on this page."
+msgstr ""
+"Accedendo a questo sito Web assumiamo che accetti questi termini e "
+"condizioni. Non continuare a utilizzare Tiksss.com se non accetti di "
+"accettare tutti i termini e le condizioni indicati in questa pagina."
+
+#: templates/tandc.html:14
+msgid ""
+"The following terminology applies to these Terms and Conditions, Privacy "
+"Statement and Discla Notice and all Agreements: \"Client\", \"You\" and "
+"\"Your\" refers to you, the person log on this website compliant to the "
+"Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", "
+"\"Our\" and \"Us\", refers to Company. \"Party\", \"Parties\", or \"Us\", "
+"refers to both the Client and ourselves. All terms refer to the of "
+"acceptance and consideration of payment necessary to undertake the process "
+"of our assistance to the Clien the most appropriate manner for the express "
+"purpose of meeting the Client’s needs in respect of provision of Company’s "
+"stated services, in accordance with and subject to, prevailing law of "
+"Netherlands. Any use of above terminology or other words in the singular, "
+"plural, capitalization and/or he/she or they, are take interchangeable and "
+"therefore as referring to same."
+msgstr ""
+"La seguente terminologia si applica a questi Termini e condizioni, "
+"Informativa sulla privacy e Informativa sulla privacy e tutti gli accordi: "
+"&quot;Cliente&quot;, &quot;Tu&quot; e &quot;Suo&quot; si riferiscono a te, "
+"la persona che accede a questo sito Web in conformità ai termini e alle "
+"condizioni della Società. &quot;La Società&quot;, &quot;Noi stessi&quot;, "
+"&quot;Noi&quot;, &quot;Nostro&quot; e &quot;Noi&quot;, si riferisce alla "
+"Società. &quot;Parte&quot;, &quot;Parti&quot; o &quot;Noi&quot; si "
+"riferiscono sia al Cliente che a noi stessi. Tutti i termini si riferiscono "
+"all&#39;accettazione e al corrispettivo del pagamento necessario per "
+"intraprendere il processo della nostra assistenza al Cliente nel modo più "
+"appropriato al fine espresso di soddisfare le esigenze del Cliente in "
+"relazione alla fornitura dei servizi dichiarati dalla Società, in conformità"
+" e previa , legge prevalente dei Paesi Bassi. Qualsiasi uso della suddetta "
+"terminologia o altre parole al singolare, plurale, maiuscola e/o lui/lei, "
+"sono da ritenersi intercambiabili e quindi riferite alla stessa."
+
+#: templates/tandc.html:16
+msgid ""
+"We employ the use of cookies. By accessing Tiksss.com, you agreed to use "
+"cookies in agreement  the Tiksss.com Privacy Policy"
+msgstr ""
+"Utilizziamo l&#39;uso di cookie. Accedendo a Tiksss.com, hai accettato di "
+"utilizzare i cookie in accordo con l&#39;Informativa sulla privacy di "
+"Tiksss.com"
+
+#: templates/tandc.html:17
+msgid ""
+"Most interactive websites use cookies to let us retrieve the user’s details "
+"for each visit. Coo are used by our website to enable the functionality of "
+"certain areas to make it easier for people visiting website. Some of our "
+"affiliate/advertising partners may also use cookies"
+msgstr ""
+"La maggior parte dei siti Web interattivi utilizza i cookie per consentirci "
+"di recuperare i dettagli dell&#39;utente per ogni visita. Coo sono "
+"utilizzati dal nostro sito Web per abilitare la funzionalità di determinate "
+"aree per facilitare le persone che visitano il sito Web. Anche alcuni dei "
+"nostri partner affiliati/pubblicitari possono utilizzare i cookie"
+
+#: templates/tandc.html:18
+msgid "License"
+msgstr "Licenza"
+
+#: templates/tandc.html:19
+msgid ""
+"Unless otherwise stated, Tiksss.com and/or its licensors own the "
+"intellectual property rights all material on Tiksss.com. All intellectual "
+"property rights are reserved. You may access this from Tiksss for your own "
+"personal use subjected to restrictions set in these terms and conditions"
+msgstr ""
+"Salvo diversa indicazione, Tiksss.com e/o i suoi licenziatari detengono i "
+"diritti di proprietà intellettuale su tutto il materiale su Tiksss.com. "
+"Tutti i diritti di proprietà intellettuale sono riservati. Puoi accedervi da"
+" Tiksss per il tuo uso personale soggetto alle restrizioni stabilite in "
+"questi termini e condizioni"
+
+#: templates/tandc.html:20
+msgid "You must not"
+msgstr "Non devi"
+
+#: templates/tandc.html:23
+msgid "Republish material from Tiksss.com"
+msgstr "Ripubblica materiale da Tiksss.com"
+
+#: templates/tandc.html:26
+msgid "Sell, rent or sub-license material from Tiksss.com"
+msgstr "Vendere, noleggiare o concedere in sublicenza materiale da Tiksss.com"
+
+#: templates/tandc.html:29
+msgid "Reproduce, duplicate or copy material from Tiksss.com"
+msgstr "Riprodurre, duplicare o copiare materiale da Tiksss.com"
+
+#: templates/tandc.html:32
+msgid "Redistribute content from Tiksss.com"
+msgstr "Ridistribuire i contenuti da Tiksss.com"
+
+#: templates/tandc.html:35
+msgid "This Agreement shall begin on the date hereof."
+msgstr "Il presente Contratto decorre dalla data del presente."
+
+#: templates/tandc.html:36
+msgid ""
+"Parts of this website offer an opportunity for users to post and exchange "
+"opinions and informa in certain areas of the website. Tiksss.com does not "
+"filter, edit, publish or review Comments prior to t presence on the website."
+" Comments do not reflect the views and opinions of Tiksss.com, its agents an"
+" affiliates. Comments reflect the views and opinions of the person who post "
+"their views and opinions. To extent permitted by applicable laws, Tiksss.com"
+" shall not be liable for the Comments or for any liabil damages or expenses "
+"caused and/or suffered as a result of any use of and/or posting of and/or "
+"appearance of Comments on this website."
+msgstr ""
+"Parti di questo sito Web offrono agli utenti l&#39;opportunità di pubblicare"
+" e scambiare opinioni e informazioni in determinate aree del sito Web. "
+"Tiksss.com non filtra, modifica, pubblica o revisiona i commenti prima della"
+" presenza sul sito web. I commenti non riflettono le opinioni e le opinioni "
+"di Tiksss.com, dei suoi agenti e affiliati. I commenti riflettono le "
+"opinioni e le opinioni della persona che pubblica le proprie opinioni e "
+"opinioni. Nella misura consentita dalle leggi applicabili, Tiksss.com non "
+"sarà responsabile per i Commenti o per eventuali danni o spese causati e/o "
+"subiti a seguito di qualsiasi utilizzo e/o pubblicazione e/o comparsa di "
+"Commenti su questo sito Web ."
+
+#: templates/tandc.html:37
+msgid ""
+"Tiksss.com reserves the right to monitor all Comments and to remove any "
+"Comments which ca considered inappropriate, offensive or causes breach of "
+"these Terms and Conditions."
+msgstr ""
+"Tiksss.com si riserva il diritto di monitorare tutti i Commenti e di "
+"rimuovere qualsiasi Commento che possa essere considerato inappropriato, "
+"offensivo o che causino violazione di questi Termini e Condizioni."
+
+#: templates/tandc.html:38
+msgid "You warrant and represent that:"
+msgstr "Garantisci e dichiari che:"
+
+#: templates/tandc.html:41
+msgid ""
+"You are entitled to post the Comments on our website and have all necessary "
+"licenses and consents to do so;"
+msgstr ""
+"Hai il diritto di pubblicare i Commenti sul nostro sito Web e disponi di "
+"tutte le licenze e i consensi necessari per farlo;"
+
+#: templates/tandc.html:44
+msgid ""
+"The Comments do not invade any intellectual property right, including "
+"without limitation copyright, patent or trademark of any third party;"
+msgstr ""
+"I Commenti non invadono alcun diritto di proprietà intellettuale, inclusi, "
+"senza limitazioni, copyright, brevetti o marchi di terzi;"
+
+#: templates/tandc.html:47
+msgid ""
+"The Comments do not contain any defamatory, libelous, offensive, indecent or"
+" otherwise unlawful material which is an invasion of privacy"
+msgstr ""
+"I Commenti non contengono alcun materiale diffamatorio, calunnioso, "
+"offensivo, indecente o altrimenti illegale che costituisca una violazione "
+"della privacy"
+
+#: templates/tandc.html:50
+msgid ""
+"The Comments will not be used to solicit or promote business or custom or "
+"present commercial activities or unlawful activity."
+msgstr ""
+"I Commenti non saranno utilizzati per sollecitare o promuovere affari o "
+"consuetudine o presentare attività commerciali o attività illecite."
+
+#: templates/tandc.html:53
+msgid ""
+"You hereby grant Tiksss.com a non-exclusive license to use, reproduce, edit "
+"and authorize others to use, reproduce and edit any of your Comments in any "
+"and all forms, formats or media."
+msgstr ""
+"Con la presente concedi a Tiksss.com una licenza non esclusiva per "
+"utilizzare, riprodurre, modificare e autorizzare altri a utilizzare, "
+"riprodurre e modificare qualsiasi tuo commento in qualsiasi forma, formato o"
+" supporto."
+
+#: templates/tandc.html:54
+msgid "Hyper linking to our Content"
+msgstr "Collegamento ipertestuale ai nostri contenuti"
+
+#: templates/tandc.html:55
+msgid ""
+"The following organizations may link to our Website without prior written "
+"approval"
+msgstr ""
+"Le seguenti organizzazioni possono collegarsi al nostro sito Web senza "
+"previa approvazione scritta"
+
+#: templates/tandc.html:58
+msgid "Government agencies"
+msgstr "Agenzie governative"
+
+#: templates/tandc.html:61
+msgid "Search engines"
+msgstr "Motori di ricerca"
+
+#: templates/tandc.html:64
+msgid "News organizations"
+msgstr "Organizzazioni di notizie"
+
+#: templates/tandc.html:67
+msgid ""
+"Online directory distributors may link to our Website in the same manner as "
+"they hyperlink to the Websites of other listed businesses; and"
+msgstr ""
+"I distributori di elenchi online possono collegarsi al nostro sito Web nello"
+" stesso modo in cui collegano ipertestuale ai siti Web di altre aziende "
+"quotate; e"
+
+#: templates/tandc.html:70
+msgid ""
+"System wide Accredited Businesses except soliciting non-profit "
+"organizations, charity shopping malls, and charity fundraising groups which "
+"may not hyperlink to our Web site."
+msgstr ""
+"Aziende accreditate a livello di sistema eccetto che sollecitano "
+"organizzazioni senza scopo di lucro, centri commerciali di beneficenza e "
+"gruppi di raccolta fondi di beneficenza che potrebbero non essere collegati "
+"al nostro sito Web."
+
+#: templates/tandc.html:73
+msgid ""
+"These organizations may link to our home page, to publications or to other "
+"Website information so long as the link: (a) is not in any way deceptive; "
+"(b) does not falsely imply sponsorship, endorsement or approval of the "
+"linking party and its products and/or services; and (c) fits within the "
+"context of the linking party’s site."
+msgstr ""
+"Queste organizzazioni possono collegarsi alla nostra home page, a "
+"pubblicazioni o ad altre informazioni del sito Web a condizione che il "
+"collegamento: (a) non sia in alcun modo ingannevole; (b) non implica "
+"falsamente sponsorizzazione, approvazione o approvazione della parte "
+"collegata e dei suoi prodotti e/o servizi; e (c) si inserisce nel contesto "
+"del sito della parte collegata."
+
+#: templates/tandc.html:74
+msgid ""
+"We may consider and approve other link requests from the following types of "
+"organizations"
+msgstr ""
+"Potremmo prendere in considerazione e approvare altre richieste di "
+"collegamento dai seguenti tipi di organizzazioni"
+
+#: templates/tandc.html:77
+msgid "commonly-known consumer and/or business information sources"
+msgstr "fonti di informazioni commerciali e/o di consumatori comunemente note"
+
+#: templates/tandc.html:80
+msgid "dot.com community sites"
+msgstr "siti della comunità dot.com"
+
+#: templates/tandc.html:83
+msgid "associations or other groups representing charities"
+msgstr "associazioni o altri gruppi che rappresentano enti di beneficenza"
+
+#: templates/tandc.html:86
+msgid "online directory distributors"
+msgstr "distributori di elenchi online"
+
+#: templates/tandc.html:89
+msgid "internet portals"
+msgstr "portali internet"
+
+#: templates/tandc.html:92
+msgid "accounting, law and consulting firms; and"
+msgstr "studi contabili, legali e di consulenza; e"
+
+#: templates/tandc.html:95
+msgid "Educational institutions and trade associations."
+msgstr "Istituzioni educative e associazioni di categoria."
+
+#: templates/tandc.html:98
+msgid ""
+"We will approve link requests from these organizations if we decide that: "
+"(a) the link would not make us look unfavorably to ourselves or to our "
+"accredited businesses; (b) the organization does not have any negative "
+"records with us; (c) the benefit to us from the visibility of the hyperlink "
+"compensates the absence of Tiksss.com; and (d) the link is in the context of"
+" general resource information."
+msgstr ""
+"Approveremo le richieste di collegamento da queste organizzazioni se "
+"decidiamo che: (a) il collegamento non ci farebbe apparire sfavorevole a noi"
+" stessi o alle nostre attività accreditate; (b) l&#39;organizzazione non ha "
+"alcun record negativo con noi; (c) il vantaggio per noi dalla visibilità del"
+" collegamento ipertestuale compensa l&#39;assenza di Tiksss.com; e (d) il "
+"collegamento è nel contesto delle informazioni generali sulle risorse."
+
+#: templates/tandc.html:99
+msgid ""
+"These organizations may link to our home page so long as the link: (a) is "
+"not in any way deceptive; (b) does not falsely imply sponsorship, "
+"endorsement or approval of the linking party and its products or services; "
+"and (c) fits within the context of the linking party’s site."
+msgstr ""
+"Queste organizzazioni possono collegarsi alla nostra home page purché il "
+"collegamento: (a) non sia in alcun modo ingannevole; (b) non implica "
+"falsamente sponsorizzazione, approvazione o approvazione della parte "
+"collegata e dei suoi prodotti o servizi; e (c) si inserisce nel contesto del"
+" sito della parte collegata."
+
+#: templates/tandc.html:100
+msgid ""
+"If you are one of the organizations listed in paragraph 2 above and are "
+"interested in linking to our website, you must inform us by sending an "
+"e-mail to Tiksss.com. Please include your name, your organization name, "
+"contact information as well as the URL of your site, a list of any URLs from"
+" which you intend to link to our Website, and a list of the URLs on our site"
+" to which you would like to link. Wait 2-3 weeks for a response."
+msgstr ""
+"Se sei una delle organizzazioni elencate nel paragrafo 2 sopra e sei "
+"interessato a collegarti al nostro sito web, devi informarci inviando "
+"un&#39;e-mail a Tiksss.com. Includi il tuo nome, il nome della tua "
+"organizzazione, le informazioni di contatto e l&#39;URL del tuo sito, un "
+"elenco di qualsiasi URL da cui intendi collegarti al nostro sito Web e un "
+"elenco degli URL sul nostro sito a cui desideri collegamento. Attendi 2-3 "
+"settimane per una risposta."
+
+#: templates/tandc.html:102
+msgid "Approved organizations may hyperlink to our Website as follows:"
+msgstr ""
+"Le organizzazioni approvate possono creare collegamenti ipertestuali al "
+"nostro sito Web come segue:"
+
+#: templates/tandc.html:105
+msgid "By use of our corporate name; or"
+msgstr "Usando la nostra ragione sociale; o"
+
+#: templates/tandc.html:108
+msgid "By use of the uniform resource locator being linked to; or"
+msgstr ""
+"Mediante l&#39;uso del localizzatore uniforme di risorse a cui è collegato; "
+"o"
+
+#: templates/tandc.html:111
+msgid ""
+"By use of any other description of our Website being linked to that makes "
+"sense within the context and format of content on the linking party’s site."
+msgstr ""
+"L&#39;utilizzo di qualsiasi altra descrizione del nostro sito Web collegato "
+"a ciò ha senso nel contesto e nel formato del contenuto sul sito della parte"
+" che effettua il collegamento."
+
+#: templates/tandc.html:114
+msgid ""
+"No use of Tiksss.com logo or other artwork will be allowed for linking "
+"absent a trademark license agreement."
+msgstr ""
+"Non sarà consentito l&#39;uso del logo Tiksss.com o di altre opere "
+"d&#39;arte per il collegamento in assenza di un accordo di licenza del "
+"marchio."
+
+#: templates/tandc.html:115
+msgid "iFrames"
+msgstr "iFrame"
+
+#: templates/tandc.html:116
+msgid ""
+"Without prior approval and written permission, you may not create frames "
+"around our Webpages that alter in any way the visual presentation or "
+"appearance of our Website"
+msgstr ""
+"Senza previa approvazione e autorizzazione scritta, non è possibile creare "
+"cornici attorno alle nostre pagine Web che alterano in alcun modo la "
+"presentazione visiva o l&#39;aspetto del nostro sito Web"
+
+#: templates/tandc.html:117
+msgid "Content Liability"
+msgstr "Responsabilità per i contenuti"
+
+#: templates/tandc.html:118
+msgid ""
+"We shall not be hold responsible for any content that appears on your "
+"Website. You agree to protect and defend us against all claims that is "
+"rising on your Website. No link(s) should appear on any Website that may be "
+"interpreted as libelous, obscene or criminal, or which infringes, otherwise "
+"violates, or advocates the infringement or other violation of, any third "
+"party rights"
+msgstr ""
+"Non saremo ritenuti responsabili per qualsiasi contenuto che appare sul tuo "
+"sito web. Accetti di proteggerci e difenderci da tutte le rivendicazioni che"
+" stanno sorgendo sul tuo sito web. Nessun collegamento deve apparire su "
+"qualsiasi sito Web che possa essere interpretato come diffamatorio, osceno o"
+" criminale, o che violi, violi in altro modo o sostenga la violazione o "
+"altra violazione di diritti di terzi"
+
+#: templates/tandc.html:119
+msgid "Your Privacy"
+msgstr "La tua privacy"
+
+#: templates/tandc.html:120
+msgid "Please read Privacy Policy"
+msgstr "Si prega di leggere l&#39;informativa sulla privacy"
+
+#: templates/tandc.html:121
+msgid "Reservation of Rights"
+msgstr "Riserva di diritti"
+
+#: templates/tandc.html:122
+msgid ""
+"We reserve the right to request that you remove all links or any particular "
+"link to our Website. You approve to immediately remove all links to our "
+"Website upon request. We also reserve the right to amen these terms and "
+"conditions and it’s linking policy at any time. By continuously linking to "
+"our Website, you agree to be bound to and follow these linking terms and "
+"conditions"
+msgstr ""
+"Ci riserviamo il diritto di richiedere all&#39;utente di rimuovere tutti i "
+"collegamenti o qualsiasi collegamento particolare al nostro sito Web. "
+"L&#39;utente approva la rimozione immediata di tutti i collegamenti al "
+"nostro sito Web su richiesta. Ci riserviamo inoltre il diritto di modificare"
+" questi termini e condizioni e la sua politica di collegamento in qualsiasi "
+"momento. Collegandoti continuamente al nostro sito Web, accetti di essere "
+"vincolato e seguire questi termini e condizioni di collegamento"
+
+#: templates/tandc.html:123
+msgid "Removal of links from our website"
+msgstr "Rimozione di link dal nostro sito web"
+
+#: templates/tandc.html:124
+msgid ""
+"If you find any link on our Website that is offensive for any reason, you "
+"are free to contact and inform us any moment. We will consider requests to "
+"remove links but we are not obligated to or so or to respond to you directly"
+msgstr ""
+"Se trovi un collegamento sul nostro sito Web che è offensivo per qualsiasi "
+"motivo, sei libero di contattarci e informarci in qualsiasi momento. "
+"Prenderemo in considerazione le richieste di rimozione dei collegamenti ma "
+"non siamo obbligati a farlo o a risponderti direttamente"
+
+#: templates/tandc.html:125
+msgid ""
+"We do not ensure that the information on this website is correct, we do not "
+"warrant its completeness or accuracy; nor do we promise to ensure that the "
+"website remains available or that the material on the website is kept up to "
+"date"
+msgstr ""
+"Non garantiamo che le informazioni su questo sito Web siano corrette, non ne"
+" garantiamo la completezza o l&#39;accuratezza; né promettiamo di garantire "
+"che il sito Web rimanga disponibile o che il materiale sul sito Web sia "
+"aggiornato kept"
+
+#: templates/tandc.html:126
+msgid "Disclaimer"
+msgstr "Dichiarazione di non responsabilità"
+
+#: templates/tandc.html:127
+msgid ""
+"To the maximum extent permitted by applicable law, we exclude all "
+"representations, warranties and conditions relating to our website and the "
+"use of this website. Nothing in this disclaimer will"
+msgstr ""
+"Nella misura massima consentita dalla legge applicabile, escludiamo tutte le"
+" dichiarazioni, garanzie e condizioni relative al nostro sito Web e "
+"all&#39;uso di questo sito Web. Niente in questo disclaimer lo farà"
+
+#: templates/tandc.html:130
+msgid "limit or exclude our or your liability for death or personal injury;"
+msgstr ""
+"limitare o escludere la nostra o la vostra responsabilità per morte o "
+"lesioni personali;"
+
+#: templates/tandc.html:133
+msgid ""
+"limit or exclude our or your liability for fraud or fraudulent "
+"misrepresentation;"
+msgstr ""
+"limitare o escludere la nostra o la vostra responsabilità per frode o falsa "
+"dichiarazione fraudolenta;"
+
+#: templates/tandc.html:136
+msgid ""
+"limit any of our or your liabilities in any way that is not permitted under "
+"applicable law; or"
+msgstr ""
+"limitare qualsiasi nostra o tua responsabilità in qualsiasi modo non "
+"consentito dalla legge applicabile; o"
+
+#: templates/tandc.html:139
+msgid ""
+"exclude any of our or your liabilities that may not be excluded under "
+"applicable law."
+msgstr ""
+"escludere qualsiasi nostra o vostra responsabilità che non può essere "
+"esclusa dalla legge applicabile."
+
+#: templates/tandc.html:142
+msgid ""
+"The limitations and prohibitions of liability set in this Section and "
+"elsewhere in this disclaimer: (a) are subject to the preceding paragraph; "
+"and (b) govern all liabilities arising under the disclaimer, including "
+"liabilities arising in contract, in tort and for breach of statutory duty."
+msgstr ""
+"Le limitazioni ei divieti di responsabilità stabiliti in questa Sezione e "
+"altrove in questo disclaimer: (a) sono soggetti al paragrafo precedente; e "
+"(b) disciplinare tutte le responsabilità derivanti dal disclaimer, comprese "
+"le responsabilità derivanti da contratto, illecito civile e violazione di "
+"obblighi legali."
+
+#: templates/tandc.html:143
+msgid ""
+"As long as the website and the information and services on the website are "
+"provided free of charge, we will not be liable for any loss or damage of any"
+" nature."
+msgstr ""
+"Fintanto che il sito Web e le informazioni e i servizi sul sito Web sono "
+"forniti gratuitamente, non saremo responsabili per eventuali perdite o danni"
+" di qualsiasi natura."
+
+#: templates/without.html:13
+msgid "Video Without Watermark"
+msgstr "Video senza filigrana"
+
+#: templates/without.html:29
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Scarica video TikTok senza filigrana online gratis:"
+
+#: templates/without.html:30
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"Scarica video TikTok senza filigrana o senza filigrana. Questo metodo è "
+"davvero unico per scaricare video senza filigrana in qualità originale. "
+"Abbiamo reso questo strumento molto semplice e funziona senza problemi su "
+"Windows, Mac OS, Ipad, dispositivi Android. Soprattutto per gli utenti di "
+"PC, non è necessario installare alcun software o app aggiuntivo e questa è "
+"l&#39;unica specialità di questo strumento di download di video TikTok senza"
+" filigrana. Vai a"
+
+#: templates/without.html:30
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"e vedrai il menu a discesa, fai clic su di esso e seleziona &quot;Senza "
+"filigrana&quot;. Nella pagina successiva basta incollare il collegamento e "
+"fare clic su &quot;Pulsante Download&quot;. Attendi qualche secondo per "
+"iniziare a scaricare il tuo video. Puoi anche &quot;Scaricare video TikTok "
+"con filigrana&quot; e per questo visitare il nostro sito Web Home Page e "
+"scaricare il tuo video preferito in meno di 10 secondi."
+
+#: templates/without.html:34
+msgid "Frequently Asked Questions "
+msgstr "Domande frequenti"
+
+#: tiktok/settings.py:138
+msgid "English"
+msgstr "inglese"
+
+#: tiktok/settings.py:139
+msgid "Italian"
+msgstr "italiano"
+
+#: tiktok/settings.py:140
+msgid "Polish"
+msgstr "polacco"
+
+#: tiktok/settings.py:141
+msgid "French"
+msgstr "francese"
+
+#: tiktok/settings.py:142
+msgid "German"
+msgstr "Tedesco"
+
+#: tiktok/settings.py:143
+msgid "Spanish"
+msgstr "spagnolo"
+
+#: tiktok/settings.py:144
+msgid "Indonesian"
+msgstr "indonesiano"
+
+#: tiktok/settings.py:145
+msgid "Japanese"
+msgstr "giapponese"
+
+#: tiktok/settings.py:146
+msgid "Korean"
+msgstr "coreano"
+
+#: tiktok/settings.py:147
+msgid "Portuguese"
+msgstr "portoghese"
+
+#: tiktok/settings.py:148
+msgid "Russian"
+msgstr "russo"
+
+#: tiktok/settings.py:149
+msgid "Arabic"
+msgstr "Arabo"
+
+#: tiktok/settings.py:150
+msgid "Turkish"
+msgstr "Turco"
+
+#: tiktok/settings.py:151
+msgid "Thai"
+msgstr "tailandese"
+
+#: tiktok/settings.py:152
+msgid "Vietnamese"
+msgstr "vietnamita"
+
+#: venv/lib/python3.8/site-packages/django/contrib/messages/apps.py:7
+msgid "Messages"
+msgstr "Messaggi"
+
+#: venv/lib/python3.8/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "Mappe del sito"
+
+#: venv/lib/python3.8/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "File statici"
+
+#: venv/lib/python3.8/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "Sindacato"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:51
+msgid "That page number is not an integer"
+msgstr "Quel numero di pagina non è un numero intero"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:53
+msgid "That page number is less than 1"
+msgstr "Quel numero di pagina è inferiore a 1"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:58
+msgid "That page contains no results"
+msgstr "Quella pagina non contiene risultati"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr "Inserire un valore valido."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:93
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:664
+msgid "Enter a valid URL."
+msgstr "Inserisci un URL valido."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:150
+msgid "Enter a valid integer."
+msgstr "Inserisci un numero intero valido."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:161
+msgid "Enter a valid email address."
+msgstr "Inserire un indirizzo email valido."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.8/site-packages/django/core/validators.py:262
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"Inserisci uno &quot;slug&quot; valido composto da lettere, numeri, trattini "
+"bassi o trattini."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:269
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"Inserisci uno &quot;slug&quot; valido composto da lettere, numeri, trattini "
+"bassi o trattini Unicode."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:278
+#: venv/lib/python3.8/site-packages/django/core/validators.py:288
+#: venv/lib/python3.8/site-packages/django/core/validators.py:311
+msgid "Enter a valid IPv4 address."
+msgstr "Inserisci un indirizzo IPv4 valido."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:296
+#: venv/lib/python3.8/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv6 address."
+msgstr "Inserisci un indirizzo IPv6 valido."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:306
+#: venv/lib/python3.8/site-packages/django/core/validators.py:310
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "Inserisci un indirizzo IPv4 o IPv6 valido."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:340
+msgid "Enter only digits separated by commas."
+msgstr "Inserisci solo cifre separate da virgole."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:346
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "Assicurati che questo valore sia %(limit_value)s (è %(show_value)s)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:379
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "Assicurati che questo valore sia minore o uguale a %(limit_value)s."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:388
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "Assicurati che questo valore sia maggiore o uguale a %(limit_value)s."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:398
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Assicurati che questo valore abbia almeno %(limit_value)d carattere (ha "
+"%(show_value)d)."
+msgstr[1] ""
+"Assicurati che questo valore contenga almeno %(limit_value)d caratteri (ha "
+"%(show_value)d)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:413
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Assicurati che questo valore abbia al massimo %(limit_value)d carattere (ha "
+"%(show_value)d)."
+msgstr[1] ""
+"Assicurati che questo valore abbia al massimo %(limit_value)d caratteri (ha "
+"%(show_value)d)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:432
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:292
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:327
+msgid "Enter a number."
+msgstr "Inserisci un numero."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:434
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "Assicurati che non ci siano più di %(max)s cifre in totale."
+msgstr[1] "Assicurati che non ci siano più di %(max)s cifre in totale."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:439
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "Assicurati che non ci siano più di %(max)s decimali."
+msgstr[1] "Assicurati che non ci siano più di %(max)s posizioni decimali."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:444
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+"Assicurati che non ci siano più di %(max)s cifre prima della virgola."
+msgstr[1] ""
+"Assicurati che non ci siano più di %(max)s cifre prima della virgola."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:506
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"L&#39;estensione del file &quot;%(extension)s&quot; non è consentita. Le "
+"estensioni consentite sono: %(allowed_extensions)s."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:559
+msgid "Null characters are not allowed."
+msgstr "I caratteri null non sono consentiti."
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1197
+#: venv/lib/python3.8/site-packages/django/forms/models.py:768
+msgid "and"
+msgstr "e"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1199
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "%(model_name)s con questo %(field_labels)s esiste già."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:100
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "Il valore %(value)r non è una scelta valida."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:101
+msgid "This field cannot be null."
+msgstr "Questo campo non può essere nullo."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:102
+msgid "This field cannot be blank."
+msgstr "Questo campo non può essere vuoto."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:103
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "%(model_name)s con questa %(field_label)s esiste già."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:107
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)s deve essere univoco per %(date_field_label)s "
+"%(lookup_type)s."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "Campo di tipo: %(field_type)s"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:958
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "Il valore &quot;%(value)s&quot; deve essere True o False."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:959
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "Il valore &quot;%(value)s&quot; deve essere True, False o None."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:961
+msgid "Boolean (Either True or False)"
+msgstr "Boolean (Vero o Falso)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1002
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "Stringa (fino a %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1096
+msgid "Comma-separated integers"
+msgstr "Interi separati da virgole"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1145
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"Il valore &quot;%(value)s&quot; ha un formato di data non valido. Deve "
+"essere nel formato AAAA-MM-GG."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1147
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1290
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"Il valore &quot;%(value)s&quot; ha il formato corretto (AAAA-MM-GG) ma è una"
+" data non valida."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
+msgid "Date (without time)"
+msgstr "Data (senza ora)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1288
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"Il valore &quot;%(value)s&quot; ha un formato non valido. Deve essere nel "
+"formato AAAA-MM-GG HH:MM[:ss[.uuuuuu]][TZ]."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1292
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"Il valore &quot;%(value)s&quot; ha il formato corretto (AAAA-MM-GG "
+"HH:MM[:ss[.uuuuuu]][TZ]) ma è una data/ora non valida."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
+msgid "Date (with time)"
+msgstr "Data (con ora)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "Il valore &quot;%(value)s&quot; deve essere un numero decimale."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
+msgid "Decimal number"
+msgstr "Numero decimale"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1585
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+"Il valore &quot;%(value)s&quot; ha un formato non valido. Deve essere nel "
+"formato [DD] [[HH:]MM:]ss[.uuuuuu]."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1588
+msgid "Duration"
+msgstr "Durata"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1638
+msgid "Email address"
+msgstr "Indirizzo e-mail"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1661
+msgid "File path"
+msgstr "Percorso del file"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1727
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "Il valore &quot;%(value)s&quot; deve essere un float."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1729
+msgid "Floating point number"
+msgstr "Numero in virgola mobile"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "Il valore &quot;%(value)s&quot; deve essere un numero intero."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1769
+msgid "Integer"
+msgstr "Numero intero"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1852
+msgid "Big (8 byte) integer"
+msgstr "Grande (8 byte) intero"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1867
+msgid "Small integer"
+msgstr "Intero piccolo"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1875
+msgid "IPv4 address"
+msgstr "Indirizzo IPv4"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1906
+msgid "IP address"
+msgstr "indirizzo IP"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1986
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1987
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "Il valore &quot;%(value)s&quot; deve essere Nessuno, Vero o Falso."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1989
+msgid "Boolean (Either True, False or None)"
+msgstr "Boolean (Vero, Falso o Nessuno)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2043
+msgid "Positive big integer"
+msgstr "Intero positivo grande"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2056
+msgid "Positive integer"
+msgstr "Intero positivo"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2069
+msgid "Positive small integer"
+msgstr "Positivo piccolo intero"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2083
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Lumaca (fino a %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2115
+msgid "Text"
+msgstr "Testo"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2181
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"Il valore &quot;%(value)s&quot; ha un formato non valido. Deve essere in "
+"formato HH:MM[:ss[.uuuuuu]]."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2183
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"Il valore &quot;%(value)s&quot; ha il formato corretto (HH:MM[:ss[.uuuuuu]])"
+" ma è un&#39;ora non valida."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2186
+msgid "Time"
+msgstr "Tempo"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2312
+msgid "URL"
+msgstr "URL"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Raw binary data"
+msgstr "Dati binari grezzi"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2399
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "&quot;%(value)s&quot; non è un UUID valido."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2401
+msgid "Universally unique identifier"
+msgstr "Identificatore univoco universale"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:226
+msgid "File"
+msgstr "File"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:375
+msgid "Image"
+msgstr "Immagine"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr "Un oggetto JSON"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr "Il valore deve essere un JSON valido."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:790
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "L&#39;istanza%(model)s con %(field)s %(value)r non esiste."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
+msgid "Foreign Key (type determined by related field)"
+msgstr "Chiave esterna (tipo determinato dal campo correlato)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
+msgid "One-to-one relationship"
+msgstr "Rapporto uno a uno"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1099
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s relazione"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1100
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s relazioni"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
+msgid "Many-to-many relationship"
+msgstr "Relazione molti a molti"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: venv/lib/python3.8/site-packages/django/forms/boundfield.py:150
+msgid ":?.!"
+msgstr ":?.!"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:54
+msgid "This field is required."
+msgstr "Questo campo è obbligatorio."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:247
+msgid "Enter a whole number."
+msgstr "Inserisci un numero intero."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:391
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1132
+msgid "Enter a valid date."
+msgstr "Inserisci una data valida."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:415
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1133
+msgid "Enter a valid time."
+msgstr "Inserisci un&#39;ora valida."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:443
+msgid "Enter a valid date/time."
+msgstr "Inserisci una data/ora valida."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:477
+msgid "Enter a valid duration."
+msgstr "Inserisci una durata valida."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:478
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "Il numero di giorni deve essere compreso tra {min_days} e {max_days}."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:538
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+"Nessun file è stato inviato. Controlla il tipo di codifica sul modulo."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:539
+msgid "No file was submitted."
+msgstr "Nessun file è stato inviato."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:540
+msgid "The submitted file is empty."
+msgstr "Il file inviato è vuoto."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:542
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"Assicurati che questo nome file contenga al massimo %(max)d caratteri (ha "
+"%(length)d)."
+msgstr[1] ""
+"Assicurati che questo nome file contenga al massimo %(max)d caratteri (ha "
+"%(length)d)."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:545
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+"Invia un file o seleziona la casella di controllo chiara, non entrambi."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:606
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Carica un&#39;immagine valida. Il file che hai caricato non era "
+"un&#39;immagine o era un&#39;immagine danneggiata."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:768
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:858
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1309
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+"Seleziona una scelta valida. %(value)s non è una delle scelte disponibili."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:859
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:974
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1308
+msgid "Enter a list of values."
+msgstr "Inserisci un elenco di valori."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:975
+msgid "Enter a complete value."
+msgstr "Immettere un valore completo."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1191
+msgid "Enter a valid UUID."
+msgstr "Inserisci un UUID valido."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1221
+msgid "Enter a valid JSON."
+msgstr "Inserisci un JSON valido."
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:76
+msgid ":"
+msgstr ":"
+
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:203
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(Campo nascosto %(name)s) %(error)s"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"I dati di ManagementForm mancano o sono stati manomessi. Campi mancanti: "
+"%(field_names)s. Potrebbe essere necessario inviare una segnalazione di bug "
+"se il problema persiste."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:370
+#, python-format
+msgid "Please submit at most %d form."
+msgid_plural "Please submit at most %d forms."
+msgstr[0] "Si prega di inviare al massimo %d modulo."
+msgstr[1] "Si prega di inviare al massimo %d moduli."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
+#, python-format
+msgid "Please submit at least %d form."
+msgid_plural "Please submit at least %d forms."
+msgstr[0] "Si prega di inviare almeno %d modulo."
+msgstr[1] "Si prega di inviare almeno %d moduli."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:412
+msgid "Order"
+msgstr "Ordine"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:417
+msgid "Delete"
+msgstr "Elimina"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:763
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "Correggi i dati duplicati per %(field)s."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:767
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "Correggi i dati duplicati per %(field)s, che devono essere univoci."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:773
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"Correggi i dati duplicati per %(field_name)s che devono essere univoci per "
+"%(lookup)s in %(date_field)s."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:782
+msgid "Please correct the duplicate values below."
+msgstr "Correggi i valori duplicati di seguito."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1109
+msgid "The inline value did not match the parent instance."
+msgstr "Il valore in linea non corrisponde all&#39;istanza padre."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1193
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+"Seleziona una scelta valida. Quella scelta non è una delle scelte "
+"disponibili."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1311
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "&quot;%(pk)s&quot; non è un valore valido."
+
+#: venv/lib/python3.8/site-packages/django/forms/utils.py:172
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s non può essere interpretato nel fuso orario "
+"%(current_timezone)s; può essere ambiguo o può non esistere."
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:403
+msgid "Clear"
+msgstr "Chiaro"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:404
+msgid "Currently"
+msgstr "Attualmente"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:405
+msgid "Change"
+msgstr "Modificare"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:714
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:715
+msgid "Yes"
+msgstr "sì"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:716
+msgid "No"
+msgstr "No"
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:805
+msgid "yes,no,maybe"
+msgstr "sì no forse"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:834
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:851
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d byte"
+msgstr[1] "%(size)d byte"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:853
+#, python-format
+msgid "%s KB"
+msgstr "%s KB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:855
+#, python-format
+msgid "%s MB"
+msgstr "%s MB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:857
+#, python-format
+msgid "%s GB"
+msgstr "%s GB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:859
+#, python-format
+msgid "%s TB"
+msgstr "%s TB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:861
+#, python-format
+msgid "%s PB"
+msgstr "%s PB"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:66
+msgid "p.m."
+msgstr "pm"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:67
+msgid "a.m."
+msgstr "sono"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:72
+msgid "PM"
+msgstr "pomeridiano"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:73
+msgid "AM"
+msgstr "AM"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:146
+msgid "midnight"
+msgstr "mezzanotte"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:148
+msgid "noon"
+msgstr "mezzogiorno"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Monday"
+msgstr "Lunedi"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr "martedì"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr "mercoledì"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Thursday"
+msgstr "giovedi"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Friday"
+msgstr "Venerdì"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Saturday"
+msgstr "Sabato"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Sunday"
+msgstr "Domenica"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Mon"
+msgstr "lun"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Tue"
+msgstr "mar"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Wed"
+msgstr "mer"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Thu"
+msgstr "gio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Fri"
+msgstr "ven"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sat"
+msgstr "sabato"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sun"
+msgstr "Sole"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "January"
+msgstr "gennaio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "February"
+msgstr "febbraio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "March"
+msgstr "marzo"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "April"
+msgstr "aprile"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "May"
+msgstr "Maggio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "June"
+msgstr "giugno"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "July"
+msgstr "luglio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "August"
+msgstr "agosto"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "September"
+msgstr "settembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "October"
+msgstr "ottobre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "November"
+msgstr "novembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:16
+msgid "December"
+msgstr "dicembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jan"
+msgstr "gennaio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "feb"
+msgstr "febbraio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "mar"
+msgstr "mar"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "apr"
+msgstr "aprile"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "may"
+msgstr "Maggio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jun"
+msgstr "giugno"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "jul"
+msgstr "luglio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "aug"
+msgstr "agosto"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "sep"
+msgstr "settembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "oct"
+msgstr "ottobre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "nov"
+msgstr "novembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "dec"
+msgstr "dicembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "gennaio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "febbraio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "marzo"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "aprile"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "Maggio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "giugno"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "luglio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "agosto"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "settembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "ottobre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "novembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "dic."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr "gennaio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr "febbraio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr "marzo"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr "aprile"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr "Maggio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr "giugno"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr "luglio"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr "agosto"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr "settembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr "ottobre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr "novembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr "dicembre"
+
+#: venv/lib/python3.8/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "Questo non è un indirizzo IPv6 valido."
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:71
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:240
+msgid "or"
+msgstr "o"
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.8/site-packages/django/utils/text.py:259
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ","
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d anno"
+msgstr[1] "%d anni"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d mese"
+msgstr[1] "%d mesi"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d settimana"
+msgstr[1] "%d settimane"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d giorno"
+msgstr[1] "%d giorni"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ora"
+msgstr[1] "%d ore"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minuto"
+msgstr[1] "%d minuti"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:110
+msgid "Forbidden"
+msgstr "Vietato"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr "Verifica CSRF non riuscita. Richiesta interrotta."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"Visualizzi questo messaggio perché questo sito HTTPS richiede che il tuo "
+"browser Web invii un&#39;&quot;intestazione di riferimento&quot;, ma non ne "
+"è stata inviata nessuna. Questa intestazione è necessaria per motivi di "
+"sicurezza, per garantire che il tuo browser non venga dirottato da terzi."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:120
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"Se hai configurato il tuo browser per disabilitare le intestazioni "
+"“Referer”, ti preghiamo di riattivarle, almeno per questo sito, o per le "
+"connessioni HTTPS, o per le richieste “stessa origine”."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"Se stai usando il<meta name=\"referrer\" content=\"no-referrer\"> tag o "
+"includendo l&#39;intestazione &quot;Referrer-Policy: no-referrer&quot;, "
+"rimuoverli. La protezione CSRF richiede che l&#39;intestazione "
+"&quot;Referer&quot; esegua un rigoroso controllo del referer. Se sei "
+"preoccupato per la privacy, usa alternative come i <a rel=\"noreferrer\" "
+"…>collegamenti a siti di terze parti.</a>"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"Stai vedendo questo messaggio perché questo sito richiede un cookie CSRF "
+"durante l&#39;invio dei moduli. Questo cookie è necessario per motivi di "
+"sicurezza, per garantire che il tuo browser non venga dirottato da terzi."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"Se hai configurato il tuo browser per disabilitare i cookie, ti preghiamo di"
+" riabilitarli, almeno per questo sito, o per richieste “stessa origine”."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr "Maggiori informazioni sono disponibili con DEBUG=True."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:41
+msgid "No year specified"
+msgstr "Nessun anno specificato"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:61
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:111
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:208
+msgid "Date out of range"
+msgstr "Data fuori intervallo"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:90
+msgid "No month specified"
+msgstr "Nessun mese specificato"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:142
+msgid "No day specified"
+msgstr "Nessun giorno specificato"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:188
+msgid "No week specified"
+msgstr "Nessuna settimana specificata"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:338
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "Nessun %(verbose_name_plural)s disponibile"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:594
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+"Future %(verbose_name_plural)s non disponibile perché "
+"%(class_name)s.allow_future è False."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:628
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+"Stringa di data non valida &quot;%(datestr)s&quot; dato il formato "
+"&quot;%(format)s&quot;"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "Nessun %(verbose_name)s trovato corrispondente alla query"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:67
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+"La pagina non è &quot;ultima&quot;, né può essere convertita in un int."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "Pagina non valida (%(page_number)s): %(message)s"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:154
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "Elenco vuoto e &quot;%(class_name)s.allow_empty&quot; è False."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr "Gli indici di directory non sono consentiti qui."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:42
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "&quot;%(path)s&quot; non esiste"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "Indice della %(directory)s"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "L&#39;installazione ha funzionato correttamente! Congratulazioni!"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"Visualizza le <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">note di rilascio</a> per Django "
+"%(version)s"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"Stai vedendo questa pagina perché <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> è nel tuo file di "
+"impostazioni e non hai configurato alcun URL."
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr "Documentazione Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "Argomenti, riferimenti e istruzioni"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "Tutorial: un&#39;app per sondaggi"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "Inizia con Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr "Comunità Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "Connettiti, ottieni aiuto o contribuisci"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:368
+#, python-format
+msgid "Content purported to be compressed with %s but failed to decompress."
+msgstr ""
+"Si presumeva che il contenuto fosse compresso con %s ma non è stato "
+"possibile decomprimerlo."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:532
+#, python-format
+msgid "Unsupported value for qop: %s."
+msgstr "Valore non supportato per qop: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:536
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:614
+#, python-format
+msgid "Unsupported value for algorithm: %s."
+msgstr "Valore non supportato per l&#39;algoritmo: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:609
+msgid "The challenge doesn't contain a server nonce, or this one is empty."
+msgstr "La sfida non contiene un server nonce o questo è vuoto."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:619
+#, python-format
+msgid "Unsupported value for pw-algorithm: %s."
+msgstr "Valore non supportato per pw-algorithm: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
+msgid "Redirected but the response is missing a Location: header."
+msgstr ""
+"Reindirizzamento ma nella risposta manca un&#39;intestazione Location:."

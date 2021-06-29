@@ -1,0 +1,154 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'Download Tiktok Videos Without Watermark - Tiksss.Com' %}{% endblock %}
+{% block desc %}<meta name="description" content="{% trans 'Download Tiktok Videos Without Watermark Online Free on our website Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers which is totally free.' %}" /> {% endblock %}
+{% block body %}
+
+<!-- Hero Section -->
+<div class="hero" id="home">
+  <div class="hero__container">
+    <h1 class="hero__heading"><span>Tiktok </span>{% trans 'to Mp4 Downloader Online Free' %} </h1>
+    <p class="hero__description">{% trans 'Enter the URL Here' %}</p>
+    <center>
+      <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
+    </center>
+  </div>
+
+  <form class="example" method="POST" action="{% url 'down' %}">
+      {% csrf_token %}
+    <input type="text" placeholder="Search.." aria-describedby="url" name="url" required>
+    <input type="hidden" name="todo" value="1">
+    <button type="submit" onclick="show()">{% trans 'Search' %}</button>
+  </form>
+  <p style="margin: 100px 60px -80px 60px; color:#fff; text-align:justify;"> <b>TikTok to mp4 downloader online free </b>{% trans "is an amazing tool for TikTok lovers to save TikTok videos to your device with a single click. This tool designed is very simple and everyone can use it easily without any hassle. We all love to watch Tik Tok videos in our devices which remain in our logs if we want to see those videos again but I have experienced that the videos no longer available and its gets lost due to the awesome feedback that platform produces every single day with full excessive. TikTok does not allow you to download or save videos on your preferred devices. But those uploaded videos from the user’s side available on their official website or app with a lot of restrictions. So the question is that how to solve all these video downloading issues. So I have decided to make a tool which will be easy to use for everyone because including me there are millions of people on this platform to watch TikTok videos on mobile or laptop but they can’t download it. So do not worry about it. I have made this tool for you people only to " %} <a href="{% url 'index' %}" style="color: #ee0979;">Download TikTok Videos Online Free</a>. {% trans "I proud myself to introduce an amazing " %} <a href="{% url 'index' %}" style="color: #ee0979;">Tiksss.com</a> {% trans 'web app which allow you to download TikTok videos to mp4 format.' %}  </p>
+
+</div>
+
+<div class="faq" id="faq">
+  <h1>{% trans 'Frequently Asked Questions' %} </h1>
+  <div class="faq__main">
+    <button class="accordion"><h2>{% trans 'How to Download TikTok Videos to Mp4 with Tiksss.com' %}</h2></button>
+    <div class="panel">
+      <ol style="margin-left: 20px;">
+        <li><p>{% trans 'Select a video on TikTok which you want to download' %}</p></li>
+        <li><p>{% trans 'Copy the selected video link on your smartphone / computer or Laptop' %}</p></li>
+        <li><p>{% trans 'Insert the TikTok video link on our website and press "Search Button"' %}</p></li>
+        <li><p>{% trans 'Now you will see a download button, click on download.' %}</p></li>
+        <li><p>{% trans 'Just wait a few seconds in which you can download the video directly in your machine.' %}</p></li>
+        <li><p>{% trans 'If you like our tool and services than Kindly share our website with your friends and family members. Thanks!' %}</p></li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="about_tiktok">
+  <h2 style="margin-bottom: 15px;">{% trans 'Introduction of TikTok' %}</h2>
+  <p>{% trans 'Everyone knows that TikTok is very popular right now and with the help of Tik Tok app. You can create your own videos very easily. TikTok app also used for streaming and creating content for your own use.' %}
+    {% trans 'It’s a Chinese app which also allows you to share your videos on social media platform, friends and family. TikTok owned by a Chinese company which is also known as “Bytedance”. The main purpose of using this app to create videos with lisping, short music creation, dancing and voiceover video clippings.' %}  <br> <br>
+   {% trans 'If you are a content creator and passionate to produce a unique content to the customers then this app will helps you a lot to fulfill your dreams come true. Most of the time people love to do voiceover where people select and play any music in the background and then they act respectively with that sound. For me I love to watch funny voiceover videos on this app. Everyday people shows their talent in different ways and become celebrities via this platform. This platform has become a source for content creators for entertainment and viral videos. The content of TikTok may unreachable to those who do not have wifi or internet availability so make sure you have internet connection on you device to watch viral and amazing videos. So we are here to give you this amazing TikTok Mp4 Downloader tool to download favorite videos on you devices.' %} </p>
+</div>
+
+
+<!-- Services Section -->
+<div class="services" id="services">
+  <h1>TIKSSS Services</h1>
+  <div class="services__wrapper">
+    <div class="services__card">
+      <h2><i class="fas fa-unlink" style="font-size: 5rem; margin-bottom:3rem;"></i></h2>
+      <h2>{% trans 'Unlimited Downloads' %}</h2>
+      <p>{% trans 'Download unlimited videos with no limitations.' %}</p>
+    </div>
+    <div class="services__card">
+      <h2><i class="fas fa-ban" style="font-size: 5rem; margin-bottom:3rem;"></i></h2>
+      <h2>{% trans 'No Watermark on Videos:' %}</h2>
+      <p>{% trans 'Download TikTok videos without watermark with no limits.' %}</p>
+    </div>
+    <div class="services__card">
+      <h2><i class="fas fa-file-video" style="font-size: 5rem; margin-bottom:3rem;"></i></h2>
+      <h2>{% trans 'Mp4 Supported HD:' %}</h2>
+      <p>{% trans 'Download TikTok videos with Mp4 format HD.' %}</p>
+    </div>
+    <div class="services__card">
+      <h2><i class="fas fa-file-audio" style="font-size: 5rem; margin-bottom:3rem;"></i></h2>
+      <h2>{% trans 'Mp3 Support:' %}</h2>
+      <p>{% trans 'Easily Convert TikTok to Mp3 with high quality.' %}</p>
+    </div>
+  </div>
+</div>
+
+<!-- About Section -->
+<div class="main" id="about">
+  <div class="main__container">
+    <div class="main__img--container">
+      <div class="main__img--card"><i class="fas fa-mobile"></i></div>
+    </div>
+    <div class="main__content">
+      <h1>{% trans 'Download TikTok Video to Mp4 HD On Mobile Device:' %}</h1>
+      <p>{% trans 'If you want to download and save TikTok videos on your mobile device that you have to download and install TikTok app and then select your favorite video which you want to download. Here is some important thing when you are on video download page, see the share button on the right side of your device screen tap on it with the help of arrow and copy “link”. So open our website Tiksss.com and paste that copy link in given field and click on “Search Button”. It will take few seconds to get a downloadable link. You will see a “Download Button” hit on it to start video downloading on your device.' %}</p>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Features Section -->
+<div class="main" id="sign-up">
+  <div class="main__container">
+    <div class="main__content">
+      <h1>{% trans 'Download TikTok Video Without Watermark on your Device:' %}</h1>
+      <p> <a href="{% url 'without' %}" style="color: #ee0979;">Download TikTok Videos without Watermark or No Watermark.</a> {% trans 'This method is very unique to get download video without watermark in original quality. We made this tool very easy and it works smoothly on windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t need to install any extra software or App and this is the only specialty of this TikTok no watermark video download tool. Go to Tiksss.com and you will see dropdown menu click on it and select “Without Watermark”. On the next page just paste the link and click “Download Button”. Wait a few seconds to get start downloading of your video.' %}</p>
+    </div>
+    <div class="main__img--container">
+      <div class="main__img--card" id="card-2">
+        <i class="fas fa-ban"></i>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="main" id="about">
+  <div class="main__container">
+    <div class="main__img--container">
+      <div class="main__img--card"><i class="fas fa-file-audio"></i></div>
+    </div>
+    <div class="main__content">
+      <h1>{% trans 'Tiktok to MP3 converter online Free for mobile and Desktop Devices:' %}</h1>
+      <p>{% trans 'If you are music lover then you will know the value of this' %} <a href="{% url 'audio' %}" style="color: #ee0979;">TikTok to Mp3 Converter Online Tool</a>. {% trans 'We have made this tool very easy and simple. You people can use this tool on your preferred devices without any limits. Make sure that you have to bookmark this tool page for future. We have added all the instructions of this tool that how you people can use and take benefits from it. Kindly share this tool with your friends and family member with the help of social media because they will definitely like and use this for sure.' %}</p>
+    </div>
+  </div>
+</div>
+
+<div class="main" id="sign-up">
+  <div class="main__container">
+    <div class="main__content">
+      <h1>{% trans 'Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:' %}</h1>
+      <p> {% trans 'Here you go. ' %} <a href="{% url 'cutter' %}" style="color: #ee0979;">TikTok Video Cutter Online Free Tool</a> {% trans ' provides you a solution for your content creation. While using this tool on our website Tiksss.com, you people can easily Trim and Cut TikTok Video in your devices for free. It’s very unique and user friendly tool for everyone.' %}</p>
+    </div>
+    <div class="main__img--container">
+      <div class="main__img--card" id="card-2">
+        <i class="fas fa-photo-video"></i>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+
+  function show() {
+    document.getElementById("myDiv").style.display = "block";
+    setTimeout("hide()", 10000);  // 5 seconds
+  }
+
+  function hide() {
+    document.getElementById("myDiv").style.display = "none";
+  }
+
+</script>
+
+
+{% endblock %}

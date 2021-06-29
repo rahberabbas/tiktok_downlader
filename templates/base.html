@@ -1,0 +1,115 @@
+{% load i18n %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}{% endblock %}</title>
+    {% block desc %} {% endblock %}
+    <link rel="stylesheet" href="{% static 'css/style91.css' %}" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
+        integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous" />
+        <link rel="icon" type="image/png" sizes="16x16" href="{% static 'images/tiksss_favicon-16x16.ico' %}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{% static 'images/tiksss_favicon-32x32.png' %}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{% static 'images/tiksss_favicon-180x180.png' %}">
+</head>
+
+<body>
+    <!-- Navbar Section -->
+    <div class="wrapper">
+        <nav>
+            <input type="checkbox" id="show-menu">
+            <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+            <div class="content">
+                <div class="logo"><a href="{% url 'index' %}">TIKSSS</a></div>
+                <ul class="links">
+                    <li><a href="{% url 'index' %}">{% trans 'Home' %}</a></li>
+                    <li>
+                        <a href="#" class="desktop-link">{% trans 'Tools' %} <i class="fas fa-chevron-down"></i></a>
+                        <input type="checkbox" id="show-features">
+                        <label for="show-features">{% trans 'Tools' %} <i class="fas fa-chevron-down"></i></label>
+                        <ul>
+                            <li><a href="{% url 'index' %}"><i class="fas fa-music"></i> {% trans 'Download With Watermark' %} </a>
+                            </li>
+                            <li><a href="{% url 'without' %}"><i class="fas fa-ban" style="font-size: 1.2rem;"></i>
+                                    {% trans 'Download Without Watermark' %}</a></li>
+                            <li><a href="{% url 'audio' %}"><i class="fas fa-volume-up"></i> {% trans 'Download Audio'%}</a></li>
+                            <li><a href="{% url 'cutter' %}"><i class="fas fa-cut"></i> {% trans 'Audio/Video Cutter' %}
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{% url 'about' %}">{% trans 'About' %}</a></li>
+                    <li>
+                        {% get_current_language as LANGUAGE_CODE %}
+                        {% get_available_languages as LANGUAGES %}
+                        {% get_language_info_list for LANGUAGES as languages %}
+                        <a href="#" class="desktop-link">Languages <i class="fas fa-chevron-down"></i></a>
+                        <input type="checkbox" id="show-feature">
+                        <label for="show-feature">Languages <i class="fas fa-chevron-down"></i></label>
+                        <ul class="small">
+                            
+                            {% for lang in languages %}
+                            <li class="smaller" style="padding: 0px 10px;"><a href="/{{lang.code}}/" style="font-size: 1rem; padding:0px">{{ lang.name_local }} </a>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <div class="sticky-container">
+        <ul class="sticky">
+            <li>
+                <img src="{% static 'images/facebook-circle.png' %}" width="32" height="32">
+                <p><a href="https://www.facebook.com/sharer.php?u=tiksss.com" target="_blank">Share Us on<br>Facebook</a></p>
+            </li>
+            <li>
+                <img src="{% static 'images/twitter-circle.png' %}" width="32" height="32">
+                <p><a href="https://twitter.com/share?url=tiksss.com&text=tiksss.com" target="_blank">Share Us on<br>Twitter</a></p>
+            </li>
+            <li>
+                <img src="{% static 'images/gplus-circle.png' %}" width="32" height="32">
+                <p><a href="https://plus.google.com/share?url=tiksss.com" target="_blank">Share Us on<br>Google+</a></p>
+            </li>
+            <li>
+                <img src="{% static 'images/whatsapp2.png' %}" width="32" height="32">
+                <p><a href="https://api.whatsapp.com/send?text=tiksss.com" target="_blank">Share us on<br>Whatsapp</a></p>
+            </li>
+        </ul>
+    </div>
+
+    {% block body %}
+    {% endblock %}
+
+    <!-- Footer Section -->
+    <div class="footer__container">
+        <section class="social__media">
+            <div class="social__media--wrap">
+                <div class="footer__logo">
+                    <a href="/" id="footer__logo">TIKSSS</a>
+                </div>
+                <p class="website__rights">© TIKSSS 2021. All rights reserved</p>
+                <div class="social__icons">
+                    <a href="{% url 'privacy' %}" class="social__icon--link">
+                        <p>{% trans 'Privacy Policy' %}</p>
+                    </a>
+                    <a href="{% url 'tandc' %}" class="social__icon--link">
+                        <p>{% trans 'Terms and Conditions' %}</p>
+                    </a>
+                    <a href="{% url 'faq' %}" class="social__icon--link">
+                        <p>{% trans 'FAQ' %}</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+   
+       
+    <script src="{% static 'js/app.js' %}"></script>
+</body>
+
+</html>

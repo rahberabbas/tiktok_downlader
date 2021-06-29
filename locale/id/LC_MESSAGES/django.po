@@ -1,0 +1,3224 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-28 19:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: templates/about.html:3
+msgid "About Us - Tiksss.com"
+msgstr "Tentang Kami - Tiksss.com"
+
+#: templates/about.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com. If"
+" you have any question regarding this than kindly let us know. Thanks."
+msgstr ""
+"Di halaman ini kami telah menambahkan beberapa info berguna tentang situs "
+"web kami Tiksss.com. Jika Anda memiliki pertanyaan tentang ini, silakan beri"
+" tahu kami. Terima kasih."
+
+#: templates/about.html:10
+msgid "About US"
+msgstr "Tentang kami"
+
+#: templates/about.html:11
+msgid "is an amazing popular"
+msgstr "adalah populer yang luar biasa"
+
+#: templates/about.html:11
+msgid ""
+"tool that allows users from different regions to download and convert TikTok"
+" videos online free."
+msgstr ""
+"alat yang memungkinkan pengguna dari berbagai wilayah untuk mengunduh dan "
+"mengonversi video TikTok online gratis."
+
+#: templates/about.html:12
+msgid ""
+"Our platform supports different type of TikTok video converting tools like, "
+"TikTok to Mp4, Mp3, Video Cutter, and downloads TikTok videos without "
+"watermark or with watermark in just few seconds which you can view here in "
+"our website"
+msgstr ""
+"Platform kami mendukung berbagai jenis alat konversi video TikTok seperti, "
+"TikTok ke Mp4, Mp3, Pemotong Video, dan mengunduh video TikTok tanpa tanda "
+"air atau dengan tanda air hanya dalam beberapa detik yang dapat Anda lihat "
+"di sini di situs web kami"
+
+#: templates/about.html:13
+msgid "Why Tiksss.com"
+msgstr "Mengapa Tiksss.com?"
+
+#: templates/about.html:14
+msgid ""
+"Our tool design is very unique and simple. We made this tool for customers "
+"and users purpose only. It’s very fast, easy, and safe for everyone to use "
+"in your daily life routine even if you are a content creator. This tool "
+"helps you a lot and save your time for sure. Tiksss is always here and ready"
+" to help you out if you facing any problem. If you have any queries then "
+"kindly contact us over here:"
+msgstr ""
+"Desain alat kami sangat unik dan sederhana. Kami membuat alat ini hanya "
+"untuk pelanggan dan pengguna. Ini sangat cepat, mudah, dan aman untuk "
+"digunakan semua orang dalam rutinitas kehidupan sehari-hari Anda, bahkan "
+"jika Anda seorang pembuat konten. Alat ini membantu Anda banyak dan "
+"menghemat waktu Anda pasti. Tiksss selalu di sini dan siap membantu Anda "
+"jika Anda menghadapi masalah apa pun. Jika Anda memiliki pertanyaan, silakan"
+" hubungi kami di sini:"
+
+#: templates/audio.html:4 templates/download1.html:4
+#: templates/download4.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "TikTok To Mp3 Converter Online Gratis - Tiksss.com"
+
+#: templates/audio.html:7 templates/download1.html:5
+#: templates/download4.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok To Mp3 Converter Online Gratis di situs web kami Tiksss.com. Ini Alat"
+" Tercepat Kami untuk Mengonversi Video Tiktok ke Format Mp3 untuk Pecinta "
+"Tiktok yang benar-benar gratis."
+
+#: templates/audio.html:14 templates/without.html:13
+msgid "Download"
+msgstr "Unduh"
+
+#: templates/audio.html:14
+msgid "Audio"
+msgstr "audio"
+
+#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
+#: templates/without.html:14
+msgid "Enter the URL Here"
+msgstr "Masukkan URL Di Sini"
+
+#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
+#: templates/without.html:24
+msgid "Search"
+msgstr "Cari"
+
+#: templates/audio.html:31
+msgid "TikTok to Mp3 Converter Online Free"
+msgstr "Konverter TikTok ke Mp3 Online Gratis"
+
+#: templates/audio.html:32
+msgid ""
+"If you are music lover then you will know the value of this TikTok to Mp3 "
+"Converter Online Tool. We have made this tool very easy and simple. You "
+"people can use this tool on your preferred devices without any limits. Make "
+"sure that you have to bookmark this tool page for future. We have added all "
+"the instructions of this tool that how you people can use and take benefits "
+"from it. Kindly share this tool with your friends and family member with the"
+" help of social media because they will definitely like and use this for "
+"sure. For more Info visit our Website"
+msgstr ""
+"Jika Anda pecinta musik maka Anda akan mengetahui nilai Alat Online "
+"Konverter TikTok ke Mp3 ini. Kami telah membuat alat ini sangat mudah dan "
+"sederhana. Anda orang dapat menggunakan alat ini di perangkat pilihan Anda "
+"tanpa batas. Pastikan Anda harus menandai halaman alat ini untuk masa "
+"mendatang. Kami telah menambahkan semua petunjuk alat ini agar Anda dapat "
+"menggunakan dan memanfaatkannya. Silakan bagikan alat ini dengan teman dan "
+"anggota keluarga Anda dengan bantuan media sosial karena mereka pasti akan "
+"menyukai dan menggunakan ini. Untuk Info lebih lanjut kunjungi Situs Web "
+"kami"
+
+#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
+#: templates/index.html:29
+msgid "Frequently Asked Questions"
+msgstr "Pertanyaan yang Sering Diajukan"
+
+#: templates/audio.html:39
+msgid ""
+"How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
+" to Mp3 Online Free:"
+msgstr ""
+"Cara Mengonversi Tiktok ke Mp3 Online Gratis dengan Kualitas Tinggi – Unduh "
+"TikTok ke Mp3 Online Gratis:"
+
+#: templates/audio.html:45 templates/faq.html:44
+msgid ""
+"Select a video URL on TikTok which you want to convert into mp3 format."
+msgstr "Pilih URL video di TikTok yang ingin Anda ubah menjadi format mp3."
+
+#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+msgid "Copy the selected video link on your smartphone / computer or Laptop"
+msgstr ""
+"Salin tautan video yang dipilih di smartphone / komputer atau Laptop Anda"
+
+#: templates/audio.html:51 templates/faq.html:50
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok to Mp3 Converter."
+msgstr ""
+"Buka situs web kami Tiksss.com dan di menu atas Anda akan melihat "
+"&quot;Alat&quot; ketuk di atasnya dan pilih TikTok to Mp3 Converter."
+
+#: templates/audio.html:54 templates/faq.html:53
+msgid "Insert the TikTok video link in the field and press \"Convert Button\""
+msgstr ""
+"Masukkan tautan video TikTok di bidang dan tekan &quot;Tombol Konversi&quot;"
+
+#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:37 templates/without.html:51
+msgid "Now you will see a download button, click on download."
+msgstr "Sekarang Anda akan melihat tombol unduh, klik unduh."
+
+#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine."
+msgstr ""
+"Tunggu beberapa detik di mana Anda dapat mengunduh video langsung di mesin "
+"Anda."
+
+#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+msgid ""
+"If you like our tool and services than Kindly share our website with your "
+"friends and family members. Thanks!"
+msgstr ""
+"Jika Anda menyukai alat dan layanan kami, silakan bagikan situs web kami "
+"dengan teman dan anggota keluarga Anda. Terima kasih!"
+
+#: templates/base.html:28
+msgid "Home"
+msgstr "Rumah"
+
+#: templates/base.html:30 templates/base.html:32
+msgid "Tools"
+msgstr "Alat"
+
+#: templates/base.html:34
+msgid "Download With Watermark"
+msgstr "Unduh Dengan Tanda Air"
+
+#: templates/base.html:37
+msgid "Download Without Watermark"
+msgstr "Unduh Tanpa Tanda Air"
+
+#: templates/base.html:38
+msgid "Download Audio"
+msgstr "Unduh Audio"
+
+#: templates/base.html:39
+msgid "Audio/Video Cutter"
+msgstr "Pemotong Audio/Video"
+
+#: templates/base.html:43
+msgid "About"
+msgstr "Tentang"
+
+#: templates/base.html:76 templates/privacypolicy.html:10
+msgid "Privacy Policy"
+msgstr "Kebijakan pribadi"
+
+#: templates/base.html:79 templates/tandc.html:10
+msgid "Terms and Conditions"
+msgstr "Syarat dan ketentuan"
+
+#: templates/base.html:82
+msgid "FAQ"
+msgstr "FAQ"
+
+#: templates/cutter.html:4 templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "Pemotong Video TikTok Online Gratis – Tiksss.com"
+
+#: templates/cutter.html:7 templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"Alat Pemotong Video Online TikTok Gratis. Cara memotong Video TikTok online "
+"gratis. Potong dan Pangkas Video TikTok Online Gratis."
+
+#: templates/cutter.html:14
+msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
+msgstr "Pemotong Video Online – Pemangkas Video TikTok Online Gratis"
+
+#: templates/cutter.html:31
+msgid ""
+"Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
+"for your content creation. While using this tool on our website "
+msgstr ""
+"Ini dia. Alat Pemotong Video Online TikTok Gratis memberi Anda solusi untuk "
+"pembuatan konten Anda. Saat menggunakan alat ini di situs web kami"
+
+#: templates/cutter.html:31
+msgid ""
+" you people can easily Trim and Cut TikTok Video in your devices for free. "
+"It’s very unique and user friendly tool for everyone."
+msgstr ""
+"Anda orang dapat dengan mudah Memangkas dan Memotong Video TikTok di "
+"perangkat Anda secara gratis. Ini adalah alat yang sangat unik dan ramah "
+"pengguna untuk semua orang."
+
+#: templates/cutter.html:39
+msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgstr "Cara Memotong dan Memangkas Video TikTok di Ponsel atau PC:"
+
+#: templates/cutter.html:44
+msgid "Go to TikTok official website and copy the video link."
+msgstr "Buka situs web resmi TikTok dan salin tautan videonya."
+
+#: templates/cutter.html:47
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok Video Cutter."
+msgstr ""
+"Buka situs web kami Tiksss.com dan di menu atas Anda akan melihat "
+"&quot;Alat&quot; ketuk di atasnya dan pilih Pemotong Video TikTok."
+
+#: templates/cutter.html:50
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr ""
+"Pada halaman berikutnya rekatkan tautan video Anda dan klik &quot;Potong "
+"Tombol&quot;."
+
+#: templates/cutter.html:53
+msgid ""
+"You will see a player down below. Kindly select the specific part which you "
+"want to cut it from tiktok video."
+msgstr ""
+"Anda akan melihat seorang pemain di bawah. Silakan pilih bagian tertentu "
+"yang ingin Anda potong dari video tiktok."
+
+#: templates/cutter.html:56
+msgid ""
+"Now you see two options over here. The first one is to download that "
+"specific cut part of the video in mp4 format or download track in mp3 format"
+" of that specific Trim part of the video."
+msgstr ""
+"Sekarang Anda melihat dua opsi di sini. Yang pertama adalah mengunduh bagian"
+" tertentu dari video dalam format mp4 atau mengunduh trek dalam format mp3 "
+"dari bagian tertentu dari video tersebut."
+
+#: templates/cutter.html:59
+msgid ""
+"Choose one of the given options according to your needs and then proceed it."
+msgstr ""
+"Pilih salah satu opsi yang diberikan sesuai dengan kebutuhan Anda dan "
+"kemudian lanjutkan."
+
+#: templates/cutter.html:62
+msgid "Now finally click on “Download Button” to download it in your device."
+msgstr ""
+"Sekarang akhirnya klik &quot;Unduh Tombol&quot; untuk mengunduhnya di "
+"perangkat Anda."
+
+#: templates/cutter.html:65
+msgid ""
+"If you like our TikTok Video Cutter and Trimmer Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"Jika Anda menyukai Alat dan Layanan Pemotong dan Pemangkas Video TikTok "
+"kami, silakan bagikan situs web kami dengan teman dan anggota keluarga Anda."
+" Terima kasih!"
+
+#: templates/download.html:6 templates/index.html:4
+msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
+msgstr "Download Video Tiktok Tanpa Watermark - Tiksss.Com"
+
+#: templates/download.html:7 templates/index.html:5
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"Unduh Video Tiktok Tanpa Watermark Online Gratis di situs web kami "
+"Tiksss.com. Ini Pengunduh Video Tiktok Online Tercepat Kami untuk Pecinta "
+"Tiktok yang benar-benar gratis."
+
+#: templates/download2.html:4 templates/without.html:4
+msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
+msgstr "Unduh Video Tiktok Tanpa Tanda Air Online - Tiksss.com"
+
+#: templates/download2.html:6 templates/without.html:6
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Unduh Video Tiktok Tanpa Watermark Online Gratis di situs web Kami "
+"Tiksss.com. Anda dapat dengan mudah mengunduh video Tiktok Tanpa tanda air "
+"di ponsel dan laptop Anda."
+
+#: templates/faq.html:3
+msgid "Frequently Asked Questions - Tiksss.com"
+msgstr "Pertanyaan yang Sering Diajukan - Tiksss.com"
+
+#: templates/faq.html:5
+msgid ""
+"In this page we have added some useful frequently asked questions of our "
+"website Tiksss.com."
+msgstr ""
+"Di halaman ini kami telah menambahkan beberapa pertanyaan umum yang berguna "
+"dari situs web kami Tiksss.com."
+
+#: templates/faq.html:13
+msgid "How to Download TikTok Videos Online Free?"
+msgstr "Bagaimana Cara Mengunduh Video TikTok Online Gratis?"
+
+#: templates/faq.html:19 templates/index.html:34
+msgid "Select a video on TikTok which you want to download"
+msgstr "Pilih video di TikTok yang ingin Anda unduh"
+
+#: templates/faq.html:25 templates/index.html:36
+msgid "Insert the TikTok video link on our website and press \"Search Button\""
+msgstr ""
+"Masukkan tautan video TikTok di situs web kami dan tekan &quot;Tombol "
+"Cari&quot;"
+
+#: templates/faq.html:39
+msgid "Tiktok to Mp3 Converter online Free"
+msgstr "Konverter Tiktok ke Mp3 online Gratis"
+
+#: templates/faq.html:56
+msgid "Now you will see a download button, click on download"
+msgstr "Sekarang Anda akan melihat tombol unduh, klik unduh"
+
+#: templates/faq.html:59
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine"
+msgstr ""
+"Tunggu beberapa detik di mana Anda dapat mengunduh video langsung di mesin "
+"Anda"
+
+#: templates/faq.html:67 templates/without.html:37
+msgid "How to Download Tiktok Videos without Watermark:"
+msgstr "Cara Mengunduh Video Tiktok tanpa Tanda Air:"
+
+#: templates/faq.html:72 templates/without.html:42
+msgid "Select a video on TikTok app or web which you want to download."
+msgstr "Pilih video di aplikasi atau web TikTok yang ingin Anda unduh."
+
+#: templates/faq.html:78 templates/without.html:48
+msgid ""
+"Copy paste the selected TikTok video link on our Website Tool Which is "
+"\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
+msgstr ""
+"Salin tempel tautan video TikTok yang dipilih di Alat Situs Web kami yaitu "
+"&quot;Unduh Video Tiktok Tanpa tanda air&quot; dan tekan &quot;Tombol "
+"Cari&quot;."
+
+#: templates/faq.html:84 templates/without.html:54
+msgid ""
+"Just wait a few seconds in which you can download the Tiktok video Without "
+"Watermark directly in your machine."
+msgstr ""
+"Tunggu beberapa detik di mana Anda dapat mengunduh video Tiktok Tanpa Tanda "
+"Air langsung di mesin Anda."
+
+#: templates/index.html:11
+msgid "to Mp4 Downloader Online Free"
+msgstr "ke Pengunduh Mp4 Online Gratis"
+
+#: templates/index.html:24
+msgid ""
+"is an amazing tool for TikTok lovers to save TikTok videos to your device "
+"with a single click. This tool designed is very simple and everyone can use "
+"it easily without any hassle. We all love to watch Tik Tok videos in our "
+"devices which remain in our logs if we want to see those videos again but I "
+"have experienced that the videos no longer available and its gets lost due "
+"to the awesome feedback that platform produces every single day with full "
+"excessive. TikTok does not allow you to download or save videos on your "
+"preferred devices. But those uploaded videos from the user’s side available "
+"on their official website or app with a lot of restrictions. So the question"
+" is that how to solve all these video downloading issues. So I have decided "
+"to make a tool which will be easy to use for everyone because including me "
+"there are millions of people on this platform to watch TikTok videos on "
+"mobile or laptop but they can’t download it. So do not worry about it. I "
+"have made this tool for you people only to "
+msgstr ""
+"adalah alat luar biasa bagi pecinta TikTok untuk menyimpan video TikTok ke "
+"perangkat Anda dengan satu klik. Alat ini dirancang sangat sederhana dan "
+"semua orang dapat menggunakannya dengan mudah tanpa kerumitan. Kami semua "
+"suka menonton video Tik Tok di perangkat kami yang tetap ada di log kami "
+"jika kami ingin melihat video itu lagi, tetapi saya telah mengalami bahwa "
+"video tidak lagi tersedia dan hilang karena umpan balik luar biasa yang "
+"dihasilkan platform setiap hari dengan penuh berlebihan. TikTok tidak "
+"mengizinkan Anda mengunduh atau menyimpan video di perangkat pilihan Anda. "
+"Tetapi video yang diunggah dari sisi pengguna tersedia di situs web atau "
+"aplikasi resmi mereka dengan banyak batasan. Jadi pertanyaannya adalah "
+"bagaimana menyelesaikan semua masalah pengunduhan video ini. Jadi saya telah"
+" memutuskan untuk membuat alat yang mudah digunakan untuk semua orang karena"
+" termasuk saya, ada jutaan orang di platform ini untuk menonton video TikTok"
+" di ponsel atau laptop tetapi mereka tidak dapat mengunduhnya. Jadi jangan "
+"khawatir tentang hal itu. Saya telah membuat alat ini untuk Anda orang-orang"
+" hanya untuk"
+
+#: templates/index.html:24
+msgid "I proud myself to introduce an amazing "
+msgstr "Saya bangga memperkenalkan diri saya yang luar biasa"
+
+#: templates/index.html:24
+msgid "web app which allow you to download TikTok videos to mp4 format."
+msgstr ""
+"aplikasi web yang memungkinkan Anda mengunduh video TikTok ke format mp4."
+
+#: templates/index.html:31
+msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
+msgstr "Cara Mengunduh Video TikTok ke Mp4 dengan Tiksss.com"
+
+#: templates/index.html:48
+msgid "Introduction of TikTok"
+msgstr "Pengenalan TikTok"
+
+#: templates/index.html:49
+msgid ""
+"Everyone knows that TikTok is very popular right now and with the help of "
+"Tik Tok app. You can create your own videos very easily. TikTok app also "
+"used for streaming and creating content for your own use."
+msgstr ""
+"Semua orang tahu bahwa TikTok sangat populer saat ini dan dengan bantuan "
+"aplikasi Tik Tok. Anda dapat membuat video Anda sendiri dengan sangat mudah."
+" Aplikasi TikTok juga digunakan untuk streaming dan membuat konten untuk "
+"Anda gunakan sendiri."
+
+#: templates/index.html:50
+msgid ""
+"It’s a Chinese app which also allows you to share your videos on social "
+"media platform, friends and family. TikTok owned by a Chinese company which "
+"is also known as “Bytedance”. The main purpose of using this app to create "
+"videos with lisping, short music creation, dancing and voiceover video "
+"clippings."
+msgstr ""
+"Ini adalah aplikasi Cina yang juga memungkinkan Anda untuk membagikan video "
+"Anda di platform media sosial, teman, dan keluarga. TikTok dimiliki oleh "
+"perusahaan Cina yang juga dikenal sebagai &quot;Bytedance&quot;. Tujuan "
+"utama menggunakan aplikasi ini untuk membuat video dengan lisping, kreasi "
+"musik pendek, tarian dan kliping video sulih suara."
+
+#: templates/index.html:51
+msgid ""
+"If you are a content creator and passionate to produce a unique content to "
+"the customers then this app will helps you a lot to fulfill your dreams come"
+" true. Most of the time people love to do voiceover where people select and "
+"play any music in the background and then they act respectively with that "
+"sound. For me I love to watch funny voiceover videos on this app. Everyday "
+"people shows their talent in different ways and become celebrities via this "
+"platform. This platform has become a source for content creators for "
+"entertainment and viral videos. The content of TikTok may unreachable to "
+"those who do not have wifi or internet availability so make sure you have "
+"internet connection on you device to watch viral and amazing videos. So we "
+"are here to give you this amazing TikTok Mp4 Downloader tool to download "
+"favorite videos on you devices."
+msgstr ""
+"Jika Anda seorang pembuat konten dan bersemangat untuk menghasilkan konten "
+"unik kepada pelanggan, maka aplikasi ini akan banyak membantu Anda untuk "
+"mewujudkan impian Anda. Sebagian besar waktu orang suka melakukan sulih "
+"suara di mana orang memilih dan memainkan musik apa pun di latar belakang "
+"dan kemudian mereka bertindak masing-masing dengan suara itu. Bagi saya, "
+"saya suka menonton video sulih suara lucu di aplikasi ini. Setiap hari orang"
+" menunjukkan bakat mereka dengan cara yang berbeda dan menjadi selebriti "
+"melalui platform ini. Platform ini telah menjadi sumber bagi pembuat konten "
+"untuk hiburan dan video viral. Konten TikTok mungkin tidak dapat dijangkau "
+"oleh mereka yang tidak memiliki wifi atau ketersediaan internet, jadi "
+"pastikan Anda memiliki koneksi internet di perangkat Anda untuk menonton "
+"video viral dan menakjubkan. Jadi kami di sini untuk memberi Anda alat "
+"Pengunduh Mp4 TikTok yang luar biasa ini untuk mengunduh video favorit di "
+"perangkat Anda."
+
+#: templates/index.html:61
+msgid "Unlimited Downloads"
+msgstr "Unduhan Tidak Terbatas"
+
+#: templates/index.html:62
+msgid "Download unlimited videos with no limitations."
+msgstr "Unduh video tanpa batas tanpa batasan."
+
+#: templates/index.html:66
+msgid "No Watermark on Videos:"
+msgstr "Tidak Ada Tanda Air pada Video:"
+
+#: templates/index.html:67
+msgid "Download TikTok videos without watermark with no limits."
+msgstr "Unduh video TikTok tanpa tanda air tanpa batas."
+
+#: templates/index.html:71
+msgid "Mp4 Supported HD:"
+msgstr "Mp4 Didukung HD:"
+
+#: templates/index.html:72
+msgid "Download TikTok videos with Mp4 format HD."
+msgstr "Unduh video TikTok dengan format Mp4 HD."
+
+#: templates/index.html:76
+msgid "Mp3 Support:"
+msgstr "Dukungan Mp3:"
+
+#: templates/index.html:77
+msgid "Easily Convert TikTok to Mp3 with high quality."
+msgstr "Konversikan TikTok ke Mp3 dengan mudah dengan kualitas tinggi."
+
+#: templates/index.html:89
+msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
+msgstr "Unduh Video TikTok ke Mp4 HD Di Perangkat Seluler:"
+
+#: templates/index.html:90
+msgid ""
+"If you want to download and save TikTok videos on your mobile device that "
+"you have to download and install TikTok app and then select your favorite "
+"video which you want to download. Here is some important thing when you are "
+"on video download page, see the share button on the right side of your "
+"device screen tap on it with the help of arrow and copy “link”. So open our "
+"website Tiksss.com and paste that copy link in given field and click on "
+"“Search Button”. It will take few seconds to get a downloadable link. You "
+"will see a “Download Button” hit on it to start video downloading on your "
+"device."
+msgstr ""
+"Jika Anda ingin mengunduh dan menyimpan video TikTok di perangkat seluler "
+"Anda, Anda harus mengunduh dan menginstal aplikasi TikTok lalu pilih video "
+"favorit yang ingin Anda unduh. Berikut adalah beberapa hal penting ketika "
+"Anda berada di halaman pengunduhan video, lihat tombol bagikan di sisi kanan"
+" layar perangkat Anda, ketuk dengan bantuan panah dan salin "
+"&quot;tautan&quot;. Jadi buka situs web kami Tiksss.com dan rekatkan tautan "
+"salin itu di bidang yang diberikan dan klik &quot;Tombol Pencarian&quot;. "
+"Ini akan memakan waktu beberapa detik untuk mendapatkan tautan yang dapat "
+"diunduh. Anda akan melihat &quot;Tombol Unduh&quot; untuk memulai "
+"pengunduhan video di perangkat Anda."
+
+#: templates/index.html:101
+msgid "Download TikTok Video Without Watermark on your Device:"
+msgstr "Unduh Video TikTok Tanpa Tanda Air di Perangkat Anda:"
+
+#: templates/index.html:102
+msgid ""
+"This method is very unique to get download video without watermark in "
+"original quality. We made this tool very easy and it works smoothly on "
+"windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t "
+"need to install any extra software or App and this is the only specialty of "
+"this TikTok no watermark video download tool. Go to Tiksss.com and you will "
+"see dropdown menu click on it and select “Without Watermark”. On the next "
+"page just paste the link and click “Download Button”. Wait a few seconds to "
+"get start downloading of your video."
+msgstr ""
+"Cara ini sangat unik untuk mendapatkan download video tanpa watermark dalam "
+"kualitas aslinya. Kami membuat alat ini sangat mudah dan berfungsi dengan "
+"lancar di perangkat Windows, Mac OS, Ipad, Android. Khusus untuk pengguna "
+"PC, mereka tidak perlu menginstal perangkat lunak atau Aplikasi tambahan apa"
+" pun dan ini adalah satu-satunya keistimewaan alat pengunduhan video TikTok "
+"tanpa watermark ini. Pergi ke Tiksss.com dan Anda akan melihat menu dropdown"
+" klik di atasnya dan pilih &quot;Tanpa Watermark&quot;. Di halaman "
+"berikutnya cukup tempel tautan dan klik &quot;Tombol Unduh&quot;. Tunggu "
+"beberapa detik untuk mulai mengunduh video Anda."
+
+#: templates/index.html:119
+msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
+msgstr ""
+"Konverter Tiktok ke MP3 online Gratis untuk Perangkat seluler dan Desktop:"
+
+#: templates/index.html:120
+msgid "If you are music lover then you will know the value of this"
+msgstr "Jika Anda pecinta musik maka Anda akan tahu nilai ini"
+
+#: templates/index.html:120
+msgid ""
+"We have made this tool very easy and simple. You people can use this tool on"
+" your preferred devices without any limits. Make sure that you have to "
+"bookmark this tool page for future. We have added all the instructions of "
+"this tool that how you people can use and take benefits from it. Kindly "
+"share this tool with your friends and family member with the help of social "
+"media because they will definitely like and use this for sure."
+msgstr ""
+"Kami telah membuat alat ini sangat mudah dan sederhana. Anda orang dapat "
+"menggunakan alat ini di perangkat pilihan Anda tanpa batas. Pastikan Anda "
+"harus menandai halaman alat ini untuk masa mendatang. Kami telah menambahkan"
+" semua petunjuk alat ini agar Anda dapat menggunakan dan memanfaatkannya. "
+"Silakan bagikan alat ini dengan teman dan anggota keluarga Anda dengan "
+"bantuan media sosial karena mereka pasti akan menyukai dan menggunakan ini."
+
+#: templates/index.html:128
+msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgstr "Pemotong Video Tiktok Online – Pemangkas Video TikTok Online Gratis:"
+
+#: templates/index.html:129
+msgid "Here you go. "
+msgstr "Ini dia."
+
+#: templates/index.html:129
+msgid ""
+" provides you a solution for your content creation. While using this tool on"
+" our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
+"your devices for free. It’s very unique and user friendly tool for everyone."
+msgstr ""
+"memberi Anda solusi untuk pembuatan konten Anda. Saat menggunakan alat ini "
+"di situs web kami Tikss.com, Anda dapat dengan mudah Memangkas dan Memotong "
+"Video TikTok di perangkat Anda secara gratis. Ini adalah alat yang sangat "
+"unik dan ramah pengguna untuk semua orang."
+
+#: templates/privacypolicy.html:3
+msgid "Privacy Policy - Tiksss.com"
+msgstr "Kebijakan Privasi - Tiksss.com"
+
+#: templates/privacypolicy.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Privacy Policy. If you have any question regarding this than kindly let us "
+"know. Thanks."
+msgstr ""
+"Di halaman ini kami telah menambahkan beberapa info berguna tentang "
+"Kebijakan Privasi situs web kami Tiksss.com. Jika Anda memiliki pertanyaan "
+"tentang ini, silakan beri tahu kami. Terima kasih."
+
+#: templates/privacypolicy.html:13
+msgid "By using"
+msgstr "Dengan menggunakan"
+
+#: templates/privacypolicy.html:13
+msgid ""
+"you signify your agreement to follow all the privacy policy set forth on "
+"this page:"
+msgstr ""
+"Anda menandakan persetujuan Anda untuk mengikuti semua kebijakan privasi "
+"yang ditetapkan di halaman ini:"
+
+#: templates/privacypolicy.html:16
+msgid ""
+"This Website does not collect personally identifiable information from your "
+"computer when you browse the Website and request pages from our servers. "
+"This means that, unless you voluntarily and knowingly provide us with "
+"personally identifiable information, we will not know your name, your e-mail"
+" address, or any other personally identifiable information."
+msgstr ""
+"Situs Web ini tidak mengumpulkan informasi pengenal pribadi dari komputer "
+"Anda ketika Anda menelusuri Situs Web dan meminta halaman dari server kami. "
+"Ini berarti bahwa, kecuali Anda secara sukarela dan sadar memberikan kami "
+"informasi pengenal pribadi, kami tidak akan mengetahui nama Anda, alamat "
+"email Anda, atau informasi pengenal pribadi lainnya."
+
+#: templates/privacypolicy.html:19
+msgid ""
+"When you request a page from our Website, our servers log the information "
+"provided in the HTTP request header, JavaScript or similar technical tools, "
+"including the IP number, the time of the request, the URL of your request "
+"and other information. We collect this information in order to make our "
+"Website function correctly and provide you the functionality that you see on"
+" the Website, as our servers use this information to deliver to you the "
+"pages on this Website. We also use this information to better understand how"
+" visitors use our Website and how we can better tune our Website, its "
+"contents and functionality to meet your needs. However, this information is "
+"not associated with any personally identifiable information of persons "
+"browsing the Website."
+msgstr ""
+"Saat Anda meminta halaman dari Situs Web kami, server kami mencatat "
+"informasi yang disediakan di header permintaan HTTP, JavaScript, atau alat "
+"teknis serupa, termasuk nomor IP, waktu permintaan, URL permintaan Anda, dan"
+" informasi lainnya. Kami mengumpulkan informasi ini untuk membuat Situs Web "
+"kami berfungsi dengan benar dan memberi Anda fungsionalitas yang Anda lihat "
+"di Situs Web, karena server kami menggunakan informasi ini untuk mengirimkan"
+" kepada Anda halaman-halaman di Situs Web ini. Kami juga menggunakan "
+"informasi ini untuk lebih memahami bagaimana pengunjung menggunakan Situs "
+"Web kami dan bagaimana kami dapat menyesuaikan Situs Web kami dengan lebih "
+"baik, konten dan fungsinya untuk memenuhi kebutuhan Anda. Namun, informasi "
+"ini tidak terkait dengan informasi pengenal pribadi apa pun dari orang-orang"
+" yang menjelajahi Situs Web."
+
+#: templates/privacypolicy.html:22
+msgid ""
+"We use Google Analytics cookies to understand and save your preferences for "
+"future visits. Cookies are small files that a site or its service provider "
+"transfers to your computers hard drive through your Web browser (if you "
+"allow) that enables the sites or service providers systems to recognize your"
+" browser and capture and remember certain information)"
+msgstr ""
+"Kami menggunakan cookie Google Analytics untuk memahami dan menyimpan "
+"preferensi Anda untuk kunjungan berikutnya. Cookie adalah file kecil yang "
+"ditransfer oleh situs atau penyedia layanannya ke hard drive komputer Anda "
+"melalui browser Web Anda (jika Anda mengizinkan) yang memungkinkan situs "
+"atau sistem penyedia layanan mengenali browser Anda dan menangkap serta "
+"mengingat informasi tertentu)"
+
+#: templates/privacypolicy.html:25
+msgid ""
+"Some of the advertisements you see on the Site are selected and delivered by"
+" third parties, such as ad networks, advertising agencies, advertisers, and "
+"audience segment providers. These third parties may collect information "
+"about you and your online activities, either on the Site or on other "
+"websites, through cookies, web beacons, and other technologies in an effort "
+"to understand your interests and deliver to you advertisements that are "
+"tailored to your interests. The information practices of these third parties"
+" are not covered by this privacy policy"
+msgstr ""
+"Beberapa iklan yang Anda lihat di Situs dipilih dan dikirimkan oleh pihak "
+"ketiga, seperti jaringan iklan, biro iklan, pengiklan, dan penyedia segmen "
+"audiens. Pihak ketiga ini dapat mengumpulkan informasi tentang Anda dan "
+"aktivitas online Anda, baik di Situs atau di situs web lain, melalui cookie,"
+" web beacon, dan teknologi lainnya dalam upaya untuk memahami minat Anda dan"
+" mengirimkan kepada Anda iklan yang disesuaikan dengan minat Anda. Praktik "
+"informasi dari pihak ketiga ini tidak tercakup dalam kebijakan privasi ini"
+
+#: templates/privacypolicy.html:28
+msgid ""
+"We do not sell, trade, or otherwise transfer to outside parties your "
+"personally identifiable information. This does not include trusted third "
+"parties who assist us in operating our website, conducting our business, or "
+"servicing you, so long as those parties agree to keep this information "
+"confidential. We may also release your information when we believe release "
+"is appropriate to comply with the law, enforce our site policies, or protect"
+" ours or others rights, property, or safety. However, non-personally "
+"identifiable visitor information may be provided to other parties for "
+"marketing, advertising, or other uses"
+msgstr ""
+"Kami tidak menjual, memperdagangkan, atau mentransfer ke pihak luar "
+"informasi pengenal pribadi Anda. Ini tidak termasuk pihak ketiga tepercaya "
+"yang membantu kami dalam mengoperasikan situs web kami, menjalankan bisnis "
+"kami, atau melayani Anda, selama pihak-pihak tersebut setuju untuk "
+"merahasiakan informasi ini. Kami juga dapat merilis informasi Anda ketika "
+"kami yakin rilis tersebut sesuai untuk mematuhi hukum, menegakkan kebijakan "
+"situs kami, atau melindungi hak, properti, atau keselamatan kami atau orang "
+"lain. Namun, informasi pengunjung yang tidak dapat diidentifikasi secara "
+"pribadi dapat diberikan kepada pihak lain untuk pemasaran, periklanan, atau "
+"penggunaan lainnya"
+
+#: templates/privacypolicy.html:31
+msgid ""
+"Occasionally, at our discretion, we may include or offer third party "
+"products or services on our website. These third party sites have separate "
+"and independent privacy policies. We therefore have no responsibility or "
+"liability for the content and activities of these linked sites. Nonetheless,"
+" we seek to protect the integrity of our site and welcome any feedback about"
+" these sites"
+msgstr ""
+"Terkadang, atas kebijaksanaan kami, kami dapat menyertakan atau menawarkan "
+"produk atau layanan pihak ketiga di situs web kami. Situs pihak ketiga ini "
+"memiliki kebijakan privasi yang terpisah dan independen. Oleh karena itu, "
+"kami tidak bertanggung jawab atau berkewajiban atas konten dan aktivitas "
+"situs terkait ini. Meskipun demikian, kami berusaha untuk melindungi "
+"integritas situs kami dan menerima umpan balik tentang situs ini"
+
+#: templates/privacypolicy.html:34
+msgid ""
+"Changes to our Privacy Policy. If we decide to change our privacy policy, we"
+" will post those changes on this page"
+msgstr ""
+"Perubahan pada Kebijakan Privasi kami. Jika kami memutuskan untuk mengubah "
+"kebijakan privasi kami, kami akan memposting perubahan tersebut di halaman "
+"ini"
+
+#: templates/privacypolicy.html:37
+msgid "TIKSSS Video Downloader"
+msgstr "Pengunduh Video TIKSSSS"
+
+#: templates/privacypolicy.html:38
+msgid ""
+"TIK built the TIKSSS Mp4 Video Downloader for TikTok</b> app as an Ad "
+"Supported app. This SERVICE is provided by TIKsss at no cost and is intended"
+" for use as is"
+msgstr ""
+"TIK membangun Pengunduh Video Mp4 TikSSSS untuk aplikasi TikTok sebagai "
+"aplikasi yang Didukung Iklan. LAYANAN ini disediakan oleh TIKsss tanpa biaya"
+" dan dimaksudkan untuk digunakan apa adanya"
+
+#: templates/privacypolicy.html:39
+msgid ""
+"This page is used to inform visitors regarding our policies with the "
+"collection, use, and disclosure of Personal Information if anyone decided to"
+" use our Service"
+msgstr ""
+"Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan kami "
+"dengan pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada "
+"yang memutuskan untuk menggunakan Layanan kami"
+
+#: templates/privacypolicy.html:40
+msgid ""
+"If you choose to use our Service, then you agree to the collection and use "
+"of information in relation to this policy. The Personal Information that we "
+"collect is used for providing and improving the Service. We will not use or "
+"share your information with anyone except as described in this Privacy "
+"Policy"
+msgstr ""
+"Jika Anda memilih untuk menggunakan Layanan kami, maka Anda menyetujui "
+"pengumpulan dan penggunaan informasi sehubungan dengan kebijakan ini. "
+"Informasi Pribadi yang kami kumpulkan digunakan untuk menyediakan dan "
+"meningkatkan Layanan. Kami tidak akan menggunakan atau membagikan informasi "
+"Anda dengan siapa pun kecuali seperti yang dijelaskan dalam Kebijakan "
+"Privasi ini"
+
+#: templates/privacypolicy.html:41
+msgid ""
+"The terms used in this Privacy Policy have the same meanings as in our Terms"
+" and Conditions, which is accessible at TIKSSS Video Downloader and Mp3 "
+"Converter for TikTok unless otherwise defined in this Privacy Policy"
+msgstr ""
+"Istilah yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama "
+"seperti dalam Syarat dan Ketentuan kami, yang dapat diakses di Pengunduh "
+"Video TIKSSS dan Pengonversi Mp3 untuk TikTok kecuali ditentukan lain dalam "
+"Kebijakan Privasi ini"
+
+#: templates/privacypolicy.html:42
+msgid "Information we collect"
+msgstr "Informasi yang kami kumpulkan"
+
+#: templates/privacypolicy.html:43
+msgid ""
+"The personal information that you are asked to provide, and the reasons why "
+"you are asked to provide it, will be made clear to you at the point we ask "
+"you to provide your personal information"
+msgstr ""
+"Informasi pribadi yang diminta untuk Anda berikan, dan alasan mengapa Anda "
+"diminta untuk memberikannya, akan dijelaskan kepada Anda pada saat kami "
+"meminta Anda untuk memberikan informasi pribadi Anda"
+
+#: templates/privacypolicy.html:44
+msgid ""
+"If you contact us directly, we may receive additional information about you "
+"such as your name, email address, phone number, and the contents of the "
+"message and/or attachments you may send us, and any other information you "
+"may choose to provide"
+msgstr ""
+"Jika Anda menghubungi kami secara langsung, kami dapat menerima informasi "
+"tambahan tentang Anda seperti nama, alamat email, nomor telepon, dan isi "
+"pesan dan/atau lampiran yang Anda kirimkan kepada kami, dan informasi lain "
+"yang mungkin Anda pilih untuk diberikan."
+
+#: templates/privacypolicy.html:45
+msgid ""
+"When you register for an Account, we may ask for your contact information, "
+"including items such as name, company name, address, email address, and "
+"telephone number."
+msgstr ""
+"Saat Anda mendaftar untuk sebuah Akun, kami dapat meminta informasi kontak "
+"Anda, termasuk item seperti nama, nama perusahaan, alamat, alamat email, dan"
+" nomor telepon."
+
+#: templates/privacypolicy.html:46
+msgid "Log Data"
+msgstr "Data Log"
+
+#: templates/privacypolicy.html:47
+msgid ""
+"we want to inform you that whenever you use our Service, in a case of an "
+"error in the app we collect data and information (through third party "
+"products) on your phone called Log Data. This Log Data may include "
+"information such as your device Internet Protocol (\"IP\") address, device "
+"name, operating system version, the configuration of the app when utilizing "
+"our Service, the time and date of your use of the Service, and other "
+"statistics"
+msgstr ""
+"kami ingin memberi tahu Anda bahwa setiap kali Anda menggunakan Layanan "
+"kami, jika terjadi kesalahan dalam aplikasi, kami mengumpulkan data dan "
+"informasi (melalui produk pihak ketiga) di ponsel Anda yang disebut Data "
+"Log. Data Log ini dapat mencakup informasi seperti alamat Protokol Internet "
+"(&quot;IP&quot;) perangkat Anda, nama perangkat, versi sistem operasi, "
+"konfigurasi aplikasi saat menggunakan Layanan kami, waktu dan tanggal "
+"penggunaan Layanan oleh Anda, dan statistik lainnya"
+
+#: templates/privacypolicy.html:49 templates/tandc.html:15
+msgid "Cookies"
+msgstr "Kue"
+
+#: templates/privacypolicy.html:50
+msgid ""
+"Cookies are files with a small amount of data that are commonly used as "
+"anonymous unique identifiers. These are sent to your browser from the "
+"websites that you visit and are stored on your device's internal memory"
+msgstr ""
+"Cookie adalah file dengan sejumlah kecil data yang biasanya digunakan "
+"sebagai pengidentifikasi unik anonim. Ini dikirim ke browser Anda dari situs"
+" web yang Anda kunjungi dan disimpan di memori internal perangkat Anda"
+
+#: templates/privacypolicy.html:51
+msgid ""
+"This Service does not use these \"cookies\" explicitly. However, the app may"
+" use third party code and libraries that use \"cookies\" to collect "
+"information and improve their services. You have the option to either accept"
+" or refuse these cookies and know when a cookie is being sent to your "
+"device. If you choose to refuse our cookies, you may not be able to use some"
+" portions of this Service."
+msgstr ""
+"Layanan ini tidak menggunakan &quot;cookies&quot; ini secara eksplisit. "
+"Namun, aplikasi dapat menggunakan kode dan perpustakaan pihak ketiga yang "
+"menggunakan &quot;cookies&quot; untuk mengumpulkan informasi dan "
+"meningkatkan layanan mereka. Anda memiliki pilihan untuk menerima atau "
+"menolak cookie ini dan mengetahui kapan cookie dikirim ke perangkat Anda. "
+"Jika Anda memilih untuk menolak cookie kami, Anda mungkin tidak dapat "
+"menggunakan beberapa bagian dari Layanan ini."
+
+#: templates/privacypolicy.html:52
+msgid "Service Providers"
+msgstr "Penyedia jasa"
+
+#: templates/privacypolicy.html:53
+msgid ""
+"We may employ third-party companies and individuals due to the following "
+"reasons:"
+msgstr ""
+"Kami dapat mempekerjakan perusahaan dan individu pihak ketiga karena alasan "
+"berikut:"
+
+#: templates/privacypolicy.html:56
+msgid "To facilitate our Service"
+msgstr "Untuk memfasilitasi Layanan kami"
+
+#: templates/privacypolicy.html:59
+msgid "To provide the Service on our behalf"
+msgstr "Untuk menyediakan Layanan atas nama kami"
+
+#: templates/privacypolicy.html:62
+msgid "To perform Service-related services; or"
+msgstr "Untuk melakukan layanan terkait Layanan; atau"
+
+#: templates/privacypolicy.html:65
+msgid "To assist us in analyzing how our Service is used."
+msgstr ""
+"Untuk membantu kami dalam menganalisis bagaimana Layanan kami digunakan."
+
+#: templates/privacypolicy.html:68
+msgid ""
+"We want to inform users of this Service that these third parties have access"
+" to your Personal Information. The reason is to perform the tasks assigned "
+"to them on our behalf. However, they are obligated not to disclose or use "
+"the information for any other purpose."
+msgstr ""
+"Kami ingin memberi tahu pengguna Layanan ini bahwa pihak ketiga ini memiliki"
+" akses ke Informasi Pribadi Anda. Alasannya adalah untuk melakukan tugas "
+"yang diberikan kepada mereka atas nama kita. Namun, mereka berkewajiban "
+"untuk tidak mengungkapkan atau menggunakan informasi tersebut untuk tujuan "
+"lain."
+
+#: templates/privacypolicy.html:69
+msgid "Security"
+msgstr "Keamanan"
+
+#: templates/privacypolicy.html:70
+#, python-format
+msgid ""
+"We value your trust in providing us your Personal Information, thus we are "
+"striving to use commercially acceptable means of protecting it. But remember"
+" that no method of transmission over the internet, or method of electronic "
+"storage is 100%% secure and reliable, and we cannot guarantee its absolute "
+"security."
+msgstr ""
+"Kami menghargai kepercayaan Anda dalam memberikan Informasi Pribadi Anda "
+"kepada kami, oleh karena itu kami berusaha untuk menggunakan cara yang dapat"
+" diterima secara komersial untuk melindunginya. Tetapi ingat bahwa tidak ada"
+" metode transmisi melalui internet, atau metode penyimpanan elektronik yang "
+"100%% aman dan andal, dan kami tidak dapat menjamin keamanan mutlaknya."
+
+#: templates/privacypolicy.html:71
+msgid "Links to Other Sites"
+msgstr "Tautan ke Situs Lain"
+
+#: templates/privacypolicy.html:72
+msgid ""
+"This Service may contain links to other sites. If you click on a third-party"
+" link, you will be directed to that site. Note that these external sites are"
+" not operated by us. Therefore, we strongly advise you to review the Privacy"
+" Policy of these websites. we have no control over and assume no "
+"responsibility for the content, privacy policies, or practices of any third-"
+"party sites or services."
+msgstr ""
+"Layanan ini mungkin berisi tautan ke situs lain. Jika Anda mengklik tautan "
+"pihak ketiga, Anda akan diarahkan ke situs itu. Perhatikan bahwa situs "
+"eksternal ini tidak dioperasikan oleh kami. Oleh karena itu, kami sangat "
+"menyarankan Anda untuk meninjau Kebijakan Privasi situs web ini. kami tidak "
+"memiliki kendali atas dan tidak bertanggung jawab atas konten, kebijakan "
+"privasi, atau praktik situs atau layanan pihak ketiga mana pun."
+
+#: templates/privacypolicy.html:73
+msgid "Children's Privacy"
+msgstr "Privasi Anak-anak"
+
+#: templates/privacypolicy.html:74
+msgid ""
+"These Services do not address anyone under the age of 13. we do not "
+"knowingly collect personally identifiable information from children under "
+"13. In the case we discover that a child under 13 has provided us with "
+"personal information, we immediately delete this from our servers. If you "
+"are a parent or guardian and you are aware that your child has provided us "
+"with personal information, please contact us so that we will be able to do "
+"necessary actions."
+msgstr ""
+"Layanan ini tidak ditujukan kepada siapa pun yang berusia di bawah 13 tahun."
+" Kami tidak dengan sengaja mengumpulkan informasi pengenal pribadi dari "
+"anak-anak di bawah 13 tahun. Jika kami menemukan bahwa seorang anak di bawah"
+" 13 tahun telah memberi kami informasi pribadi, kami segera menghapusnya "
+"dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui "
+"bahwa anak Anda telah memberikan informasi pribadi kepada kami, silakan "
+"hubungi kami agar kami dapat melakukan tindakan yang diperlukan."
+
+#: templates/privacypolicy.html:75
+msgid "Google Double-Click DART Cookie"
+msgstr "Cookie DART Klik Dua Kali Google"
+
+#: templates/privacypolicy.html:76
+msgid ""
+"Google is one of a third-party vendor on our site. It also uses cookies, "
+"known as DART cookies, to serve ads to our site visitors based upon their "
+"visit to www.website.com and other sites on the internet. However, visitors "
+"may choose to decline the use of DART cookies by visiting the Google ad and "
+"content network Privacy Policy at the following URL – "
+msgstr ""
+"Google adalah salah satu vendor pihak ketiga di situs kami. Ini juga "
+"menggunakan cookie, yang dikenal sebagai cookie DART, untuk menayangkan "
+"iklan kepada pengunjung situs kami berdasarkan kunjungan mereka ke "
+"www.website.com dan situs lain di internet. Namun, pengunjung dapat memilih "
+"untuk menolak penggunaan cookie DART dengan mengunjungi Kebijakan Privasi "
+"jaringan iklan dan konten Google di URL berikut –"
+
+#: templates/privacypolicy.html:78
+msgid "Our Advertising Partners"
+msgstr "Mitra Periklanan Kami"
+
+#: templates/privacypolicy.html:79
+msgid ""
+"Our Advertising Partners Some of advertisers on our site may use cookies and"
+" web beacons. Our advertising partners are listed below. Each of our "
+"advertising partners has their own Privacy Policy for their policies on user"
+" data. For easier access, we hyperlinked to their Privacy Policies below."
+msgstr ""
+"Mitra Periklanan Kami Beberapa pengiklan di situs kami mungkin menggunakan "
+"cookie dan suar web. Mitra periklanan kami tercantum di bawah ini. Setiap "
+"mitra periklanan kami memiliki Kebijakan Privasi mereka sendiri untuk "
+"kebijakan mereka tentang data pengguna. Untuk akses yang lebih mudah, kami "
+"menautkan ke Kebijakan Privasi mereka di bawah ini."
+
+#: templates/privacypolicy.html:82
+msgid "Changes to This Privacy Policy"
+msgstr "Perubahan pada Kebijakan Privasi Ini"
+
+#: templates/privacypolicy.html:83
+msgid ""
+"We may update our Privacy Policy from time to time. Thus, you are advised to"
+" review this page periodically for any changes. We will notify you of any "
+"changes by posting the new Privacy Policy on this page."
+msgstr ""
+"Kami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Oleh "
+"karena itu, Anda disarankan untuk meninjau halaman ini secara berkala untuk "
+"setiap perubahan. Kami akan memberi tahu Anda tentang perubahan apa pun "
+"dengan memposting Kebijakan Privasi baru di halaman ini."
+
+#: templates/privacypolicy.html:85
+msgid "Advertising Partners Privacy Policies"
+msgstr "Kebijakan Privasi Mitra Periklanan"
+
+#: templates/privacypolicy.html:86
+msgid ""
+"You may consult this list to find the Privacy Policy for each of the "
+"advertising partners of qload.info. Third-party ad servers or ad networks "
+"uses technologies like cookies, JavaScript, or Web Beacons that are used in "
+"their respective advertisements and links that appear on qload.info, which "
+"are sent directly to users' browser. They automatically receive your IP "
+"address when this occurs. These technologies are used to measure the "
+"effectiveness of their advertising campaigns and/or to personalize the "
+"advertising content that you see on websites that you visit. Note that "
+"qload.info has no access to or control over these cookies that are used by "
+"third-party advertisers."
+msgstr ""
+"Anda dapat berkonsultasi dengan daftar ini untuk menemukan Kebijakan Privasi"
+" masing-masing mitra periklanan qload.info. Server iklan atau jaringan iklan"
+" pihak ketiga menggunakan teknologi seperti cookie, JavaScript, atau Web "
+"Beacon yang digunakan dalam iklan masing-masing dan tautan yang muncul di "
+"qload.info, yang dikirim langsung ke browser pengguna. Mereka secara "
+"otomatis menerima alamat IP Anda ketika ini terjadi. Teknologi ini digunakan"
+" untuk mengukur efektivitas kampanye iklan mereka dan/atau untuk "
+"mempersonalisasi konten iklan yang Anda lihat di situs web yang Anda "
+"kunjungi. Perhatikan bahwa qload.info tidak memiliki akses atau kontrol "
+"terhadap cookie ini yang digunakan oleh pengiklan pihak ketiga."
+
+#: templates/privacypolicy.html:88
+msgid "Third Party Privacy Policies"
+msgstr "Kebijakan Privasi Pihak Ketiga"
+
+#: templates/privacypolicy.html:89
+msgid ""
+"qload.info's Privacy Policy does not apply to other advertisers or websites."
+" Thus, we are advising you to consult the respective Privacy Policies of "
+"these third-party ad servers for more detailed information. It may include "
+"their practices and instructions about how to opt-out of certain options. "
+"You may find a complete list of these Privacy Policies and their links here:"
+" Privacy Policy Links. You can choose to disable cookies through your "
+"individual browser options. To know more detailed information about cookie "
+"management with specific web browsers, it can be found at the browsers' "
+"respective websites. What Are Cookies?"
+msgstr ""
+"Kebijakan Privasi Pihak Ketiga Oleh karena itu, kami menyarankan Anda untuk "
+"berkonsultasi dengan Kebijakan Privasi masing-masing dari server iklan pihak"
+" ketiga ini untuk informasi lebih rinci. Ini mungkin termasuk praktik dan "
+"instruksi mereka tentang cara memilih keluar dari opsi tertentu. Anda dapat "
+"menemukan daftar lengkap Kebijakan Privasi ini dan tautannya di sini: Tautan"
+" Kebijakan Privasi. Anda dapat memilih untuk menonaktifkan cookie melalui "
+"opsi browser individual Anda. Untuk mengetahui informasi lebih rinci tentang"
+" manajemen cookie dengan browser web tertentu, dapat ditemukan di situs web "
+"masing-masing browser. Apa Itu Cookie?"
+
+#: templates/privacypolicy.html:90
+msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+msgstr "Hak Privasi CCPA (Jangan Jual Informasi Pribadi Saya)"
+
+#: templates/privacypolicy.html:91
+msgid ""
+"Under the CCPA, among other rights, California consumers have the right to:"
+msgstr ""
+"Di bawah CCPA, di antara hak-hak lainnya, konsumen California memiliki hak "
+"untuk:"
+
+#: templates/privacypolicy.html:92
+msgid ""
+"Request that a business that collects a consumer's personal data disclose "
+"the categories and specific pieces of personal data that a business has "
+"collected about consumers."
+msgstr ""
+"Meminta bisnis yang mengumpulkan data pribadi konsumen mengungkapkan "
+"kategori dan bagian tertentu dari data pribadi yang telah dikumpulkan bisnis"
+" tentang konsumen."
+
+#: templates/privacypolicy.html:93
+msgid ""
+"Request that a business delete any personal data about the consumer that a "
+"business has collected."
+msgstr ""
+"Meminta bisnis menghapus data pribadi apa pun tentang konsumen yang telah "
+"dikumpulkan bisnis."
+
+#: templates/privacypolicy.html:95
+msgid ""
+"Request that a business that sells a consumer's personal data, not sell the "
+"consumer's personal data."
+msgstr ""
+"Meminta agar bisnis yang menjual data pribadi konsumen, bukan menjual data "
+"pribadi konsumen."
+
+#: templates/privacypolicy.html:96
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us"
+msgstr ""
+"Jika Anda mengajukan permintaan, kami memiliki waktu satu bulan untuk "
+"menanggapi Anda. Jika Anda ingin menggunakan salah satu dari hak-hak ini, "
+"silakan hubungi kami"
+
+#: templates/privacypolicy.html:97
+msgid "GDPR Data Protection Rights"
+msgstr "Hak Perlindungan Data GDPR"
+
+#: templates/privacypolicy.html:98
+msgid ""
+"We would like to make sure you are fully aware of all of your data "
+"protection rights. Every user is entitled to the following:"
+msgstr ""
+"Kami ingin memastikan bahwa Anda sepenuhnya mengetahui semua hak "
+"perlindungan data Anda. Setiap pengguna berhak atas hal-hal berikut:"
+
+#: templates/privacypolicy.html:99
+msgid ""
+"The right to access – You have the right to request copies of your personal "
+"data. We may charge you a small fee for this service."
+msgstr ""
+"Hak untuk mengakses – Anda berhak meminta salinan data pribadi Anda. Kami "
+"mungkin mengenakan sedikit biaya untuk layanan ini."
+
+#: templates/privacypolicy.html:100
+msgid ""
+"The right to rectification – You have the right to request that we correct "
+"any information you believe is inaccurate. You also have the right to "
+"request that we complete the information you believe is incomplete."
+msgstr ""
+"Hak untuk memperbaiki – Anda memiliki hak untuk meminta kami mengoreksi "
+"informasi apa pun yang Anda yakini tidak akurat. Anda juga berhak meminta "
+"kami melengkapi informasi yang Anda yakini tidak lengkap."
+
+#: templates/privacypolicy.html:101
+msgid ""
+"he right to erasure – You have the right to request that we erase your "
+"personal data, under certain conditions. The right to restrict processing – "
+"You have the right to request that we restrict the processing of your "
+"personal data, under certain conditions."
+msgstr ""
+"hak untuk menghapus – Anda memiliki hak untuk meminta kami menghapus data "
+"pribadi Anda, dalam kondisi tertentu. Hak untuk membatasi pemrosesan – Anda "
+"memiliki hak untuk meminta kami membatasi pemrosesan data pribadi Anda, "
+"dalam kondisi tertentu."
+
+#: templates/privacypolicy.html:102
+msgid ""
+"The right to object to processing – You have the right to object to our "
+"processing of your personal data, under certain conditions."
+msgstr ""
+"Hak untuk menolak pemrosesan – Anda memiliki hak untuk menolak pemrosesan "
+"data pribadi Anda oleh kami, dalam kondisi tertentu."
+
+#: templates/privacypolicy.html:103
+msgid ""
+"The right to data portability – You have the right to request that we "
+"transfer the data that we have collected to another organization, or "
+"directly to you, under certain conditions."
+msgstr ""
+"Hak atas portabilitas data – Anda berhak meminta kami mentransfer data yang "
+"telah kami kumpulkan ke organisasi lain, atau langsung kepada Anda, dalam "
+"kondisi tertentu."
+
+#: templates/privacypolicy.html:104
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us."
+msgstr ""
+"Jika Anda mengajukan permintaan, kami memiliki waktu satu bulan untuk "
+"menanggapi Anda. Jika Anda ingin menggunakan hak-hak ini, silakan hubungi "
+"kami."
+
+#: templates/tandc.html:3
+msgid "Terms of Services - Tiksss.com"
+msgstr "Ketentuan Layanan - Tiksss.com"
+
+#: templates/tandc.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Terms and Services. If you have any question regarding this than kindly let "
+"us know. Thanks."
+msgstr ""
+"Di halaman ini kami telah menambahkan beberapa info berguna tentang "
+"Persyaratan dan Layanan situs web kami Tiksss.com. Jika Anda memiliki "
+"pertanyaan tentang ini, silakan beri tahu kami. Terima kasih."
+
+#: templates/tandc.html:11
+msgid "Welcome to"
+msgstr "Selamat Datang di"
+
+#: templates/tandc.html:12
+msgid ""
+"These terms and conditions outline the rules and regulations for the use of "
+"Tiksss.com Website, located at"
+msgstr ""
+"Syarat dan ketentuan ini menguraikan aturan dan peraturan untuk penggunaan "
+"Situs Web Tiksss.com, yang terletak di:"
+
+#: templates/tandc.html:13
+msgid ""
+"By accessing this website we assume you accept these terms and conditions. "
+"Do not continue to use Tiksss.com if you do not agree to take all of the "
+"terms and conditions stated on this page."
+msgstr ""
+"Dengan mengakses situs web ini, kami menganggap Anda menerima syarat dan "
+"ketentuan ini. Jangan terus menggunakan Tiksss.com jika Anda tidak setuju "
+"untuk mengambil semua syarat dan ketentuan yang tercantum di halaman ini."
+
+#: templates/tandc.html:14
+msgid ""
+"The following terminology applies to these Terms and Conditions, Privacy "
+"Statement and Discla Notice and all Agreements: \"Client\", \"You\" and "
+"\"Your\" refers to you, the person log on this website compliant to the "
+"Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", "
+"\"Our\" and \"Us\", refers to Company. \"Party\", \"Parties\", or \"Us\", "
+"refers to both the Client and ourselves. All terms refer to the of "
+"acceptance and consideration of payment necessary to undertake the process "
+"of our assistance to the Clien the most appropriate manner for the express "
+"purpose of meeting the Client’s needs in respect of provision of Company’s "
+"stated services, in accordance with and subject to, prevailing law of "
+"Netherlands. Any use of above terminology or other words in the singular, "
+"plural, capitalization and/or he/she or they, are take interchangeable and "
+"therefore as referring to same."
+msgstr ""
+"Terminologi berikut berlaku untuk Syarat dan Ketentuan ini, Pernyataan "
+"Privasi dan Pemberitahuan Diskla dan semua Perjanjian: &quot;Klien&quot;, "
+"&quot;Anda&quot; dan &quot;Anda&quot; mengacu pada Anda, orang yang masuk ke"
+" situs web ini sesuai dengan syarat dan ketentuan Perusahaan. "
+"&quot;Perusahaan&quot;, &quot;Kami Sendiri&quot;, &quot;Kami&quot;, "
+"&quot;Kami&quot; dan &quot;Kami&quot;, mengacu pada Perusahaan. "
+"&quot;Pihak&quot;, &quot;Para Pihak&quot;, atau &quot;Kami&quot;, mengacu "
+"pada Klien dan kami sendiri. Semua istilah mengacu pada penerimaan dan "
+"pertimbangan pembayaran yang diperlukan untuk melakukan proses bantuan kami "
+"kepada Klien dengan cara yang paling tepat untuk tujuan memenuhi kebutuhan "
+"Klien sehubungan dengan penyediaan layanan yang dinyatakan Perusahaan, "
+"sesuai dengan dan tunduk pada , hukum yang berlaku di Belanda. Setiap "
+"penggunaan terminologi di atas atau kata-kata lain dalam bentuk tunggal, "
+"jamak, huruf besar dan/atau dia, dapat dipertukarkan dan oleh karena itu "
+"mengacu pada yang sama."
+
+#: templates/tandc.html:16
+msgid ""
+"We employ the use of cookies. By accessing Tiksss.com, you agreed to use "
+"cookies in agreement  the Tiksss.com Privacy Policy"
+msgstr ""
+"Kami menerapkan penggunaan cookie. Dengan mengakses Tiksss.com, Anda setuju "
+"untuk menggunakan cookie sesuai dengan Kebijakan Privasi Tiksss.com"
+
+#: templates/tandc.html:17
+msgid ""
+"Most interactive websites use cookies to let us retrieve the user’s details "
+"for each visit. Coo are used by our website to enable the functionality of "
+"certain areas to make it easier for people visiting website. Some of our "
+"affiliate/advertising partners may also use cookies"
+msgstr ""
+"Sebagian besar situs web interaktif menggunakan cookie untuk memungkinkan "
+"kami mengambil detail pengguna untuk setiap kunjungan. Coo digunakan oleh "
+"situs web kami untuk mengaktifkan fungsionalitas area tertentu untuk "
+"memudahkan orang mengunjungi situs web. Beberapa mitra afiliasi/iklan kami "
+"juga dapat menggunakan cookie"
+
+#: templates/tandc.html:18
+msgid "License"
+msgstr "Lisensi"
+
+#: templates/tandc.html:19
+msgid ""
+"Unless otherwise stated, Tiksss.com and/or its licensors own the "
+"intellectual property rights all material on Tiksss.com. All intellectual "
+"property rights are reserved. You may access this from Tiksss for your own "
+"personal use subjected to restrictions set in these terms and conditions"
+msgstr ""
+"Kecuali dinyatakan lain, Tiksss.com dan/atau pemberi lisensinya memiliki hak"
+" kekayaan intelektual semua materi di Tiksss.com. Semua hak kekayaan "
+"intelektual dilindungi. Anda dapat mengakses ini dari Tiksss untuk "
+"penggunaan pribadi Anda dengan batasan yang diatur dalam syarat dan "
+"ketentuan ini"
+
+#: templates/tandc.html:20
+msgid "You must not"
+msgstr "Anda tidak harus"
+
+#: templates/tandc.html:23
+msgid "Republish material from Tiksss.com"
+msgstr "Publikasikan ulang materi dari Tiksss.com"
+
+#: templates/tandc.html:26
+msgid "Sell, rent or sub-license material from Tiksss.com"
+msgstr "Menjual, menyewakan, atau mensublisensikan materi dari Tiksss.com"
+
+#: templates/tandc.html:29
+msgid "Reproduce, duplicate or copy material from Tiksss.com"
+msgstr "Mereproduksi, menggandakan, atau menyalin materi dari Tiksss.com"
+
+#: templates/tandc.html:32
+msgid "Redistribute content from Tiksss.com"
+msgstr "Mendistribusikan ulang konten dari Tiksss.com"
+
+#: templates/tandc.html:35
+msgid "This Agreement shall begin on the date hereof."
+msgstr "Perjanjian ini akan dimulai pada tanggal Perjanjian ini."
+
+#: templates/tandc.html:36
+msgid ""
+"Parts of this website offer an opportunity for users to post and exchange "
+"opinions and informa in certain areas of the website. Tiksss.com does not "
+"filter, edit, publish or review Comments prior to t presence on the website."
+" Comments do not reflect the views and opinions of Tiksss.com, its agents an"
+" affiliates. Comments reflect the views and opinions of the person who post "
+"their views and opinions. To extent permitted by applicable laws, Tiksss.com"
+" shall not be liable for the Comments or for any liabil damages or expenses "
+"caused and/or suffered as a result of any use of and/or posting of and/or "
+"appearance of Comments on this website."
+msgstr ""
+"Bagian dari situs web ini menawarkan kesempatan bagi pengguna untuk "
+"memposting dan bertukar pendapat dan informasi di area tertentu dari situs "
+"web. Tiksss.com tidak memfilter, mengedit, menerbitkan, atau meninjau "
+"Komentar sebelum kehadirannya di situs web. Komentar tidak mencerminkan "
+"pandangan dan pendapat Tiksss.com, agennya dan afiliasinya. Komentar "
+"mencerminkan pandangan dan pendapat orang yang memposting pandangan dan "
+"pendapat mereka. Sejauh diizinkan oleh undang-undang yang berlaku, "
+"Tiksss.com tidak akan bertanggung jawab atas Komentar atau atas kerugian "
+"atau pengeluaran tanggung jawab yang disebabkan dan/atau diderita sebagai "
+"akibat dari penggunaan dan/atau posting dan/atau tampilan Komentar di situs "
+"web ini. ."
+
+#: templates/tandc.html:37
+msgid ""
+"Tiksss.com reserves the right to monitor all Comments and to remove any "
+"Comments which ca considered inappropriate, offensive or causes breach of "
+"these Terms and Conditions."
+msgstr ""
+"Tiksss.com berhak untuk memantau semua Komentar dan menghapus Komentar yang "
+"dianggap tidak pantas, menyinggung, atau menyebabkan pelanggaran terhadap "
+"Syarat dan Ketentuan ini."
+
+#: templates/tandc.html:38
+msgid "You warrant and represent that:"
+msgstr "Anda menjamin dan menyatakan bahwa:"
+
+#: templates/tandc.html:41
+msgid ""
+"You are entitled to post the Comments on our website and have all necessary "
+"licenses and consents to do so;"
+msgstr ""
+"Anda berhak memposting Komentar di situs web kami dan memiliki semua lisensi"
+" dan persetujuan yang diperlukan untuk melakukannya;"
+
+#: templates/tandc.html:44
+msgid ""
+"The Comments do not invade any intellectual property right, including "
+"without limitation copyright, patent or trademark of any third party;"
+msgstr ""
+"Komentar tidak menyerang hak kekayaan intelektual apa pun, termasuk namun "
+"tidak terbatas pada hak cipta, paten, atau merek dagang dari pihak ketiga "
+"mana pun;"
+
+#: templates/tandc.html:47
+msgid ""
+"The Comments do not contain any defamatory, libelous, offensive, indecent or"
+" otherwise unlawful material which is an invasion of privacy"
+msgstr ""
+"Komentar tidak mengandung materi yang memfitnah, memfitnah, menyinggung, "
+"tidak senonoh atau melanggar hukum yang merupakan pelanggaran privasi"
+
+#: templates/tandc.html:50
+msgid ""
+"The Comments will not be used to solicit or promote business or custom or "
+"present commercial activities or unlawful activity."
+msgstr ""
+"Komentar tidak akan digunakan untuk meminta atau mempromosikan bisnis atau "
+"kebiasaan atau menyajikan aktivitas komersial atau aktivitas yang melanggar "
+"hukum."
+
+#: templates/tandc.html:53
+msgid ""
+"You hereby grant Tiksss.com a non-exclusive license to use, reproduce, edit "
+"and authorize others to use, reproduce and edit any of your Comments in any "
+"and all forms, formats or media."
+msgstr ""
+"Anda dengan ini memberikan Tiksss.com lisensi non-eksklusif untuk "
+"menggunakan, mereproduksi, mengedit, dan mengizinkan orang lain untuk "
+"menggunakan, mereproduksi, dan mengedit Komentar Anda dalam segala bentuk, "
+"format, atau media."
+
+#: templates/tandc.html:54
+msgid "Hyper linking to our Content"
+msgstr "Tautan hiper ke Konten kami"
+
+#: templates/tandc.html:55
+msgid ""
+"The following organizations may link to our Website without prior written "
+"approval"
+msgstr ""
+"Organisasi berikut dapat menautkan ke Situs Web kami tanpa persetujuan "
+"tertulis sebelumnya"
+
+#: templates/tandc.html:58
+msgid "Government agencies"
+msgstr "Agensi pemerintahan"
+
+#: templates/tandc.html:61
+msgid "Search engines"
+msgstr "Mesin pencari"
+
+#: templates/tandc.html:64
+msgid "News organizations"
+msgstr "Organisasi berita"
+
+#: templates/tandc.html:67
+msgid ""
+"Online directory distributors may link to our Website in the same manner as "
+"they hyperlink to the Websites of other listed businesses; and"
+msgstr ""
+"Distributor direktori online dapat menautkan ke Situs Web kami dengan cara "
+"yang sama seperti mereka menautkan ke Situs Web bisnis lain yang terdaftar; "
+"dan"
+
+#: templates/tandc.html:70
+msgid ""
+"System wide Accredited Businesses except soliciting non-profit "
+"organizations, charity shopping malls, and charity fundraising groups which "
+"may not hyperlink to our Web site."
+msgstr ""
+"Bisnis Terakreditasi di seluruh sistem kecuali meminta organisasi nirlaba, "
+"pusat perbelanjaan amal, dan kelompok penggalangan dana amal yang mungkin "
+"tidak hyperlink ke situs Web kami."
+
+#: templates/tandc.html:73
+msgid ""
+"These organizations may link to our home page, to publications or to other "
+"Website information so long as the link: (a) is not in any way deceptive; "
+"(b) does not falsely imply sponsorship, endorsement or approval of the "
+"linking party and its products and/or services; and (c) fits within the "
+"context of the linking party’s site."
+msgstr ""
+"Organisasi-organisasi ini dapat menautkan ke beranda kami, ke publikasi, "
+"atau ke informasi Situs Web lainnya selama tautan tersebut: (a) sama sekali "
+"tidak menipu; (b) tidak secara keliru menyiratkan sponsor, dukungan atau "
+"persetujuan dari pihak yang menghubungkan dan produk dan/atau layanannya; "
+"dan (c) sesuai dengan konteks situs pihak yang menautkan."
+
+#: templates/tandc.html:74
+msgid ""
+"We may consider and approve other link requests from the following types of "
+"organizations"
+msgstr ""
+"Kami dapat mempertimbangkan dan menyetujui permintaan tautan lain dari jenis"
+" organisasi berikut"
+
+#: templates/tandc.html:77
+msgid "commonly-known consumer and/or business information sources"
+msgstr "sumber informasi konsumen dan/atau bisnis yang umum dikenal"
+
+#: templates/tandc.html:80
+msgid "dot.com community sites"
+msgstr "situs komunitas dot.com"
+
+#: templates/tandc.html:83
+msgid "associations or other groups representing charities"
+msgstr "asosiasi atau kelompok lain yang mewakili badan amal"
+
+#: templates/tandc.html:86
+msgid "online directory distributors"
+msgstr "distributor direktori online"
+
+#: templates/tandc.html:89
+msgid "internet portals"
+msgstr "portal internet"
+
+#: templates/tandc.html:92
+msgid "accounting, law and consulting firms; and"
+msgstr "firma akuntansi, hukum dan konsultan; dan"
+
+#: templates/tandc.html:95
+msgid "Educational institutions and trade associations."
+msgstr "Lembaga pendidikan dan asosiasi perdagangan."
+
+#: templates/tandc.html:98
+msgid ""
+"We will approve link requests from these organizations if we decide that: "
+"(a) the link would not make us look unfavorably to ourselves or to our "
+"accredited businesses; (b) the organization does not have any negative "
+"records with us; (c) the benefit to us from the visibility of the hyperlink "
+"compensates the absence of Tiksss.com; and (d) the link is in the context of"
+" general resource information."
+msgstr ""
+"Kami akan menyetujui permintaan tautan dari organisasi-organisasi ini jika "
+"kami memutuskan bahwa: (a) tautan tersebut tidak akan membuat kami terlihat "
+"tidak baik bagi diri kami sendiri atau bisnis terakreditasi kami; (b) "
+"organisasi tidak memiliki catatan negatif apapun dengan kami; (c) manfaat "
+"bagi kami dari visibilitas hyperlink mengkompensasi ketiadaan Tiksss.com; "
+"dan (d) tautannya berada dalam konteks informasi sumber daya umum."
+
+#: templates/tandc.html:99
+msgid ""
+"These organizations may link to our home page so long as the link: (a) is "
+"not in any way deceptive; (b) does not falsely imply sponsorship, "
+"endorsement or approval of the linking party and its products or services; "
+"and (c) fits within the context of the linking party’s site."
+msgstr ""
+"Organisasi-organisasi ini dapat menautkan ke beranda kami selama tautan "
+"tersebut: (a) sama sekali tidak menipu; (b) tidak secara keliru menyiratkan "
+"sponsorship, dukungan atau persetujuan dari pihak yang menghubungkan dan "
+"produk atau layanannya; dan (c) sesuai dengan konteks situs pihak yang "
+"menautkan."
+
+#: templates/tandc.html:100
+msgid ""
+"If you are one of the organizations listed in paragraph 2 above and are "
+"interested in linking to our website, you must inform us by sending an "
+"e-mail to Tiksss.com. Please include your name, your organization name, "
+"contact information as well as the URL of your site, a list of any URLs from"
+" which you intend to link to our Website, and a list of the URLs on our site"
+" to which you would like to link. Wait 2-3 weeks for a response."
+msgstr ""
+"Jika Anda adalah salah satu organisasi yang tercantum dalam paragraf 2 di "
+"atas dan tertarik untuk menautkan ke situs web kami, Anda harus memberi tahu"
+" kami dengan mengirimkan email ke Tiksss.com. Harap sertakan nama Anda, nama"
+" organisasi Anda, informasi kontak serta URL situs Anda, daftar URL apa pun "
+"yang ingin Anda tautkan ke Situs Web kami, dan daftar URL di situs kami yang"
+" ingin Anda tuju tautan. Tunggu 2-3 minggu untuk tanggapan."
+
+#: templates/tandc.html:102
+msgid "Approved organizations may hyperlink to our Website as follows:"
+msgstr ""
+"Organisasi yang disetujui dapat membuat hyperlink ke Situs Web kami sebagai "
+"berikut:"
+
+#: templates/tandc.html:105
+msgid "By use of our corporate name; or"
+msgstr "Dengan menggunakan nama perusahaan kami; atau"
+
+#: templates/tandc.html:108
+msgid "By use of the uniform resource locator being linked to; or"
+msgstr ""
+"Dengan menggunakan pencari sumber daya seragam yang ditautkan ke; atau"
+
+#: templates/tandc.html:111
+msgid ""
+"By use of any other description of our Website being linked to that makes "
+"sense within the context and format of content on the linking party’s site."
+msgstr ""
+"Dengan menggunakan deskripsi lain dari Situs Web kami yang ditautkan, masuk "
+"akal dalam konteks dan format konten di situs pihak yang menautkan."
+
+#: templates/tandc.html:114
+msgid ""
+"No use of Tiksss.com logo or other artwork will be allowed for linking "
+"absent a trademark license agreement."
+msgstr ""
+"Tidak ada penggunaan logo Tiksss.com atau karya seni lainnya yang diizinkan "
+"untuk menghubungkan jika tidak ada perjanjian lisensi merek dagang."
+
+#: templates/tandc.html:115
+msgid "iFrames"
+msgstr "iFrame"
+
+#: templates/tandc.html:116
+msgid ""
+"Without prior approval and written permission, you may not create frames "
+"around our Webpages that alter in any way the visual presentation or "
+"appearance of our Website"
+msgstr ""
+"Tanpa persetujuan dan izin tertulis sebelumnya, Anda tidak boleh membuat "
+"bingkai di sekitar Halaman Web kami yang mengubah presentasi visual atau "
+"tampilan Situs Web kami dengan cara apa pun."
+
+#: templates/tandc.html:117
+msgid "Content Liability"
+msgstr "Tanggung Jawab Konten"
+
+#: templates/tandc.html:118
+msgid ""
+"We shall not be hold responsible for any content that appears on your "
+"Website. You agree to protect and defend us against all claims that is "
+"rising on your Website. No link(s) should appear on any Website that may be "
+"interpreted as libelous, obscene or criminal, or which infringes, otherwise "
+"violates, or advocates the infringement or other violation of, any third "
+"party rights"
+msgstr ""
+"Kami tidak akan bertanggung jawab atas konten apa pun yang muncul di Situs "
+"Web Anda. Anda setuju untuk melindungi dan membela kami dari semua klaim "
+"yang muncul di Situs Web Anda. Tidak boleh ada tautan yang muncul di Situs "
+"Web apa pun yang dapat ditafsirkan sebagai fitnah, cabul, atau kriminal, "
+"atau yang melanggar, jika tidak, melanggar, atau mendukung pelanggaran atau "
+"pelanggaran lain terhadap, hak pihak ketiga mana pun"
+
+#: templates/tandc.html:119
+msgid "Your Privacy"
+msgstr "Privasi Anda"
+
+#: templates/tandc.html:120
+msgid "Please read Privacy Policy"
+msgstr "Silakan baca Kebijakan Privasi"
+
+#: templates/tandc.html:121
+msgid "Reservation of Rights"
+msgstr "Reservasi Hak"
+
+#: templates/tandc.html:122
+msgid ""
+"We reserve the right to request that you remove all links or any particular "
+"link to our Website. You approve to immediately remove all links to our "
+"Website upon request. We also reserve the right to amen these terms and "
+"conditions and it’s linking policy at any time. By continuously linking to "
+"our Website, you agree to be bound to and follow these linking terms and "
+"conditions"
+msgstr ""
+"Kami berhak untuk meminta Anda menghapus semua tautan atau tautan tertentu "
+"ke Situs Web kami. Anda menyetujui untuk segera menghapus semua tautan ke "
+"Situs Web kami berdasarkan permintaan. Kami juga berhak untuk mengubah "
+"syarat dan ketentuan ini dan kebijakan tautannya kapan saja. Dengan terus "
+"menautkan ke Situs Web kami, Anda setuju untuk terikat dan mengikuti syarat "
+"dan ketentuan penautan ini"
+
+#: templates/tandc.html:123
+msgid "Removal of links from our website"
+msgstr "Penghapusan tautan dari situs web kami"
+
+#: templates/tandc.html:124
+msgid ""
+"If you find any link on our Website that is offensive for any reason, you "
+"are free to contact and inform us any moment. We will consider requests to "
+"remove links but we are not obligated to or so or to respond to you directly"
+msgstr ""
+"Jika Anda menemukan tautan apa pun di Situs Web kami yang menyinggung karena"
+" alasan apa pun, Anda bebas untuk menghubungi dan memberi tahu kami kapan "
+"saja. Kami akan mempertimbangkan permintaan untuk menghapus tautan tetapi "
+"kami tidak berkewajiban untuk atau lebih atau untuk menanggapi Anda secara "
+"langsung"
+
+#: templates/tandc.html:125
+msgid ""
+"We do not ensure that the information on this website is correct, we do not "
+"warrant its completeness or accuracy; nor do we promise to ensure that the "
+"website remains available or that the material on the website is kept up to "
+"date"
+msgstr ""
+"Kami tidak memastikan bahwa informasi di situs web ini benar, kami tidak "
+"menjamin kelengkapan atau keakuratannya; kami juga tidak berjanji untuk "
+"memastikan bahwa situs web tetap tersedia atau materi di situs web selalu "
+"diperbarui"
+
+#: templates/tandc.html:126
+msgid "Disclaimer"
+msgstr "Penolakan"
+
+#: templates/tandc.html:127
+msgid ""
+"To the maximum extent permitted by applicable law, we exclude all "
+"representations, warranties and conditions relating to our website and the "
+"use of this website. Nothing in this disclaimer will"
+msgstr ""
+"Sejauh diizinkan oleh hukum yang berlaku, kami mengecualikan semua "
+"pernyataan, jaminan, dan ketentuan yang berkaitan dengan situs web kami dan "
+"penggunaan situs web ini. Tidak ada dalam penafian ini yang akan"
+
+#: templates/tandc.html:130
+msgid "limit or exclude our or your liability for death or personal injury;"
+msgstr ""
+"membatasi atau mengecualikan tanggung jawab kami atau Anda atas kematian "
+"atau cedera pribadi;"
+
+#: templates/tandc.html:133
+msgid ""
+"limit or exclude our or your liability for fraud or fraudulent "
+"misrepresentation;"
+msgstr ""
+"membatasi atau mengecualikan tanggung jawab kami atau Anda atas penipuan "
+"atau misrepresentasi yang curang;"
+
+#: templates/tandc.html:136
+msgid ""
+"limit any of our or your liabilities in any way that is not permitted under "
+"applicable law; or"
+msgstr ""
+"membatasi kewajiban kami atau Anda dengan cara apa pun yang tidak diizinkan "
+"menurut hukum yang berlaku; atau"
+
+#: templates/tandc.html:139
+msgid ""
+"exclude any of our or your liabilities that may not be excluded under "
+"applicable law."
+msgstr ""
+"mengecualikan salah satu kewajiban kami atau Anda yang mungkin tidak "
+"dikecualikan menurut hukum yang berlaku."
+
+#: templates/tandc.html:142
+msgid ""
+"The limitations and prohibitions of liability set in this Section and "
+"elsewhere in this disclaimer: (a) are subject to the preceding paragraph; "
+"and (b) govern all liabilities arising under the disclaimer, including "
+"liabilities arising in contract, in tort and for breach of statutory duty."
+msgstr ""
+"Batasan dan larangan tanggung jawab yang diatur dalam Bagian ini dan di "
+"tempat lain dalam penafian ini: (a) tunduk pada paragraf sebelumnya; dan (b)"
+" mengatur semua kewajiban yang timbul berdasarkan disclaimer, termasuk "
+"kewajiban yang timbul dalam kontrak, dalam perbuatan melawan hukum dan untuk"
+" pelanggaran kewajiban hukum."
+
+#: templates/tandc.html:143
+msgid ""
+"As long as the website and the information and services on the website are "
+"provided free of charge, we will not be liable for any loss or damage of any"
+" nature."
+msgstr ""
+"Selama situs web dan informasi serta layanan di situs web disediakan secara "
+"gratis, kami tidak akan bertanggung jawab atas kehilangan atau kerusakan apa"
+" pun."
+
+#: templates/without.html:13
+msgid "Video Without Watermark"
+msgstr "Video Tanpa Tanda Air"
+
+#: templates/without.html:29
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Unduh Video TikTok Tanpa Watermark Online Gratis:"
+
+#: templates/without.html:30
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"Unduh Video TikTok tanpa Tanda Air atau Tanpa Tanda Air. Cara ini sangat "
+"unik untuk mendapatkan download video tanpa watermark dalam kualitas "
+"aslinya. Kami membuat alat ini sangat mudah dan berfungsi dengan lancar di "
+"perangkat Windows, Mac OS, Ipad, Android. Khusus untuk pengguna PC, mereka "
+"tidak perlu menginstal perangkat lunak atau Aplikasi tambahan apa pun dan "
+"ini adalah satu-satunya keistimewaan alat pengunduhan video TikTok tanpa "
+"watermark ini. Pergi ke"
+
+#: templates/without.html:30
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"dan Anda akan melihat menu tarik-turun klik di atasnya dan pilih &quot;Tanpa"
+" Tanda Air&quot;. Di halaman berikutnya cukup tempel tautan dan klik "
+"&quot;Tombol Unduh&quot;. Tunggu beberapa detik untuk mulai mengunduh video "
+"Anda. Anda juga dapat &quot;Mengunduh Video TikTok dengan Tanda Air&quot; "
+"dan untuk ini kunjungi Halaman Beranda situs web kami dan unduh video "
+"favorit Anda kurang dari 10 detik."
+
+#: templates/without.html:34
+msgid "Frequently Asked Questions "
+msgstr "Pertanyaan yang Sering Diajukan"
+
+#: tiktok/settings.py:138
+msgid "English"
+msgstr "Inggris"
+
+#: tiktok/settings.py:139
+msgid "Italian"
+msgstr "Italia"
+
+#: tiktok/settings.py:140
+msgid "Polish"
+msgstr "Polandia"
+
+#: tiktok/settings.py:141
+msgid "French"
+msgstr "Perancis"
+
+#: tiktok/settings.py:142
+msgid "German"
+msgstr "Jerman"
+
+#: tiktok/settings.py:143
+msgid "Spanish"
+msgstr "Orang Spanyol"
+
+#: tiktok/settings.py:144
+msgid "Indonesian"
+msgstr "bahasa Indonesia"
+
+#: tiktok/settings.py:145
+msgid "Japanese"
+msgstr "Jepang"
+
+#: tiktok/settings.py:146
+msgid "Korean"
+msgstr "Korea"
+
+#: tiktok/settings.py:147
+msgid "Portuguese"
+msgstr "Portugis"
+
+#: tiktok/settings.py:148
+msgid "Russian"
+msgstr "Rusia"
+
+#: tiktok/settings.py:149
+msgid "Arabic"
+msgstr "Arab"
+
+#: tiktok/settings.py:150
+msgid "Turkish"
+msgstr "Turki"
+
+#: tiktok/settings.py:151
+msgid "Thai"
+msgstr "Thai"
+
+#: tiktok/settings.py:152
+msgid "Vietnamese"
+msgstr "Orang Vietnam"
+
+#: venv/lib/python3.8/site-packages/django/contrib/messages/apps.py:7
+msgid "Messages"
+msgstr "Pesan"
+
+#: venv/lib/python3.8/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "Peta Situs"
+
+#: venv/lib/python3.8/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "File Statis"
+
+#: venv/lib/python3.8/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "Sindikasi"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:51
+msgid "That page number is not an integer"
+msgstr "Nomor halaman itu bukan bilangan bulat"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:53
+msgid "That page number is less than 1"
+msgstr "Nomor halaman itu kurang dari 1"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:58
+msgid "That page contains no results"
+msgstr "Halaman itu tidak berisi hasil"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr "Masukkan nilai yang valid."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:93
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:664
+msgid "Enter a valid URL."
+msgstr "Masukkan URL yang valid."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:150
+msgid "Enter a valid integer."
+msgstr "Masukkan bilangan bulat yang valid."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:161
+msgid "Enter a valid email address."
+msgstr "Masukkan alamat email yang valid."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.8/site-packages/django/core/validators.py:262
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"Masukkan &quot;slug&quot; yang valid yang terdiri dari huruf, angka, garis "
+"bawah, atau tanda hubung."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:269
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"Masukkan &quot;slug&quot; yang valid yang terdiri dari huruf, angka, garis "
+"bawah, atau tanda hubung Unicode."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:278
+#: venv/lib/python3.8/site-packages/django/core/validators.py:288
+#: venv/lib/python3.8/site-packages/django/core/validators.py:311
+msgid "Enter a valid IPv4 address."
+msgstr "Masukkan alamat IPv4 yang valid."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:296
+#: venv/lib/python3.8/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv6 address."
+msgstr "Masukkan alamat IPv6 yang valid."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:306
+#: venv/lib/python3.8/site-packages/django/core/validators.py:310
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "Masukkan alamat IPv4 atau IPv6 yang valid."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:340
+msgid "Enter only digits separated by commas."
+msgstr "Masukkan hanya angka yang dipisahkan dengan koma."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:346
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+"Pastikan nilai ini adalah %(limit_value)s (ini adalah %(show_value)s)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:379
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "Pastikan nilai ini kurang dari atau sama dengan %(limit_value)s."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:388
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "Pastikan nilai ini lebih besar atau sama dengan %(limit_value)s."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:398
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Pastikan nilai ini memiliki setidaknya %(limit_value)d karakter (memiliki "
+"%(show_value)d)."
+msgstr[1] ""
+"Pastikan nilai ini memiliki setidaknya %(limit_value)d karakter (memiliki "
+"%(show_value)d)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:413
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Pastikan nilai ini memiliki karakter %(limit_value)d paling banyak (memiliki"
+" %(show_value)d)."
+msgstr[1] ""
+"Pastikan nilai ini memiliki paling banyak %(limit_value)d karakter (memiliki"
+" %(show_value)d)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:432
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:292
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:327
+msgid "Enter a number."
+msgstr "Masukkan nomor."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:434
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "Pastikan tidak ada lebih dari %(max)s digit secara total."
+msgstr[1] "Pastikan total tidak lebih dari %(max)s digit."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:439
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "Pastikan tidak ada lebih dari %(max)s tempat desimal."
+msgstr[1] "Pastikan tidak ada lebih dari %(max)s tempat desimal."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:444
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+"Pastikan bahwa tidak ada lebih dari %(max)s digit sebelum titik desimal."
+msgstr[1] "Pastikan tidak ada lebih dari %(max)s digit sebelum titik desimal."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:506
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"Ekstensi file “%(extension)s” tidak diperbolehkan. Ekstensi yang diizinkan "
+"adalah: %(allowed_extensions)s."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:559
+msgid "Null characters are not allowed."
+msgstr "Karakter nol tidak diperbolehkan."
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1197
+#: venv/lib/python3.8/site-packages/django/forms/models.py:768
+msgid "and"
+msgstr "dan"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1199
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "%(model_name)s dengan %(field_labels)s ini sudah ada."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:100
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "Nilai %(nilai)r bukan pilihan yang valid."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:101
+msgid "This field cannot be null."
+msgstr "Bidang ini tidak boleh nol."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:102
+msgid "This field cannot be blank."
+msgstr "Bidang ini tidak boleh kosong."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:103
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "%(model_name)s dengan %(field_label)s ini sudah ada."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:107
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)s harus unik untuk %(date_field_label)s %(lookup_type)s."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "Bidang tipe: %(field_type)s"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:958
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "Nilai “%(value)s” harus Benar atau Salah."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:959
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "Nilai “%(value)s” harus berupa True, False, atau None."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:961
+msgid "Boolean (Either True or False)"
+msgstr "Boolean (Benar atau Salah)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1002
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "String (hingga %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1096
+msgid "Comma-separated integers"
+msgstr "Bilangan bulat yang dipisahkan koma"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1145
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"Nilai “%(value)s” memiliki format tanggal yang tidak valid. Itu harus dalam "
+"format YYYY-MM-DD."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1147
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1290
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"Nilai “%(value)s” memiliki format yang benar (YYYY-MM-DD) tetapi tanggalnya "
+"tidak valid."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
+msgid "Date (without time)"
+msgstr "Tanggal (tanpa waktu)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1288
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"Nilai “%(value)s” memiliki format yang tidak valid. Harus dalam format YYYY-"
+"MM-DD HH:MM[:ss[.uuuuuu]][TZ]."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1292
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"Nilai “%(value)s” memiliki format yang benar (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) tetapi ini adalah tanggal/waktu yang tidak valid."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
+msgid "Date (with time)"
+msgstr "Tanggal (dengan waktu)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "Nilai “%(value)s” harus berupa angka desimal."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
+msgid "Decimal number"
+msgstr "Angka desimal"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1585
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+"Nilai “%(value)s” memiliki format yang tidak valid. Harus dalam format [DD] "
+"[[HH:]MM:]ss[.uuuuuu]."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1588
+msgid "Duration"
+msgstr "Durasi"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1638
+msgid "Email address"
+msgstr "Alamat email"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1661
+msgid "File path"
+msgstr "Jalur berkas"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1727
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "Nilai “%(value)s” harus berupa float."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1729
+msgid "Floating point number"
+msgstr "Nomor titik mengambang"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "Nilai “%(value)s” harus berupa bilangan bulat."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1769
+msgid "Integer"
+msgstr "Bilangan bulat"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1852
+msgid "Big (8 byte) integer"
+msgstr "Besar (8 byte) bilangan bulat"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1867
+msgid "Small integer"
+msgstr "bilangan bulat kecil Small"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1875
+msgid "IPv4 address"
+msgstr "alamat IPv4"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1906
+msgid "IP address"
+msgstr "alamat IP"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1986
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1987
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "Nilai “%(value)s” harus berupa None, True atau False."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1989
+msgid "Boolean (Either True, False or None)"
+msgstr "Boolean (Benar, Salah atau Tidak Ada)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2043
+msgid "Positive big integer"
+msgstr "bilangan bulat besar positif"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2056
+msgid "Positive integer"
+msgstr "Bilangan bulat positif"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2069
+msgid "Positive small integer"
+msgstr "bilangan bulat kecil positif Positive"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2083
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Siput (hingga %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2115
+msgid "Text"
+msgstr "Teks"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2181
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"Nilai “%(value)s” memiliki format yang tidak valid. Harus dalam format "
+"HH:MM[:ss[.uuuuuu]]."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2183
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"Nilai “%(value)s” memiliki format yang benar (HH:MM[:ss[.uuuuuu]]) tetapi "
+"ini adalah waktu yang tidak valid."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2186
+msgid "Time"
+msgstr "Waktu"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2312
+msgid "URL"
+msgstr "URL"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Raw binary data"
+msgstr "Data biner mentah"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2399
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "“%(value)s” bukan UUID yang valid."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2401
+msgid "Universally unique identifier"
+msgstr "Pengidentifikasi unik universal Universal"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:226
+msgid "File"
+msgstr "Mengajukan"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:375
+msgid "Image"
+msgstr "Gambar"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr "Objek JSONSON"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr "Nilai harus berupa JSON yang valid."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:790
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "%(model)s instance dengan %(field)s %(value)r tidak ada."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
+msgid "Foreign Key (type determined by related field)"
+msgstr "Kunci Asing (tipe ditentukan oleh bidang terkait)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
+msgid "One-to-one relationship"
+msgstr "Hubungan satu-ke-satu"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1099
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s hubungan"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1100
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s hubungan"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
+msgid "Many-to-many relationship"
+msgstr "Hubungan banyak ke banyak"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: venv/lib/python3.8/site-packages/django/forms/boundfield.py:150
+msgid ":?.!"
+msgstr ":?.!"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:54
+msgid "This field is required."
+msgstr "Bagian ini diperlukan."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:247
+msgid "Enter a whole number."
+msgstr "Masukkan bilangan bulat."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:391
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1132
+msgid "Enter a valid date."
+msgstr "Masukkan tanggal yang valid."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:415
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1133
+msgid "Enter a valid time."
+msgstr "Masukkan waktu yang valid."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:443
+msgid "Enter a valid date/time."
+msgstr "Masukkan tanggal/waktu yang valid."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:477
+msgid "Enter a valid duration."
+msgstr "Masukkan durasi yang valid."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:478
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "Jumlah hari harus antara {min_days} dan {max_days}."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:538
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+"Tidak ada file yang dikirimkan. Periksa jenis pengkodean pada formulir."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:539
+msgid "No file was submitted."
+msgstr "Tidak ada file yang dikirimkan."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:540
+msgid "The submitted file is empty."
+msgstr "File yang dikirimkan kosong."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:542
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"Pastikan nama file ini memiliki paling banyak %(max)d karakter (memiliki "
+"%(length)d)."
+msgstr[1] ""
+"Pastikan nama file ini memiliki paling banyak %(max)d karakter (memiliki "
+"%(length)d)."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:545
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+"Silakan kirim file atau centang kotak centang kosong, jangan keduanya."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:606
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Unggah gambar yang valid. File yang Anda unggah bukanlah gambar atau gambar "
+"yang rusak."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:768
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:858
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1309
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+"Pilih pilihan yang valid. %(value)s bukan salah satu pilihan yang tersedia."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:859
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:974
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1308
+msgid "Enter a list of values."
+msgstr "Masukkan daftar nilai."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:975
+msgid "Enter a complete value."
+msgstr "Masukkan nilai lengkap."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1191
+msgid "Enter a valid UUID."
+msgstr "Masukkan UUID yang valid."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1221
+msgid "Enter a valid JSON."
+msgstr "Masukkan JSON yang valid."
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:76
+msgid ":"
+msgstr ":"
+
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:203
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(Bidang tersembunyi %(name)s) %(error)s"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"Data ManagementForm hilang atau telah diubah. Bidang tidak ada: "
+"%(field_names)s. Anda mungkin perlu mengajukan laporan bug jika masalah "
+"terus berlanjut."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:370
+#, python-format
+msgid "Please submit at most %d form."
+msgid_plural "Please submit at most %d forms."
+msgstr[0] "Harap kirimkan paling banyak %d formulir."
+msgstr[1] "Harap kirimkan paling banyak %d formulir."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
+#, python-format
+msgid "Please submit at least %d form."
+msgid_plural "Please submit at least %d forms."
+msgstr[0] "Harap kirimkan setidaknya %d formulir."
+msgstr[1] "Harap kirimkan setidaknya %d formulir."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:412
+msgid "Order"
+msgstr "Memesan"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:417
+msgid "Delete"
+msgstr "Menghapus"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:763
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "Harap perbaiki data duplikat untuk %(field)s."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:767
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "Perbaiki data duplikat untuk %(field)s, yang harus unik."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:773
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"Harap perbaiki data duplikat untuk %(field_name)s yang harus unik untuk "
+"%(lookup)s di %(date_field)s."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:782
+msgid "Please correct the duplicate values below."
+msgstr "Harap perbaiki nilai duplikat di bawah ini."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1109
+msgid "The inline value did not match the parent instance."
+msgstr "Nilai sebaris tidak cocok dengan instance induk."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1193
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+"Pilih pilihan yang valid. Pilihan itu bukanlah salah satu pilihan yang "
+"tersedia."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1311
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "“%(pk)s” bukan nilai yang valid."
+
+#: venv/lib/python3.8/site-packages/django/forms/utils.py:172
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s tidak dapat ditafsirkan dalam zona waktu %(current_timezone)s; "
+"mungkin ambigu atau mungkin tidak ada."
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:403
+msgid "Clear"
+msgstr "Bersih"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:404
+msgid "Currently"
+msgstr "Saat ini"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:405
+msgid "Change"
+msgstr "Perubahan"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:714
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:715
+msgid "Yes"
+msgstr "Iya"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:716
+msgid "No"
+msgstr "Tidak"
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:805
+msgid "yes,no,maybe"
+msgstr "ya Tidak mungkin"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:834
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:851
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d byte"
+msgstr[1] "%(size)d byte"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:853
+#, python-format
+msgid "%s KB"
+msgstr "%s KB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:855
+#, python-format
+msgid "%s MB"
+msgstr "%s MB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:857
+#, python-format
+msgid "%s GB"
+msgstr "%s GB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:859
+#, python-format
+msgid "%s TB"
+msgstr "%s TB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:861
+#, python-format
+msgid "%s PB"
+msgstr "%s PB"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:66
+msgid "p.m."
+msgstr "sore"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:67
+msgid "a.m."
+msgstr "saya"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:72
+msgid "PM"
+msgstr "SORE"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:73
+msgid "AM"
+msgstr "SAYA"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:146
+msgid "midnight"
+msgstr "tengah malam"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:148
+msgid "noon"
+msgstr "tengah hari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Monday"
+msgstr "Senin"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Thursday"
+msgstr "Kamis"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Friday"
+msgstr "Jumat"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Sunday"
+msgstr "Minggu"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Mon"
+msgstr "Senin"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Tue"
+msgstr "sel"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Wed"
+msgstr "Mengawinkan"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Thu"
+msgstr "Kam"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Fri"
+msgstr "Jumat"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sat"
+msgstr "Duduk"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sun"
+msgstr "Matahari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "January"
+msgstr "Januari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "February"
+msgstr "Februari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "March"
+msgstr "Maret"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "April"
+msgstr "April"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "May"
+msgstr "Mungkin"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "June"
+msgstr "Juni"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "July"
+msgstr "Juli"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "August"
+msgstr "Agustus"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "September"
+msgstr "September"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "October"
+msgstr "Oktober"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "November"
+msgstr "November"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:16
+msgid "December"
+msgstr "Desember"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jan"
+msgstr "Januari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "feb"
+msgstr "feb"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "mar"
+msgstr "merusak"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "apr"
+msgstr "April"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "may"
+msgstr "mungkin"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jun"
+msgstr "juni"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "jul"
+msgstr "juli"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "aug"
+msgstr "agustus"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "sep"
+msgstr "sep"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "oct"
+msgstr "oktober"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "nov"
+msgstr "nov"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "dec"
+msgstr "Desember"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "Januari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "Februari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "Maret"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "April"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "Mungkin"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "Juni"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "Juli"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "Agustus"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "September"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "Oktober"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "November"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "Desember"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr "Januari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr "Februari"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr "Maret"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr "April"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr "Mungkin"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr "Juni"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr "Juli"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr "Agustus"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr "September"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr "Oktober"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr "November"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr "Desember"
+
+#: venv/lib/python3.8/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "Ini bukan alamat IPv6 yang valid."
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:71
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:240
+msgid "or"
+msgstr "atau"
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.8/site-packages/django/utils/text.py:259
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ","
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d tahun"
+msgstr[1] "%d tahun"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d bulan"
+msgstr[1] "%d bulan"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d minggu"
+msgstr[1] "%d minggu"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d hari"
+msgstr[1] "%d hari"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d jam"
+msgstr[1] "%d jam"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d menit"
+msgstr[1] "%d menit"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:110
+msgid "Forbidden"
+msgstr "Terlarang"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr "Verifikasi CSRF gagal. Permintaan dibatalkan."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"Anda melihat pesan ini karena situs HTTPS ini memerlukan &quot;Header "
+"perujuk&quot; untuk dikirim oleh browser Web Anda, tetapi tidak ada yang "
+"terkirim. Header ini diperlukan untuk alasan keamanan, untuk memastikan "
+"bahwa browser Anda tidak dibajak oleh pihak ketiga."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:120
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"Jika Anda telah mengonfigurasi browser Anda untuk menonaktifkan tajuk "
+"&quot;Perujuk&quot;, harap aktifkan kembali, setidaknya untuk situs ini, "
+"atau untuk koneksi HTTPS, atau untuk permintaan &quot;asal yang sama&quot;."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"Jika Anda menggunakan<meta name=\"referrer\" content=\"no-referrer\"> tag "
+"atau termasuk header “Referrer-Policy: no-referrer”, harap hapus tag "
+"tersebut. Perlindungan CSRF memerlukan header &quot;Referer&quot; untuk "
+"melakukan pemeriksaan referensi yang ketat. Jika Anda mengkhawatirkan "
+"privasi, gunakan alternatif seperti <a rel=\"noreferrer\" …>tautan ke situs "
+"pihak ketiga.</a>"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"Anda melihat pesan ini karena situs ini memerlukan cookie CSRF saat "
+"mengirimkan formulir. Cookie ini diperlukan untuk alasan keamanan, untuk "
+"memastikan bahwa browser Anda tidak dibajak oleh pihak ketiga."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"Jika Anda telah mengonfigurasi browser Anda untuk menonaktifkan cookie, "
+"harap aktifkan kembali, setidaknya untuk situs ini, atau untuk permintaan "
+"&quot;asal yang sama&quot;."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr "Informasi lebih lanjut tersedia dengan DEBUG=True."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:41
+msgid "No year specified"
+msgstr "Tidak ada tahun yang ditentukan"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:61
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:111
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:208
+msgid "Date out of range"
+msgstr "Tanggal di luar jangkauan"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:90
+msgid "No month specified"
+msgstr "Tidak ada bulan yang ditentukan"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:142
+msgid "No day specified"
+msgstr "Tidak ada hari yang ditentukan"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:188
+msgid "No week specified"
+msgstr "Tidak ada minggu yang ditentukan"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:338
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "Tidak ada %(verbose_name_plural)s yang tersedia"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:594
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+" %(verbose_name_plural)s mendatang tidak tersedia karena "
+"%(class_name)s.allow_future Salah."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:628
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr "String tanggal “%(datestr)s” tidak valid dengan format “%(format)s”"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "Tidak ada %(verbose_name)s yang cocok dengan kueri"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:67
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+"Halaman bukan &quot;terakhir&quot;, juga tidak dapat dikonversi menjadi int."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "Halaman tidak valid (%(page_number)s): %(message)s"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:154
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "Daftar kosong dan “%(class_name)s.allow_empty” salah."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr "Indeks direktori tidak diperbolehkan di sini."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:42
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "“%(path)s” tidak ada"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "Indeks %(directory)s"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "Instalasi berhasil! Selamat!"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"Lihat <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">catatan rilis</a> untuk Django "
+"%(version)s"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"Anda melihat halaman ini karena <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> ada di file pengaturan "
+"Anda dan Anda belum mengonfigurasi URL apa pun."
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr "Dokumentasi Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "Topik, referensi, &amp; caranya"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "Tutorial: Aplikasi Polling"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "Mulailah dengan Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr "Komunitas Django"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "Terhubung, dapatkan bantuan, atau berkontribusi"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:368
+#, python-format
+msgid "Content purported to be compressed with %s but failed to decompress."
+msgstr ""
+"Konten dimaksudkan untuk dikompresi dengan %s tetapi gagal didekompresi."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:532
+#, python-format
+msgid "Unsupported value for qop: %s."
+msgstr "Nilai yang tidak didukung untuk qop: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:536
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:614
+#, python-format
+msgid "Unsupported value for algorithm: %s."
+msgstr "Nilai yang tidak didukung untuk algoritme: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:609
+msgid "The challenge doesn't contain a server nonce, or this one is empty."
+msgstr "Tantangan tidak berisi server nonce, atau yang ini kosong."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:619
+#, python-format
+msgid "Unsupported value for pw-algorithm: %s."
+msgstr "Nilai yang tidak didukung untuk algoritma pw: %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
+msgid "Redirected but the response is missing a Location: header."
+msgstr "Dialihkan tetapi responsnya tidak memiliki tajuk Lokasi:."

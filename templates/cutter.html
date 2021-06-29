@@ -1,0 +1,88 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'TikTok Video Cutter Online Free – Tiksss.com' %} {% endblock %}
+{% block desc %}
+<meta name="description"
+    content="{% trans 'TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. Cut and Trim TikTok Videos Online Free.' %}" />
+{% endblock %}
+{% block body %}
+
+<!-- Hero Section -->
+<div class="hero" id="home">
+    <div class="hero__container">
+        <h1 class="hero__heading"><span>Tiktok </span>{% trans 'Video Cutter Online – TikTok Video Trimmer Online Free' %}:</h1>
+        <p class="hero__description">{% trans 'Enter the URL Here' %}</p>
+        <center>
+            <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
+        </center>
+    </div>
+
+    <form class="example" method="POST" action="{% url 'down3' %}">
+        {% csrf_token %}
+        <input type="text" placeholder="Search.." aria-describedby="url" name="url" required>
+        <input type="hidden" name="todo" value="1">
+        <button type="submit" onclick="show()">{% trans 'Search' %}</button>
+    </form>
+
+</div>
+
+<div class="about_tiktok">
+    <p>{% trans 'Here you go. TikTok Video Cutter Online Free Tool provides you a solution for your content creation. While using this tool on our website ' %} <a href="{% url 'index' %}" style="color: #ee0979;">Tiksss.com</a>, {% trans ' you people can easily Trim and Cut TikTok Video in your devices for free. It’s very unique and user friendly tool for everyone.' %}
+    </p>
+</div>
+
+<div class="faq" id="faq" style="margin-top: -100px;">
+    <h1>{% trans 'Frequently Asked Questions' %} </h1>
+    <div class="faq__main">
+        <button class="accordion">
+            <h2>{% trans 'How to Cut and Trim TikTok Videos in Mobile or PC:' %}</h2>
+        </button>
+        <div class="panel">
+            <ol style="margin-left: 20px;">
+                <li>
+                    <p>{% trans 'Go to TikTok official website and copy the video link.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'Go to our website Tiksss.com and on the top menu you will see “Tools” tap on it and select TikTok Video Cutter.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'On the next page paste your video link and click on “Cut Button”.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'You will see a player down below. Kindly select the specific part which you want to cut it from tiktok video.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'Now you see two options over here. The first one is to download that specific cut part of the video in mp4 format or download track in mp3 format of that specific Trim part of the video.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'Choose one of the given options according to your needs and then proceed it.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'Now finally click on “Download Button” to download it in your device.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'If you like our TikTok Video Cutter and Trimmer Tool and services than Kindly share our website with your friends and family members. Thanks!' %}</p>
+                </li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    function show() {
+        document.getElementById("myDiv").style.display = "block";
+        setTimeout("hide()", 500000);  // 5 seconds
+    }
+
+    function hide() {
+        document.getElementById("myDiv").style.display = "none";
+    }
+
+</script>
+
+
+
+{% endblock %}

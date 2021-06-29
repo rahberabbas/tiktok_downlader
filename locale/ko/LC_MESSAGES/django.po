@@ -1,0 +1,2897 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-28 19:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: templates/about.html:3
+msgid "About Us - Tiksss.com"
+msgstr "회사 소개-Tiksss.com"
+
+#: templates/about.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com. If"
+" you have any question regarding this than kindly let us know. Thanks."
+msgstr ""
+"이 페이지에서는 Tiksss.com 웹 사이트에 대한 유용한 정보를 추가했습니다. 이와 관련하여 질문이 있으면 친절하게 알려주십시오. "
+"감사."
+
+#: templates/about.html:10
+msgid "About US"
+msgstr "우리에 대해"
+
+#: templates/about.html:11
+msgid "is an amazing popular"
+msgstr "놀라운 인기입니다"
+
+#: templates/about.html:11
+msgid ""
+"tool that allows users from different regions to download and convert TikTok"
+" videos online free."
+msgstr "다른 지역의 사용자가 TikTok 비디오를 온라인에서 무료로 다운로드하고 변환 할 수있는 도구입니다."
+
+#: templates/about.html:12
+msgid ""
+"Our platform supports different type of TikTok video converting tools like, "
+"TikTok to Mp4, Mp3, Video Cutter, and downloads TikTok videos without "
+"watermark or with watermark in just few seconds which you can view here in "
+"our website"
+msgstr ""
+"우리 플랫폼은 TikTok에서 Mp4, Mp3, Video Cutter로 변환하는 다양한 유형의 TikTok 비디오 변환 도구를 지원하며"
+" 워터 마크없이 TikTok 비디오를 다운로드하거나 웹 사이트에서 볼 수있는 워터 마크가있는 단 몇 초 만에 다운로드합니다."
+
+#: templates/about.html:13
+msgid "Why Tiksss.com"
+msgstr "왜 Tiksss.com인가"
+
+#: templates/about.html:14
+msgid ""
+"Our tool design is very unique and simple. We made this tool for customers "
+"and users purpose only. It’s very fast, easy, and safe for everyone to use "
+"in your daily life routine even if you are a content creator. This tool "
+"helps you a lot and save your time for sure. Tiksss is always here and ready"
+" to help you out if you facing any problem. If you have any queries then "
+"kindly contact us over here:"
+msgstr ""
+"우리의 도구 디자인은 매우 독특하고 간단합니다. 이 도구는 고객과 사용자의 목적으로 만 만들었습니다. 콘텐츠 제작자이더라도 모든 사람이 "
+"일상 생활에서 매우 빠르고 쉽고 안전합니다. 이 도구는 많은 도움이되며 확실히 시간을 절약 할 수 있습니다. Tiksss는 항상 여기에 "
+"있으며 문제가 발생하면 도움을 드릴 준비가되어 있습니다. 질문이 있으시면 여기로 연락해주십시오."
+
+#: templates/audio.html:4 templates/download1.html:4
+#: templates/download4.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "Mp3 변환기 온라인 무료 TikTok-Tiksss.com"
+
+#: templates/audio.html:7 templates/download1.html:5
+#: templates/download4.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok To Mp3 Converter Online 무료 웹 사이트 Tiksss.com. Tiktok 비디오를 완전히 무료 인 "
+"Tiktok 연인을위한 Mp3 형식으로 변환하는 가장 빠른 도구입니다."
+
+#: templates/audio.html:14 templates/without.html:13
+msgid "Download"
+msgstr "다운로드"
+
+#: templates/audio.html:14
+msgid "Audio"
+msgstr "오디오"
+
+#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
+#: templates/without.html:14
+msgid "Enter the URL Here"
+msgstr "여기에 URL 입력"
+
+#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
+#: templates/without.html:24
+msgid "Search"
+msgstr "검색"
+
+#: templates/audio.html:31
+msgid "TikTok to Mp3 Converter Online Free"
+msgstr "Mp3 변환기 온라인 무료 TikTok"
+
+#: templates/audio.html:32
+msgid ""
+"If you are music lover then you will know the value of this TikTok to Mp3 "
+"Converter Online Tool. We have made this tool very easy and simple. You "
+"people can use this tool on your preferred devices without any limits. Make "
+"sure that you have to bookmark this tool page for future. We have added all "
+"the instructions of this tool that how you people can use and take benefits "
+"from it. Kindly share this tool with your friends and family member with the"
+" help of social media because they will definitely like and use this for "
+"sure. For more Info visit our Website"
+msgstr ""
+"당신이 음악 애호가라면이 TikTok to Mp3 Converter Online Tool의 가치를 알게 될 것입니다. 우리는이 도구를 "
+"매우 쉽고 간단하게 만들었습니다. 사람들은 제한없이 선호하는 장치에서이 도구를 사용할 수 있습니다. 나중에이 도구 페이지를 "
+"북마크해야합니다. 사람들이이 도구를 사용하고 이점을 얻을 수있는 방법에 대한이 도구의 모든 지침을 추가했습니다. 이 도구를 친구 및 "
+"가족과 소셜 미디어의 도움으로 공유하십시오. 확실히 좋아하고 사용할 것입니다. 자세한 정보는 웹 사이트를 방문하세요"
+
+#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
+#: templates/index.html:29
+msgid "Frequently Asked Questions"
+msgstr "자주 묻는 질문"
+
+#: templates/audio.html:39
+msgid ""
+"How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
+" to Mp3 Online Free:"
+msgstr "고품질로 Tiktok을 Mp3 온라인으로 무료로 변환하는 방법 – TikTok을 Mp3 온라인으로 무료로 다운로드 :"
+
+#: templates/audio.html:45 templates/faq.html:44
+msgid ""
+"Select a video URL on TikTok which you want to convert into mp3 format."
+msgstr "TikTok에서 mp3 형식으로 변환하려는 비디오 URL을 선택하십시오."
+
+#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+msgid "Copy the selected video link on your smartphone / computer or Laptop"
+msgstr "선택한 비디오 링크를 스마트 폰 / 컴퓨터 또는 노트북에 복사합니다."
+
+#: templates/audio.html:51 templates/faq.html:50
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok to Mp3 Converter."
+msgstr ""
+"웹 사이트 Tiksss.com으로 이동하면 상단 메뉴에 &quot;도구&quot;탭이 표시되고 TikTok to Mp3 변환기를 "
+"선택합니다."
+
+#: templates/audio.html:54 templates/faq.html:53
+msgid "Insert the TikTok video link in the field and press \"Convert Button\""
+msgstr "필드에 TikTok 비디오 링크를 삽입하고 &quot;변환 버튼&quot;을 누릅니다."
+
+#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:37 templates/without.html:51
+msgid "Now you will see a download button, click on download."
+msgstr "이제 다운로드 버튼이 표시되면 다운로드를 클릭하십시오."
+
+#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine."
+msgstr "컴퓨터에서 직접 비디오를 다운로드 할 수있는 몇 초만 기다리십시오."
+
+#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+msgid ""
+"If you like our tool and services than Kindly share our website with your "
+"friends and family members. Thanks!"
+msgstr "Kindly보다 우리의 도구와 서비스가 마음에 들면 친구 및 가족과 우리 웹 사이트를 공유하십시오. 감사!"
+
+#: templates/base.html:28
+msgid "Home"
+msgstr "집"
+
+#: templates/base.html:30 templates/base.html:32
+msgid "Tools"
+msgstr "도구"
+
+#: templates/base.html:34
+msgid "Download With Watermark"
+msgstr "워터 마크로 다운로드"
+
+#: templates/base.html:37
+msgid "Download Without Watermark"
+msgstr "워터 마크없이 다운로드"
+
+#: templates/base.html:38
+msgid "Download Audio"
+msgstr "오디오 다운로드"
+
+#: templates/base.html:39
+msgid "Audio/Video Cutter"
+msgstr "오디오 / 비디오 커터"
+
+#: templates/base.html:43
+msgid "About"
+msgstr "약"
+
+#: templates/base.html:76 templates/privacypolicy.html:10
+msgid "Privacy Policy"
+msgstr "개인 정보 정책"
+
+#: templates/base.html:79 templates/tandc.html:10
+msgid "Terms and Conditions"
+msgstr "이용 약관"
+
+#: templates/base.html:82
+msgid "FAQ"
+msgstr "자주하는 질문"
+
+#: templates/cutter.html:4 templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok 비디오 커터 온라인 무료 – Tiksss.com"
+
+#: templates/cutter.html:7 templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok 비디오 커터 온라인 무료 도구. TikTok 비디오를 온라인에서 무료로 자르는 방법. TikTok 비디오 온라인 무료 자르기"
+" 및 자르기."
+
+#: templates/cutter.html:14
+msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
+msgstr "비디오 커터 온라인 – TikTok 비디오 트리머 온라인 무료"
+
+#: templates/cutter.html:31
+msgid ""
+"Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
+"for your content creation. While using this tool on our website "
+msgstr ""
+"여기 있습니다. TikTok Video Cutter Online Free Tool은 콘텐츠 제작을위한 솔루션을 제공합니다. 웹 "
+"사이트에서이 도구를 사용하는 동안"
+
+#: templates/cutter.html:31
+msgid ""
+" you people can easily Trim and Cut TikTok Video in your devices for free. "
+"It’s very unique and user friendly tool for everyone."
+msgstr ""
+"사람들은 무료로 장치에서 TikTok 비디오를 쉽게 자르고자를 수 있습니다. 모두에게 매우 독특하고 사용자 친화적 인 도구입니다."
+
+#: templates/cutter.html:39
+msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgstr "모바일 또는 PC에서 TikTok 비디오를 자르고 자르는 방법 :"
+
+#: templates/cutter.html:44
+msgid "Go to TikTok official website and copy the video link."
+msgstr "TikTok 공식 웹 사이트로 이동하여 비디오 링크를 복사하십시오."
+
+#: templates/cutter.html:47
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok Video Cutter."
+msgstr ""
+"당사 웹 사이트 Tiksss.com으로 이동하면 상단 메뉴에 &quot;도구&quot;탭이 표시되고 TikTok Video Cutter를"
+" 선택합니다."
+
+#: templates/cutter.html:50
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr "다음 페이지에서 비디오 링크를 붙여넣고“Cut Button”을 클릭하십시오."
+
+#: templates/cutter.html:53
+msgid ""
+"You will see a player down below. Kindly select the specific part which you "
+"want to cut it from tiktok video."
+msgstr "아래에 플레이어가 표시됩니다. tiktok 비디오에서 자르고 싶은 특정 부분을 친절하게 선택하십시오."
+
+#: templates/cutter.html:56
+msgid ""
+"Now you see two options over here. The first one is to download that "
+"specific cut part of the video in mp4 format or download track in mp3 format"
+" of that specific Trim part of the video."
+msgstr ""
+"이제 여기에 두 가지 옵션이 있습니다. 첫 번째는 비디오의 특정 컷 부분을 mp4 형식으로 다운로드하거나 비디오의 특정 트림 부분의 "
+"mp3 형식으로 트랙을 다운로드하는 것입니다."
+
+#: templates/cutter.html:59
+msgid ""
+"Choose one of the given options according to your needs and then proceed it."
+msgstr "필요에 따라 주어진 옵션 중 하나를 선택한 다음 진행하십시오."
+
+#: templates/cutter.html:62
+msgid "Now finally click on “Download Button” to download it in your device."
+msgstr "이제 마지막으로 &quot;다운로드 버튼&quot;을 클릭하여 장치에 다운로드합니다."
+
+#: templates/cutter.html:65
+msgid ""
+"If you like our TikTok Video Cutter and Trimmer Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"TikTok 비디오 커터 및 트리머 도구 및 서비스가 마음에 들면 Kindly보다 웹 사이트를 친구 및 가족과 공유하십시오. 감사!"
+
+#: templates/download.html:6 templates/index.html:4
+msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
+msgstr "워터 마크없이 Tiktok 동영상 다운로드-Tiksss.Com"
+
+#: templates/download.html:7 templates/index.html:5
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"당사 웹 사이트 Tiksss.com에서 워터 마크가없는 온라인 Tiktok 비디오를 무료로 다운로드하십시오. 완전히 무료 인 Tiktok"
+" 연인을위한 가장 빠른 Tiktok 비디오 다운로더 온라인."
+
+#: templates/download2.html:4 templates/without.html:4
+msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
+msgstr "워터 마크없이 온라인으로 Tiktok 비디오 다운로드-Tiksss.com"
+
+#: templates/download2.html:6 templates/without.html:6
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"저희 웹 사이트 Tiksss.com에서 워터 마크없이 Tiktok 비디오를 온라인으로 무료로 다운로드하십시오. 휴대폰과 노트북에 워터 "
+"마크없이 Tiktok 동영상을 쉽게 다운로드 할 수 있습니다."
+
+#: templates/faq.html:3
+msgid "Frequently Asked Questions - Tiksss.com"
+msgstr "자주 묻는 질문-Tiksss.com"
+
+#: templates/faq.html:5
+msgid ""
+"In this page we have added some useful frequently asked questions of our "
+"website Tiksss.com."
+msgstr "이 페이지에는 Tiksss.com 웹 사이트의 유용한 자주 묻는 질문을 추가했습니다."
+
+#: templates/faq.html:13
+msgid "How to Download TikTok Videos Online Free?"
+msgstr "TikTok 비디오 온라인을 무료로 다운로드하는 방법?"
+
+#: templates/faq.html:19 templates/index.html:34
+msgid "Select a video on TikTok which you want to download"
+msgstr "TikTok에서 다운로드하려는 비디오를 선택하십시오."
+
+#: templates/faq.html:25 templates/index.html:36
+msgid "Insert the TikTok video link on our website and press \"Search Button\""
+msgstr "웹 사이트에 TikTok 비디오 링크를 삽입하고 &quot;검색 버튼&quot;을 누릅니다."
+
+#: templates/faq.html:39
+msgid "Tiktok to Mp3 Converter online Free"
+msgstr "Mp3 변환기 온라인 무료 Tiktok"
+
+#: templates/faq.html:56
+msgid "Now you will see a download button, click on download"
+msgstr "이제 다운로드 버튼이 표시되면 다운로드를 클릭하십시오."
+
+#: templates/faq.html:59
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine"
+msgstr "컴퓨터에서 직접 비디오를 다운로드 할 수있는 몇 초만 기다리십시오."
+
+#: templates/faq.html:67 templates/without.html:37
+msgid "How to Download Tiktok Videos without Watermark:"
+msgstr "워터 마크없이 Tiktok 비디오를 다운로드하는 방법 :"
+
+#: templates/faq.html:72 templates/without.html:42
+msgid "Select a video on TikTok app or web which you want to download."
+msgstr "TikTok 앱 또는 웹에서 다운로드 할 동영상을 선택하세요."
+
+#: templates/faq.html:78 templates/without.html:48
+msgid ""
+"Copy paste the selected TikTok video link on our Website Tool Which is "
+"\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
+msgstr ""
+"선택한 TikTok 비디오 링크를 &quot;워터 마크없이 다운로드하는 Tiktok 비디오&quot;웹 사이트 도구에 붙여넣고 "
+"&quot;검색 버튼&quot;을 누릅니다."
+
+#: templates/faq.html:84 templates/without.html:54
+msgid ""
+"Just wait a few seconds in which you can download the Tiktok video Without "
+"Watermark directly in your machine."
+msgstr "워터 마크없이 Tiktok 비디오를 컴퓨터에서 직접 다운로드 할 수있는 몇 초만 기다리십시오."
+
+#: templates/index.html:11
+msgid "to Mp4 Downloader Online Free"
+msgstr "Mp4 다운로더 온라인 무료"
+
+#: templates/index.html:24
+msgid ""
+"is an amazing tool for TikTok lovers to save TikTok videos to your device "
+"with a single click. This tool designed is very simple and everyone can use "
+"it easily without any hassle. We all love to watch Tik Tok videos in our "
+"devices which remain in our logs if we want to see those videos again but I "
+"have experienced that the videos no longer available and its gets lost due "
+"to the awesome feedback that platform produces every single day with full "
+"excessive. TikTok does not allow you to download or save videos on your "
+"preferred devices. But those uploaded videos from the user’s side available "
+"on their official website or app with a lot of restrictions. So the question"
+" is that how to solve all these video downloading issues. So I have decided "
+"to make a tool which will be easy to use for everyone because including me "
+"there are millions of people on this platform to watch TikTok videos on "
+"mobile or laptop but they can’t download it. So do not worry about it. I "
+"have made this tool for you people only to "
+msgstr ""
+"는 한 번의 클릭으로 TikTok 동영상을 장치에 저장할 수있는 TikTok 애호가를위한 놀라운 도구입니다. 이 도구는 매우 간단하며 "
+"누구나 쉽게 사용할 수 있습니다. 우리는 모두 해당 비디오를 다시보고 싶다면 로그에 남아있는 장치에서 Tik Tok 비디오를 보는 것을 "
+"좋아하지만, 플랫폼이 매일 생성하는 멋진 피드백으로 인해 비디오를 더 이상 사용할 수없고 손실되는 것을 경험했습니다. 완전 과도. "
+"TikTok에서는 선호하는 장치에 비디오를 다운로드하거나 저장할 수 없습니다. 그러나 사용자 측에서 업로드 한 동영상은 많은 제한이있는 "
+"공식 웹 사이트 또는 앱에서 제공됩니다. 그래서 문제는 이러한 모든 비디오 다운로드 문제를 해결하는 방법입니다. 그래서 저를 포함하여 "
+"모바일이나 노트북에서 TikTok 비디오를 시청하는 수백만 명의 사람들이 있지만 다운로드 할 수 없기 때문에 누구나 쉽게 사용할 수있는 "
+"도구를 만들기로 결정했습니다. 그래서 그것에 대해 걱정하지 마십시오. 나는 당신을 위해이 도구를 만들었습니다."
+
+#: templates/index.html:24
+msgid "I proud myself to introduce an amazing "
+msgstr "나는 놀라운 소개를 자랑스럽게 생각합니다."
+
+#: templates/index.html:24
+msgid "web app which allow you to download TikTok videos to mp4 format."
+msgstr "TikTok 비디오를 mp4 형식으로 다운로드 할 수있는 웹 앱입니다."
+
+#: templates/index.html:31
+msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
+msgstr "Tiksss.com으로 TikTok 비디오를 Mp4로 다운로드하는 방법"
+
+#: templates/index.html:48
+msgid "Introduction of TikTok"
+msgstr "TikTok 소개"
+
+#: templates/index.html:49
+msgid ""
+"Everyone knows that TikTok is very popular right now and with the help of "
+"Tik Tok app. You can create your own videos very easily. TikTok app also "
+"used for streaming and creating content for your own use."
+msgstr ""
+"모두가 TikTok이 현재 Tik Tok 앱의 도움으로 매우 인기가 있다는 것을 알고 있습니다. 자신 만의 비디오를 매우 쉽게 만들 수 "
+"있습니다. TikTok 앱은 또한 자신의 용도로 콘텐츠를 스트리밍하고 생성하는 데 사용됩니다."
+
+#: templates/index.html:50
+msgid ""
+"It’s a Chinese app which also allows you to share your videos on social "
+"media platform, friends and family. TikTok owned by a Chinese company which "
+"is also known as “Bytedance”. The main purpose of using this app to create "
+"videos with lisping, short music creation, dancing and voiceover video "
+"clippings."
+msgstr ""
+"소셜 미디어 플랫폼, 친구 및 가족에서 동영상을 공유 할 수도있는 중국 앱입니다. &quot;Bytedance&quot;라고도하는 중국 "
+"회사가 소유 한 TikTok. 이 앱을 사용하여리스 핑, 짧은 음악 제작, 춤 및 음성 해설 비디오 클리핑으로 비디오를 만드는 주된 "
+"목적입니다."
+
+#: templates/index.html:51
+msgid ""
+"If you are a content creator and passionate to produce a unique content to "
+"the customers then this app will helps you a lot to fulfill your dreams come"
+" true. Most of the time people love to do voiceover where people select and "
+"play any music in the background and then they act respectively with that "
+"sound. For me I love to watch funny voiceover videos on this app. Everyday "
+"people shows their talent in different ways and become celebrities via this "
+"platform. This platform has become a source for content creators for "
+"entertainment and viral videos. The content of TikTok may unreachable to "
+"those who do not have wifi or internet availability so make sure you have "
+"internet connection on you device to watch viral and amazing videos. So we "
+"are here to give you this amazing TikTok Mp4 Downloader tool to download "
+"favorite videos on you devices."
+msgstr ""
+"콘텐츠 제작자이고 고객에게 고유 한 콘텐츠를 제작하는 데 열정적이라면이 앱은 꿈을 이루는 데 많은 도움이 될 것입니다. 대부분의 사람들은"
+" 사람들이 배경에서 음악을 선택하고 재생 한 다음 그 소리로 각각 행동하는 음성 해설을 좋아합니다. 저에게는이 앱에서 재미있는 음성 해설"
+" 동영상을 보는 것을 좋아합니다. 매일 사람들은이 플랫폼을 통해 다양한 방식으로 자신의 재능을 보여주고 유명인이됩니다. 이 플랫폼은 "
+"엔터테인먼트 및 바이럴 비디오를위한 콘텐츠 제작자의 소스가되었습니다. TikTok의 콘텐츠는 Wi-Fi 또는 인터넷 가용성이없는 "
+"사람들에게 도달하지 못할 수 있으므로 바이러스와 놀라운 비디오를 시청하려면 장치에 인터넷 연결이 있는지 확인하십시오. 그래서 우리는 당신"
+" 에게이 놀라운 TikTok Mp4 다운로더 도구를 제공하여 좋아하는 비디오를 장치에 다운로드합니다."
+
+#: templates/index.html:61
+msgid "Unlimited Downloads"
+msgstr "무제한 다운로드"
+
+#: templates/index.html:62
+msgid "Download unlimited videos with no limitations."
+msgstr "제한없이 무제한 비디오를 다운로드하십시오."
+
+#: templates/index.html:66
+msgid "No Watermark on Videos:"
+msgstr "동영상에 워터 마크 없음 :"
+
+#: templates/index.html:67
+msgid "Download TikTok videos without watermark with no limits."
+msgstr "워터 마크없이 제한없이 TikTok 비디오를 다운로드하십시오."
+
+#: templates/index.html:71
+msgid "Mp4 Supported HD:"
+msgstr "Mp4 지원 HD :"
+
+#: templates/index.html:72
+msgid "Download TikTok videos with Mp4 format HD."
+msgstr "Mp4 형식 HD로 TikTok 비디오를 다운로드하십시오."
+
+#: templates/index.html:76
+msgid "Mp3 Support:"
+msgstr "Mp3 지원 :"
+
+#: templates/index.html:77
+msgid "Easily Convert TikTok to Mp3 with high quality."
+msgstr "TikTok을 고품질의 Mp3로 쉽게 변환하십시오."
+
+#: templates/index.html:89
+msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
+msgstr "모바일 장치에서 TikTok 비디오를 Mp4 HD로 다운로드 :"
+
+#: templates/index.html:90
+msgid ""
+"If you want to download and save TikTok videos on your mobile device that "
+"you have to download and install TikTok app and then select your favorite "
+"video which you want to download. Here is some important thing when you are "
+"on video download page, see the share button on the right side of your "
+"device screen tap on it with the help of arrow and copy “link”. So open our "
+"website Tiksss.com and paste that copy link in given field and click on "
+"“Search Button”. It will take few seconds to get a downloadable link. You "
+"will see a “Download Button” hit on it to start video downloading on your "
+"device."
+msgstr ""
+"모바일 장치에 TikTok 비디오를 다운로드하고 저장하려면 TikTok 앱을 다운로드하여 설치 한 다음 다운로드 할 좋아하는 비디오를 "
+"선택해야합니다. 여기에 비디오 다운로드 페이지에있을 때 중요한 사항이 있습니다. 장치 화면 오른쪽에있는 공유 버튼을보고 화살표를 사용하여"
+" 탭하고 &quot;링크&quot;를 복사합니다. 그래서 저희 웹 사이트 Tiksss.com을 열고 주어진 필드에 복사 링크를 "
+"붙여넣고“검색 버튼”을 클릭하십시오. 다운로드 가능한 링크를 얻는 데 몇 초 정도 걸립니다. 장치에서 비디오 다운로드를 시작하려면 "
+"&quot;다운로드 버튼&quot;이 표시됩니다."
+
+#: templates/index.html:101
+msgid "Download TikTok Video Without Watermark on your Device:"
+msgstr "장치에 워터 마크없이 TikTok 비디오 다운로드 :"
+
+#: templates/index.html:102
+msgid ""
+"This method is very unique to get download video without watermark in "
+"original quality. We made this tool very easy and it works smoothly on "
+"windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t "
+"need to install any extra software or App and this is the only specialty of "
+"this TikTok no watermark video download tool. Go to Tiksss.com and you will "
+"see dropdown menu click on it and select “Without Watermark”. On the next "
+"page just paste the link and click “Download Button”. Wait a few seconds to "
+"get start downloading of your video."
+msgstr ""
+"이 방법은 원본 품질로 워터 마크없이 비디오를 다운로드하는 데 매우 독특합니다. 우리는이 도구를 매우 쉽게 만들었으며 Windows, "
+"Mac OS, Ipad, Android 장치에서 원활하게 작동합니다. 특히 PC 사용자의 경우 추가 소프트웨어 나 앱을 설치할 필요가 "
+"없으며 이것은이 TikTok 워터 마크가없는 비디오 다운로드 도구의 유일한 특징입니다. Tiksss.com으로 이동하면 드롭 다운 "
+"메뉴에서 클릭하고 &quot;워터 마크 없음&quot;을 선택합니다. 다음 페이지에서 링크를 붙여넣고“다운로드 버튼”을 클릭하십시오. "
+"비디오 다운로드를 시작하려면 몇 초 정도 기다리십시오."
+
+#: templates/index.html:119
+msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
+msgstr "Tiktok to MP3 변환기 온라인 무료 모바일 및 데스크톱 장치 :"
+
+#: templates/index.html:120
+msgid "If you are music lover then you will know the value of this"
+msgstr "음악 애호가라면 이것의 가치를 알게 될 것입니다."
+
+#: templates/index.html:120
+msgid ""
+"We have made this tool very easy and simple. You people can use this tool on"
+" your preferred devices without any limits. Make sure that you have to "
+"bookmark this tool page for future. We have added all the instructions of "
+"this tool that how you people can use and take benefits from it. Kindly "
+"share this tool with your friends and family member with the help of social "
+"media because they will definitely like and use this for sure."
+msgstr ""
+"우리는이 도구를 매우 쉽고 간단하게 만들었습니다. 사람들은 제한없이 선호하는 장치에서이 도구를 사용할 수 있습니다. 나중에이 도구 "
+"페이지를 북마크해야합니다. 사람들이이 도구를 사용하고 이점을 얻을 수있는 방법에 대한이 도구의 모든 지침을 추가했습니다. 이 도구를 친구"
+" 및 가족과 소셜 미디어의 도움으로 공유하십시오. 확실히 좋아하고 사용할 것입니다."
+
+#: templates/index.html:128
+msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgstr "Tiktok 비디오 커터 온라인 – TikTok 비디오 트리머 온라인 무료 :"
+
+#: templates/index.html:129
+msgid "Here you go. "
+msgstr "여기 있습니다."
+
+#: templates/index.html:129
+msgid ""
+" provides you a solution for your content creation. While using this tool on"
+" our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
+"your devices for free. It’s very unique and user friendly tool for everyone."
+msgstr ""
+"콘텐츠 제작을위한 솔루션을 제공합니다. 웹 사이트 Tiksss.com에서이 도구를 사용하는 동안 사람들은 무료로 장치에서 TikTok "
+"비디오를 쉽게 자르고자를 수 있습니다. 모두에게 매우 독특하고 사용자 친화적 인 도구입니다."
+
+#: templates/privacypolicy.html:3
+msgid "Privacy Policy - Tiksss.com"
+msgstr "개인 정보 보호 정책-Tiksss.com"
+
+#: templates/privacypolicy.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Privacy Policy. If you have any question regarding this than kindly let us "
+"know. Thanks."
+msgstr ""
+"이 페이지에는 Tiksss.com 개인 정보 보호 정책 웹 사이트에 대한 유용한 정보를 추가했습니다. 이와 관련하여 질문이 있으면 "
+"친절하게 알려주십시오. 감사."
+
+#: templates/privacypolicy.html:13
+msgid "By using"
+msgstr "사용하여"
+
+#: templates/privacypolicy.html:13
+msgid ""
+"you signify your agreement to follow all the privacy policy set forth on "
+"this page:"
+msgstr "귀하는이 페이지에 명시된 모든 개인 정보 보호 정책을 따르기로 동의 함을 나타냅니다."
+
+#: templates/privacypolicy.html:16
+msgid ""
+"This Website does not collect personally identifiable information from your "
+"computer when you browse the Website and request pages from our servers. "
+"This means that, unless you voluntarily and knowingly provide us with "
+"personally identifiable information, we will not know your name, your e-mail"
+" address, or any other personally identifiable information."
+msgstr ""
+"이 웹 사이트는 귀하가 웹 사이트를 탐색하고 당사 서버에서 페이지를 요청할 때 귀하의 컴퓨터에서 개인 식별 정보를 수집하지 않습니다. "
+"이는 귀하가 자발적으로 고의로 개인 식별 정보를 제공하지 않는 한 귀하의 이름, 이메일 주소 또는 기타 개인 식별 정보를 알 수 없음을 "
+"의미합니다."
+
+#: templates/privacypolicy.html:19
+msgid ""
+"When you request a page from our Website, our servers log the information "
+"provided in the HTTP request header, JavaScript or similar technical tools, "
+"including the IP number, the time of the request, the URL of your request "
+"and other information. We collect this information in order to make our "
+"Website function correctly and provide you the functionality that you see on"
+" the Website, as our servers use this information to deliver to you the "
+"pages on this Website. We also use this information to better understand how"
+" visitors use our Website and how we can better tune our Website, its "
+"contents and functionality to meet your needs. However, this information is "
+"not associated with any personally identifiable information of persons "
+"browsing the Website."
+msgstr ""
+"귀하가 당사 웹 사이트에서 페이지를 요청하면 당사 서버는 IP 번호, 요청 시간, 귀하의 요청 URL 및 기타 정보를 포함하여 HTTP "
+"요청 헤더, JavaScript 또는 유사한 기술 도구에 제공된 정보를 기록합니다. 당사의 서버는이 정보를 사용하여이 웹 사이트의 "
+"페이지를 귀하에게 제공하기 때문에 당사 웹 사이트가 올바르게 작동하고 귀하가 웹 사이트에서 보는 기능을 제공하기 위해이 정보를 "
+"수집합니다. 또한이 정보를 사용하여 방문자가 당사 웹 사이트를 사용하는 방법과 귀하의 요구를 충족하기 위해 웹 사이트, 콘텐츠 및 기능을"
+" 더 잘 조정할 수있는 방법을 더 잘 이해할 수 있습니다. 그러나이 정보는 웹 사이트를 탐색하는 개인의 개인 식별 정보와 관련이 "
+"없습니다."
+
+#: templates/privacypolicy.html:22
+msgid ""
+"We use Google Analytics cookies to understand and save your preferences for "
+"future visits. Cookies are small files that a site or its service provider "
+"transfers to your computers hard drive through your Web browser (if you "
+"allow) that enables the sites or service providers systems to recognize your"
+" browser and capture and remember certain information)"
+msgstr ""
+"당사는 Google Analytics 쿠키를 사용하여 향후 방문에 대한 귀하의 환경 설정을 이해하고 저장합니다. 쿠키는 사이트 또는 "
+"서비스 제공자가 귀하의 웹 브라우저 (허용하는 경우)를 통해 귀하의 컴퓨터 하드 드라이브로 전송하는 작은 파일로, 사이트 또는 서비스 "
+"제공 업체 시스템이 귀하의 브라우저를 인식하고 특정 정보를 캡처하고 기억할 수 있도록합니다)"
+
+#: templates/privacypolicy.html:25
+msgid ""
+"Some of the advertisements you see on the Site are selected and delivered by"
+" third parties, such as ad networks, advertising agencies, advertisers, and "
+"audience segment providers. These third parties may collect information "
+"about you and your online activities, either on the Site or on other "
+"websites, through cookies, web beacons, and other technologies in an effort "
+"to understand your interests and deliver to you advertisements that are "
+"tailored to your interests. The information practices of these third parties"
+" are not covered by this privacy policy"
+msgstr ""
+"귀하가 사이트에서 보는 일부 광고는 광고 네트워크, 광고 대행사, 광고주 및 잠재 고객 세그먼트 제공 업체와 같은 제 3자가 선택하여 "
+"제공합니다. 이러한 제 3자는 귀하의 관심사를 이해하고 귀하의 관심사에 맞는 광고를 제공하기 위해 쿠키, 웹 비콘 및 기타 기술을 통해 "
+"사이트 또는 다른 웹 사이트에서 귀하 및 귀하의 온라인 활동에 대한 정보를 수집 할 수 있습니다. 이러한 제 3 자의 정보 관행은이 개인"
+" 정보 보호 정책에 포함되지 않습니다."
+
+#: templates/privacypolicy.html:28
+msgid ""
+"We do not sell, trade, or otherwise transfer to outside parties your "
+"personally identifiable information. This does not include trusted third "
+"parties who assist us in operating our website, conducting our business, or "
+"servicing you, so long as those parties agree to keep this information "
+"confidential. We may also release your information when we believe release "
+"is appropriate to comply with the law, enforce our site policies, or protect"
+" ours or others rights, property, or safety. However, non-personally "
+"identifiable visitor information may be provided to other parties for "
+"marketing, advertising, or other uses"
+msgstr ""
+"당사는 귀하의 개인 식별 정보를 외부 당사자에게 판매, 거래 또는 전송하지 않습니다. 여기에는 당사 웹 사이트 운영, 비즈니스 수행 또는"
+" 귀하에게 서비스를 제공하는 신뢰할 수있는 제 3자가 포함되지 않습니다. 단, 해당 당사자가이 정보를 기밀로 유지하는 데 동의하는 한. "
+"또한 공개가 법률을 준수하고, 사이트 정책을 시행하거나, 당사 또는 다른 사람의 권리, 재산 또는 안전을 보호하는 데 적절하다고 판단되는"
+" 경우 귀하의 정보를 공개 할 수 있습니다. 그러나 마케팅, 광고 또는 기타 사용을 위해 개인 식별이 불가능한 방문자 정보를 다른 "
+"당사자에게 제공 할 수 있습니다."
+
+#: templates/privacypolicy.html:31
+msgid ""
+"Occasionally, at our discretion, we may include or offer third party "
+"products or services on our website. These third party sites have separate "
+"and independent privacy policies. We therefore have no responsibility or "
+"liability for the content and activities of these linked sites. Nonetheless,"
+" we seek to protect the integrity of our site and welcome any feedback about"
+" these sites"
+msgstr ""
+"때때로, 당사의 재량에 따라 당사 웹 사이트에 제 3 자 제품 또는 서비스를 포함하거나 제공 할 수 있습니다. 이러한 타사 사이트에는 "
+"별도의 독립적 인 개인 정보 보호 정책이 있습니다. 따라서 당사는 이러한 링크 된 사이트의 콘텐츠 및 활동에 대해 책임을지지 않습니다. "
+"그럼에도 불구하고 우리는 사이트의 무결성을 보호하고 이러한 사이트에 대한 피드백을 환영합니다."
+
+#: templates/privacypolicy.html:34
+msgid ""
+"Changes to our Privacy Policy. If we decide to change our privacy policy, we"
+" will post those changes on this page"
+msgstr "개인 정보 보호 정책의 변경. 개인 정보 보호 정책을 변경하기로 결정하면 해당 변경 사항을이 페이지에 게시합니다."
+
+#: templates/privacypolicy.html:37
+msgid "TIKSSS Video Downloader"
+msgstr "TIKSSS 비디오 다운로더"
+
+#: templates/privacypolicy.html:38
+msgid ""
+"TIK built the TIKSSS Mp4 Video Downloader for TikTok</b> app as an Ad "
+"Supported app. This SERVICE is provided by TIKsss at no cost and is intended"
+" for use as is"
+msgstr ""
+"TIK는 TikTok 앱용 TIKSSS Mp4 Video Downloader를 광고 지원 앱으로 구축했습니다. 이 서비스는 "
+"TIKsss에서 무료로 제공하며있는 그대로 사용하도록되어 있습니다."
+
+#: templates/privacypolicy.html:39
+msgid ""
+"This page is used to inform visitors regarding our policies with the "
+"collection, use, and disclosure of Personal Information if anyone decided to"
+" use our Service"
+msgstr ""
+"이 페이지는 누군가가 당사 서비스를 사용하기로 결정한 경우 개인 정보의 수집, 사용 및 공개에 대한 당사 정책에 대해 방문자에게 알리는 "
+"데 사용됩니다."
+
+#: templates/privacypolicy.html:40
+msgid ""
+"If you choose to use our Service, then you agree to the collection and use "
+"of information in relation to this policy. The Personal Information that we "
+"collect is used for providing and improving the Service. We will not use or "
+"share your information with anyone except as described in this Privacy "
+"Policy"
+msgstr ""
+"귀하가 당사 서비스를 사용하기로 선택한 경우 귀하는이 정책과 관련된 정보 수집 및 사용에 동의하는 것입니다. 당사가 수집하는 개인 정보는"
+" 서비스 제공 및 개선을 위해 사용됩니다. 우리는이 개인 정보 보호 정책에 설명 된 경우를 제외하고 누구와도 귀하의 정보를 사용하거나 "
+"공유하지 않습니다."
+
+#: templates/privacypolicy.html:41
+msgid ""
+"The terms used in this Privacy Policy have the same meanings as in our Terms"
+" and Conditions, which is accessible at TIKSSS Video Downloader and Mp3 "
+"Converter for TikTok unless otherwise defined in this Privacy Policy"
+msgstr ""
+"이 개인 정보 보호 정책에서 사용되는 용어는 본 개인 정보 보호 정책에 달리 정의되지 않는 한 TIKSSS Video Downloader"
+" 및 Mp3 Converter for TikTok에서 액세스 할 수있는 이용 약관과 동일한 의미를 갖습니다."
+
+#: templates/privacypolicy.html:42
+msgid "Information we collect"
+msgstr "수집하는 정보"
+
+#: templates/privacypolicy.html:43
+msgid ""
+"The personal information that you are asked to provide, and the reasons why "
+"you are asked to provide it, will be made clear to you at the point we ask "
+"you to provide your personal information"
+msgstr ""
+"귀하가 제공하도록 요청받은 개인 정보 및 제공 요청 이유는 당사가 귀하에게 귀하의 개인 정보를 제공하도록 요청하는 시점에 귀하에게 "
+"명확하게 표시됩니다."
+
+#: templates/privacypolicy.html:44
+msgid ""
+"If you contact us directly, we may receive additional information about you "
+"such as your name, email address, phone number, and the contents of the "
+"message and/or attachments you may send us, and any other information you "
+"may choose to provide"
+msgstr ""
+"귀하가 당사에 직접 연락하는 경우 당사는 귀하의 이름, 이메일 주소, 전화 번호, 귀하가 당사에 보낼 수있는 메시지 및 / 또는 첨부 "
+"파일의 내용 및 귀하가 제공하기로 선택할 수있는 기타 정보와 같은 귀하에 대한 추가 정보를 수신 할 수 있습니다."
+
+#: templates/privacypolicy.html:45
+msgid ""
+"When you register for an Account, we may ask for your contact information, "
+"including items such as name, company name, address, email address, and "
+"telephone number."
+msgstr ""
+"귀하가 계정에 등록 할 때 당사는 이름, 회사 명, 주소, 이메일 주소 및 전화 번호와 같은 항목을 포함한 귀하의 연락처 정보를 요청할 "
+"수 있습니다."
+
+#: templates/privacypolicy.html:46
+msgid "Log Data"
+msgstr "로그 데이터"
+
+#: templates/privacypolicy.html:47
+msgid ""
+"we want to inform you that whenever you use our Service, in a case of an "
+"error in the app we collect data and information (through third party "
+"products) on your phone called Log Data. This Log Data may include "
+"information such as your device Internet Protocol (\"IP\") address, device "
+"name, operating system version, the configuration of the app when utilizing "
+"our Service, the time and date of your use of the Service, and other "
+"statistics"
+msgstr ""
+"당사는 귀하가 당사 서비스를 사용할 때마다 앱에 오류가 발생하는 경우 로그 데이터라는 귀하의 휴대 전화에서 데이터와 정보 (제 3 자 "
+"제품을 통해)를 수집한다는 사실을 알려 드리고자합니다. 이 로그 데이터에는 장치 인터넷 프로토콜 ( &quot;IP&quot;) 주소, "
+"장치 이름, 운영 체제 버전, 당사 서비스를 사용할 때 앱 구성, 서비스 사용 시간 및 날짜 및 기타 통계와 같은 정보가 포함될 수 "
+"있습니다."
+
+#: templates/privacypolicy.html:49 templates/tandc.html:15
+msgid "Cookies"
+msgstr "쿠키"
+
+#: templates/privacypolicy.html:50
+msgid ""
+"Cookies are files with a small amount of data that are commonly used as "
+"anonymous unique identifiers. These are sent to your browser from the "
+"websites that you visit and are stored on your device's internal memory"
+msgstr ""
+"쿠키는 일반적으로 익명의 고유 식별자로 사용되는 소량의 데이터가 포함 된 파일입니다. 방문하는 웹 사이트에서 브라우저로 전송되며 기기의 "
+"내부 메모리에 저장됩니다."
+
+#: templates/privacypolicy.html:51
+msgid ""
+"This Service does not use these \"cookies\" explicitly. However, the app may"
+" use third party code and libraries that use \"cookies\" to collect "
+"information and improve their services. You have the option to either accept"
+" or refuse these cookies and know when a cookie is being sent to your "
+"device. If you choose to refuse our cookies, you may not be able to use some"
+" portions of this Service."
+msgstr ""
+"이 서비스는 이러한 &quot;쿠키&quot;를 명시 적으로 사용하지 않습니다. 그러나 앱은 정보를 수집하고 서비스를 개선하기 위해 "
+"&quot;쿠키&quot;를 사용하는 제 3 자 코드 및 라이브러리를 사용할 수 있습니다. 귀하는 이러한 쿠키를 수락하거나 거부 할 수 "
+"있으며 쿠키가 귀하의 장치로 전송되는시기를 알 수 있습니다. 쿠키를 거부하는 경우이 서비스의 일부를 사용하지 못할 수 있습니다."
+
+#: templates/privacypolicy.html:52
+msgid "Service Providers"
+msgstr "서비스 제공자"
+
+#: templates/privacypolicy.html:53
+msgid ""
+"We may employ third-party companies and individuals due to the following "
+"reasons:"
+msgstr "당사는 다음과 같은 이유로 제 3 자 회사 및 개인을 고용 할 수 있습니다."
+
+#: templates/privacypolicy.html:56
+msgid "To facilitate our Service"
+msgstr "서비스를 촉진하기 위해"
+
+#: templates/privacypolicy.html:59
+msgid "To provide the Service on our behalf"
+msgstr "당사를 대신하여 서비스를 제공하기 위해"
+
+#: templates/privacypolicy.html:62
+msgid "To perform Service-related services; or"
+msgstr "서비스 관련 서비스 수행 또는"
+
+#: templates/privacypolicy.html:65
+msgid "To assist us in analyzing how our Service is used."
+msgstr "당사의 서비스 사용 방식을 분석하는 데 도움이됩니다."
+
+#: templates/privacypolicy.html:68
+msgid ""
+"We want to inform users of this Service that these third parties have access"
+" to your Personal Information. The reason is to perform the tasks assigned "
+"to them on our behalf. However, they are obligated not to disclose or use "
+"the information for any other purpose."
+msgstr ""
+"당사는 이러한 제 3자가 귀하의 개인 정보에 액세스 할 수 있음을이 서비스의 사용자에게 알리고 싶습니다. 그 이유는 우리를 대신하여 "
+"그들에게 할당 된 작업을 수행하기 위해서입니다. 그러나 다른 목적으로 정보를 공개하거나 사용하지 않을 의무가 있습니다."
+
+#: templates/privacypolicy.html:69
+msgid "Security"
+msgstr "보안"
+
+#: templates/privacypolicy.html:70
+#, python-format
+msgid ""
+"We value your trust in providing us your Personal Information, thus we are "
+"striving to use commercially acceptable means of protecting it. But remember"
+" that no method of transmission over the internet, or method of electronic "
+"storage is 100%% secure and reliable, and we cannot guarantee its absolute "
+"security."
+msgstr ""
+"우리는 귀하의 개인 정보 제공에 대한 귀하의 신뢰를 소중히 여기므로 상업적으로 허용되는 보호 수단을 사용하기 위해 노력하고 있습니다. "
+"그러나 인터넷을 통한 전송 방법이나 전자 저장 방법은 100 % 안전하고 신뢰할 수 없으며 절대적인 보안을 보장 할 수 없습니다."
+
+#: templates/privacypolicy.html:71
+msgid "Links to Other Sites"
+msgstr "다른 사이트로의 링크"
+
+#: templates/privacypolicy.html:72
+msgid ""
+"This Service may contain links to other sites. If you click on a third-party"
+" link, you will be directed to that site. Note that these external sites are"
+" not operated by us. Therefore, we strongly advise you to review the Privacy"
+" Policy of these websites. we have no control over and assume no "
+"responsibility for the content, privacy policies, or practices of any third-"
+"party sites or services."
+msgstr ""
+"이 서비스에는 다른 사이트에 대한 링크가 포함될 수 있습니다. 타사 링크를 클릭하면 해당 사이트로 이동합니다. 이러한 외부 사이트는 "
+"당사에서 운영하지 않습니다. 따라서 이러한 웹 사이트의 개인 정보 보호 정책을 검토하는 것이 좋습니다. 당사는 제 3 자 사이트 또는 "
+"서비스의 콘텐츠, 개인 정보 보호 정책 또는 관행에 대해 통제 할 수 없으며 책임을지지 않습니다."
+
+#: templates/privacypolicy.html:73
+msgid "Children's Privacy"
+msgstr "아동의 개인 정보 보호"
+
+#: templates/privacypolicy.html:74
+msgid ""
+"These Services do not address anyone under the age of 13. we do not "
+"knowingly collect personally identifiable information from children under "
+"13. In the case we discover that a child under 13 has provided us with "
+"personal information, we immediately delete this from our servers. If you "
+"are a parent or guardian and you are aware that your child has provided us "
+"with personal information, please contact us so that we will be able to do "
+"necessary actions."
+msgstr ""
+"이러한 서비스는 13 세 미만의 누구에게도 다루지 않습니다. 당사는 13 세 미만의 어린이로부터 고의로 개인 식별 정보를 수집하지 "
+"않습니다. 13 세 미만의 어린이가 당사에 개인 정보를 제공 한 사실을 발견 한 경우 당사는이를 즉시 당사 서버에서 삭제합니다. 귀하가 "
+"부모 또는 보호자이고 귀하의 자녀가 당사에 개인 정보를 제공 한 것을 알고있는 경우 당사가 필요한 조치를 취할 수 있도록 당사에 "
+"연락하십시오."
+
+#: templates/privacypolicy.html:75
+msgid "Google Double-Click DART Cookie"
+msgstr "Google Double-Click DART 쿠키"
+
+#: templates/privacypolicy.html:76
+msgid ""
+"Google is one of a third-party vendor on our site. It also uses cookies, "
+"known as DART cookies, to serve ads to our site visitors based upon their "
+"visit to www.website.com and other sites on the internet. However, visitors "
+"may choose to decline the use of DART cookies by visiting the Google ad and "
+"content network Privacy Policy at the following URL – "
+msgstr ""
+"Google은 당사 사이트의 타사 공급 업체 중 하나입니다. 또한 DART 쿠키로 알려진 쿠키를 사용하여 www.website.com 및"
+" 기타 인터넷 사이트 방문을 기반으로 당사 사이트 방문자에게 광고를 제공합니다. 그러나 방문자는 다음 URL의 Google 광고 및 "
+"콘텐츠 네트워크 개인 정보 보호 정책을 방문하여 DART 쿠키 사용을 거부 할 수 있습니다."
+
+#: templates/privacypolicy.html:78
+msgid "Our Advertising Partners"
+msgstr "우리의 광고 파트너"
+
+#: templates/privacypolicy.html:79
+msgid ""
+"Our Advertising Partners Some of advertisers on our site may use cookies and"
+" web beacons. Our advertising partners are listed below. Each of our "
+"advertising partners has their own Privacy Policy for their policies on user"
+" data. For easier access, we hyperlinked to their Privacy Policies below."
+msgstr ""
+"당사의 광고 파트너 당사 사이트의 일부 광고주는 쿠키 및 웹 비콘을 사용할 수 있습니다. 당사의 광고 파트너는 다음과 같습니다. 각 광고"
+" 파트너는 사용자 데이터에 대한 정책에 대한 자체 개인 정보 보호 정책을 가지고 있습니다. 더 쉽게 액세스 할 수 있도록 아래의 개인 "
+"정보 보호 정책에 하이퍼 링크를 연결했습니다."
+
+#: templates/privacypolicy.html:82
+msgid "Changes to This Privacy Policy"
+msgstr "이 개인 정보 보호 정책의 변경"
+
+#: templates/privacypolicy.html:83
+msgid ""
+"We may update our Privacy Policy from time to time. Thus, you are advised to"
+" review this page periodically for any changes. We will notify you of any "
+"changes by posting the new Privacy Policy on this page."
+msgstr ""
+"당사는 수시로 개인 정보 보호 정책을 업데이트 할 수 있습니다. 따라서 변경 사항이 있는지이 페이지를 주기적으로 검토하는 것이 좋습니다."
+" 이 페이지에 새로운 개인 정보 보호 정책을 게시하여 변경 사항을 알려드립니다."
+
+#: templates/privacypolicy.html:85
+msgid "Advertising Partners Privacy Policies"
+msgstr "광고 파트너 개인 정보 보호 정책"
+
+#: templates/privacypolicy.html:86
+msgid ""
+"You may consult this list to find the Privacy Policy for each of the "
+"advertising partners of qload.info. Third-party ad servers or ad networks "
+"uses technologies like cookies, JavaScript, or Web Beacons that are used in "
+"their respective advertisements and links that appear on qload.info, which "
+"are sent directly to users' browser. They automatically receive your IP "
+"address when this occurs. These technologies are used to measure the "
+"effectiveness of their advertising campaigns and/or to personalize the "
+"advertising content that you see on websites that you visit. Note that "
+"qload.info has no access to or control over these cookies that are used by "
+"third-party advertisers."
+msgstr ""
+"이 목록을 참조하여 qload.info의 각 광고 파트너에 대한 개인 정보 보호 정책을 찾을 수 있습니다. 제 3 자 광고 서버 또는 "
+"광고 네트워크는 사용자의 브라우저로 직접 전송되는 qload.info에 표시되는 해당 광고 및 링크에 사용되는 쿠키, JavaScript"
+" 또는 웹 비콘과 같은 기술을 사용합니다. 이 경우 자동으로 IP 주소를받습니다. 이러한 기술은 광고 캠페인의 효과를 측정하거나 방문하는"
+" 웹 사이트에서 보는 광고 콘텐츠를 개인화하는 데 사용됩니다. qload.info는 타사 광고주가 사용하는 이러한 쿠키에 액세스하거나이를"
+" 제어 할 수 없습니다."
+
+#: templates/privacypolicy.html:88
+msgid "Third Party Privacy Policies"
+msgstr "제 3 자 개인 정보 보호 정책"
+
+#: templates/privacypolicy.html:89
+msgid ""
+"qload.info's Privacy Policy does not apply to other advertisers or websites."
+" Thus, we are advising you to consult the respective Privacy Policies of "
+"these third-party ad servers for more detailed information. It may include "
+"their practices and instructions about how to opt-out of certain options. "
+"You may find a complete list of these Privacy Policies and their links here:"
+" Privacy Policy Links. You can choose to disable cookies through your "
+"individual browser options. To know more detailed information about cookie "
+"management with specific web browsers, it can be found at the browsers' "
+"respective websites. What Are Cookies?"
+msgstr ""
+"qload.info의 개인 정보 보호 정책은 다른 광고 주나 웹 사이트에는 적용되지 않습니다. 따라서 더 자세한 정보는 이러한 제 3 자"
+" 광고 서버의 각 개인 정보 보호 정책을 참조하시기 바랍니다. 특정 옵션을 거부하는 방법에 대한 관행 및 지침이 포함될 수 있습니다. "
+"이러한 개인 정보 보호 정책 및 해당 링크의 전체 목록은 여기에서 찾을 수 있습니다. 개인 정보 보호 정책 링크. 개별 브라우저 옵션을 "
+"통해 쿠키를 비활성화하도록 선택할 수 있습니다. 특정 웹 브라우저의 쿠키 관리에 대한 자세한 정보는 브라우저의 각 웹 사이트에서 찾을 수"
+" 있습니다. 쿠키 란?"
+
+#: templates/privacypolicy.html:90
+msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+msgstr "CCPA 프라이버시 권리 (내 개인 정보를 판매하지 마십시오)"
+
+#: templates/privacypolicy.html:91
+msgid ""
+"Under the CCPA, among other rights, California consumers have the right to:"
+msgstr "CCPA에 따라 캘리포니아 소비자는 다음과 같은 권리가 있습니다."
+
+#: templates/privacypolicy.html:92
+msgid ""
+"Request that a business that collects a consumer's personal data disclose "
+"the categories and specific pieces of personal data that a business has "
+"collected about consumers."
+msgstr "소비자의 개인 데이터를 수집하는 기업이 소비자에 대해 수집 한 개인 데이터의 범주 및 특정 부분을 공개하도록 요청하십시오."
+
+#: templates/privacypolicy.html:93
+msgid ""
+"Request that a business delete any personal data about the consumer that a "
+"business has collected."
+msgstr "기업이 수집 한 소비자에 대한 모든 개인 데이터를 삭제하도록 요청하십시오."
+
+#: templates/privacypolicy.html:95
+msgid ""
+"Request that a business that sells a consumer's personal data, not sell the "
+"consumer's personal data."
+msgstr "소비자의 개인 데이터를 판매하는 것이 아니라 소비자의 개인 데이터를 판매하는 기업에 요청하십시오."
+
+#: templates/privacypolicy.html:96
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us"
+msgstr "요청하시면 1 개월 이내에 답변 해드립니다. 이러한 권리를 행사하려면 당사에 문의하십시오."
+
+#: templates/privacypolicy.html:97
+msgid "GDPR Data Protection Rights"
+msgstr "GDPR 데이터 보호 권리"
+
+#: templates/privacypolicy.html:98
+msgid ""
+"We would like to make sure you are fully aware of all of your data "
+"protection rights. Every user is entitled to the following:"
+msgstr ""
+"우리는 귀하가 귀하의 모든 데이터 보호 권리를 완전히 알고 있는지 확인하고자합니다. 모든 사용자는 다음과 같은 권한이 있습니다."
+
+#: templates/privacypolicy.html:99
+msgid ""
+"The right to access – You have the right to request copies of your personal "
+"data. We may charge you a small fee for this service."
+msgstr ""
+"액세스 권한 – 귀하는 귀하의 개인 데이터 사본을 요청할 권리가 있습니다. 이 서비스에 대해 소액의 수수료를 부과 할 수 있습니다."
+
+#: templates/privacypolicy.html:100
+msgid ""
+"The right to rectification – You have the right to request that we correct "
+"any information you believe is inaccurate. You also have the right to "
+"request that we complete the information you believe is incomplete."
+msgstr ""
+"수정할 권리 – 귀하는 정확하지 않다고 생각하는 정보를 수정하도록 요청할 권리가 있습니다. 또한 귀하는 불완전하다고 생각되는 정보를 "
+"작성하도록 요청할 권리가 있습니다."
+
+#: templates/privacypolicy.html:101
+msgid ""
+"he right to erasure – You have the right to request that we erase your "
+"personal data, under certain conditions. The right to restrict processing – "
+"You have the right to request that we restrict the processing of your "
+"personal data, under certain conditions."
+msgstr ""
+"삭제할 권리 – 귀하는 특정 조건에서 귀하의 개인 데이터를 삭제하도록 요청할 권리가 있습니다. 처리를 제한 할 권리 – 귀하는 특정 조건"
+" 하에서 귀하의 개인 데이터 처리를 제한하도록 요청할 권리가 있습니다."
+
+#: templates/privacypolicy.html:102
+msgid ""
+"The right to object to processing – You have the right to object to our "
+"processing of your personal data, under certain conditions."
+msgstr "처리에 반대 할 권리 – 귀하는 특정 조건 하에서 당사의 개인 데이터 처리에 반대 할 권리가 있습니다."
+
+#: templates/privacypolicy.html:103
+msgid ""
+"The right to data portability – You have the right to request that we "
+"transfer the data that we have collected to another organization, or "
+"directly to you, under certain conditions."
+msgstr ""
+"데이터 이동성에 대한 권리 – 귀하는 당사가 수집 한 데이터를 특정 조건 하에서 다른 조직 또는 귀하에게 직접 전송하도록 요청할 권리가 "
+"있습니다."
+
+#: templates/privacypolicy.html:104
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us."
+msgstr "요청하시면 1 개월 이내에 답변 해드립니다. 이러한 권리를 행사하려면 당사에 문의하십시오."
+
+#: templates/tandc.html:3
+msgid "Terms of Services - Tiksss.com"
+msgstr "서비스 약관-Tiksss.com"
+
+#: templates/tandc.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Terms and Services. If you have any question regarding this than kindly let "
+"us know. Thanks."
+msgstr ""
+"이 페이지에는 Tiksss.com 웹 사이트 약관 및 서비스에 대한 유용한 정보가 추가되었습니다. 이와 관련하여 질문이 있으면 친절하게 "
+"알려주십시오. 감사."
+
+#: templates/tandc.html:11
+msgid "Welcome to"
+msgstr "에 오신 것을 환영합니다"
+
+#: templates/tandc.html:12
+msgid ""
+"These terms and conditions outline the rules and regulations for the use of "
+"Tiksss.com Website, located at"
+msgstr "이 이용 약관은 Tiksss.com 웹 사이트 사용에 대한 규칙 및 규정을 설명합니다."
+
+#: templates/tandc.html:13
+msgid ""
+"By accessing this website we assume you accept these terms and conditions. "
+"Do not continue to use Tiksss.com if you do not agree to take all of the "
+"terms and conditions stated on this page."
+msgstr ""
+"이 웹 사이트에 액세스하면 귀하가 이러한 이용 약관에 동의하는 것으로 간주합니다. 이 페이지에 명시된 모든 이용 약관에 동의하지 않으면 "
+"Tiksss.com을 계속 사용하지 마십시오."
+
+#: templates/tandc.html:14
+msgid ""
+"The following terminology applies to these Terms and Conditions, Privacy "
+"Statement and Discla Notice and all Agreements: \"Client\", \"You\" and "
+"\"Your\" refers to you, the person log on this website compliant to the "
+"Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", "
+"\"Our\" and \"Us\", refers to Company. \"Party\", \"Parties\", or \"Us\", "
+"refers to both the Client and ourselves. All terms refer to the of "
+"acceptance and consideration of payment necessary to undertake the process "
+"of our assistance to the Clien the most appropriate manner for the express "
+"purpose of meeting the Client’s needs in respect of provision of Company’s "
+"stated services, in accordance with and subject to, prevailing law of "
+"Netherlands. Any use of above terminology or other words in the singular, "
+"plural, capitalization and/or he/she or they, are take interchangeable and "
+"therefore as referring to same."
+msgstr ""
+"다음 용어는 본 이용 약관, 개인 정보 보호 정책 및 Discla 고지 및 모든 계약에 적용됩니다. &quot;고객&quot;, "
+"&quot;귀하&quot;및 &quot;귀하의&quot;는 회사의 이용 약관을 준수하는이 웹 사이트에 로그인 한 사람을 말합니다. "
+"&quot;회사&quot;, &quot;우리 자신&quot;, &quot;우리&quot;, &quot;우리&quot;및 "
+"&quot;우리&quot;는 회사를 의미합니다. &quot;당사자&quot;, &quot;당사자&quot;또는 "
+"&quot;당사자&quot;는 고객과 우리 자신을 모두 의미합니다. 모든 조건은 회사의 명시된 서비스 제공과 관련하여 고객의 요구를 "
+"충족시키기 위해 가장 적절한 방식으로 Clien에 대한 지원 프로세스를 수행하는 데 필요한 지불 수락 및 고려를 말합니다. , 네덜란드의"
+" 현행법. 단수, 복수, 대문자 및 / 또는 그 / 그녀 또는 이들에서 위의 용어 또는 다른 단어의 사용은 서로 바꿔서 사용할 수 "
+"있으므로 동일한 의미로 사용됩니다."
+
+#: templates/tandc.html:16
+msgid ""
+"We employ the use of cookies. By accessing Tiksss.com, you agreed to use "
+"cookies in agreement  the Tiksss.com Privacy Policy"
+msgstr ""
+"우리는 쿠키를 사용합니다. Tiksss.com에 접속함으로써 귀하는 Tiksss.com 개인 정보 보호 정책에 동의하여 쿠키를 사용하는 "
+"데 동의했습니다."
+
+#: templates/tandc.html:17
+msgid ""
+"Most interactive websites use cookies to let us retrieve the user’s details "
+"for each visit. Coo are used by our website to enable the functionality of "
+"certain areas to make it easier for people visiting website. Some of our "
+"affiliate/advertising partners may also use cookies"
+msgstr ""
+"대부분의 대화 형 웹 사이트는 쿠키를 사용하여 각 방문에 대한 사용자의 세부 정보를 검색합니다. Coo는 웹 사이트를 방문하는 사람들이 "
+"더 쉽게 특정 영역의 기능을 사용할 수 있도록 웹 사이트에서 사용됩니다. 일부 제휴사 / 광고 파트너도 쿠키를 사용할 수 있습니다."
+
+#: templates/tandc.html:18
+msgid "License"
+msgstr "특허"
+
+#: templates/tandc.html:19
+msgid ""
+"Unless otherwise stated, Tiksss.com and/or its licensors own the "
+"intellectual property rights all material on Tiksss.com. All intellectual "
+"property rights are reserved. You may access this from Tiksss for your own "
+"personal use subjected to restrictions set in these terms and conditions"
+msgstr ""
+"달리 명시되지 않는 한, Tiksss.com 및 / 또는 라이선스 제공자는 Tiksss.com에있는 모든 자료의 지적 재산권을 "
+"소유합니다. 모든 지적 재산권은 보호됩니다. 본 이용 약관에 설정된 제한에 따라 개인적 용도로 Tiksss에서 액세스 할 수 있습니다."
+
+#: templates/tandc.html:20
+msgid "You must not"
+msgstr "당신은하지 않아야"
+
+#: templates/tandc.html:23
+msgid "Republish material from Tiksss.com"
+msgstr "Tiksss.com에서 자료 다시 게시"
+
+#: templates/tandc.html:26
+msgid "Sell, rent or sub-license material from Tiksss.com"
+msgstr "Tiksss.com에서 자료 판매, 대여 또는 하위 라이선스"
+
+#: templates/tandc.html:29
+msgid "Reproduce, duplicate or copy material from Tiksss.com"
+msgstr "Tiksss.com에서 자료 복제, 복제 또는 복사"
+
+#: templates/tandc.html:32
+msgid "Redistribute content from Tiksss.com"
+msgstr "Tiksss.com에서 콘텐츠 재배포"
+
+#: templates/tandc.html:35
+msgid "This Agreement shall begin on the date hereof."
+msgstr "본 계약은 본 계약 날짜에 시작됩니다."
+
+#: templates/tandc.html:36
+msgid ""
+"Parts of this website offer an opportunity for users to post and exchange "
+"opinions and informa in certain areas of the website. Tiksss.com does not "
+"filter, edit, publish or review Comments prior to t presence on the website."
+" Comments do not reflect the views and opinions of Tiksss.com, its agents an"
+" affiliates. Comments reflect the views and opinions of the person who post "
+"their views and opinions. To extent permitted by applicable laws, Tiksss.com"
+" shall not be liable for the Comments or for any liabil damages or expenses "
+"caused and/or suffered as a result of any use of and/or posting of and/or "
+"appearance of Comments on this website."
+msgstr ""
+"이 웹 사이트의 일부는 사용자가 웹 사이트의 특정 영역에서 의견과 정보를 게시하고 교환 할 수있는 기회를 제공합니다. "
+"Tiksss.com은 웹 사이트에 존재하기 전에 댓글을 필터링, 편집, 게시 또는 검토하지 않습니다. 의견은 Tiksss.com, 그 "
+"대리인 및 계열사의 견해와 의견을 반영하지 않습니다. 댓글은 자신의 견해와 의견을 게시 한 사람의 견해와 의견을 반영합니다. 관련 법률이"
+" 허용하는 범위 내에서 Tiksss.com은이 웹 사이트에 댓글의 사용 및 / 또는 게시 및 / 또는 표시로 인해 발생 및 / 또는 "
+"발생한 모든 책임 손해 또는 비용에 대해 책임을지지 않습니다. ."
+
+#: templates/tandc.html:37
+msgid ""
+"Tiksss.com reserves the right to monitor all Comments and to remove any "
+"Comments which ca considered inappropriate, offensive or causes breach of "
+"these Terms and Conditions."
+msgstr ""
+"Tiksss.com은 모든 댓글을 모니터링하고 부적절하거나 공격적이거나 본 약관을 위반하는 댓글을 제거 할 권리를 보유합니다."
+
+#: templates/tandc.html:38
+msgid "You warrant and represent that:"
+msgstr "귀하는 다음을 보증하고 진술합니다."
+
+#: templates/tandc.html:41
+msgid ""
+"You are entitled to post the Comments on our website and have all necessary "
+"licenses and consents to do so;"
+msgstr "귀하는 당사 웹 사이트에 의견을 게시 할 수 있으며 필요한 모든 라이선스와 이에 동의 할 수 있습니다."
+
+#: templates/tandc.html:44
+msgid ""
+"The Comments do not invade any intellectual property right, including "
+"without limitation copyright, patent or trademark of any third party;"
+msgstr "댓글은 제 3 자의 저작권, 특허 또는 상표를 포함하되 이에 국한되지 않는 지적 재산권을 침해하지 않습니다."
+
+#: templates/tandc.html:47
+msgid ""
+"The Comments do not contain any defamatory, libelous, offensive, indecent or"
+" otherwise unlawful material which is an invasion of privacy"
+msgstr ""
+"댓글에는 명예를 훼손하거나 비방하거나 모욕적이거나 외설적이거나 기타 사생활을 침해하는 불법적 인 자료가 포함되어 있지 않습니다."
+
+#: templates/tandc.html:50
+msgid ""
+"The Comments will not be used to solicit or promote business or custom or "
+"present commercial activities or unlawful activity."
+msgstr ""
+"댓글은 비즈니스 또는 관습을 권유하거나 홍보하는 데 사용되지 않으며 상업적 활동이나 불법적 인 활동을 제시하는 데 사용되지 않습니다."
+
+#: templates/tandc.html:53
+msgid ""
+"You hereby grant Tiksss.com a non-exclusive license to use, reproduce, edit "
+"and authorize others to use, reproduce and edit any of your Comments in any "
+"and all forms, formats or media."
+msgstr ""
+"귀하는 Tiksss.com에 모든 형식, 형식 또는 미디어로 귀하의 의견을 사용, 복제, 편집 및 다른 사람이 사용, 복제 및 편집 할 "
+"수있는 권한을 부여하는 비 독점적 라이선스를 부여합니다."
+
+#: templates/tandc.html:54
+msgid "Hyper linking to our Content"
+msgstr "컨텐츠에 대한 하이퍼 링크"
+
+#: templates/tandc.html:55
+msgid ""
+"The following organizations may link to our Website without prior written "
+"approval"
+msgstr "다음 기관은 사전 서면 승인없이 당사 웹 사이트에 연결할 수 있습니다."
+
+#: templates/tandc.html:58
+msgid "Government agencies"
+msgstr "정부 기관"
+
+#: templates/tandc.html:61
+msgid "Search engines"
+msgstr "검색 엔진"
+
+#: templates/tandc.html:64
+msgid "News organizations"
+msgstr "뉴스 조직"
+
+#: templates/tandc.html:67
+msgid ""
+"Online directory distributors may link to our Website in the same manner as "
+"they hyperlink to the Websites of other listed businesses; and"
+msgstr ""
+"온라인 디렉토리 배포자는 다른 상장 된 비즈니스의 웹 사이트에 하이퍼 링크를 연결하는 것과 동일한 방식으로 당사 웹 사이트에 연결할 수 "
+"있습니다. 과"
+
+#: templates/tandc.html:70
+msgid ""
+"System wide Accredited Businesses except soliciting non-profit "
+"organizations, charity shopping malls, and charity fundraising groups which "
+"may not hyperlink to our Web site."
+msgstr ""
+"비영리 단체, 자선 쇼핑몰 및 자선 기금 모금 그룹을 요청하는 경우를 제외하고 당사 웹 사이트에 하이퍼 링크를 연결하지 않을 수있는 "
+"시스템 전체의 인증 된 비즈니스."
+
+#: templates/tandc.html:73
+msgid ""
+"These organizations may link to our home page, to publications or to other "
+"Website information so long as the link: (a) is not in any way deceptive; "
+"(b) does not falsely imply sponsorship, endorsement or approval of the "
+"linking party and its products and/or services; and (c) fits within the "
+"context of the linking party’s site."
+msgstr ""
+"이러한 조직은 링크가 다음과 같은 경우에 한해 당사 홈페이지, 출판물 또는 기타 웹 사이트 정보에 링크 할 수 있습니다. (a) 어떤 식"
+" 으로든 기만적이지 않습니다. (b) 연결 당사자와 그 제품 및 / 또는 서비스에 대한 후원, 보증 또는 승인을 허위로 암시하지 "
+"않습니다. (c) 링크 당사자 사이트의 맥락에 부합합니다."
+
+#: templates/tandc.html:74
+msgid ""
+"We may consider and approve other link requests from the following types of "
+"organizations"
+msgstr "당사는 다음 유형의 조직에서 다른 링크 요청을 고려하고 승인 할 수 있습니다."
+
+#: templates/tandc.html:77
+msgid "commonly-known consumer and/or business information sources"
+msgstr "일반적으로 알려진 소비자 및 / 또는 비즈니스 정보 소스"
+
+#: templates/tandc.html:80
+msgid "dot.com community sites"
+msgstr "dot.com 커뮤니티 사이트"
+
+#: templates/tandc.html:83
+msgid "associations or other groups representing charities"
+msgstr "자선 단체를 대표하는 협회 또는 기타 그룹"
+
+#: templates/tandc.html:86
+msgid "online directory distributors"
+msgstr "온라인 디렉토리 배포자"
+
+#: templates/tandc.html:89
+msgid "internet portals"
+msgstr "인터넷 포털"
+
+#: templates/tandc.html:92
+msgid "accounting, law and consulting firms; and"
+msgstr "회계, 법률 및 컨설팅 회사; 과"
+
+#: templates/tandc.html:95
+msgid "Educational institutions and trade associations."
+msgstr "교육 기관 및 무역 협회."
+
+#: templates/tandc.html:98
+msgid ""
+"We will approve link requests from these organizations if we decide that: "
+"(a) the link would not make us look unfavorably to ourselves or to our "
+"accredited businesses; (b) the organization does not have any negative "
+"records with us; (c) the benefit to us from the visibility of the hyperlink "
+"compensates the absence of Tiksss.com; and (d) the link is in the context of"
+" general resource information."
+msgstr ""
+"당사는 다음과 같은 결정을 내릴 경우 이러한 조직의 링크 요청을 승인 할 것입니다. (a) 링크로 인해 우리 자신이나 공인 된 비즈니스에"
+" 불리하게 보이지 않을 것입니다. (b) 조직이 우리에게 부정적인 기록을 가지고 있지 않습니다. (c) 하이퍼 링크의 가시성으로 인한 "
+"혜택은 Tiksss.com의 부재를 보상합니다. (d) 링크가 일반 자원 정보의 맥락에 있습니다."
+
+#: templates/tandc.html:99
+msgid ""
+"These organizations may link to our home page so long as the link: (a) is "
+"not in any way deceptive; (b) does not falsely imply sponsorship, "
+"endorsement or approval of the linking party and its products or services; "
+"and (c) fits within the context of the linking party’s site."
+msgstr ""
+"이러한 조직은 링크가 다음과 같은 한 당사 홈페이지에 링크 할 수 있습니다. (a) 어떤 식 으로든 기만적이지 않습니다. (b) 연결 "
+"당사자 및 해당 제품 또는 서비스의 후원, 보증 또는 승인을 허위로 암시하지 않습니다. (c) 링크 당사자 사이트의 맥락에 부합합니다."
+
+#: templates/tandc.html:100
+msgid ""
+"If you are one of the organizations listed in paragraph 2 above and are "
+"interested in linking to our website, you must inform us by sending an "
+"e-mail to Tiksss.com. Please include your name, your organization name, "
+"contact information as well as the URL of your site, a list of any URLs from"
+" which you intend to link to our Website, and a list of the URLs on our site"
+" to which you would like to link. Wait 2-3 weeks for a response."
+msgstr ""
+"귀하가 위의 2 항에 나열된 조직 중 하나이고 당사 웹 사이트에 연결하는 데 관심이있는 경우 Tiksss.com으로 이메일을 보내 당사에"
+" 알려야합니다. 귀하의 이름, 귀하의 조직 이름, 연락처 정보, 귀하의 사이트 URL, 당사 웹 사이트로 연결하려는 URL 목록 및 "
+"귀하가 원하는 당사 사이트의 URL 목록을 포함하십시오. 링크. 답변을 받으려면 2-3 주를 기다리십시오."
+
+#: templates/tandc.html:102
+msgid "Approved organizations may hyperlink to our Website as follows:"
+msgstr "승인 된 조직은 다음과 같이 당사 웹 사이트에 하이퍼 링크를 연결할 수 있습니다."
+
+#: templates/tandc.html:105
+msgid "By use of our corporate name; or"
+msgstr "회사 이름을 사용하여 또는"
+
+#: templates/tandc.html:108
+msgid "By use of the uniform resource locator being linked to; or"
+msgstr "링크되는 단일 자원 위치 지정자를 사용하여; 또는"
+
+#: templates/tandc.html:111
+msgid ""
+"By use of any other description of our Website being linked to that makes "
+"sense within the context and format of content on the linking party’s site."
+msgstr ""
+"링크 된 당사 웹 사이트의 다른 설명을 사용하여 링크하는 당사자의 사이트에있는 콘텐츠의 컨텍스트 및 형식 내에서 의미가 있습니다."
+
+#: templates/tandc.html:114
+msgid ""
+"No use of Tiksss.com logo or other artwork will be allowed for linking "
+"absent a trademark license agreement."
+msgstr "상표 사용권 계약이 없으면 Tiksss.com 로고 또는 기타 아트 워크를 링크하는 데 사용할 수 없습니다."
+
+#: templates/tandc.html:115
+msgid "iFrames"
+msgstr "iFrame"
+
+#: templates/tandc.html:116
+msgid ""
+"Without prior approval and written permission, you may not create frames "
+"around our Webpages that alter in any way the visual presentation or "
+"appearance of our Website"
+msgstr "사전 승인 및 서면 승인 없이는 웹 사이트의 시각적 표시 또는 모양을 변경하는 프레임을 웹 페이지 주위에 만들 수 없습니다."
+
+#: templates/tandc.html:117
+msgid "Content Liability"
+msgstr "콘텐츠 책임"
+
+#: templates/tandc.html:118
+msgid ""
+"We shall not be hold responsible for any content that appears on your "
+"Website. You agree to protect and defend us against all claims that is "
+"rising on your Website. No link(s) should appear on any Website that may be "
+"interpreted as libelous, obscene or criminal, or which infringes, otherwise "
+"violates, or advocates the infringement or other violation of, any third "
+"party rights"
+msgstr ""
+"당사는 귀하의 웹 사이트에 표시되는 콘텐츠에 대해 책임을지지 않습니다. 귀하는 귀하의 웹 사이트에서 발생하는 모든 청구로부터 당사를 "
+"보호하고 방어하는 데 동의합니다. 비방, 외설 또는 범죄로 해석 될 수 있거나 제 3 자의 권리를 침해하거나 침해하거나 옹호하는 링크는 "
+"웹 사이트에 표시되어서는 안됩니다."
+
+#: templates/tandc.html:119
+msgid "Your Privacy"
+msgstr "귀하의 개인 정보"
+
+#: templates/tandc.html:120
+msgid "Please read Privacy Policy"
+msgstr "개인 정보 보호 정책을 읽으십시오"
+
+#: templates/tandc.html:121
+msgid "Reservation of Rights"
+msgstr "권리 유보"
+
+#: templates/tandc.html:122
+msgid ""
+"We reserve the right to request that you remove all links or any particular "
+"link to our Website. You approve to immediately remove all links to our "
+"Website upon request. We also reserve the right to amen these terms and "
+"conditions and it’s linking policy at any time. By continuously linking to "
+"our Website, you agree to be bound to and follow these linking terms and "
+"conditions"
+msgstr ""
+"당사는 귀하가 당사 웹 사이트에 대한 모든 링크 또는 특정 링크를 제거하도록 요청할 권리가 있습니다. 귀하는 요청시 당사 웹 사이트에 "
+"대한 모든 링크를 즉시 제거 할 것을 승인합니다. 우리는 또한 이러한 이용 약관을 준수 할 권리를 보유하며 언제든지 연결 정책입니다. "
+"당사 웹 사이트에 지속적으로 연결함으로써 귀하는 이러한 연결 이용 약관을 준수하고 준수 할 것에 동의합니다."
+
+#: templates/tandc.html:123
+msgid "Removal of links from our website"
+msgstr "당사 웹 사이트에서 링크 제거"
+
+#: templates/tandc.html:124
+msgid ""
+"If you find any link on our Website that is offensive for any reason, you "
+"are free to contact and inform us any moment. We will consider requests to "
+"remove links but we are not obligated to or so or to respond to you directly"
+msgstr ""
+"어떤 이유로 든 당사 웹 사이트에서 불쾌감을주는 링크를 발견하면 언제든지 당사에 연락하여 알릴 수 있습니다. 우리는 링크 제거 요청을 "
+"고려할 것입니다. 그러나 우리는 귀하에게 직접 응답 할 의무가 없습니다."
+
+#: templates/tandc.html:125
+msgid ""
+"We do not ensure that the information on this website is correct, we do not "
+"warrant its completeness or accuracy; nor do we promise to ensure that the "
+"website remains available or that the material on the website is kept up to "
+"date"
+msgstr ""
+"우리는이 웹 사이트의 정보가 정확함을 보장하지 않으며 그 완전성 또는 정확성을 보증하지 않습니다. 또한 웹 사이트를 계속 사용할 수 "
+"있거나 웹 사이트의 자료가 최신 상태로 유지된다는 것을 약속하지 않습니다."
+
+#: templates/tandc.html:126
+msgid "Disclaimer"
+msgstr "부인 성명"
+
+#: templates/tandc.html:127
+msgid ""
+"To the maximum extent permitted by applicable law, we exclude all "
+"representations, warranties and conditions relating to our website and the "
+"use of this website. Nothing in this disclaimer will"
+msgstr ""
+"관련 법률에서 허용하는 최대 범위까지 당사는 당사 웹 사이트 및이 웹 사이트 사용과 관련된 모든 진술, 보증 및 조건을 배제합니다. 이 "
+"면책 조항의 어떤 것도"
+
+#: templates/tandc.html:130
+msgid "limit or exclude our or your liability for death or personal injury;"
+msgstr "사망 또는 부상에 대한 당사 또는 귀하의 책임을 제한하거나 배제합니다."
+
+#: templates/tandc.html:133
+msgid ""
+"limit or exclude our or your liability for fraud or fraudulent "
+"misrepresentation;"
+msgstr "사기 또는 허위 진술에 대한 당사 또는 귀하의 책임을 제한하거나 배제합니다."
+
+#: templates/tandc.html:136
+msgid ""
+"limit any of our or your liabilities in any way that is not permitted under "
+"applicable law; or"
+msgstr "관련 법률에서 허용하지 않는 방식으로 당사 또는 귀하의 책임을 제한합니다. 또는"
+
+#: templates/tandc.html:139
+msgid ""
+"exclude any of our or your liabilities that may not be excluded under "
+"applicable law."
+msgstr "관련 법률에 따라 배제 될 수없는 당사 또는 귀하의 책임을 배제합니다."
+
+#: templates/tandc.html:142
+msgid ""
+"The limitations and prohibitions of liability set in this Section and "
+"elsewhere in this disclaimer: (a) are subject to the preceding paragraph; "
+"and (b) govern all liabilities arising under the disclaimer, including "
+"liabilities arising in contract, in tort and for breach of statutory duty."
+msgstr ""
+"이 섹션 및이 면책 조항의 다른 부분에 설정된 책임의 제한 및 금지는 다음과 같습니다. (a) 이전 단락의 적용을받습니다. (b) 계약,"
+" 불법 행위 및 법정 의무 위반으로 인해 발생하는 책임을 포함하여 면책 조항에 따라 발생하는 모든 책임을 관리합니다."
+
+#: templates/tandc.html:143
+msgid ""
+"As long as the website and the information and services on the website are "
+"provided free of charge, we will not be liable for any loss or damage of any"
+" nature."
+msgstr ""
+"웹 사이트와 웹 사이트의 정보 및 서비스가 무료로 제공되는 한 당사는 어떠한 성격의 손실이나 손해에 대해서도 책임을지지 않습니다."
+
+#: templates/without.html:13
+msgid "Video Without Watermark"
+msgstr "워터 마크가없는 비디오"
+
+#: templates/without.html:29
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "워터 마크가없는 온라인 무료 TikTok 비디오 다운로드 :"
+
+#: templates/without.html:30
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"워터 마크 또는 워터 마크없이 TikTok 비디오를 다운로드하십시오. 이 방법은 원본 품질로 워터 마크없이 비디오를 다운로드하는 데 매우"
+" 독특합니다. 우리는이 도구를 매우 쉽게 만들었으며 Windows, Mac OS, Ipad, Android 장치에서 원활하게 작동합니다."
+" 특히 PC 사용자의 경우 추가 소프트웨어 나 앱을 설치할 필요가 없으며 이것은이 TikTok 워터 마크가없는 비디오 다운로드 도구의 "
+"유일한 특징입니다. 이동"
+
+#: templates/without.html:30
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"드롭 다운 메뉴를 클릭하고 &quot;워터 마크 없음&quot;을 선택합니다. 다음 페이지에서 링크를 붙여넣고“다운로드 버튼”을 "
+"클릭하십시오. 비디오 다운로드를 시작하려면 몇 초 정도 기다리십시오. 또한 &quot;워터 마크로 TikTok 비디오 "
+"다운로드&quot;를 할 수 있으며 이번에는 웹 사이트 홈 페이지를 방문하여 10 초 이내에 좋아하는 비디오를 다운로드 할 수 있습니다."
+
+#: templates/without.html:34
+msgid "Frequently Asked Questions "
+msgstr "자주 묻는 질문"
+
+#: tiktok/settings.py:138
+msgid "English"
+msgstr "영어"
+
+#: tiktok/settings.py:139
+msgid "Italian"
+msgstr "이탈리아 사람"
+
+#: tiktok/settings.py:140
+msgid "Polish"
+msgstr "광택"
+
+#: tiktok/settings.py:141
+msgid "French"
+msgstr "프랑스 국민"
+
+#: tiktok/settings.py:142
+msgid "German"
+msgstr "독일 사람"
+
+#: tiktok/settings.py:143
+msgid "Spanish"
+msgstr "스페인의"
+
+#: tiktok/settings.py:144
+msgid "Indonesian"
+msgstr "인도네시아 인"
+
+#: tiktok/settings.py:145
+msgid "Japanese"
+msgstr "일본어"
+
+#: tiktok/settings.py:146
+msgid "Korean"
+msgstr "한국어"
+
+#: tiktok/settings.py:147
+msgid "Portuguese"
+msgstr "포르투갈 인"
+
+#: tiktok/settings.py:148
+msgid "Russian"
+msgstr "러시아인"
+
+#: tiktok/settings.py:149
+msgid "Arabic"
+msgstr "아라비아 말"
+
+#: tiktok/settings.py:150
+msgid "Turkish"
+msgstr "터키어"
+
+#: tiktok/settings.py:151
+msgid "Thai"
+msgstr "태국어"
+
+#: tiktok/settings.py:152
+msgid "Vietnamese"
+msgstr "베트남어"
+
+#: venv/lib/python3.8/site-packages/django/contrib/messages/apps.py:7
+msgid "Messages"
+msgstr "메시지"
+
+#: venv/lib/python3.8/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "사이트 맵"
+
+#: venv/lib/python3.8/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "정적 파일"
+
+#: venv/lib/python3.8/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "신디케이트 조직"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:51
+msgid "That page number is not an integer"
+msgstr "해당 페이지 번호는 정수가 아닙니다."
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:53
+msgid "That page number is less than 1"
+msgstr "페이지 번호가 1보다 작습니다."
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:58
+msgid "That page contains no results"
+msgstr "해당 페이지에는 결과가 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr "유효한 값을 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:93
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:664
+msgid "Enter a valid URL."
+msgstr "유효한 URL을 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:150
+msgid "Enter a valid integer."
+msgstr "유효한 정수를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:161
+msgid "Enter a valid email address."
+msgstr "유효한 이메일 주소를 입력하십시오."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.8/site-packages/django/core/validators.py:262
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr "문자, 숫자, 밑줄 또는 하이픈으로 구성된 유효한 &quot;슬러그&quot;를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:269
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr "유니 코드 문자, 숫자, 밑줄 또는 하이픈으로 구성된 유효한 &quot;슬러그&quot;를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:278
+#: venv/lib/python3.8/site-packages/django/core/validators.py:288
+#: venv/lib/python3.8/site-packages/django/core/validators.py:311
+msgid "Enter a valid IPv4 address."
+msgstr "유효한 IPv4 주소를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:296
+#: venv/lib/python3.8/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv6 address."
+msgstr "유효한 IPv6 주소를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:306
+#: venv/lib/python3.8/site-packages/django/core/validators.py:310
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "유효한 IPv4 또는 IPv6 주소를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:340
+msgid "Enter only digits separated by commas."
+msgstr "쉼표로 구분 된 숫자 만 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:346
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "이 값이 __limit_value __ (__ show_value__)인지 확인합니다."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:379
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "이 값이 %(limit_value)s보다 작거나 같은지 확인하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:388
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "이 값은 %(limit_value)s보다 크거나 같은지 확인하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:398
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] "이 값에 %(limit_value)d 문자가 있어야합니다 ( %(show_value)d가 있음)."
+msgstr[1] "이 값은 %(limit_value)d 자 이상이어야합니다 ( %(show_value)d가 있음)."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:413
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] "이 값은 최대 %(limit_value)d 문자 ( %(show_value)d포함)를 포함해야합니다."
+msgstr[1] "이 값은 최대 %(limit_value)d 자 ( %(show_value)d가 있음)를 포함해야합니다."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:432
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:292
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:327
+msgid "Enter a number."
+msgstr "숫자를 입력하세요."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:434
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "총 %(max)s 자리 이하인지 확인합니다."
+msgstr[1] "총 %(max)s 자리 이하인지 확인합니다."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:439
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] " %(max)s 소수점 이하 자릿수가 있는지 확인하십시오."
+msgstr[1] " %(max)s 소수점 이하 자릿수가 없는지 확인하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:444
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] "소수점 앞에 %(max)s 자리가 넘지 않도록하십시오."
+msgstr[1] "소수점 앞에 %(max)s 자리가 넘지 않도록하십시오."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:506
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr "파일 확장자“%(extension)s”은 허용되지 않습니다. 허용되는 확장은 %(allowed_extensions)s입니다."
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:559
+msgid "Null characters are not allowed."
+msgstr "널 문자는 허용되지 않습니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1197
+#: venv/lib/python3.8/site-packages/django/forms/models.py:768
+msgid "and"
+msgstr "과"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1199
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "이%(model_name)s 가있는 %(field_labels)s 이 이미 존재합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:100
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "% (value) r 값은 유효한 선택이 아닙니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:101
+msgid "This field cannot be null."
+msgstr "이 필드는 null 일 수 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:102
+msgid "This field cannot be blank."
+msgstr "이 필드는 비워 둘 수 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:103
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "이%(model_name)s 이있는 %(field_label)s 이 이미 존재합니다."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:107
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr "%(field_label)s 은 %(date_field_label)s %(lookup_type)s에 대해 고유해야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "유형 필드 : %(field_type)s"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:958
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "&quot;%(value)s&quot;값은 True 또는 False 여야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:959
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "&quot;%(value)s&quot;값은 True, False 또는 None이어야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:961
+msgid "Boolean (Either True or False)"
+msgstr "부울 (True 또는 False)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1002
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "문자열 (최대 %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1096
+msgid "Comma-separated integers"
+msgstr "쉼표로 구분 된 정수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1145
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr "&quot;%(value)s&quot;값에 잘못된 날짜 형식이 있습니다. YYYY-MM-DD 형식이어야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1147
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1290
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr "“%(value)s”값이 올바른 형식 (YYYY-MM-DD)을 가지고 있지만 유효하지 않은 날짜입니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
+msgid "Date (without time)"
+msgstr "날짜 (시간 없음)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1288
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"“%(value)s”값에 잘못된 형식이 있습니다. YYYY-MM-DD HH : MM [: ss [.uuuuuu]] [TZ] "
+"형식이어야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1292
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"&quot;%(value)s&quot;값이 올바른 형식 (YYYY-MM-DD HH : MM [: ss [.uuuuuu]] [TZ])을 "
+"가지고 있지만 잘못된 날짜 / 시간입니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
+msgid "Date (with time)"
+msgstr "날짜 (시간 포함)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "&quot;%(value)s&quot;값은 10 진수 여야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
+msgid "Decimal number"
+msgstr "십진수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1585
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr "“%(value)s”값에 잘못된 형식이 있습니다. [DD] [[HH :] MM :] ss [.uuuuuu] 형식이어야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1588
+msgid "Duration"
+msgstr "지속"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1638
+msgid "Email address"
+msgstr "이메일 주소"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1661
+msgid "File path"
+msgstr "파일 경로"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1727
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "&quot;%(value)s&quot;값은 부동 소수점이어야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1729
+msgid "Floating point number"
+msgstr "부동 소수점 수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "&quot;%(value)s&quot;값은 정수 여야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1769
+msgid "Integer"
+msgstr "정수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1852
+msgid "Big (8 byte) integer"
+msgstr "큰 (8 바이트) 정수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1867
+msgid "Small integer"
+msgstr "작은 정수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1875
+msgid "IPv4 address"
+msgstr "IPv4 주소"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1906
+msgid "IP address"
+msgstr "IP 주소"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1986
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1987
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "&quot;%(value)s&quot;값은 None, True 또는 False 여야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1989
+msgid "Boolean (Either True, False or None)"
+msgstr "부울 (True, False 또는 None)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2043
+msgid "Positive big integer"
+msgstr "양의 큰 정수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2056
+msgid "Positive integer"
+msgstr "양의 정수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2069
+msgid "Positive small integer"
+msgstr "양의 작은 정수"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2083
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "슬러그 (최대 %(max_length)s)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2115
+msgid "Text"
+msgstr "본문"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2181
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr "“%(value)s”값에 잘못된 형식이 있습니다. HH : MM [: ss [.uuuuuu]] 형식이어야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2183
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"&quot;%(value)s&quot;값이 올바른 형식 (HH : MM [: ss [.uuuuuu]])을 가지고 있지만 잘못된 "
+"시간입니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2186
+msgid "Time"
+msgstr "시각"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2312
+msgid "URL"
+msgstr "URL"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Raw binary data"
+msgstr "원시 바이너리 데이터"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2399
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "“%(value)s”은 (는) 유효한 UUID가 아닙니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2401
+msgid "Universally unique identifier"
+msgstr "범용 고유 식별자"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:226
+msgid "File"
+msgstr "파일"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:375
+msgid "Image"
+msgstr "영상"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr "JSON 객체"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr "값은 유효한 JSON이어야합니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:790
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "%(model)s % (value) r이있는 %(field)s 인스턴스가 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
+msgid "Foreign Key (type determined by related field)"
+msgstr "외래 키 (관련 필드에 의해 결정되는 유형)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
+msgid "One-to-one relationship"
+msgstr "일대일 관계"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1099
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "__from __-__ to__ 관계"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1100
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "__from __-__ to__ 관계"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
+msgid "Many-to-many relationship"
+msgstr "다 대다 관계"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: venv/lib/python3.8/site-packages/django/forms/boundfield.py:150
+msgid ":?.!"
+msgstr ":?.!"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:54
+msgid "This field is required."
+msgstr "이 필드는 필수입니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:247
+msgid "Enter a whole number."
+msgstr "정수를 입력하세요."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:391
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1132
+msgid "Enter a valid date."
+msgstr "유효한 날짜를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:415
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1133
+msgid "Enter a valid time."
+msgstr "유효한 시간을 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:443
+msgid "Enter a valid date/time."
+msgstr "유효한 날짜 / 시간을 입력하세요."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:477
+msgid "Enter a valid duration."
+msgstr "유효한 기간을 입력하세요."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:478
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "일 수는 {min_days}에서 {max_days} 사이 여야합니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:538
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "제출 된 파일이 없습니다. 양식에서 인코딩 유형을 확인하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:539
+msgid "No file was submitted."
+msgstr "제출 된 파일이 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:540
+msgid "The submitted file is empty."
+msgstr "제출 된 파일이 비어 있습니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:542
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] "이 파일 이름은 최대 %(max)d 문자 ( %(length)d) 여야합니다."
+msgstr[1] "이 파일 이름은 최대 %(max)d 자 ( %(length)d자)를 포함해야합니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:545
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr "파일을 제출하거나 확인란 선택을 취소하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:606
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr "유효한 이미지를 업로드하세요. 업로드 한 파일은 이미지가 아니거나 손상된 이미지입니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:768
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:858
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1309
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "유효한 선택을 선택하십시오. %(value)s 는 사용 가능한 선택 항목 중 하나가 아닙니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:859
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:974
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1308
+msgid "Enter a list of values."
+msgstr "값 목록을 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:975
+msgid "Enter a complete value."
+msgstr "완전한 값을 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1191
+msgid "Enter a valid UUID."
+msgstr "유효한 UUID를 입력하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1221
+msgid "Enter a valid JSON."
+msgstr "유효한 JSON을 입력하십시오."
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:76
+msgid ":"
+msgstr ":"
+
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:203
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(숨겨진 필드 %(name)s) %(error)s"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"ManagementForm 데이터가 누락되었거나 변조되었습니다. 누락 된 필드 : %(field_names)s. 문제가 지속되면 버그 "
+"보고서를 제출해야 할 수 있습니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:370
+#, python-format
+msgid "Please submit at most %d form."
+msgid_plural "Please submit at most %d forms."
+msgstr[0] "최대 %d 양식을 제출하십시오."
+msgstr[1] "최대 %d 개의 양식을 제출하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
+#, python-format
+msgid "Please submit at least %d form."
+msgid_plural "Please submit at least %d forms."
+msgstr[0] " %d 양식을 제출하십시오."
+msgstr[1] " %d 개 이상의 양식을 제출하세요."
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:412
+msgid "Order"
+msgstr "주문"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:417
+msgid "Delete"
+msgstr "지우다"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:763
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr " %(field)s의 중복 데이터를 수정하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:767
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "고유해야하는 %(field)s의 중복 데이터를 수정하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:773
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+" %(field_name)s 의 %(lookup)s 에 대해 고유해야하는 %(date_field)s의 중복 데이터를 수정하십시오."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:782
+msgid "Please correct the duplicate values below."
+msgstr "아래 중복 값을 수정하세요."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1109
+msgid "The inline value did not match the parent instance."
+msgstr "인라인 값이 상위 인스턴스와 일치하지 않습니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1193
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr "유효한 선택을 선택하십시오. 그 선택은 사용 가능한 선택 중 하나가 아닙니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1311
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "“%(pk)s”는 유효한 값이 아닙니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/utils.py:172
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s 은 시간대 %(current_timezone)s에서 해석 할 수 없습니다. 모호하거나 존재하지 않을 수 있습니다."
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:403
+msgid "Clear"
+msgstr "맑은"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:404
+msgid "Currently"
+msgstr "현재"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:405
+msgid "Change"
+msgstr "변화"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:714
+msgid "Unknown"
+msgstr "알 수 없는"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:715
+msgid "Yes"
+msgstr "예"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:716
+msgid "No"
+msgstr "아니"
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:805
+msgid "yes,no,maybe"
+msgstr "예 아니요 어쩌면"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:834
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:851
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d 바이트"
+msgstr[1] "%(size)d 바이트"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:853
+#, python-format
+msgid "%s KB"
+msgstr "%s KB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:855
+#, python-format
+msgid "%s MB"
+msgstr "%s MB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:857
+#, python-format
+msgid "%s GB"
+msgstr "%s GB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:859
+#, python-format
+msgid "%s TB"
+msgstr "%s TB"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:861
+#, python-format
+msgid "%s PB"
+msgstr "%s PB"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:66
+msgid "p.m."
+msgstr "오후"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:67
+msgid "a.m."
+msgstr "오전"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:72
+msgid "PM"
+msgstr "오후"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:73
+msgid "AM"
+msgstr "오전"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:146
+msgid "midnight"
+msgstr "한밤중"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:148
+msgid "noon"
+msgstr "정오"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Monday"
+msgstr "월요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr "화요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr "수요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Thursday"
+msgstr "목요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Friday"
+msgstr "금요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Saturday"
+msgstr "토요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Sunday"
+msgstr "일요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Mon"
+msgstr "월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Tue"
+msgstr "화"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Wed"
+msgstr "수요일"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Thu"
+msgstr "목"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Fri"
+msgstr "금"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sat"
+msgstr "수능"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sun"
+msgstr "태양"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "January"
+msgstr "일월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "February"
+msgstr "이월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "March"
+msgstr "행진"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "April"
+msgstr "4 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "May"
+msgstr "할 수있다"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "June"
+msgstr "유월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "July"
+msgstr "칠월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "August"
+msgstr "팔월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "September"
+msgstr "구월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "October"
+msgstr "십월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "November"
+msgstr "십일월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:16
+msgid "December"
+msgstr "12 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jan"
+msgstr "1 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "feb"
+msgstr "2 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "mar"
+msgstr "망치다"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "apr"
+msgstr "4 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "may"
+msgstr "할 수있다"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jun"
+msgstr "6 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "jul"
+msgstr "7 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "aug"
+msgstr "8 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "sep"
+msgstr "9 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "oct"
+msgstr "10 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "nov"
+msgstr "11 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "dec"
+msgstr "12 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "1 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "2 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "행진"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "4 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "할 수있다"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "유월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "칠월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "8 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "씨족."
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "10 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "11 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "12 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr "일월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr "이월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr "행진"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr "4 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr "할 수있다"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr "유월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr "칠월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr "팔월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr "구월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr "십월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr "십일월"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr "12 월"
+
+#: venv/lib/python3.8/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "유효한 IPv6 주소가 아닙니다."
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:71
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:240
+msgid "or"
+msgstr "또는"
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.8/site-packages/django/utils/text.py:259
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ","
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "__ 숫자 __ 년"
+msgstr[1] "__ 숫자 __ 년"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d 월"
+msgstr[1] "%d 개월"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d 주"
+msgstr[1] "%d 주"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d 일"
+msgstr[1] "%d 일"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d 시간"
+msgstr[1] "%d 시간"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "__ 숫자 __ 분"
+msgstr[1] "__ 숫자 __ 분"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:110
+msgid "Forbidden"
+msgstr "금지"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr "CSRF 확인에 실패했습니다. 요청이 중단되었습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"이 HTTPS 사이트는 웹 브라우저에서 &quot;참조 헤더&quot;를 보내야하지만 아무 것도 보내지 않았기 때문에이 메시지가 "
+"표시됩니다. 이 헤더는 보안상의 이유로 브라우저가 제 3 자에 의해 도용되지 않도록하기 위해 필요합니다."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:120
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"&quot;Referer&quot;헤더를 비활성화하도록 브라우저를 구성한 경우, 최소한이 사이트, HTTPS 연결 또는 &quot;동일 "
+"출처&quot;요청에 대해 다시 활성화하십시오."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"사용하는 경우<meta name=\"referrer\" content=\"no-referrer\"> 태그를 포함하거나 "
+"&#39;Referrer-Policy : no-referrer&#39;헤더를 포함하는 경우 삭제하세요. CSRF 보호에는 엄격한 참조 자"
+" 검사를 수행하기 위해 &quot;Referer&quot;헤더가 필요합니다. 개인 정보 보호가 우려되는 경우 <a "
+"rel=\"noreferrer\" …>타사 사이트 링크와 같은 대안을 사용하세요.</a>"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"이 사이트에서 양식을 제출할 때 CSRF 쿠키가 필요하기 때문에이 메시지가 표시됩니다. 이 쿠키는 보안상의 이유로 브라우저가 제 3 자에"
+" 의해 도용되지 않도록하기 위해 필요합니다."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"쿠키를 비활성화하도록 브라우저를 구성한 경우 적어도이 사이트 또는 &quot;동일 출처&quot;요청에 대해 쿠키를 다시 활성화하십시오."
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr "자세한 정보는 DEBUG = True를 사용하여 사용할 수 있습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:41
+msgid "No year specified"
+msgstr "지정된 연도 없음"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:61
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:111
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:208
+msgid "Date out of range"
+msgstr "범위를 벗어난 날짜"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:90
+msgid "No month specified"
+msgstr "지정된 달이 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:142
+msgid "No day specified"
+msgstr "지정된 날짜가 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:188
+msgid "No week specified"
+msgstr "주가 지정되지 않았습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:338
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "사용 가능한 %(verbose_name_plural)s 없음"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:594
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+"__class_name __. allow_future가 False이므로 향후 %(verbose_name_plural)s 을 사용할 수 "
+"없습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:628
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr "&quot;%(datestr)s&quot;형식이 지정된 잘못된 날짜 문자열 &quot;%(format)s&quot;"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "쿼리와 일치하는 %(verbose_name)s 을 찾을 수 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:67
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "페이지는 &quot;마지막&quot;이 아니며 int로 변환 할 수도 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "잘못된 페이지 (%(page_number)s) : %(message)s"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:154
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "빈 목록과“__class_name __. allow_empty”는 False입니다."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr "여기에서는 디렉토리 색인이 허용되지 않습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:42
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "&quot;%(path)s&quot;가 없습니다."
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr " %(directory)s의 색인"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "설치가 성공적으로 완료되었습니다! 축하합니다!"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"Django%(version)s의 <a href=\"https://docs.djangoproject.com/en/ "
+"%(version)s/releases/\" target=\"_blank\" rel=\"noopener\">출시 노트</a> 보기"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"<a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG = True</a> 가 설정 파일에 있고 URL을 구성하지 "
+"않았기 때문에이 페이지가 표시됩니다."
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr "Django 문서"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "주제, 참조 및 방법"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "자습서 : 설문 조사 앱"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "Django 시작하기"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr "Django 커뮤니티"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "연결, 도움 받기 또는 기여"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:368
+#, python-format
+msgid "Content purported to be compressed with %s but failed to decompress."
+msgstr " %s 로 압축 된 것으로 추정되는 콘텐츠가 압축 해제에 실패했습니다."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:532
+#, python-format
+msgid "Unsupported value for qop: %s."
+msgstr "qop에 지원되지 않는 값 : %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:536
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:614
+#, python-format
+msgid "Unsupported value for algorithm: %s."
+msgstr "알고리즘에 지원되지 않는 값 : %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:609
+msgid "The challenge doesn't contain a server nonce, or this one is empty."
+msgstr "챌린지에 서버 임시 값이 포함되어 있지 않거나 비어 있습니다."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:619
+#, python-format
+msgid "Unsupported value for pw-algorithm: %s."
+msgstr "pw 알고리즘에 지원되지 않는 값 : %s."
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
+msgid "Redirected but the response is missing a Location: header."
+msgstr "리디렉션되었지만 응답에 Location : 헤더가 없습니다."

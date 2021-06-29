@@ -1,0 +1,25 @@
+
+
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'Download Tiktok Videos Without Watermark - Tiksss.Com' %}{% endblock %}
+{% block desc %}<meta name="description" content="{% trans 'Download Tiktok Videos Without Watermark Online Free on our website Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers which is totally free.' %}" /> {% endblock %}
+{% block body %}
+  <!-- Hero Section -->
+  <div class="hero" id="home">
+    <div class="hero__container">
+      <h1 class="hero__heading">YOUR <span>Tiktok Download</span> Links</h1>
+      <!-- <p class="hero__description">Enter the URL Here</p> -->
+      <div class="main__content">
+        {% if url %}
+        <button class="main__btn"><a href="{% url 'downloadlink'  %}">With Watermark</a></button><br><br><br>
+        {% endif %}
+        <button class="main__btn"><a href="{% url 'index'  %}">Back</a></button><br>
+      </div>
+    </div>
+   
+  </div>
+
+
+{% endblock %}
