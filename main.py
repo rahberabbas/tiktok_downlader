@@ -26,7 +26,7 @@ def without(url):
         rtr = elem.get_attribute("href")
         lst.append(rtr)
         # print(rtr)
-    print(lst[12])
+    return lst[12]
 
 
 without('https://www.tiktok.com/@argenis_1999/video/6967870054994087174?sender_device=pc&sender_web_id=6969977128956642817&is_from_webapp=v1&is_copy_url=0')
