@@ -1,8 +1,5 @@
 from selenium import webdriver
 import time
-import requests
-from pyvirtualdisplay import Display
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 
 headers = {
@@ -27,5 +24,4 @@ def without(url):
         lst.append(rtr)
         # print(rtr)
     link = lst[12]
-    r = requests.get(link, headers=headers)
-    return r
+    return link
