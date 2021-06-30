@@ -86,9 +86,9 @@ WSGI_APPLICATION = 'tiktok.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'myproject',
-        'USER': 'tiktok',
-        'PASSWORD': 'tiktok123',
+        'NAME': 'tiktokdb',
+        'USER': 'thefrenemy',
+        'PASSWORD': 'tikss',
         'HOST': 'localhost',
         'PORT': '',
     }
