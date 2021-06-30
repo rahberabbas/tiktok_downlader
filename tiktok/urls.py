@@ -41,7 +41,6 @@ urlpatterns += i18n_patterns(
     path('tiktok-cutter-link/', download4, name='down4'),
 )
 if settings.DEBUG:
-    urlpatterns += static(settings.STATIC_URL,
-                          document_root=settings.STATIC_ROOT)
+    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
 handler404 = 'video.views.error_404_view'
