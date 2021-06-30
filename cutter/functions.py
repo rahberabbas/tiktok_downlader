@@ -1,5 +1,7 @@
 from selenium import webdriver
 import time
+import requests
+from pyvirtualdisplay import Display
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 
@@ -15,16 +17,15 @@ def without(url):
     options.add_argument('window-size=1400,600')
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
-    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-    driver.get('https://snaptik.app/')   
-    input = driver.find_element_by_id('url')
-    input.send_keys(url)
-    time.sleep(1)
-    driver.find_element_by_id('submiturl').click()
-    time.sleep(1)
+    driver = webdriver.Chrome(options=options)
+    driver.get(f'https://ttdownloader.com/?url={url}')
+    time.sleep(7)
     elms = driver.find_elements_by_xpath("//a[@href]")
     lst = []
     for elem in elms:
         rtr = elem.get_attribute("href")
         lst.append(rtr)
-    return lst[1]
+        # print(rtr)
+    link = lst[12]
+    r = requests.get(link, headers=headers)
+    return r
