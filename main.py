@@ -1,40 +1,13 @@
-from selenium import webdriver
-import time
 import requests
-from pyvirtualdisplay import Display
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.options import Options
+import json
 
-headers = {
-        "method": "GET",
-        "accept-encoding": "utf-8",
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
-    }
-
-def without(url):
-    display = Display(visible=0, size=(1024, 768))
-    display.start()
-    options = Options()
-    options.headless = True
-    # options.add_argument('window-size=1400,600')
-    options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    options.add_experimental_option('useAutomationExtension', False)
-    options.add_argument(f'user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36')
-    options.add_argument('--no-sandbox')
-    driver = webdriver.Chrome(options=options)
-    driver.get('https://snaptik.app/')  
-    time.sleep(4) 
-    input = driver.find_element_by_id('url')
-    input.send_keys(url)
-    time.sleep(1)
-    driver.find_element_by_id('submiturl').click()
-    time.sleep(1)
-    elms = driver.find_elements_by_xpath("//a[@href]")
-    lst = []
-    for elem in elms:
-        rtr = elem.get_attribute("href")
-        lst.append(rtr)
-    link = lst[3]
+def downloader(link):
     print(link)
+    # newHeaders = {'Content-type': 'application/json', 'Accept': 'text/plain'}
+    source = "https://freevideosdowloader.tk/services/downloader_api.php"
+    resp = requests.post(source, data={"url": link}, verify=True).text
+    print(resp)
+    links_list = json.loads(resp)["VideoResult"][0]["VideoUrl"]
+    print(links_list)
 
-without(url='https://www.tiktok.com/@amg_65s_bro/video/6970634217176714502')
+downloader(link='https://www.tiktok.com/@amg_65s_bro/video/6970634217176714502')
