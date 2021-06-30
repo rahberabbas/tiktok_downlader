@@ -10,6 +10,7 @@ display = Display(visible=0, size=(1024, 768))
 display.start()
 options = Options()
 options.headless = True
+options.add_argument("--incognito")
 # options.add_argument('window-size=1400,600')
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
