@@ -3,6 +3,6 @@ from selenium.webdriver.chrome.options import Options
 options = Options()
 options.headless = True
 driver = webdriver.Chrome(options=options)
-driver.get("https://google.com/")
+driver.get("https://snaptik.app/")
 print(driver.title)
 driver.quit()
