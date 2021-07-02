@@ -22,7 +22,7 @@ def download1(request):
         context={'url': url}
         return render(request, 'download1.html', context)
     else:
-        return HttpResponse('Something went Wrong')
+        return render(request, 'audio.html')
 
 def downloadlink1(request):
     if url:
