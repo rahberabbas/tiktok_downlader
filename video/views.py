@@ -25,20 +25,17 @@ def download(request):
         return render(request, 'index.html')
 
 def downloadlink(request):
-    if url:
-        data = rtr.content
-        filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
-        with open(os.path.join(BASE_DIR+"/video_down",filename) + '.mp4', 'wb') as f:
-            f.write(data)
+    data = rtr.content
+    filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
+    with open(os.path.join(BASE_DIR+"/video_down",filename) + '.mp4', 'wb') as f:
+        f.write(data)
 
-        with open(os.path.join(BASE_DIR+"/video_down",filename+'.mp4'), 'rb') as f:
-            data = f.read()
+    with open(os.path.join(BASE_DIR+"/video_down",filename+'.mp4'), 'rb') as f:
+        data = f.read()
 
-        response = HttpResponse(data, content_type='application/vnd.mp4')
-        response['Content-Disposition'] = 'attachment; filename="video_tiksss.mp4"'
-        return response
-    else:
-        return HttpResponse("Something Went Wrong")
+    response = HttpResponse(data, content_type='application/vnd.mp4')
+    response['Content-Disposition'] = 'attachment; filename="video_tiksss.mp4"'
+    return response
 
 def about(request):
     return render(request, 'about.html')
