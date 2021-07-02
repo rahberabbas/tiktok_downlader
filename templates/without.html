@@ -19,9 +19,9 @@
 
   <form class="example" method="POST" action="{% url 'down2' %}">
     {% csrf_token %}
-    <input type="text" placeholder="Search.." aria-describedby="url" name="url" required>
+    <input type="text" placeholder="Enter Video URL" aria-describedby="url" name="url" required>
     <input type="hidden" name="todo" value="1">
-    <button type="submit" onclick="show()">{% trans 'Enter Video URL' %}</button>
+    <button type="submit" onclick="show()">{% trans 'Search' %}</button>
   </form>
 </div>
 
