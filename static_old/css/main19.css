@@ -533,6 +533,18 @@ form.example button:hover {
   }
 }
 
+.faq_2 {
+  background: #000000;
+  background: linear-gradient(to right, #161616, #000000);
+  padding: 100px 50px;
+  color: white;
+}
+
+.faq_2 h1 {
+  margin: 20px 0;
+}
+
+
 .faq {
   background: #000000;
   background: linear-gradient(to right, #161616, #000000);
