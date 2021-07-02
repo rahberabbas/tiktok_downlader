@@ -537,7 +537,7 @@ form.example button:hover {
 .faq {
   background: #000000;
   background: linear-gradient(to right, #161616, #000000);
-  padding: 100px 50px;
+  padding: 50px 50px;
   color: white;
 }
 
