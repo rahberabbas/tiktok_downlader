@@ -429,7 +429,7 @@ form.example button:hover {
   align-items: center;
 }
 
-#footer__logo {
+.footer_color{
   background: #ee0979; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
@@ -446,6 +446,9 @@ form.example button:hover {
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -mo-text-fill-color: transparent;
+}
+
+#footer__logo {
   display: flex;
   align-items: center;
   cursor: pointer;
