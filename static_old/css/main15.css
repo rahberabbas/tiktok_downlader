@@ -576,6 +576,26 @@ form.example button:hover {
   color: #fff;
 }
 
+
+.privacy__container_2 {
+  width: 100%;
+  height: 100vh;
+  background: #000000;
+  background: linear-gradient(to right, #161616, #000000);
+  padding: 100px 50px;
+  color: white;
+}
+
+.privacy__container_2 h1 {
+  font-size: 3rem;
+  margin: 15px 0;
+}
+
+.privacy__container_2 p {
+  margin: 10px 0;
+  font-size: 1rem;
+}
+
 /* Privacy */
 .privacy__container {
   width: 100%;
