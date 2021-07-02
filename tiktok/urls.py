@@ -43,4 +43,4 @@ urlpatterns += i18n_patterns(
 if settings.DEBUG:
     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
-handler404 = 'video.views.error_404_view'
+handler404 = 'video.views.view_404'

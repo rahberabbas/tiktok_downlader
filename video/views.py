@@ -1,4 +1,4 @@
-from django.shortcuts import render, HttpResponse
+from django.shortcuts import redirect, render, HttpResponse
 from datetime import datetime
 import os
 from .import function
@@ -52,5 +52,5 @@ def tandc(request):
 def faq(request):
     return render(request, 'faq.html')
 
-def error_404_view(request, exception):
-    return render(request, 'index.html')
+def error_404_view(request, exception=None):
+    return redirect('/')
