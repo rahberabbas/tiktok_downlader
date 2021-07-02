@@ -453,6 +453,7 @@ form.example button:hover {
   cursor: pointer;
   text-decoration: none;
   font-size: 2rem;
+  font-weight: 600;
 }
 
 .social__icon--link {
