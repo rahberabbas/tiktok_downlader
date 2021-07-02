@@ -37,7 +37,7 @@ def downloadlink2(request):
             data = f.read()
 
         response = HttpResponse(data, content_type='application/vnd.mp4')
-        response['Content-Disposition'] = 'attachment; filename="video_tiksss.mp4"'
+        response['Content-Disposition'] = 'attachment; filename="without_watermark_tiksss.mp4"'
         return response
     else:
         return HttpResponse("Something Went Wrong")
