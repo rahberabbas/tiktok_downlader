@@ -184,7 +184,7 @@ form.example button:hover {
 /* About Section */
 .main {
   background-color: #131313;
-  padding: 3rem 0;
+  padding: 5rem 0;
 }
 
 .main__container {
@@ -331,7 +331,7 @@ form.example button:hover {
   justify-content: center;
   align-items: center;
   height: 100%;
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 
 .services h1 {
