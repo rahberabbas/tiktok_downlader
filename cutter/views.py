@@ -1,6 +1,7 @@
 from django.shortcuts import render, HttpResponse
 from datetime import datetime
 import os
+import pyshorteners
 from .import functions
 from moviepy.editor import *
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
@@ -14,13 +15,16 @@ def download3(request):
     if request.method == "POST":
         global url
         global rtr
+        global x
         url = request.POST.get('url')
         if "www.tiktok.com" in url:
             url = url
             rtr = functions.without(url=url)
+            short = pyshorteners.Shortener()
+            x = short.tinyurl.short(rtr)
         else:
             return HttpResponse("Your link is Invalid")
-        context={'url': url, 'rtr': rtr}
+        context={'url': url, 'rtr': rtr, 'x': x}
         return render(request, 'download3.html', context)
     else:
         return HttpResponse('Something went Wrong')
