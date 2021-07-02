@@ -1,6 +1,7 @@
 from django.shortcuts import render, HttpResponse
 from datetime import datetime
 import os
+import pyshorteners
 from .import functions
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -13,12 +14,14 @@ def download1(request):
         global url
         global rtr
         url = request.POST.get('url')
+        short = pyshorteners.Shortener()
+        x = short.tinyurl.short(url)
         if "www.tiktok.com" in url:
             url = url
             rtr = functions.withwater_download(urls=url)
         else:
             return HttpResponse("Your link is Invalid")
-        context={'url': url}
+        context={'url': x}
         return render(request, 'download1.html', context)
     else:
         return HttpResponse('Something went Wrong')

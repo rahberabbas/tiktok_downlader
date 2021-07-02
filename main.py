@@ -1,11 +1,9 @@
-import requests
+import pyshorteners
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
-}
+link = 'https://ttdownloader.com/dl.php?v=YTo0OntzOjk6IndhdGVybWFyayI7YjowO3M6NzoidmlkZW9JZCI7czozMjoiN2QzNjUxYjNkODFkY2E2YTBiMjQ5YWE0ODdhZjk1YWEiO3M6MzoidWlkIjtzOjMyOiI1YmZlNTJjYmZkNGI3YzQ0NWYzZTBlMGI2YTY1M2M5YyI7czo0OiJ0aW1lIjtpOjE2MjUyNTc5NjQ7fQ=='
 
-# r = requests.get('https://tiktokdownload.online/results', headers=headers)
-# print(r.status_code)
+short = pyshorteners.Shortener()
 
-r = requests.post('https://tiktokdownload.online/results', headers=headers, data={'id': 'https://www.tiktok.com/@khaby.lame/video/6949115989145537797?sender_device=pc&sender_web_id=6969977128956642817&is_from_webapp=v1&is_copy_url=0'})
-print(r.text)
+x = short.tinyurl.short(link)
+
+print(x)
