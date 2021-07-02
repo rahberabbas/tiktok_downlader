@@ -52,5 +52,5 @@ def tandc(request):
 def faq(request):
     return render(request, 'faq.html')
 
-def error_404_view(request, exception):
+def error_404_view(request, exception=None):
     return render(request, 'index.html')
