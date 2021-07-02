@@ -619,8 +619,10 @@ form.example button:hover {
   width: 100%;
   background: #000000;
   background: linear-gradient(to right, #161616, #000000);
-  padding: 50px 50px;
+  padding: 0px 50px;
   color: white;
+  padding-bottom: 50px;
+  padding-top: 100px;
 }
 
 .privacy__container_1 h1 {
