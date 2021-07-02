@@ -1,9 +1,7 @@
 import requests
 from urllib.parse import parse_qsl, urlparse
-import time
 
 def withwater_download(urls):
-    time.sleep(5)
     HEADERS = {
         'Connection': 'keep-alive',
         'Pragma': 'no-cache',
