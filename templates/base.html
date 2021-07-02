@@ -27,7 +27,7 @@
                 <ul class="links">
                     <li><a href="https://tiksss.com/">{% trans 'Home' %}</a></li>
                     <li>
-                        <div class="desktop-link" style="color: #fff; cursor:pointer;">{% trans 'Tools' %} <i class="fas fa-chevron-down"></i></div>
+                        <a class="desktop-link">{% trans 'Tools' %} <i class="fas fa-chevron-down"></i></a>
                         <input type="checkbox" id="show-features">
                         <label for="show-features">{% trans 'Tools' %} <i class="fas fa-chevron-down"></i></label>
                         <ul>
@@ -45,7 +45,7 @@
                         {% get_current_language as LANGUAGE_CODE %}
                         {% get_available_languages as LANGUAGES %}
                         {% get_language_info_list for LANGUAGES as languages %}
-                        <a href="" class="desktop-link">Languages <i class="fas fa-chevron-down"></i></a>
+                        <a class="desktop-link">Languages <i class="fas fa-chevron-down"></i></a>
                         <input type="checkbox" id="show-feature">
                         <label for="show-feature">Languages <i class="fas fa-chevron-down"></i></label>
                         <ul class="small">
