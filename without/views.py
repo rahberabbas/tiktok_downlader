@@ -29,7 +29,7 @@ def download2(request):
 def downloadlink2(request):
     if url:
         r = uuid.uuid4()
-        file_hello = f"tiksss.com_{r}.mp3"
+        file_hello = f"tiksss.com_{r}.mp4"
         data = rtr.content
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
 
