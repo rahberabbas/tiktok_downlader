@@ -1,6 +1,7 @@
 from django.shortcuts import render, HttpResponse
 from datetime import datetime
 import os
+from moviepy.editor import *
 from .import functions
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -28,10 +29,13 @@ def downloadlink1(request):
     if url:
         data = rtr.content
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
-        with open(os.path.join(BASE_DIR+"/audio_down",filename) + '.mp3', 'wb') as f:
+        with open(os.path.join(BASE_DIR+"/audio_down",filename) + '.mp4', 'wb') as f:
             f.write(data)
 
-        with open(os.path.join(BASE_DIR+"/audio_down",filename+'.mp3'), 'rb') as f:
+        video = VideoFileClip(os.path.join(BASE_DIR+"/audio_down",filename) + '.mp4')
+        video.audio.write_audiofile(os.path.join(BASE_DIR+"/audio_down2",filename) + '.mp3')
+
+        with open(os.path.join(BASE_DIR+"/audio_down2",filename+'.mp3'), 'rb') as f:
             data = f.read()
 
         response = HttpResponse(data, content_type='application/aud.mp3')
