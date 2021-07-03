@@ -5,6 +5,8 @@ import pyshorteners
 from .import functions
 from moviepy.editor import *
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
+import uuid
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Create your views here.
@@ -47,6 +49,8 @@ def download4(request):
 
 def downloadlink3(request):
     if rtr and pick == "mp4":
+        r = uuid.uuid4()
+        file_hello = f"tiksss.com_{r}.mp4"
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
         ffmpeg_extract_subclip(filename=rtr, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
 
@@ -54,9 +58,11 @@ def downloadlink3(request):
             data = f.read()
 
         response = HttpResponse(data, content_type='application/vnd.mp4')
-        response['Content-Disposition'] = 'attachment; filename="video_cutter_tiksss.mp4"'
+        response['Content-Disposition'] = "attachment; filename=%s" % file_hello
         return response
     elif rtr and pick == "mp3":
+        r = uuid.uuid4()
+        file_hello = f"tiksss.com_{r}.mp3"
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
         ffmpeg_extract_subclip(filename=rtr, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
 
@@ -67,7 +73,7 @@ def downloadlink3(request):
             data = f.read()
 
         response = HttpResponse(data, content_type='application/audio.mp3')
-        response['Content-Disposition'] = 'attachment; filename="audio_cutter_tiksss.mp3"'
+        response['Content-Disposition'] = "attachment; filename=%s" % file_hello
         return response
     else:
         return HttpResponse("Something Went Wrong")
