@@ -3,6 +3,7 @@ from datetime import datetime
 import os
 from moviepy.editor import *
 from .import functions
+import uuid
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Create your views here.
@@ -27,6 +28,8 @@ def download1(request):
 
 def downloadlink1(request):
     if url:
+        r = uuid.uuid4()
+        file_hello = f"tiksss.com_{r}.mp3"
         data = rtr.content
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
         with open(os.path.join(BASE_DIR+"/audio_down",filename) + '.mp4', 'wb') as f:
@@ -39,7 +42,7 @@ def downloadlink1(request):
             data = f.read()
 
         response = HttpResponse(data, content_type='application/aud.mp3')
-        response['Content-Disposition'] = 'attachment; filename="audio_tiksss.mp3"'
+        response['Content-Disposition'] = "attachment; filename=%s"  % file_hello
         return response
     else:
         return HttpResponse("Something Went Wrong")
