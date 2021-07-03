@@ -3,6 +3,7 @@ from .import functions
 import os
 from moviepy.editor import *
 from datetime import datetime
+import uuid
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -27,6 +28,8 @@ def download2(request):
 
 def downloadlink2(request):
     if url:
+        r = uuid.uuid4()
+        file_hello = f"tiksss.com_{r}.mp3"
         data = rtr.content
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
 
@@ -37,7 +40,7 @@ def downloadlink2(request):
             data = f.read()
 
         response = HttpResponse(data, content_type='application/vnd.mp4')
-        response['Content-Disposition'] = 'attachment; filename="without_watermark_tiksss.mp4"'
+        response['Content-Disposition'] = "attachment; filename=%s" % file_hello
         return response
     else:
         return HttpResponse("Something Went Wrong")
