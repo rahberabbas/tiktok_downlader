@@ -2,8 +2,11 @@ from django.shortcuts import render, HttpResponse
 from datetime import datetime
 import os
 from .import function
+import uuid
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+r = uuid.uuid4()
+file_hello = f"tiksss.com_{r}.mp4"
 
 # Create your views here.
 def index(request):
@@ -34,7 +37,7 @@ def downloadlink(request):
         data = f.read()
 
     response = HttpResponse(data, content_type='application/vnd.mp4')
-    response['Content-Disposition'] = 'attachment; filename="video_tiksss.mp4"'
+    response['Content-Disposition'] = 'attachment; filename=%s' % file_hello
     return response
 
 def about(request):
