@@ -37,7 +37,7 @@ def downloadlink(request):
         data = f.read()
 
     response = HttpResponse(data, content_type='application/vnd.mp4')
-    response['Content-Disposition'] = 'attachment; filename=%s' % file_hello
+    response['Content-Disposition'] = "attachment; filename=%s" % file_hello
     return response
 
 def about(request):
