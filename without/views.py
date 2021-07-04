@@ -31,7 +31,7 @@ def downloadlink2(request):
         r = uuid.uuid4()
         file_hello = f"tiksss.com_{r}.mp4"
         data = rtr.content
-        filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
+        filename = str(uuid.uuid4())
 
         with open(os.path.join(BASE_DIR+"/without_video",filename+'.mp4'), 'wb') as f:
             f.write(data)
