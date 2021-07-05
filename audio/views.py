@@ -4,6 +4,8 @@ import os
 from moviepy.editor import *
 from .import functions
 import uuid
+import time
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Create your views here.
@@ -15,7 +17,7 @@ def download1(request):
         global url
         global rtr
         url = request.POST.get('url')
-        if "www.tiktok.com" in url:
+        if "tiktok.com" in url:
             
             url = url
             rtr = functions.withwater_download(urls=url)
@@ -31,7 +33,7 @@ def download1(request):
 
             with open(os.path.join(BASE_DIR+"/audio_down2",filename+'.mp3'), 'rb') as f:
                 data = f.read()
-
+            time.sleep(4)
             response = HttpResponse(data, content_type='application/aud.mp3')
             response['Content-Disposition'] = "attachment; filename=%s"  % file_hello
             return response
