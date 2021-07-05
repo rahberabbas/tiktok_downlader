@@ -27,7 +27,7 @@ def download5(request):
         else:
             return HttpResponse("Your link is Invalid")
         context={'url': url, 'rtr': rtr, 'x': x}
-        return render(request, 'download3.html', context)
+        return render(request, 'download5.html', context)
     else:
         return HttpResponse('Something went Wrong')
 
