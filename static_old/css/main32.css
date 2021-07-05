@@ -172,7 +172,7 @@ form.example button:hover {
 
 @media screen and (max-width: 450px) {
   .hero__heading {
-    font-size: 50px;
+    font-size: 30px;
   }
 
   .hero__description {
