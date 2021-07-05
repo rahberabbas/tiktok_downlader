@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-28 19:37+0000\n"
+"POT-Creation-Date: 2021-07-06 02:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,7 +95,8 @@ msgstr ""
 "ücretsiz olan Tiktok Severler için Tiktok Videolarını Mp3 Formatına "
 "Dönüştürmek İçin En Hızlı Aracımız."
 
-#: templates/audio.html:14 templates/without.html:13
+#: templates/audio.html:14 templates/audio.html:24 templates/index.html:21
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "İndir"
 
@@ -103,21 +104,15 @@ msgstr "İndir"
 msgid "Audio"
 msgstr "Ses"
 
-#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
-#: templates/without.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "URL&#39;yi Buraya Girin"
 
-#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
-#: templates/without.html:24
-msgid "Search"
-msgstr "Arama"
-
-#: templates/audio.html:31
+#: templates/audio.html:30
 msgid "TikTok to Mp3 Converter Online Free"
 msgstr "TikTok&#39;tan Mp3&#39;e Dönüştürücü Çevrimiçi Ücretsiz"
 
-#: templates/audio.html:32
+#: templates/audio.html:31
 msgid ""
 "If you are music lover then you will know the value of this TikTok to Mp3 "
 "Converter Online Tool. We have made this tool very easy and simple. You "
@@ -138,12 +133,12 @@ msgstr ""
 "beğenecekler ve kullanacaklardır. Daha fazla Bilgi için Web Sitemizi ziyaret"
 " edin"
 
-#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
-#: templates/index.html:29
+#: templates/audio.html:35 templates/audio_cutter.html:35
+#: templates/cutter.html:35 templates/faq.html:9 templates/index.html:28
 msgid "Frequently Asked Questions"
 msgstr "Sıkça Sorulan Sorular"
 
-#: templates/audio.html:39
+#: templates/audio.html:38
 msgid ""
 "How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
 " to Mp3 Online Free:"
@@ -151,21 +146,21 @@ msgstr ""
 "Tiktok&#39;u Yüksek Kaliteyle Ücretsiz Online Mp3&#39;e Dönüştürme – "
 "TikTok&#39;u Mp3 Online Bedava İndirin:"
 
-#: templates/audio.html:45 templates/faq.html:44
+#: templates/audio.html:43 templates/faq.html:44
 msgid ""
 "Select a video URL on TikTok which you want to convert into mp3 format."
 msgstr ""
 "TikTok&#39;ta mp3 formatına dönüştürmek istediğiniz bir video URL&#39;si "
 "seçin."
 
-#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+#: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Seçilen video bağlantısını akıllı telefonunuza / bilgisayarınıza veya "
 "Dizüstü bilgisayarınıza kopyalayın"
 
-#: templates/audio.html:51 templates/faq.html:50
+#: templates/audio.html:49 templates/faq.html:50
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok to Mp3 Converter."
@@ -173,25 +168,25 @@ msgstr ""
 "Tiksss.com web sitemize gidin ve üst menüde “Araçlar” öğesini göreceksiniz "
 "ve üzerine dokunun ve TikTok to Mp3 Converter&#39;ı seçin."
 
-#: templates/audio.html:54 templates/faq.html:53
+#: templates/audio.html:52 templates/faq.html:53
 msgid "Insert the TikTok video link in the field and press \"Convert Button\""
 msgstr ""
 "TikTok video bağlantısını alana yerleştirin ve &quot;Dönüştür "
 "Düğmesine&quot; basın"
 
-#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:37 templates/without.html:51
+#: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Şimdi bir indirme düğmesi göreceksiniz, indir&#39;e tıklayın."
 
-#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+#: templates/audio.html:58 templates/faq.html:31 templates/index.html:37
 msgid ""
 "Just wait a few seconds in which you can download the video directly in your"
 " machine."
 msgstr "Videoyu doğrudan makinenize indirebileceğiniz birkaç saniye bekleyin."
 
-#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+#: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -199,43 +194,165 @@ msgstr ""
 "Aracımızı ve hizmetlerimizi beğendiyseniz, lütfen web sitemizi "
 "arkadaşlarınız ve aile üyelerinizle paylaşın. Teşekkürler!"
 
-#: templates/base.html:28
+#: templates/audio_cutter.html:4
+#, fuzzy
+#| msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter Online Ücretsiz - Tiksss.com"
+
+#: templates/audio_cutter.html:7
+#, fuzzy
+#| msgid ""
+#| "TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+#| "Cut and Trim TikTok Videos Online Free."
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Mp3 Cutter Çevrimiçi Ücretsiz Aracı. TikTok Videoyu Mp3&#39;e Online "
+"Bedava Nasıl Kesilir. TikTok Videolarını Çevrimiçi Olarak Kesin ve Kesin."
+
+#: templates/audio_cutter.html:14
+#, fuzzy
+#| msgid ""
+#| "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgid ""
+"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
+"Free Tool"
+msgstr ""
+"TikTok Mp3 Cutter and Converter Online - TikTok Videoyu Mp3 Online Ücretsiz "
+"Aracına Kırp"
+
+#: templates/audio_cutter.html:15 templates/cutter.html:15
+#: templates/without.html:14
+msgid "Enter the URL Here and wait for 10 - 15 Seconds."
+msgstr "URL&#39;yi buraya girin ve 10 - 15 Saniye bekleyin."
+
+#: templates/audio_cutter.html:24 templates/cutter.html:24
+msgid "Search"
+msgstr "Arama"
+
+#: templates/audio_cutter.html:30
+msgid ""
+"Here is the special and unique tool which is called \"TikTok Mp3 Cutter "
+"Online\"."
+msgstr ""
+"İşte &quot;TikTok Mp3 Cutter Online&quot; adlı özel ve benzersiz araç."
+
+#: templates/audio_cutter.html:30
+msgid ""
+"Introduced this tool to our valuable users because we know how much needy "
+"this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you "
+"a very simple solution for your content. With the help of this amazing tool,"
+" You people can easily convert and Cut TikTok Video to Mp3 With a single "
+"click. Its totally free for everyone to use it on our website and this tool "
+"is super fast on every device which you used in your daily life."
+msgstr ""
+"Günümüz dünyasında bu araca ne kadar ihtiyaç duyulduğunu bildiğimiz için bu "
+"aracı siz değerli kullanıcılarımıza tanıttık. TikTok Mp3 Trimmer Converter "
+"Tool, içeriğiniz için size çok basit bir çözüm sunar. Bu harika aracın "
+"yardımıyla, TikTok Video&#39;yu tek bir tıklamayla kolayca dönüştürebilir ve"
+" kesebilirsiniz. Web sitemizde herkesin kullanması tamamen ücretsizdir ve bu"
+" araç günlük yaşamınızda kullandığınız her cihazda süper hızlıdır."
+
+#: templates/audio_cutter.html:38
+#, fuzzy
+#| msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgid "How To Cut and Trim TikTok Video To Mp3 Online Free"
+msgstr "TikTok Videoyu Mp3 Online Ücretsiz Olarak Kesmek ve Kırpmak"
+
+#: templates/audio_cutter.html:43 templates/cutter.html:43
+#: templates/faq.html:97
+msgid "Go to TikTok official website and copy the video link."
+msgstr "TikTok resmi web sitesine gidin ve video bağlantısını kopyalayın."
+
+#: templates/audio_cutter.html:46
+#, fuzzy
+#| msgid ""
+#| "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+#| " it and select TikTok Video Cutter."
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on"
+" it and select \"TikTok Mp3 Cutter\""
+msgstr ""
+"Tiksss.com web sitemize gidin ve üst menüde ìToolsî&#39;yi göreceksiniz ve "
+"üzerine dokunun ve &quot;TikTok Mp3 Cutter&quot;ı seçin"
+
+#: templates/audio_cutter.html:49 templates/cutter.html:49
+#: templates/faq.html:103
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr ""
+"Bir sonraki sayfada video bağlantınızı yapıştırın ve “Kes Düğmesine” "
+"tıklayın."
+
+#: templates/audio_cutter.html:52
+msgid ""
+"Choose the time duration from given down below option to Cut Your TikTok "
+"video To Mp3 and after that the converting process will start and it will be"
+" available in few seconds."
+msgstr ""
+"TikTok videonuzu Mp3&#39;e Kes seçeneğinden aşağıda verilen süreyi seçin ve "
+"bundan sonra dönüştürme işlemi başlayacak ve birkaç saniye içinde hazır "
+"olacaktır."
+
+#: templates/audio_cutter.html:55
+#, fuzzy
+#| msgid ""
+#| "If you like our TikTok Video Cutter and Trimmer Tool and services than "
+#| "Kindly share our website with your friends and family members. Thanks!"
+msgid ""
+"If you like our TikTok Mp3 Cutter and Converter Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"TikTok Mp3 Kesici ve Dönüştürücü Aracımızı ve hizmetlerimizi beğendiyseniz, "
+"lütfen web sitemizi arkadaşlarınız ve aile üyelerinizle paylaşın. "
+"Teşekkürler!"
+
+#: templates/base.html:38
 msgid "Home"
 msgstr "Ev"
 
-#: templates/base.html:30 templates/base.html:32
+#: templates/base.html:40 templates/base.html:42
 msgid "Tools"
 msgstr "Araçlar"
 
-#: templates/base.html:34
+#: templates/base.html:44
 msgid "Download With Watermark"
 msgstr "Filigranlı İndir"
 
-#: templates/base.html:37
+#: templates/base.html:47
 msgid "Download Without Watermark"
 msgstr "Filigran Olmadan İndir"
 
-#: templates/base.html:38
+#: templates/base.html:48
 msgid "Download Audio"
 msgstr "Ses İndir"
 
-#: templates/base.html:39
-msgid "Audio/Video Cutter"
-msgstr "Ses/Video Kesici"
+#: templates/base.html:49
+#, fuzzy
+#| msgid "Audio/Video Cutter"
+msgid "Video Cutter"
+msgstr "Video Kesici"
 
-#: templates/base.html:43
+#: templates/base.html:50
+#, fuzzy
+#| msgid "Audio/Video Cutter"
+msgid "Audio Cutter"
+msgstr "Ses Kesici"
+
+#: templates/base.html:54
 msgid "About"
 msgstr "hakkında"
 
-#: templates/base.html:76 templates/privacypolicy.html:10
+#: templates/base.html:108 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Gizlilik Politikası"
 
-#: templates/base.html:79 templates/tandc.html:10
+#: templates/base.html:111 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Şartlar ve koşullar"
 
-#: templates/base.html:82
+#: templates/base.html:114
 msgid "FAQ"
 msgstr "SSS"
 
@@ -255,7 +372,7 @@ msgstr ""
 msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
 msgstr "Video Kesici Çevrimiçi – TikTok Video Kırpıcı Çevrimiçi Ücretsiz"
 
-#: templates/cutter.html:31
+#: templates/cutter.html:30
 msgid ""
 "Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
 "for your content creation. While using this tool on our website "
@@ -263,7 +380,7 @@ msgstr ""
 "Hadi bakalım. TikTok Video Cutter Online Free Tool, içerik oluşturmanız için"
 " size bir çözüm sunar. Bu aracı web sitemizde kullanırken"
 
-#: templates/cutter.html:31
+#: templates/cutter.html:30
 msgid ""
 " you people can easily Trim and Cut TikTok Video in your devices for free. "
 "It’s very unique and user friendly tool for everyone."
@@ -272,15 +389,11 @@ msgstr ""
 "Kırpabilir ve Kesebilirsiniz. Herkes için çok benzersiz ve kullanıcı dostu "
 "bir araçtır."
 
-#: templates/cutter.html:39
+#: templates/cutter.html:38 templates/faq.html:92
 msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
 msgstr "Mobil veya PC&#39;de TikTok Videoları Nasıl Kesilir ve Kesilir:"
 
-#: templates/cutter.html:44
-msgid "Go to TikTok official website and copy the video link."
-msgstr "TikTok resmi web sitesine gidin ve video bağlantısını kopyalayın."
-
-#: templates/cutter.html:47
+#: templates/cutter.html:46 templates/faq.html:100
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok Video Cutter."
@@ -288,12 +401,7 @@ msgstr ""
 "Tiksss.com web sitemize gidin ve üst menüde “Araçlar” öğesini göreceksiniz "
 "ve üzerine dokunun ve TikTok Video Cutter&#39;ı seçin."
 
-#: templates/cutter.html:50
-msgid "On the next page paste your video link and click on “Cut Button”."
-msgstr ""
-"Sonraki sayfada video bağlantınızı yapıştırın ve “Kes Düğmesine” tıklayın."
-
-#: templates/cutter.html:53
+#: templates/cutter.html:52 templates/faq.html:106
 msgid ""
 "You will see a player down below. Kindly select the specific part which you "
 "want to cut it from tiktok video."
@@ -301,7 +409,7 @@ msgstr ""
 "Aşağıda bir oyuncu göreceksiniz. Tiktok videosundan kesmek istediğiniz "
 "bölümü seçiniz."
 
-#: templates/cutter.html:56
+#: templates/cutter.html:55 templates/faq.html:109
 msgid ""
 "Now you see two options over here. The first one is to download that "
 "specific cut part of the video in mp4 format or download track in mp3 format"
@@ -311,17 +419,17 @@ msgstr ""
 "kısmını mp4 formatında indirmek veya parçayı videonun o belirli Trim "
 "kısmının mp3 formatında indirmektir."
 
-#: templates/cutter.html:59
+#: templates/cutter.html:58 templates/faq.html:112
 msgid ""
 "Choose one of the given options according to your needs and then proceed it."
 msgstr ""
 "İhtiyaçlarınıza göre verilen seçeneklerden birini seçin ve devam edin."
 
-#: templates/cutter.html:62
+#: templates/cutter.html:61 templates/faq.html:115
 msgid "Now finally click on “Download Button” to download it in your device."
 msgstr "Şimdi nihayet cihazınıza indirmek için “İndir Düğmesine” tıklayın."
 
-#: templates/cutter.html:65
+#: templates/cutter.html:64 templates/faq.html:118
 msgid ""
 "If you like our TikTok Video Cutter and Trimmer Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -374,11 +482,11 @@ msgstr ""
 msgid "How to Download TikTok Videos Online Free?"
 msgstr "TikTok Videoları Çevrimiçi Ücretsiz Nasıl İndirilir?"
 
-#: templates/faq.html:19 templates/index.html:34
+#: templates/faq.html:19 templates/index.html:33
 msgid "Select a video on TikTok which you want to download"
 msgstr "İndirmek istediğiniz TikTok&#39;ta bir video seçin"
 
-#: templates/faq.html:25 templates/index.html:36
+#: templates/faq.html:25 templates/index.html:35
 msgid "Insert the TikTok video link on our website and press \"Search Button\""
 msgstr ""
 "TikTok video bağlantısını web sitemize ekleyin ve &quot;Ara Düğmesine&quot; "
@@ -398,16 +506,16 @@ msgid ""
 " machine"
 msgstr "Videoyu doğrudan makinenize indirebileceğiniz birkaç saniye bekleyin"
 
-#: templates/faq.html:67 templates/without.html:37
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Filigransız Tiktok Videoları Nasıl İndirilir:"
 
-#: templates/faq.html:72 templates/without.html:42
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr ""
 "İndirmek istediğiniz TikTok uygulamasında veya web&#39;de bir video seçin."
 
-#: templates/faq.html:78 templates/without.html:48
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -416,7 +524,7 @@ msgstr ""
 "Filigransız İndir&quot; olan Web Sitesi Aracımıza yapıştırın ve &quot;Ara "
 "Düğmesine&quot; basın."
 
-#: templates/faq.html:84 templates/without.html:54
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -428,7 +536,7 @@ msgstr ""
 msgid "to Mp4 Downloader Online Free"
 msgstr "Mp4 Downloader Online Ücretsiz"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid ""
 "is an amazing tool for TikTok lovers to save TikTok videos to your device "
 "with a single click. This tool designed is very simple and everyone can use "
@@ -457,27 +565,27 @@ msgstr ""
 "uygulamalarında mevcuttur. Soru şu ki, tüm bu video indirme sorunlarının "
 "nasıl çözüleceği. Bu yüzden herkes için kullanımı kolay bir araç yapmaya "
 "karar verdim çünkü ben dahil bu platformda TikTok videolarını mobil veya "
-"dizüstü bilgisayarda izleyen milyonlarca insan var ama indiremiyorlar. Bu "
-"yüzden endişelenme. Bu aracı sadece sizin için yaptım."
+"dizüstü bilgisayarda izlemek için milyonlarca insan var ama indiremiyorlar. "
+"Bu yüzden endişelenme. Bu aracı sadece sizin için yaptım."
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid "I proud myself to introduce an amazing "
 msgstr "Harika bir şeyi tanıtmaktan gurur duyuyorum"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid "web app which allow you to download TikTok videos to mp4 format."
 msgstr ""
 "TikTok videolarını mp4 formatına indirmenize izin veren web uygulaması."
 
-#: templates/index.html:31
+#: templates/index.html:30
 msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
 msgstr "TikTok Videolarını Tiksss.com ile Mp4&#39;e İndirme"
 
-#: templates/index.html:48
+#: templates/index.html:47
 msgid "Introduction of TikTok"
 msgstr "TikTok&#39;un Tanıtımı"
 
-#: templates/index.html:49
+#: templates/index.html:48
 msgid ""
 "Everyone knows that TikTok is very popular right now and with the help of "
 "Tik Tok app. You can create your own videos very easily. TikTok app also "
@@ -488,7 +596,7 @@ msgstr ""
 "oluşturabilirsiniz. TikTok uygulaması ayrıca kendi kullanımınız için içerik "
 "yayınlamak ve oluşturmak için de kullanılır."
 
-#: templates/index.html:50
+#: templates/index.html:49
 msgid ""
 "It’s a Chinese app which also allows you to share your videos on social "
 "media platform, friends and family. TikTok owned by a Chinese company which "
@@ -502,7 +610,7 @@ msgstr ""
 "oluşturma, dans ve seslendirme video kupürleri ile videolar oluşturmak için "
 "kullanmanın temel amacı."
 
-#: templates/index.html:51
+#: templates/index.html:50
 msgid ""
 "If you are a content creator and passionate to produce a unique content to "
 "the customers then this app will helps you a lot to fulfill your dreams come"
@@ -531,43 +639,43 @@ msgstr ""
 "sevdiğiniz videoları cihazlarınıza indirmeniz için size bu harika TikTok Mp4"
 " İndirici aracını vermek için buradayız."
 
-#: templates/index.html:61
+#: templates/index.html:60
 msgid "Unlimited Downloads"
 msgstr "Sınırsız İndirme"
 
-#: templates/index.html:62
+#: templates/index.html:61
 msgid "Download unlimited videos with no limitations."
 msgstr "Sınırsız sınırsız video indirin."
 
-#: templates/index.html:66
+#: templates/index.html:65
 msgid "No Watermark on Videos:"
 msgstr "Videolarda Filigran Yok:"
 
-#: templates/index.html:67
+#: templates/index.html:66
 msgid "Download TikTok videos without watermark with no limits."
-msgstr "TikTok videolarını filigran olmadan sınırsız indirin."
+msgstr "TikTok videolarını filigransız ve limitsiz olarak indirin."
 
-#: templates/index.html:71
+#: templates/index.html:70
 msgid "Mp4 Supported HD:"
 msgstr "Mp4 Desteklenen HD:"
 
-#: templates/index.html:72
+#: templates/index.html:71
 msgid "Download TikTok videos with Mp4 format HD."
 msgstr "TikTok videolarını Mp4 formatında HD olarak indirin."
 
-#: templates/index.html:76
+#: templates/index.html:75
 msgid "Mp3 Support:"
 msgstr "Mp3 Desteği:"
 
-#: templates/index.html:77
+#: templates/index.html:76
 msgid "Easily Convert TikTok to Mp3 with high quality."
 msgstr "TikTok&#39;u yüksek kalitede kolayca Mp3&#39;e dönüştürün."
 
-#: templates/index.html:89
+#: templates/index.html:88
 msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
 msgstr "TikTok Videosunu Mobil Cihazda Mp4 HD Olarak İndirin:"
 
-#: templates/index.html:90
+#: templates/index.html:89
 msgid ""
 "If you want to download and save TikTok videos on your mobile device that "
 "you have to download and install TikTok app and then select your favorite "
@@ -589,11 +697,11 @@ msgstr ""
 "birkaç saniye sürecektir. Cihazınızda video indirmeye başlamak için üzerinde"
 " bir “İndirme Düğmesi” göreceksiniz."
 
-#: templates/index.html:101
+#: templates/index.html:100
 msgid "Download TikTok Video Without Watermark on your Device:"
 msgstr "Cihazınıza Filigransız TikTok Videosunu İndirin:"
 
-#: templates/index.html:102
+#: templates/index.html:101
 msgid ""
 "This method is very unique to get download video without watermark in "
 "original quality. We made this tool very easy and it works smoothly on "
@@ -604,27 +712,27 @@ msgid ""
 "page just paste the link and click “Download Button”. Wait a few seconds to "
 "get start downloading of your video."
 msgstr ""
-"Bu yöntem, orijinal kalitede filigran olmadan video indirmek için çok "
-"benzersizdir. Bu aracı çok kolay hale getirdik ve Windows, Mac OS, Ipad, "
-"Android cihazlarda sorunsuz çalışıyor. Özellikle PC kullanıcıları için "
-"ekstra bir yazılım veya Uygulama yüklemeleri gerekmez ve bu TikTok "
+"Bu yöntem, orijinal kalitede filigran olmadan indirme videosu elde etmek "
+"için çok benzersizdir. Bu aracı çok kolay hale getirdik ve Windows, Mac OS, "
+"Ipad, Android cihazlarda sorunsuz çalışıyor. Özellikle PC kullanıcıları için"
+" ekstra bir yazılım veya Uygulama yüklemeleri gerekmez ve bu TikTok "
 "filigransız video indirme aracının tek özelliği budur. Tiksss.com&#39;a "
 "gidin ve açılır menüyü göreceksiniz, üzerine tıklayın ve “Filigransız” "
 "seçeneğini seçin. Bir sonraki sayfada sadece bağlantıyı yapıştırın ve “İndir"
 " Düğmesine” tıklayın. Videonuzu indirmeye başlamak için birkaç saniye "
 "bekleyin."
 
-#: templates/index.html:119
+#: templates/index.html:118
 msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
 msgstr ""
 "Tiktok&#39;tan MP3&#39;e çevirici çevrimiçi Mobil ve Masaüstü Cihazlar için "
 "Ücretsiz:"
 
-#: templates/index.html:120
+#: templates/index.html:119
 msgid "If you are music lover then you will know the value of this"
 msgstr "Müzik aşığıysanız bunun değerini bileceksiniz."
 
-#: templates/index.html:120
+#: templates/index.html:119
 msgid ""
 "We have made this tool very easy and simple. You people can use this tool on"
 " your preferred devices without any limits. Make sure that you have to "
@@ -640,15 +748,15 @@ msgstr ""
 "ekledik. Lütfen bu aracı sosyal medya yardımıyla arkadaşlarınızla ve aile "
 "üyenizle paylaşın, çünkü bunu kesinlikle beğenecekler ve kullanacaklardır."
 
-#: templates/index.html:128
+#: templates/index.html:127
 msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
 msgstr "Tiktok Video Cutter Online – TikTok Video Trimmer Online Ücretsiz:"
 
-#: templates/index.html:129
+#: templates/index.html:128
 msgid "Here you go. "
 msgstr "Hadi bakalım."
 
-#: templates/index.html:129
+#: templates/index.html:128
 msgid ""
 " provides you a solution for your content creation. While using this tool on"
 " our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
@@ -714,12 +822,12 @@ msgid ""
 "browsing the Website."
 msgstr ""
 "Web Sitemizden bir sayfa talep ettiğinizde, sunucularımız HTTP istek "
-"başlığında, JavaScript&#39;te veya IP numarası, isteğin zamanı, isteğinizin "
-"URL&#39;si ve diğer bilgiler dahil olmak üzere benzer teknik araçlarda "
-"sağlanan bilgileri günlüğe kaydeder. Sunucularımız bu bilgileri size bu Web "
+"başlığında, JavaScript veya benzeri teknik araçlarda sağlanan IP numarası, "
+"isteğin zamanı, isteğinizin URL&#39;si ve diğer bilgiler dahil olmak üzere "
+"bilgileri günlüğe kaydeder. Sunucularımız bu bilgileri size bu Web "
 "Sitesindeki sayfaları sunmak için kullandığından, Web Sitemizin doğru bir "
 "şekilde çalışmasını sağlamak ve Web Sitesinde gördüğünüz işlevselliği "
-"sağlamak için bu bilgileri topluyoruz. Bu bilgileri ayrıca ziyaretçilerin "
+"sağlamak için bu bilgileri topluyoruz. Bu bilgileri ayrıca, ziyaretçilerin "
 "Web Sitemizi nasıl kullandığını ve Web Sitemizi, içeriğini ve işlevselliğini"
 " ihtiyaçlarınızı karşılayacak şekilde nasıl daha iyi ayarlayabileceğimizi "
 "daha iyi anlamak için kullanırız. Ancak bu bilgiler, Web Sitesini gezen "
@@ -738,7 +846,7 @@ msgstr ""
 " sağlayıcısının Web tarayıcınız aracılığıyla (izin verirseniz) "
 "bilgisayarlarınızın sabit diskine aktardığı, sitelerin veya hizmet sağlayıcı"
 " sistemlerinin tarayıcınızı tanımasını ve belirli bilgileri yakalamasını ve "
-"hatırlamasını sağlayan küçük dosyalardır)"
+"hatırlamasını sağlayan küçük dosyalardır."
 
 #: templates/privacypolicy.html:25
 msgid ""
@@ -772,11 +880,11 @@ msgid ""
 "identifiable visitor information may be provided to other parties for "
 "marketing, advertising, or other uses"
 msgstr ""
-"Kişisel olarak tanımlanabilir bilgilerinizi dış taraflara satmayız, "
-"ticaretini yapmayız veya başka bir şekilde aktarmayız. Bu, web sitemizi "
-"işletmemize, işimizi yürütmemize veya size hizmet vermemize yardımcı olan "
-"güvenilir üçüncü tarafları, bu taraflar bu bilgileri gizli tutmayı kabul "
-"ettikleri sürece içermez. Ayrıca, yayınlamanın yasalara uymak, site "
+"Kişisel olarak tanımlanabilir bilgilerinizi dış taraflara satmıyoruz, "
+"ticaretini yapmıyor veya başka bir şekilde devretmiyoruz. Bu, bu taraflar bu"
+" bilgileri gizli tutmayı kabul ettikleri sürece, web sitemizi işletmemize, "
+"işimizi yürütmemize veya size hizmet vermemize yardımcı olan güvenilir "
+"üçüncü tarafları kapsamaz. Ayrıca, yayınlamanın yasalara uymak, site "
 "politikalarımızı uygulamak veya bizim veya başkalarının haklarını, "
 "mülkiyetini veya güvenliğini korumak için uygun olduğuna inandığımızda da "
 "bilgilerinizi yayınlayabiliriz. Ancak, kişisel olarak tanımlanamayan "
@@ -854,8 +962,8 @@ msgid ""
 msgstr ""
 "Bu Gizlilik Politikasında kullanılan terimler, bu Gizlilik Politikasında "
 "aksi belirtilmedikçe, TIKSSS Video İndirici ve TikTok için Mp3 "
-"Dönüştürücü&#39;den erişilebilen Hüküm ve Koşullarımızdakiyle aynı anlamlara"
-" sahiptir."
+"Dönüştürücü&#39;den erişilebilen Hüküm ve Koşullarımızdaki ile aynı "
+"anlamlara sahiptir."
 
 #: templates/privacypolicy.html:42
 msgid "Information we collect"
@@ -868,7 +976,7 @@ msgid ""
 "you to provide your personal information"
 msgstr ""
 "Sizden istenen kişisel bilgiler ve neden vermenizin istendiği, kişisel "
-"bilgilerinizi vermenizi istediğimiz noktada size açıklığa kavuşturulacaktır."
+"bilgilerinizi vermenizi istediğimiz noktada size net olarak açıklanacaktır."
 
 #: templates/privacypolicy.html:44
 msgid ""
@@ -1328,13 +1436,13 @@ msgstr ""
 "&quot;Şirket&quot;, &quot;Kendimiz&quot;, &quot;Biz&quot;, &quot;Bizim&quot;"
 " ve &quot;Biz&quot;, Şirket&#39;i ifade eder. &quot;Taraf&quot;, "
 "&quot;Taraflar&quot; veya &quot;Biz&quot;, hem Müşteriyi hem de kendimizi "
-"ifade eder. Tüm şartlar, Müşteri&#39;nin Şirketin belirtilen hizmetlerinin "
+"ifade eder. Tüm şartlar, Müşteriye Şirketin belirtilen hizmetlerinin "
 "sağlanmasına ilişkin ihtiyaçlarının açık bir şekilde karşılanması amacıyla "
-"Müşteri&#39;ye yardım sürecini en uygun şekilde gerçekleştirmek için gerekli"
-" ödemenin kabulünü ve değerlendirilmesini ifade eder. , Hollanda&#39;nın "
-"geçerli kanunu. Yukarıdaki terminolojinin veya diğer kelimelerin tekil, "
-"çoğul, büyük harf kullanımı ve/veya kendisi veya bunlar birbirinin yerine "
-"kullanılabilir ve dolayısıyla aynı anlama gelir."
+"Müşteriye yardım sürecini en uygun şekilde üstlenmek için gerekli ödemenin "
+"kabulü ve değerlendirilmesi anlamına gelir. , Hollanda&#39;nın geçerli "
+"kanunu. Yukarıdaki terminolojinin veya diğer kelimelerin tekil, çoğul, büyük"
+" harf kullanımı ve/veya kendisi veya bunlar birbirinin yerine kullanılabilir"
+" ve dolayısıyla aynı anlama gelir."
 
 #: templates/tandc.html:16
 msgid ""
@@ -1457,8 +1565,9 @@ msgid ""
 "The Comments do not contain any defamatory, libelous, offensive, indecent or"
 " otherwise unlawful material which is an invasion of privacy"
 msgstr ""
-"Yorumlar, mahremiyeti ihlal eden, karalayıcı, karalayıcı, saldırgan, "
-"uygunsuz veya başka bir şekilde yasa dışı materyal içermemektedir."
+"Yorumlar, mahremiyeti ihlal eden herhangi bir karalayıcı, iftira "
+"niteliğinde, saldırgan, uygunsuz veya başka türlü yasa dışı materyal "
+"içermemektedir."
 
 #: templates/tandc.html:50
 msgid ""
@@ -1676,7 +1785,7 @@ msgid ""
 msgstr ""
 "Web Sitenizde görünen herhangi bir içerikten sorumlu tutulamayız. Web "
 "Sitenizde ortaya çıkan tüm iddialara karşı bizi korumayı ve savunmayı kabul "
-"ediyorsunuz. Herhangi bir Web sitesinde iftira niteliğinde, müstehcen veya "
+"ediyorsunuz. Herhangi bir Web Sitesinde, iftira niteliğinde, müstehcen veya "
 "suçlu olarak yorumlanabilecek veya herhangi bir üçüncü taraf hakkını ihlal "
 "eden, başka bir şekilde ihlal eden veya ihlal veya diğer ihlalleri savunan "
 "hiçbir bağlantı görünmemelidir."
@@ -1719,7 +1828,7 @@ msgid ""
 "are free to contact and inform us any moment. We will consider requests to "
 "remove links but we are not obligated to or so or to respond to you directly"
 msgstr ""
-"Web Sitemizde herhangi bir nedenle saldırgan bir bağlantı bulursanız, "
+"Web Sitemizde herhangi bir nedenle rahatsız edici bir bağlantı bulursanız, "
 "istediğiniz zaman bizimle iletişime geçebilir ve bizi "
 "bilgilendirebilirsiniz. Bağlantıları kaldırma isteklerini dikkate alacağız, "
 "ancak size doğrudan yanıt vermekle yükümlü değiliz."
@@ -1789,9 +1898,9 @@ msgid ""
 msgstr ""
 "Bu Bölümde ve bu sorumluluk reddinin başka yerlerinde belirtilen sorumluluk "
 "sınırlamaları ve yasakları: (a) önceki paragrafa tabidir; ve (b) "
-"sözleşmeden, haksız fiilden ve kanuni görevin ihlalinden doğan yükümlülükler"
-" de dahil olmak üzere, sorumluluk reddinden doğan tüm yükümlülükleri "
-"yönetir."
+"sözleşmeden, haksız fiilden ve yasal yükümlülüğün ihlalinden doğan "
+"yükümlülükler dahil olmak üzere, sorumluluk reddinden doğan tüm "
+"yükümlülükleri yönetir."
 
 #: templates/tandc.html:143
 msgid ""
@@ -1806,11 +1915,11 @@ msgstr ""
 msgid "Video Without Watermark"
 msgstr "Filigransız Video"
 
-#: templates/without.html:29
+#: templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "Filigran Olmadan TikTok Videosunu Çevrimiçi Ücretsiz İndirin:"
 
-#: templates/without.html:30
+#: templates/without.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1820,13 +1929,13 @@ msgid ""
 "watermark video download tool. Go to"
 msgstr ""
 "Filigransız veya Filigransız TikTok Videolarını İndirin. Bu yöntem, orijinal"
-" kalitede filigran olmadan video indirmek için çok benzersizdir. Bu aracı "
-"çok kolay hale getirdik ve Windows, Mac OS, Ipad, Android cihazlarda "
-"sorunsuz çalışıyor. Özellikle PC kullanıcıları için ekstra bir yazılım veya "
-"Uygulama yüklemeleri gerekmez ve bu TikTok filigransız video indirme "
-"aracının tek özelliği budur. git"
+" kalitede filigran olmadan indirme videosu elde etmek için çok benzersizdir."
+" Bu aracı çok kolay hale getirdik ve Windows, Mac OS, Ipad, Android "
+"cihazlarda sorunsuz çalışıyor. Özellikle PC kullanıcıları için ekstra bir "
+"yazılım veya Uygulama yüklemeleri gerekmez ve bu TikTok filigransız video "
+"indirme aracının tek özelliği budur. git"
 
-#: templates/without.html:30
+#: templates/without.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -1841,67 +1950,67 @@ msgstr ""
 "Sayfasını ziyaret edebilir ve en sevdiğiniz videoyu 10 saniyeden daha kısa "
 "sürede indirebilirsiniz."
 
-#: templates/without.html:34
+#: templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "Sıkça Sorulan Sorular"
 
-#: tiktok/settings.py:138
+#: tiktok/settings.py:144
 msgid "English"
 msgstr "ingilizce"
 
-#: tiktok/settings.py:139
+#: tiktok/settings.py:145
 msgid "Italian"
 msgstr "İtalyan"
 
-#: tiktok/settings.py:140
+#: tiktok/settings.py:146
 msgid "Polish"
 msgstr "Lehçe"
 
-#: tiktok/settings.py:141
+#: tiktok/settings.py:147
 msgid "French"
 msgstr "Fransızca"
 
-#: tiktok/settings.py:142
+#: tiktok/settings.py:148
 msgid "German"
 msgstr "Almanca"
 
-#: tiktok/settings.py:143
+#: tiktok/settings.py:149
 msgid "Spanish"
 msgstr "İspanyol"
 
-#: tiktok/settings.py:144
+#: tiktok/settings.py:150
 msgid "Indonesian"
 msgstr "Endonezya dili"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:151
 msgid "Japanese"
 msgstr "Japonca"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:152
 msgid "Korean"
 msgstr "Koreli"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:153
 msgid "Portuguese"
 msgstr "Portekizce"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:154
 msgid "Russian"
 msgstr "Rusça"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:155
 msgid "Arabic"
 msgstr "Arapça"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:156
 msgid "Turkish"
 msgstr "Türk"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:157
 msgid "Thai"
 msgstr "Tay"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:158
 msgid "Vietnamese"
 msgstr "Vietnam"
 
@@ -2037,7 +2146,7 @@ msgid_plural ""
 "%(show_value)d)."
 msgstr[0] ""
 "Bu değerin en fazla %(limit_value)d karakterine sahip olduğundan emin olun ("
-" %(show_value)ddeğerine sahiptir)."
+" %(show_value)diçerir)."
 msgstr[1] ""
 "Bu değerin en fazla %(limit_value)d karaktere sahip olduğundan emin olun ( "
 "%(show_value)diçerir)."
@@ -3211,4 +3320,4 @@ msgstr "pw-algoritması için desteklenmeyen değer: %s."
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
 msgid "Redirected but the response is missing a Location: header."
-msgstr "Yönlendirildi ancak yanıtta Location: başlığı eksik."
+msgstr "Yönlendirildi ancak yanıtta bir Konum: başlığı eksik."

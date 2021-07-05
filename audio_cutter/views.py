@@ -10,10 +10,10 @@ import uuid
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Create your views here.
-def cutter(request):
-    return render(request, 'cutter.html')
+def audio_cutter(request):
+    return render(request, 'audio_cutter.html')
 
-def download3(request):
+def download5(request):
     if request.method == "POST":
         global url
         global rtr
@@ -31,7 +31,7 @@ def download3(request):
     else:
         return HttpResponse('Something went Wrong')
 
-def download4(request):
+def download6(request):
     if request.method == "POST":
         global tt2
         global tt1
@@ -39,17 +39,20 @@ def download4(request):
         tt1 = int(t1)
         t2 = request.POST.get('t2')
         tt2 = int(t2)
-        context = {'t1': tt1, 't2': tt2, 'rtr': rtr}
+        context = {'t1': tt1, 't2': tt2, 'rtr': rtr,}
         r = uuid.uuid4()
-        file_hello = f"tiksss.com_{r}.mp4"
+        file_hello = f"tiksss.com_{r}.mp3"
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
         ffmpeg_extract_subclip(filename=rtr, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
 
-        with open(os.path.join(BASE_DIR+"/video_cut",filename+'.mp4'), 'rb') as f:
+        clip = VideoFileClip(os.path.join(BASE_DIR+"/video_cut",filename+'.mp4'))
+        clip.audio.write_audiofile(os.path.join(BASE_DIR+"/audio_cut",filename+'.mp3'))
+
+        with open(os.path.join(BASE_DIR+"/audio_cut",filename+'.mp3'), 'rb') as f:
             data = f.read()
 
-        response = HttpResponse(data, content_type='application/vnd.mp4')
+        response = HttpResponse(data, content_type='application/audio.mp3')
         response['Content-Disposition'] = "attachment; filename=%s" % file_hello
         return response
     else:
-        return render(request, 'cutter.html')
+        return render(request, 'download5.html')

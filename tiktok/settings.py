@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'video',
     'without',
     'cutter',
+    'audio_cutter',
     'autotranslate',
     'django.contrib.sitemaps',
 ]

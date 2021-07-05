@@ -1,10 +1,10 @@
 {% extends 'base.html' %}
 {% load static %}
 {% load i18n %}
-{% block title %}{% trans 'TikTok Video Cutter Online Free – Tiksss.com' %} {% endblock %}
+{% block title %}{% trans 'TikTok Mp3 Cutter Online Free - Tiksss.com' %} {% endblock %}
 {% block desc %}
 <meta name="description"
-    content="{% trans 'TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. Cut and Trim TikTok Videos Online Free.' %}" />
+    content="{% trans 'TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online free. Cut and Trim TikTok Videos Online Free.' %}" />
 {% endblock %}
 {% block body %}
 
@@ -17,7 +17,7 @@
     </center>
     <center>
     <div class="form_style_trim">
-        <form class="video-form" method="POST" action="{% url 'down4' %}">
+        <form class="video-form" method="POST" action="{% url 'down6' %}">
             {% csrf_token %}
             <input type="text" placeholder="Start time: 0" name="t1">
             <input type="text" placeholder="End time: n" name="t2">

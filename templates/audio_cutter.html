@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'TikTok Mp3 Cutter Online Free - Tiksss.com' %} {% endblock %}
+{% block desc %}
+<meta name="description"
+    content="{% trans 'TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online free. Cut and Trim TikTok Videos Online Free.' %}" />
+{% endblock %}
+{% block body %}
+
+<!-- Hero Section -->
+<div class="hero" id="home">
+    <div class="hero__container">
+        <h1 class="hero__heading"><span>TikTok </span>{% trans 'TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online Free Tool' %}:</h1>
+        <p class="hero__description">{% trans 'Enter the URL Here and wait for 10 - 15 Seconds.' %}</p>
+        <center>
+            <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
+        </center>
+    </div>
+
+    <form class="example" method="POST" action="{% url 'down5' %}">
+        <input type="text" placeholder="Enter Video URL" aria-describedby="url" name="url" required>
+        <input type="hidden" name="todo" value="1">
+        <button type="submit" onclick="show()">{% trans 'Search' %}</button>
+    </form>
+
+</div>
+
+<div class="about_tiktok">
+    <p>{% trans 'Here is the special and unique tool which is called "TikTok Mp3 Cutter Online".'%}<a href="{% url 'index' %}" style="color: #ee0979;"> Tiksss.com </a>{% trans 'Introduced this tool to our valuable users because we know how much needy this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you a very simple solution for your content. With the help of this amazing tool, You people can easily convert and Cut TikTok Video to Mp3 With a single click. Its totally free for everyone to use it on our website and this tool is super fast on every device which you used in your daily life.' %}
+    </p>
+</div>
+
+<div class="faq" id="faq" style="margin-top: -100px;">
+    <h1>{% trans 'Frequently Asked Questions' %} </h1>
+    <div class="faq__main">
+        <button class="accordion">
+            <h2>{% trans 'How To Cut and Trim TikTok Video To Mp3 Online Free' %}   <i class="fas fa-plus"></i></h2>
+        </button>
+        <div class="panel">
+            <ol style="margin-left: 20px;">
+                <li>
+                    <p>{% trans 'Go to TikTok official website and copy the video link.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on it and select "TikTok Mp3 Cutter"' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'On the next page paste your video link and click on “Cut Button”.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'Choose the time duration from given down below option to Cut Your TikTok video To Mp3 and after that the converting process will start and it will be available in few seconds.' %}</p>
+                </li>
+                <li>
+                    <p>{% trans 'If you like our TikTok Mp3 Cutter and Converter Tool and services than Kindly share our website with your friends and family members. Thanks!' %}</p>
+                </li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    function show() {
+        document.getElementById("myDiv").style.display = "block";
+        setTimeout("hide()", 500000);  // 5 seconds
+    }
+
+    function hide() {
+        document.getElementById("myDiv").style.display = "none";
+    }
+
+</script>
+
+
+
+{% endblock %}

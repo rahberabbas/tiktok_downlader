@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-28 19:37+0000\n"
+"POT-Creation-Date: 2021-07-06 02:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,7 +96,8 @@ msgstr ""
 " Tercepat Kami untuk Mengonversi Video Tiktok ke Format Mp3 untuk Pecinta "
 "Tiktok yang benar-benar gratis."
 
-#: templates/audio.html:14 templates/without.html:13
+#: templates/audio.html:14 templates/audio.html:24 templates/index.html:21
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "Unduh"
 
@@ -104,21 +105,15 @@ msgstr "Unduh"
 msgid "Audio"
 msgstr "audio"
 
-#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
-#: templates/without.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "Masukkan URL Di Sini"
 
-#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
-#: templates/without.html:24
-msgid "Search"
-msgstr "Cari"
-
-#: templates/audio.html:31
+#: templates/audio.html:30
 msgid "TikTok to Mp3 Converter Online Free"
 msgstr "Konverter TikTok ke Mp3 Online Gratis"
 
-#: templates/audio.html:32
+#: templates/audio.html:31
 msgid ""
 "If you are music lover then you will know the value of this TikTok to Mp3 "
 "Converter Online Tool. We have made this tool very easy and simple. You "
@@ -139,12 +134,12 @@ msgstr ""
 "menyukai dan menggunakan ini. Untuk Info lebih lanjut kunjungi Situs Web "
 "kami"
 
-#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
-#: templates/index.html:29
+#: templates/audio.html:35 templates/audio_cutter.html:35
+#: templates/cutter.html:35 templates/faq.html:9 templates/index.html:28
 msgid "Frequently Asked Questions"
 msgstr "Pertanyaan yang Sering Diajukan"
 
-#: templates/audio.html:39
+#: templates/audio.html:38
 msgid ""
 "How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
 " to Mp3 Online Free:"
@@ -152,18 +147,18 @@ msgstr ""
 "Cara Mengonversi Tiktok ke Mp3 Online Gratis dengan Kualitas Tinggi – Unduh "
 "TikTok ke Mp3 Online Gratis:"
 
-#: templates/audio.html:45 templates/faq.html:44
+#: templates/audio.html:43 templates/faq.html:44
 msgid ""
 "Select a video URL on TikTok which you want to convert into mp3 format."
 msgstr "Pilih URL video di TikTok yang ingin Anda ubah menjadi format mp3."
 
-#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+#: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Salin tautan video yang dipilih di smartphone / komputer atau Laptop Anda"
 
-#: templates/audio.html:51 templates/faq.html:50
+#: templates/audio.html:49 templates/faq.html:50
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok to Mp3 Converter."
@@ -171,17 +166,17 @@ msgstr ""
 "Buka situs web kami Tiksss.com dan di menu atas Anda akan melihat "
 "&quot;Alat&quot; ketuk di atasnya dan pilih TikTok to Mp3 Converter."
 
-#: templates/audio.html:54 templates/faq.html:53
+#: templates/audio.html:52 templates/faq.html:53
 msgid "Insert the TikTok video link in the field and press \"Convert Button\""
 msgstr ""
 "Masukkan tautan video TikTok di bidang dan tekan &quot;Tombol Konversi&quot;"
 
-#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:37 templates/without.html:51
+#: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Sekarang Anda akan melihat tombol unduh, klik unduh."
 
-#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+#: templates/audio.html:58 templates/faq.html:31 templates/index.html:37
 msgid ""
 "Just wait a few seconds in which you can download the video directly in your"
 " machine."
@@ -189,8 +184,8 @@ msgstr ""
 "Tunggu beberapa detik di mana Anda dapat mengunduh video langsung di mesin "
 "Anda."
 
-#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+#: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -198,43 +193,167 @@ msgstr ""
 "Jika Anda menyukai alat dan layanan kami, silakan bagikan situs web kami "
 "dengan teman dan anggota keluarga Anda. Terima kasih!"
 
-#: templates/base.html:28
+#: templates/audio_cutter.html:4
+#, fuzzy
+#| msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter Online Gratis - Tiksss.com"
+
+#: templates/audio_cutter.html:7
+#, fuzzy
+#| msgid ""
+#| "TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+#| "Cut and Trim TikTok Videos Online Free."
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"Alat Pemotong Online TikTok Mp3 Gratis. Cara Memotong Video TikTok ke Mp3 "
+"online gratis. Potong dan Pangkas Video TikTok Online Gratis."
+
+#: templates/audio_cutter.html:14
+#, fuzzy
+#| msgid ""
+#| "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgid ""
+"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
+"Free Tool"
+msgstr ""
+"Pemotong dan Konverter Mp3 TikTok Online - Pangkas Video TikTok Ke Alat Mp3 "
+"Online Gratis"
+
+#: templates/audio_cutter.html:15 templates/cutter.html:15
+#: templates/without.html:14
+msgid "Enter the URL Here and wait for 10 - 15 Seconds."
+msgstr "Masukkan URL Di Sini dan tunggu selama 10 - 15 Detik."
+
+#: templates/audio_cutter.html:24 templates/cutter.html:24
+msgid "Search"
+msgstr "Cari"
+
+#: templates/audio_cutter.html:30
+msgid ""
+"Here is the special and unique tool which is called \"TikTok Mp3 Cutter "
+"Online\"."
+msgstr ""
+"Ini adalah alat khusus dan unik yang disebut &quot;TikTok Mp3 Cutter "
+"Online&quot;."
+
+#: templates/audio_cutter.html:30
+msgid ""
+"Introduced this tool to our valuable users because we know how much needy "
+"this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you "
+"a very simple solution for your content. With the help of this amazing tool,"
+" You people can easily convert and Cut TikTok Video to Mp3 With a single "
+"click. Its totally free for everyone to use it on our website and this tool "
+"is super fast on every device which you used in your daily life."
+msgstr ""
+"Memperkenalkan alat ini kepada pengguna kami yang berharga karena kami tahu "
+"betapa membutuhkan alat ini di dunia saat ini. Alat Konverter Pemangkas Mp3 "
+"TikTok memberi Anda solusi yang sangat sederhana untuk konten Anda. Dengan "
+"bantuan alat luar biasa ini, Anda dapat dengan mudah mengonversi dan "
+"Memotong Video TikTok ke Mp3 Dengan satu klik. Ini benar-benar gratis bagi "
+"semua orang untuk menggunakannya di situs web kami dan alat ini sangat cepat"
+" di setiap perangkat yang Anda gunakan dalam kehidupan sehari-hari."
+
+#: templates/audio_cutter.html:38
+#, fuzzy
+#| msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgid "How To Cut and Trim TikTok Video To Mp3 Online Free"
+msgstr "Cara Memotong dan Memangkas Video TikTok Ke Mp3 Online Gratis"
+
+#: templates/audio_cutter.html:43 templates/cutter.html:43
+#: templates/faq.html:97
+msgid "Go to TikTok official website and copy the video link."
+msgstr "Buka situs web resmi TikTok dan salin tautan videonya."
+
+#: templates/audio_cutter.html:46
+#, fuzzy
+#| msgid ""
+#| "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+#| " it and select TikTok Video Cutter."
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on"
+" it and select \"TikTok Mp3 Cutter\""
+msgstr ""
+"Buka situs web kami Tiksss.com dan di menu atas Anda akan melihat Alatî "
+"ketuk di atasnya dan pilih &quot;TikTok Mp3 Cutter&quot;"
+
+#: templates/audio_cutter.html:49 templates/cutter.html:49
+#: templates/faq.html:103
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr ""
+"Pada halaman berikutnya rekatkan tautan video Anda dan klik &quot;Potong "
+"Tombol&quot;."
+
+#: templates/audio_cutter.html:52
+msgid ""
+"Choose the time duration from given down below option to Cut Your TikTok "
+"video To Mp3 and after that the converting process will start and it will be"
+" available in few seconds."
+msgstr ""
+"Pilih durasi waktu dari opsi yang diberikan di bawah ini untuk Memotong "
+"video TikTok Anda Menjadi Mp3 dan setelah itu proses konversi akan dimulai "
+"dan akan tersedia dalam beberapa detik."
+
+#: templates/audio_cutter.html:55
+#, fuzzy
+#| msgid ""
+#| "If you like our TikTok Video Cutter and Trimmer Tool and services than "
+#| "Kindly share our website with your friends and family members. Thanks!"
+msgid ""
+"If you like our TikTok Mp3 Cutter and Converter Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"Jika Anda menyukai Alat dan Layanan Pemotong dan Konverter TikTok Mp3 kami, "
+"silakan bagikan situs web kami dengan teman dan anggota keluarga Anda. "
+"Terima kasih!"
+
+#: templates/base.html:38
 msgid "Home"
 msgstr "Rumah"
 
-#: templates/base.html:30 templates/base.html:32
+#: templates/base.html:40 templates/base.html:42
 msgid "Tools"
 msgstr "Alat"
 
-#: templates/base.html:34
+#: templates/base.html:44
 msgid "Download With Watermark"
 msgstr "Unduh Dengan Tanda Air"
 
-#: templates/base.html:37
+#: templates/base.html:47
 msgid "Download Without Watermark"
 msgstr "Unduh Tanpa Tanda Air"
 
-#: templates/base.html:38
+#: templates/base.html:48
 msgid "Download Audio"
 msgstr "Unduh Audio"
 
-#: templates/base.html:39
-msgid "Audio/Video Cutter"
-msgstr "Pemotong Audio/Video"
+#: templates/base.html:49
+#, fuzzy
+#| msgid "Audio/Video Cutter"
+msgid "Video Cutter"
+msgstr "Pemotong Video"
 
-#: templates/base.html:43
+#: templates/base.html:50
+#, fuzzy
+#| msgid "Audio/Video Cutter"
+msgid "Audio Cutter"
+msgstr "Pemotong Audio"
+
+#: templates/base.html:54
 msgid "About"
 msgstr "Tentang"
 
-#: templates/base.html:76 templates/privacypolicy.html:10
+#: templates/base.html:108 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Kebijakan pribadi"
 
-#: templates/base.html:79 templates/tandc.html:10
+#: templates/base.html:111 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Syarat dan ketentuan"
 
-#: templates/base.html:82
+#: templates/base.html:114
 msgid "FAQ"
 msgstr "FAQ"
 
@@ -254,7 +373,7 @@ msgstr ""
 msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
 msgstr "Pemotong Video Online – Pemangkas Video TikTok Online Gratis"
 
-#: templates/cutter.html:31
+#: templates/cutter.html:30
 msgid ""
 "Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
 "for your content creation. While using this tool on our website "
@@ -262,7 +381,7 @@ msgstr ""
 "Ini dia. Alat Pemotong Video Online TikTok Gratis memberi Anda solusi untuk "
 "pembuatan konten Anda. Saat menggunakan alat ini di situs web kami"
 
-#: templates/cutter.html:31
+#: templates/cutter.html:30
 msgid ""
 " you people can easily Trim and Cut TikTok Video in your devices for free. "
 "It’s very unique and user friendly tool for everyone."
@@ -271,15 +390,11 @@ msgstr ""
 "perangkat Anda secara gratis. Ini adalah alat yang sangat unik dan ramah "
 "pengguna untuk semua orang."
 
-#: templates/cutter.html:39
+#: templates/cutter.html:38 templates/faq.html:92
 msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
 msgstr "Cara Memotong dan Memangkas Video TikTok di Ponsel atau PC:"
 
-#: templates/cutter.html:44
-msgid "Go to TikTok official website and copy the video link."
-msgstr "Buka situs web resmi TikTok dan salin tautan videonya."
-
-#: templates/cutter.html:47
+#: templates/cutter.html:46 templates/faq.html:100
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok Video Cutter."
@@ -287,13 +402,7 @@ msgstr ""
 "Buka situs web kami Tiksss.com dan di menu atas Anda akan melihat "
 "&quot;Alat&quot; ketuk di atasnya dan pilih Pemotong Video TikTok."
 
-#: templates/cutter.html:50
-msgid "On the next page paste your video link and click on “Cut Button”."
-msgstr ""
-"Pada halaman berikutnya rekatkan tautan video Anda dan klik &quot;Potong "
-"Tombol&quot;."
-
-#: templates/cutter.html:53
+#: templates/cutter.html:52 templates/faq.html:106
 msgid ""
 "You will see a player down below. Kindly select the specific part which you "
 "want to cut it from tiktok video."
@@ -301,7 +410,7 @@ msgstr ""
 "Anda akan melihat seorang pemain di bawah. Silakan pilih bagian tertentu "
 "yang ingin Anda potong dari video tiktok."
 
-#: templates/cutter.html:56
+#: templates/cutter.html:55 templates/faq.html:109
 msgid ""
 "Now you see two options over here. The first one is to download that "
 "specific cut part of the video in mp4 format or download track in mp3 format"
@@ -311,20 +420,20 @@ msgstr ""
 " tertentu dari video dalam format mp4 atau mengunduh trek dalam format mp3 "
 "dari bagian tertentu dari video tersebut."
 
-#: templates/cutter.html:59
+#: templates/cutter.html:58 templates/faq.html:112
 msgid ""
 "Choose one of the given options according to your needs and then proceed it."
 msgstr ""
 "Pilih salah satu opsi yang diberikan sesuai dengan kebutuhan Anda dan "
 "kemudian lanjutkan."
 
-#: templates/cutter.html:62
+#: templates/cutter.html:61 templates/faq.html:115
 msgid "Now finally click on “Download Button” to download it in your device."
 msgstr ""
 "Sekarang akhirnya klik &quot;Unduh Tombol&quot; untuk mengunduhnya di "
 "perangkat Anda."
 
-#: templates/cutter.html:65
+#: templates/cutter.html:64 templates/faq.html:118
 msgid ""
 "If you like our TikTok Video Cutter and Trimmer Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -377,11 +486,11 @@ msgstr ""
 msgid "How to Download TikTok Videos Online Free?"
 msgstr "Bagaimana Cara Mengunduh Video TikTok Online Gratis?"
 
-#: templates/faq.html:19 templates/index.html:34
+#: templates/faq.html:19 templates/index.html:33
 msgid "Select a video on TikTok which you want to download"
 msgstr "Pilih video di TikTok yang ingin Anda unduh"
 
-#: templates/faq.html:25 templates/index.html:36
+#: templates/faq.html:25 templates/index.html:35
 msgid "Insert the TikTok video link on our website and press \"Search Button\""
 msgstr ""
 "Masukkan tautan video TikTok di situs web kami dan tekan &quot;Tombol "
@@ -403,15 +512,15 @@ msgstr ""
 "Tunggu beberapa detik di mana Anda dapat mengunduh video langsung di mesin "
 "Anda"
 
-#: templates/faq.html:67 templates/without.html:37
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Cara Mengunduh Video Tiktok tanpa Tanda Air:"
 
-#: templates/faq.html:72 templates/without.html:42
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "Pilih video di aplikasi atau web TikTok yang ingin Anda unduh."
 
-#: templates/faq.html:78 templates/without.html:48
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -420,7 +529,7 @@ msgstr ""
 "&quot;Unduh Video Tiktok Tanpa tanda air&quot; dan tekan &quot;Tombol "
 "Cari&quot;."
 
-#: templates/faq.html:84 templates/without.html:54
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -432,7 +541,7 @@ msgstr ""
 msgid "to Mp4 Downloader Online Free"
 msgstr "ke Pengunduh Mp4 Online Gratis"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid ""
 "is an amazing tool for TikTok lovers to save TikTok videos to your device "
 "with a single click. This tool designed is very simple and everyone can use "
@@ -451,7 +560,7 @@ msgid ""
 msgstr ""
 "adalah alat luar biasa bagi pecinta TikTok untuk menyimpan video TikTok ke "
 "perangkat Anda dengan satu klik. Alat ini dirancang sangat sederhana dan "
-"semua orang dapat menggunakannya dengan mudah tanpa kerumitan. Kami semua "
+"semua orang dapat menggunakannya dengan mudah tanpa kesulitan. Kami semua "
 "suka menonton video Tik Tok di perangkat kami yang tetap ada di log kami "
 "jika kami ingin melihat video itu lagi, tetapi saya telah mengalami bahwa "
 "video tidak lagi tersedia dan hilang karena umpan balik luar biasa yang "
@@ -466,24 +575,24 @@ msgstr ""
 "khawatir tentang hal itu. Saya telah membuat alat ini untuk Anda orang-orang"
 " hanya untuk"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid "I proud myself to introduce an amazing "
 msgstr "Saya bangga memperkenalkan diri saya yang luar biasa"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid "web app which allow you to download TikTok videos to mp4 format."
 msgstr ""
 "aplikasi web yang memungkinkan Anda mengunduh video TikTok ke format mp4."
 
-#: templates/index.html:31
+#: templates/index.html:30
 msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
 msgstr "Cara Mengunduh Video TikTok ke Mp4 dengan Tiksss.com"
 
-#: templates/index.html:48
+#: templates/index.html:47
 msgid "Introduction of TikTok"
 msgstr "Pengenalan TikTok"
 
-#: templates/index.html:49
+#: templates/index.html:48
 msgid ""
 "Everyone knows that TikTok is very popular right now and with the help of "
 "Tik Tok app. You can create your own videos very easily. TikTok app also "
@@ -494,7 +603,7 @@ msgstr ""
 " Aplikasi TikTok juga digunakan untuk streaming dan membuat konten untuk "
 "Anda gunakan sendiri."
 
-#: templates/index.html:50
+#: templates/index.html:49
 msgid ""
 "It’s a Chinese app which also allows you to share your videos on social "
 "media platform, friends and family. TikTok owned by a Chinese company which "
@@ -508,7 +617,7 @@ msgstr ""
 "utama menggunakan aplikasi ini untuk membuat video dengan lisping, kreasi "
 "musik pendek, tarian dan kliping video sulih suara."
 
-#: templates/index.html:51
+#: templates/index.html:50
 msgid ""
 "If you are a content creator and passionate to produce a unique content to "
 "the customers then this app will helps you a lot to fulfill your dreams come"
@@ -538,43 +647,43 @@ msgstr ""
 "Pengunduh Mp4 TikTok yang luar biasa ini untuk mengunduh video favorit di "
 "perangkat Anda."
 
-#: templates/index.html:61
+#: templates/index.html:60
 msgid "Unlimited Downloads"
 msgstr "Unduhan Tidak Terbatas"
 
-#: templates/index.html:62
+#: templates/index.html:61
 msgid "Download unlimited videos with no limitations."
 msgstr "Unduh video tanpa batas tanpa batasan."
 
-#: templates/index.html:66
+#: templates/index.html:65
 msgid "No Watermark on Videos:"
 msgstr "Tidak Ada Tanda Air pada Video:"
 
-#: templates/index.html:67
+#: templates/index.html:66
 msgid "Download TikTok videos without watermark with no limits."
 msgstr "Unduh video TikTok tanpa tanda air tanpa batas."
 
-#: templates/index.html:71
+#: templates/index.html:70
 msgid "Mp4 Supported HD:"
 msgstr "Mp4 Didukung HD:"
 
-#: templates/index.html:72
+#: templates/index.html:71
 msgid "Download TikTok videos with Mp4 format HD."
 msgstr "Unduh video TikTok dengan format Mp4 HD."
 
-#: templates/index.html:76
+#: templates/index.html:75
 msgid "Mp3 Support:"
 msgstr "Dukungan Mp3:"
 
-#: templates/index.html:77
+#: templates/index.html:76
 msgid "Easily Convert TikTok to Mp3 with high quality."
 msgstr "Konversikan TikTok ke Mp3 dengan mudah dengan kualitas tinggi."
 
-#: templates/index.html:89
+#: templates/index.html:88
 msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
 msgstr "Unduh Video TikTok ke Mp4 HD Di Perangkat Seluler:"
 
-#: templates/index.html:90
+#: templates/index.html:89
 msgid ""
 "If you want to download and save TikTok videos on your mobile device that "
 "you have to download and install TikTok app and then select your favorite "
@@ -597,11 +706,11 @@ msgstr ""
 "diunduh. Anda akan melihat &quot;Tombol Unduh&quot; untuk memulai "
 "pengunduhan video di perangkat Anda."
 
-#: templates/index.html:101
+#: templates/index.html:100
 msgid "Download TikTok Video Without Watermark on your Device:"
 msgstr "Unduh Video TikTok Tanpa Tanda Air di Perangkat Anda:"
 
-#: templates/index.html:102
+#: templates/index.html:101
 msgid ""
 "This method is very unique to get download video without watermark in "
 "original quality. We made this tool very easy and it works smoothly on "
@@ -622,16 +731,16 @@ msgstr ""
 "berikutnya cukup tempel tautan dan klik &quot;Tombol Unduh&quot;. Tunggu "
 "beberapa detik untuk mulai mengunduh video Anda."
 
-#: templates/index.html:119
+#: templates/index.html:118
 msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
 msgstr ""
 "Konverter Tiktok ke MP3 online Gratis untuk Perangkat seluler dan Desktop:"
 
-#: templates/index.html:120
+#: templates/index.html:119
 msgid "If you are music lover then you will know the value of this"
 msgstr "Jika Anda pecinta musik maka Anda akan tahu nilai ini"
 
-#: templates/index.html:120
+#: templates/index.html:119
 msgid ""
 "We have made this tool very easy and simple. You people can use this tool on"
 " your preferred devices without any limits. Make sure that you have to "
@@ -647,15 +756,15 @@ msgstr ""
 "Silakan bagikan alat ini dengan teman dan anggota keluarga Anda dengan "
 "bantuan media sosial karena mereka pasti akan menyukai dan menggunakan ini."
 
-#: templates/index.html:128
+#: templates/index.html:127
 msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
 msgstr "Pemotong Video Tiktok Online – Pemangkas Video TikTok Online Gratis:"
 
-#: templates/index.html:129
+#: templates/index.html:128
 msgid "Here you go. "
 msgstr "Ini dia."
 
-#: templates/index.html:129
+#: templates/index.html:128
 msgid ""
 " provides you a solution for your content creation. While using this tool on"
 " our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
@@ -1050,12 +1159,12 @@ msgid ""
 "necessary actions."
 msgstr ""
 "Layanan ini tidak ditujukan kepada siapa pun yang berusia di bawah 13 tahun."
-" Kami tidak dengan sengaja mengumpulkan informasi pengenal pribadi dari "
+" kami tidak dengan sengaja mengumpulkan informasi pengenal pribadi dari "
 "anak-anak di bawah 13 tahun. Jika kami menemukan bahwa seorang anak di bawah"
 " 13 tahun telah memberi kami informasi pribadi, kami segera menghapusnya "
 "dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui "
 "bahwa anak Anda telah memberikan informasi pribadi kepada kami, silakan "
-"hubungi kami agar kami dapat melakukan tindakan yang diperlukan."
+"hubungi kami sehingga kami dapat melakukan tindakan yang diperlukan."
 
 #: templates/privacypolicy.html:75
 msgid "Google Double-Click DART Cookie"
@@ -1427,9 +1536,9 @@ msgstr ""
 "mencerminkan pandangan dan pendapat orang yang memposting pandangan dan "
 "pendapat mereka. Sejauh diizinkan oleh undang-undang yang berlaku, "
 "Tiksss.com tidak akan bertanggung jawab atas Komentar atau atas kerugian "
-"atau pengeluaran tanggung jawab yang disebabkan dan/atau diderita sebagai "
-"akibat dari penggunaan dan/atau posting dan/atau tampilan Komentar di situs "
-"web ini. ."
+"atau biaya tanggung jawab yang disebabkan dan/atau diderita sebagai akibat "
+"dari penggunaan dan/atau posting dan/atau tampilan Komentar di situs web "
+"ini. ."
 
 #: templates/tandc.html:37
 msgid ""
@@ -1520,8 +1629,8 @@ msgid ""
 "they hyperlink to the Websites of other listed businesses; and"
 msgstr ""
 "Distributor direktori online dapat menautkan ke Situs Web kami dengan cara "
-"yang sama seperti mereka menautkan ke Situs Web bisnis lain yang terdaftar; "
-"dan"
+"yang sama seperti mereka menautkan tautan ke Situs Web bisnis lain yang "
+"terdaftar; dan"
 
 #: templates/tandc.html:70
 msgid ""
@@ -1594,10 +1703,11 @@ msgid ""
 msgstr ""
 "Kami akan menyetujui permintaan tautan dari organisasi-organisasi ini jika "
 "kami memutuskan bahwa: (a) tautan tersebut tidak akan membuat kami terlihat "
-"tidak baik bagi diri kami sendiri atau bisnis terakreditasi kami; (b) "
-"organisasi tidak memiliki catatan negatif apapun dengan kami; (c) manfaat "
-"bagi kami dari visibilitas hyperlink mengkompensasi ketiadaan Tiksss.com; "
-"dan (d) tautannya berada dalam konteks informasi sumber daya umum."
+"tidak menguntungkan bagi diri kami sendiri atau bisnis terakreditasi kami; "
+"(b) organisasi tidak memiliki catatan negatif apapun dengan kami; (c) "
+"manfaat bagi kami dari visibilitas hyperlink mengkompensasi ketiadaan "
+"Tiksss.com; dan (d) tautannya berada dalam konteks informasi sumber daya "
+"umum."
 
 #: templates/tandc.html:99
 msgid ""
@@ -1689,7 +1799,7 @@ msgstr ""
 "Kami tidak akan bertanggung jawab atas konten apa pun yang muncul di Situs "
 "Web Anda. Anda setuju untuk melindungi dan membela kami dari semua klaim "
 "yang muncul di Situs Web Anda. Tidak boleh ada tautan yang muncul di Situs "
-"Web apa pun yang dapat ditafsirkan sebagai fitnah, cabul, atau kriminal, "
+"Web mana pun yang dapat ditafsirkan sebagai fitnah, cabul, atau kriminal, "
 "atau yang melanggar, jika tidak, melanggar, atau mendukung pelanggaran atau "
 "pelanggaran lain terhadap, hak pihak ketiga mana pun"
 
@@ -1714,12 +1824,12 @@ msgid ""
 "our Website, you agree to be bound to and follow these linking terms and "
 "conditions"
 msgstr ""
-"Kami berhak untuk meminta Anda menghapus semua tautan atau tautan tertentu "
-"ke Situs Web kami. Anda menyetujui untuk segera menghapus semua tautan ke "
-"Situs Web kami berdasarkan permintaan. Kami juga berhak untuk mengubah "
-"syarat dan ketentuan ini dan kebijakan tautannya kapan saja. Dengan terus "
-"menautkan ke Situs Web kami, Anda setuju untuk terikat dan mengikuti syarat "
-"dan ketentuan penautan ini"
+"Kami berhak meminta Anda menghapus semua tautan atau tautan tertentu ke "
+"Situs Web kami. Anda menyetujui untuk segera menghapus semua tautan ke Situs"
+" Web kami berdasarkan permintaan. Kami juga berhak untuk mengubah syarat dan"
+" ketentuan ini dan kebijakan tautannya kapan saja. Dengan terus menautkan ke"
+" Situs Web kami, Anda setuju untuk terikat dan mengikuti syarat dan "
+"ketentuan penautan ini"
 
 #: templates/tandc.html:123
 msgid "Removal of links from our website"
@@ -1820,11 +1930,11 @@ msgstr ""
 msgid "Video Without Watermark"
 msgstr "Video Tanpa Tanda Air"
 
-#: templates/without.html:29
+#: templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "Unduh Video TikTok Tanpa Watermark Online Gratis:"
 
-#: templates/without.html:30
+#: templates/without.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1841,7 +1951,7 @@ msgstr ""
 "ini adalah satu-satunya keistimewaan alat pengunduhan video TikTok tanpa "
 "watermark ini. Pergi ke"
 
-#: templates/without.html:30
+#: templates/without.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -1856,67 +1966,67 @@ msgstr ""
 "dan untuk ini kunjungi Halaman Beranda situs web kami dan unduh video "
 "favorit Anda kurang dari 10 detik."
 
-#: templates/without.html:34
+#: templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "Pertanyaan yang Sering Diajukan"
 
-#: tiktok/settings.py:138
+#: tiktok/settings.py:144
 msgid "English"
 msgstr "Inggris"
 
-#: tiktok/settings.py:139
+#: tiktok/settings.py:145
 msgid "Italian"
 msgstr "Italia"
 
-#: tiktok/settings.py:140
+#: tiktok/settings.py:146
 msgid "Polish"
 msgstr "Polandia"
 
-#: tiktok/settings.py:141
+#: tiktok/settings.py:147
 msgid "French"
 msgstr "Perancis"
 
-#: tiktok/settings.py:142
+#: tiktok/settings.py:148
 msgid "German"
 msgstr "Jerman"
 
-#: tiktok/settings.py:143
+#: tiktok/settings.py:149
 msgid "Spanish"
 msgstr "Orang Spanyol"
 
-#: tiktok/settings.py:144
+#: tiktok/settings.py:150
 msgid "Indonesian"
 msgstr "bahasa Indonesia"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:151
 msgid "Japanese"
 msgstr "Jepang"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:152
 msgid "Korean"
 msgstr "Korea"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:153
 msgid "Portuguese"
 msgstr "Portugis"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:154
 msgid "Russian"
 msgstr "Rusia"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:155
 msgid "Arabic"
 msgstr "Arab"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:156
 msgid "Turkish"
 msgstr "Turki"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:157
 msgid "Thai"
 msgstr "Thai"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:158
 msgid "Vietnamese"
 msgstr "Orang Vietnam"
 
@@ -3014,8 +3124,8 @@ msgid ""
 msgstr ""
 "Anda melihat pesan ini karena situs HTTPS ini memerlukan &quot;Header "
 "perujuk&quot; untuk dikirim oleh browser Web Anda, tetapi tidak ada yang "
-"terkirim. Header ini diperlukan untuk alasan keamanan, untuk memastikan "
-"bahwa browser Anda tidak dibajak oleh pihak ketiga."
+"dikirim. Header ini diperlukan untuk alasan keamanan, untuk memastikan bahwa"
+" browser Anda tidak dibajak oleh pihak ketiga."
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:120
 msgid ""
@@ -3024,8 +3134,8 @@ msgid ""
 "origin” requests."
 msgstr ""
 "Jika Anda telah mengonfigurasi browser Anda untuk menonaktifkan tajuk "
-"&quot;Perujuk&quot;, harap aktifkan kembali, setidaknya untuk situs ini, "
-"atau untuk koneksi HTTPS, atau untuk permintaan &quot;asal yang sama&quot;."
+"&quot;Perujuk&quot;, aktifkan kembali, setidaknya untuk situs ini, atau "
+"untuk koneksi HTTPS, atau untuk permintaan &quot;asal yang sama&quot;."
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:124
 msgid ""
@@ -3036,11 +3146,11 @@ msgid ""
 "rel=\"noreferrer\" …> for links to third-party sites."
 msgstr ""
 "Jika Anda menggunakan<meta name=\"referrer\" content=\"no-referrer\"> tag "
-"atau termasuk header “Referrer-Policy: no-referrer”, harap hapus tag "
-"tersebut. Perlindungan CSRF memerlukan header &quot;Referer&quot; untuk "
-"melakukan pemeriksaan referensi yang ketat. Jika Anda mengkhawatirkan "
-"privasi, gunakan alternatif seperti <a rel=\"noreferrer\" …>tautan ke situs "
-"pihak ketiga.</a>"
+"atau termasuk header “Referrer-Policy: no-referrer”, harap hapus. "
+"Perlindungan CSRF memerlukan header &quot;Referer&quot; untuk melakukan "
+"pemeriksaan referensi yang ketat. Jika Anda mengkhawatirkan privasi, gunakan"
+" alternatif seperti <a rel=\"noreferrer\" …>tautan ke situs pihak "
+"ketiga.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132
 msgid ""

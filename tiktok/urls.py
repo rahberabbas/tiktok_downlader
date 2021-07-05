@@ -3,7 +3,8 @@ from django.urls import path
 from video.views import index, download, downloadlink, about, privacy, tandc, faq
 from audio.views import audio, download1, downloadlink1
 from without.views import downloadlink2, without, download2
-from cutter.views import cutter, download3, download4, downloadlink3
+from cutter.views import cutter, download3, download4
+from audio_cutter.views import audio_cutter, download5, download6
 from django.conf.urls.i18n import i18n_patterns
 from django.contrib.sitemaps.views import sitemap
 from .sitemaps import StaticViewSitemap
@@ -26,11 +27,11 @@ urlpatterns += i18n_patterns(
     path('terms-of-services/', tandc, name='tandc'),
     path('faq/', faq, name='faq'),
     path('tiktok-video-cutter-online/', cutter, name="cutter"),
+    path('tiktok-audio-cutter-online/', audio_cutter, name="audio_cutter"),
 
 
     path('tiktok-download-with-watermark/', download, name='down'),
     path('downloadlink/', downloadlink, name='downloadlink'),
-    path('downloadlink3/', downloadlink3, name='downloadlink3'),
     path('downloadlink2/', downloadlink2, name='downloadlink2'),
     path('tiktok-to-mp3-converter-online/', audio, name='audio'),
     path('tiktok-download-audio/', download1, name='down1'),
@@ -39,6 +40,8 @@ urlpatterns += i18n_patterns(
     path('tiktok-download-without-watermark/', download2, name='down2'),
     path('tiktok-video-cutter-online-convert/', download3, name='down3'),
     path('tiktok-cutter-link/', download4, name='down4'),
+    path('tiktok-audio-cutter-online-convert/', download5, name='down5'),
+    path('tiktok-audio-cutter-link/', download6, name='down6'),
 )
 if settings.DEBUG:
     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

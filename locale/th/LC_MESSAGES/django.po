@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-28 19:37+0000\n"
+"POT-Creation-Date: 2021-07-06 02:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,7 +94,8 @@ msgstr ""
 "เป็นเครื่องมือที่เร็วที่สุดของเราในการแปลงวิดีโอ Tiktok เป็นรูปแบบ Mp3 "
 "สำหรับคนรัก Tiktok ซึ่งฟรีทั้งหมด"
 
-#: templates/audio.html:14 templates/without.html:13
+#: templates/audio.html:14 templates/audio.html:24 templates/index.html:21
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "ดาวน์โหลด"
 
@@ -102,21 +103,15 @@ msgstr "ดาวน์โหลด"
 msgid "Audio"
 msgstr "เครื่องเสียง"
 
-#: templates/audio.html:15 templates/cutter.html:15 templates/index.html:12
-#: templates/without.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "ใส่ URL ที่นี่"
 
-#: templates/audio.html:25 templates/cutter.html:25 templates/index.html:22
-#: templates/without.html:24
-msgid "Search"
-msgstr "ค้นหา"
-
-#: templates/audio.html:31
+#: templates/audio.html:30
 msgid "TikTok to Mp3 Converter Online Free"
 msgstr "ตัวแปลง TikTok เป็น Mp3 ออนไลน์ฟรี"
 
-#: templates/audio.html:32
+#: templates/audio.html:31
 msgid ""
 "If you are music lover then you will know the value of this TikTok to Mp3 "
 "Converter Online Tool. We have made this tool very easy and simple. You "
@@ -136,12 +131,12 @@ msgstr ""
 "กรุณาแบ่งปันเครื่องมือนี้กับเพื่อนและสมาชิกในครอบครัวของคุณด้วยความช่วยเหลือของโซเชียลมีเดียเพราะพวกเขาจะชอบและใช้งานสิ่งนี้อย่างแน่นอน"
 " สำหรับข้อมูลเพิ่มเติม โปรดเยี่ยมชมเว็บไซต์ของเรา"
 
-#: templates/audio.html:36 templates/cutter.html:36 templates/faq.html:9
-#: templates/index.html:29
+#: templates/audio.html:35 templates/audio_cutter.html:35
+#: templates/cutter.html:35 templates/faq.html:9 templates/index.html:28
 msgid "Frequently Asked Questions"
 msgstr "คำถามที่พบบ่อย"
 
-#: templates/audio.html:39
+#: templates/audio.html:38
 msgid ""
 "How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
 " to Mp3 Online Free:"
@@ -149,17 +144,17 @@ msgstr ""
 "วิธีแปลง Tiktok เป็น Mp3 ออนไลน์ฟรีด้วยคุณภาพสูง - ดาวน์โหลด TikTok เป็น Mp3"
 " ออนไลน์ฟรี:"
 
-#: templates/audio.html:45 templates/faq.html:44
+#: templates/audio.html:43 templates/faq.html:44
 msgid ""
 "Select a video URL on TikTok which you want to convert into mp3 format."
 msgstr "เลือก URL ของวิดีโอบน TikTok ที่คุณต้องการแปลงเป็นรูปแบบ mp3"
 
-#: templates/audio.html:48 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:35 templates/without.html:45
+#: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr "คัดลอกลิงก์วิดีโอที่เลือกบนสมาร์ทโฟน / คอมพิวเตอร์หรือแล็ปท็อป"
 
-#: templates/audio.html:51 templates/faq.html:50
+#: templates/audio.html:49 templates/faq.html:50
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok to Mp3 Converter."
@@ -167,23 +162,23 @@ msgstr ""
 "ไปที่เว็บไซต์ของเรา Tiksss.com และที่เมนูด้านบน คุณจะเห็น “เครื่องมือ” "
 "แตะที่มันและเลือก TikTok to Mp3 Converter"
 
-#: templates/audio.html:54 templates/faq.html:53
+#: templates/audio.html:52 templates/faq.html:53
 msgid "Insert the TikTok video link in the field and press \"Convert Button\""
 msgstr "ใส่ลิงค์วิดีโอ TikTok ลงในช่องแล้วกด &quot;ปุ่มแปลง&quot;"
 
-#: templates/audio.html:57 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:37 templates/without.html:51
+#: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "ตอนนี้คุณจะเห็นปุ่มดาวน์โหลด คลิกที่ดาวน์โหลด"
 
-#: templates/audio.html:60 templates/faq.html:31 templates/index.html:38
+#: templates/audio.html:58 templates/faq.html:31 templates/index.html:37
 msgid ""
 "Just wait a few seconds in which you can download the video directly in your"
 " machine."
 msgstr "เพียงรอสักครู่เพื่อดาวน์โหลดวิดีโอลงในเครื่องของคุณโดยตรง"
 
-#: templates/audio.html:63 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:39 templates/without.html:57
+#: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -191,43 +186,163 @@ msgstr ""
 "หากคุณชอบเครื่องมือและบริการของเรามากกว่า "
 "กรุณาแบ่งปันเว็บไซต์ของเรากับเพื่อนและสมาชิกในครอบครัวของคุณ ขอบคุณ!"
 
-#: templates/base.html:28
+#: templates/audio_cutter.html:4
+#, fuzzy
+#| msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter ออนไลน์ฟรี - Tiksss.com"
+
+#: templates/audio_cutter.html:7
+#, fuzzy
+#| msgid ""
+#| "TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+#| "Cut and Trim TikTok Videos Online Free."
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"เครื่องมือตัด TikTok Mp3 ออนไลน์ฟรี วิธีตัดวิดีโอ TikTok เป็น Mp3 ออนไลน์ฟรี"
+" ตัดและตัดแต่งวิดีโอ TikTok ออนไลน์ฟรี"
+
+#: templates/audio_cutter.html:14
+#, fuzzy
+#| msgid ""
+#| "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgid ""
+"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
+"Free Tool"
+msgstr ""
+"TikTok Mp3 Cutter and Converter Online - ตัดวิดีโอ TikTok เป็น Mp3 Online "
+"เครื่องมือฟรี"
+
+#: templates/audio_cutter.html:15 templates/cutter.html:15
+#: templates/without.html:14
+msgid "Enter the URL Here and wait for 10 - 15 Seconds."
+msgstr "ป้อน URL ที่นี่ และรอ 10 - 15 วินาที"
+
+#: templates/audio_cutter.html:24 templates/cutter.html:24
+msgid "Search"
+msgstr "ค้นหา"
+
+#: templates/audio_cutter.html:30
+msgid ""
+"Here is the special and unique tool which is called \"TikTok Mp3 Cutter "
+"Online\"."
+msgstr ""
+"นี่คือเครื่องมือพิเศษและไม่ซ้ำใครที่เรียกว่า &quot;TikTok Mp3 Cutter "
+"Online&quot;"
+
+#: templates/audio_cutter.html:30
+msgid ""
+"Introduced this tool to our valuable users because we know how much needy "
+"this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you "
+"a very simple solution for your content. With the help of this amazing tool,"
+" You people can easily convert and Cut TikTok Video to Mp3 With a single "
+"click. Its totally free for everyone to use it on our website and this tool "
+"is super fast on every device which you used in your daily life."
+msgstr ""
+"แนะนำเครื่องมือนี้ให้กับผู้ใช้ที่มีคุณค่าของเราเพราะเรารู้ว่าเครื่องมือนี้มีความจำเป็นมากเพียงใดในโลกปัจจุบัน"
+" TikTok Mp3 Trimmer Converter Tool "
+"มอบวิธีแก้ปัญหาที่ง่ายมากสำหรับเนื้อหาของคุณ "
+"ด้วยความช่วยเหลือของเครื่องมือที่น่าทึ่งนี้ "
+"ผู้คนของคุณสามารถแปลงและตัดวิดีโอ TikTok เป็น Mp3 "
+"ได้อย่างง่ายดายด้วยการคลิกเพียงครั้งเดียว "
+"มันฟรีสำหรับทุกคนที่จะใช้มันบนเว็บไซต์ของเราและเครื่องมือนี้เร็วมากในทุกอุปกรณ์ที่คุณใช้ในชีวิตประจำวันของคุณ"
+
+#: templates/audio_cutter.html:38
+#, fuzzy
+#| msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgid "How To Cut and Trim TikTok Video To Mp3 Online Free"
+msgstr "วิธีตัดและตัดแต่งวิดีโอ TikTok เป็น Mp3 ออนไลน์ฟรี"
+
+#: templates/audio_cutter.html:43 templates/cutter.html:43
+#: templates/faq.html:97
+msgid "Go to TikTok official website and copy the video link."
+msgstr "ไปที่เว็บไซต์ทางการของ TikTok และคัดลอกลิงก์วิดีโอ"
+
+#: templates/audio_cutter.html:46
+#, fuzzy
+#| msgid ""
+#| "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+#| " it and select TikTok Video Cutter."
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on"
+" it and select \"TikTok Mp3 Cutter\""
+msgstr ""
+"ไปที่เว็บไซต์ของเรา Tiksss.com และที่เมนูด้านบน คุณจะเห็น "
+"&quot;เครื่องมือ&quot; แตะที่มันและเลือก &quot;TikTok Mp3 Cutter&quot;"
+
+#: templates/audio_cutter.html:49 templates/cutter.html:49
+#: templates/faq.html:103
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr "ในหน้าถัดไป ให้วางลิงก์วิดีโอของคุณแล้วคลิก &quot;ปุ่มตัด&quot;"
+
+#: templates/audio_cutter.html:52
+msgid ""
+"Choose the time duration from given down below option to Cut Your TikTok "
+"video To Mp3 and after that the converting process will start and it will be"
+" available in few seconds."
+msgstr ""
+"เลือกระยะเวลาจากตัวเลือกด้านล่างเพื่อตัดวิดีโอ TikTok ของคุณเป็น Mp3 "
+"และหลังจากนั้นกระบวนการแปลงจะเริ่มขึ้นและจะพร้อมใช้งานในไม่กี่วินาที"
+
+#: templates/audio_cutter.html:55
+#, fuzzy
+#| msgid ""
+#| "If you like our TikTok Video Cutter and Trimmer Tool and services than "
+#| "Kindly share our website with your friends and family members. Thanks!"
+msgid ""
+"If you like our TikTok Mp3 Cutter and Converter Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"หากคุณชอบเครื่องมือและบริการ TikTok Mp3 Cutter and Converter ของเรามากกว่า "
+"กรุณาแชร์เว็บไซต์ของเรากับเพื่อนและสมาชิกในครอบครัวของคุณ ขอบคุณ!"
+
+#: templates/base.html:38
 msgid "Home"
 msgstr "บ้าน"
 
-#: templates/base.html:30 templates/base.html:32
+#: templates/base.html:40 templates/base.html:42
 msgid "Tools"
 msgstr "เครื่องมือ"
 
-#: templates/base.html:34
+#: templates/base.html:44
 msgid "Download With Watermark"
 msgstr "ดาวน์โหลดพร้อมลายน้ำ"
 
-#: templates/base.html:37
+#: templates/base.html:47
 msgid "Download Without Watermark"
 msgstr "ดาวน์โหลดไม่มีลายน้ำ"
 
-#: templates/base.html:38
+#: templates/base.html:48
 msgid "Download Audio"
 msgstr "ดาวน์โหลดไฟล์เสียง"
 
-#: templates/base.html:39
-msgid "Audio/Video Cutter"
-msgstr "เครื่องตัดเสียง/วิดีโอ"
+#: templates/base.html:49
+#, fuzzy
+#| msgid "Audio/Video Cutter"
+msgid "Video Cutter"
+msgstr "เครื่องตัดวิดีโอ"
 
-#: templates/base.html:43
+#: templates/base.html:50
+#, fuzzy
+#| msgid "Audio/Video Cutter"
+msgid "Audio Cutter"
+msgstr "เครื่องตัดเสียง"
+
+#: templates/base.html:54
 msgid "About"
 msgstr "เกี่ยวกับ"
 
-#: templates/base.html:76 templates/privacypolicy.html:10
+#: templates/base.html:108 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "นโยบายความเป็นส่วนตัว"
 
-#: templates/base.html:79 templates/tandc.html:10
+#: templates/base.html:111 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "ข้อกำหนดและเงื่อนไข"
 
-#: templates/base.html:82
+#: templates/base.html:114
 msgid "FAQ"
 msgstr "คำถามที่พบบ่อย"
 
@@ -247,7 +362,7 @@ msgstr ""
 msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
 msgstr "เครื่องตัดวิดีโอออนไลน์ – เครื่องตัดวิดีโอ TikTok ออนไลน์ฟรี"
 
-#: templates/cutter.html:31
+#: templates/cutter.html:30
 msgid ""
 "Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
 "for your content creation. While using this tool on our website "
@@ -255,7 +370,7 @@ msgstr ""
 "เอาล่ะ. TikTok Video Cutter Online Free Tool "
 "มอบโซลูชันสำหรับการสร้างเนื้อหาของคุณ ขณะใช้เครื่องมือนี้บนเว็บไซต์ของเรา"
 
-#: templates/cutter.html:31
+#: templates/cutter.html:30
 msgid ""
 " you people can easily Trim and Cut TikTok Video in your devices for free. "
 "It’s very unique and user friendly tool for everyone."
@@ -263,15 +378,11 @@ msgstr ""
 "ผู้คนของคุณสามารถตัดและตัดวิดีโอ TikTok ในอุปกรณ์ของคุณได้ฟรี "
 "เป็นเครื่องมือที่ไม่ซ้ำใครและเป็นมิตรกับผู้ใช้สำหรับทุกคน"
 
-#: templates/cutter.html:39
+#: templates/cutter.html:38 templates/faq.html:92
 msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
 msgstr "วิธีตัดและตัดแต่งวิดีโอ TikTok ในมือถือหรือพีซี:"
 
-#: templates/cutter.html:44
-msgid "Go to TikTok official website and copy the video link."
-msgstr "ไปที่เว็บไซต์ทางการของ TikTok และคัดลอกลิงก์วิดีโอ"
-
-#: templates/cutter.html:47
+#: templates/cutter.html:46 templates/faq.html:100
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok Video Cutter."
@@ -279,18 +390,14 @@ msgstr ""
 "ไปที่เว็บไซต์ของเรา Tiksss.com และที่เมนูด้านบน คุณจะเห็น “เครื่องมือ” "
 "แตะที่มันและเลือก TikTok Video Cutter"
 
-#: templates/cutter.html:50
-msgid "On the next page paste your video link and click on “Cut Button”."
-msgstr "ในหน้าถัดไป ให้วางลิงก์วิดีโอของคุณแล้วคลิก &quot;ปุ่มตัด&quot;"
-
-#: templates/cutter.html:53
+#: templates/cutter.html:52 templates/faq.html:106
 msgid ""
 "You will see a player down below. Kindly select the specific part which you "
 "want to cut it from tiktok video."
 msgstr ""
 "คุณจะเห็นผู้เล่นด้านล่าง กรุณาเลือกส่วนเฉพาะที่คุณต้องการตัดจากวิดีโอ tiktok"
 
-#: templates/cutter.html:56
+#: templates/cutter.html:55 templates/faq.html:109
 msgid ""
 "Now you see two options over here. The first one is to download that "
 "specific cut part of the video in mp4 format or download track in mp3 format"
@@ -300,16 +407,17 @@ msgstr ""
 "วิธีแรกคือการดาวน์โหลดส่วนที่ตัดเฉพาะของวิดีโอในรูปแบบ mp4 "
 "หรือดาวน์โหลดแทร็กในรูปแบบ mp3 ของส่วนที่ตัดเฉพาะของวิดีโอ"
 
-#: templates/cutter.html:59
+#: templates/cutter.html:58 templates/faq.html:112
 msgid ""
 "Choose one of the given options according to your needs and then proceed it."
 msgstr "เลือกหนึ่งในตัวเลือกที่กำหนดตามความต้องการของคุณแล้วดำเนินการต่อ"
 
-#: templates/cutter.html:62
+#: templates/cutter.html:61 templates/faq.html:115
 msgid "Now finally click on “Download Button” to download it in your device."
-msgstr "ตอนนี้คลิกที่ปุ่ม &quot;ดาวน์โหลด&quot; เพื่อดาวน์โหลดในอุปกรณ์ของคุณ"
+msgstr ""
+"ตอนนี้คลิกที่ปุ่ม &quot;ดาวน์โหลด&quot; เพื่อดาวน์โหลดลงในอุปกรณ์ของคุณ"
 
-#: templates/cutter.html:65
+#: templates/cutter.html:64 templates/faq.html:118
 msgid ""
 "If you like our TikTok Video Cutter and Trimmer Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -361,13 +469,13 @@ msgstr ""
 msgid "How to Download TikTok Videos Online Free?"
 msgstr "จะดาวน์โหลดวิดีโอ TikTok ออนไลน์ฟรีได้อย่างไร"
 
-#: templates/faq.html:19 templates/index.html:34
+#: templates/faq.html:19 templates/index.html:33
 msgid "Select a video on TikTok which you want to download"
 msgstr "เลือกวิดีโอบน TikTok ที่คุณต้องการดาวน์โหลด"
 
-#: templates/faq.html:25 templates/index.html:36
+#: templates/faq.html:25 templates/index.html:35
 msgid "Insert the TikTok video link on our website and press \"Search Button\""
-msgstr "ใส่ลิงค์วิดีโอ TikTok บนเว็บไซต์ของเราแล้วกด &quot;ปุ่มค้นหา&quot;"
+msgstr "ใส่ลิงค์วิดีโอ TikTok บนเว็บไซต์ของเราและกด &quot;ปุ่มค้นหา&quot;"
 
 #: templates/faq.html:39
 msgid "Tiktok to Mp3 Converter online Free"
@@ -383,15 +491,15 @@ msgid ""
 " machine"
 msgstr "เพียงรอสักครู่เพื่อดาวน์โหลดวิดีโอลงในเครื่องของคุณโดยตรง"
 
-#: templates/faq.html:67 templates/without.html:37
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "วิธีดาวน์โหลดวิดีโอ Tiktok โดยไม่มีลายน้ำ:"
 
-#: templates/faq.html:72 templates/without.html:42
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "เลือกวิดีโอบนแอพ TikTok หรือเว็บที่คุณต้องการดาวน์โหลด"
 
-#: templates/faq.html:78 templates/without.html:48
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -400,7 +508,7 @@ msgstr ""
 "&quot;ดาวน์โหลดวิดีโอ Tiktok โดยไม่มีลายน้ำ&quot; แล้วกด "
 "&quot;ปุ่มค้นหา&quot;"
 
-#: templates/faq.html:84 templates/without.html:54
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -412,7 +520,7 @@ msgstr ""
 msgid "to Mp4 Downloader Online Free"
 msgstr "เป็น Mp4 Downloader ออนไลน์ฟรี"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid ""
 "is an amazing tool for TikTok lovers to save TikTok videos to your device "
 "with a single click. This tool designed is very simple and everyone can use "
@@ -439,29 +547,29 @@ msgstr ""
 " เต็มเกิน TikTok "
 "ไม่อนุญาตให้คุณดาวน์โหลดหรือบันทึกวิดีโอบนอุปกรณ์ที่คุณต้องการ "
 "แต่วิดีโอที่อัปโหลดจากฝั่งผู้ใช้นั้นมีอยู่ในเว็บไซต์หรือแอปอย่างเป็นทางการซึ่งมีข้อจำกัดมากมาย"
-" ดังนั้นคำถามก็คือจะแก้ปัญหาการดาวน์โหลดวิดีโอเหล่านี้ได้อย่างไร "
+" คำถามคือจะแก้ปัญหาการดาวน์โหลดวิดีโอเหล่านี้ได้อย่างไร "
 "ดังนั้นฉันจึงตัดสินใจสร้างเครื่องมือที่จะใช้งานง่ายสำหรับทุกคน "
 "เพราะในแพลตฟอร์มนี้มีคนนับล้านบนแพลตฟอร์มนี้เพื่อดูวิดีโอ TikTok "
 "บนมือถือหรือแล็ปท็อป แต่พวกเขาไม่สามารถดาวน์โหลดได้ "
 "ดังนั้นไม่ต้องกังวลกับมัน ฉันได้ทำเครื่องมือนี้เพื่อคุณคนเท่านั้นเพื่อ"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid "I proud myself to introduce an amazing "
 msgstr "ภูมิใจนำเสนอความอัศจรรย์"
 
-#: templates/index.html:24
+#: templates/index.html:23
 msgid "web app which allow you to download TikTok videos to mp4 format."
 msgstr "เว็บแอพที่ให้คุณดาวน์โหลดวิดีโอ TikTok เป็นรูปแบบ mp4"
 
-#: templates/index.html:31
+#: templates/index.html:30
 msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
 msgstr "วิธีดาวน์โหลดวิดีโอ TikTok เป็น Mp4 ด้วย Tiksss.com"
 
-#: templates/index.html:48
+#: templates/index.html:47
 msgid "Introduction of TikTok"
 msgstr "แนะนำTikTok"
 
-#: templates/index.html:49
+#: templates/index.html:48
 msgid ""
 "Everyone knows that TikTok is very popular right now and with the help of "
 "Tik Tok app. You can create your own videos very easily. TikTok app also "
@@ -471,7 +579,7 @@ msgstr ""
 "Tik Tok คุณสามารถสร้างวิดีโอของคุณเองได้อย่างง่ายดายมาก แอพ TikTok "
 "ยังใช้สำหรับการสตรีมและสร้างเนื้อหาสำหรับการใช้งานของคุณเอง"
 
-#: templates/index.html:50
+#: templates/index.html:49
 msgid ""
 "It’s a Chinese app which also allows you to share your videos on social "
 "media platform, friends and family. TikTok owned by a Chinese company which "
@@ -484,7 +592,7 @@ msgstr ""
 "“Bytedance” วัตถุประสงค์หลักของการใช้แอพนี้เพื่อสร้างวิดีโอที่มีเสียงเงียบ ๆ"
 " การสร้างเพลงสั้น ๆ การเต้นรำและการตัดต่อวิดีโอพากย์เสียง"
 
-#: templates/index.html:51
+#: templates/index.html:50
 msgid ""
 "If you are a content creator and passionate to produce a unique content to "
 "the customers then this app will helps you a lot to fulfill your dreams come"
@@ -512,43 +620,43 @@ msgstr ""
 " ดังนั้นเราจึงอยู่ที่นี่เพื่อมอบเครื่องมือ TikTok Mp4 Downloader "
 "ที่น่าทึ่งให้คุณเพื่อดาวน์โหลดวิดีโอโปรดบนอุปกรณ์ของคุณ"
 
-#: templates/index.html:61
+#: templates/index.html:60
 msgid "Unlimited Downloads"
 msgstr "ดาวน์โหลดไม่ จำกัด"
 
-#: templates/index.html:62
+#: templates/index.html:61
 msgid "Download unlimited videos with no limitations."
 msgstr "ดาวน์โหลดวิดีโอได้ไม่จำกัดโดยไม่มีข้อจำกัด"
 
-#: templates/index.html:66
+#: templates/index.html:65
 msgid "No Watermark on Videos:"
 msgstr "ไม่มีลายน้ำในวิดีโอ:"
 
-#: templates/index.html:67
+#: templates/index.html:66
 msgid "Download TikTok videos without watermark with no limits."
 msgstr "ดาวน์โหลดวิดีโอ TikTok แบบไม่มีลายน้ำได้ไม่จำกัด"
 
-#: templates/index.html:71
+#: templates/index.html:70
 msgid "Mp4 Supported HD:"
 msgstr "Mp4 รองรับ HD:"
 
-#: templates/index.html:72
+#: templates/index.html:71
 msgid "Download TikTok videos with Mp4 format HD."
 msgstr "ดาวน์โหลดวิดีโอ TikTok ด้วยรูปแบบ Mp4 HD"
 
-#: templates/index.html:76
+#: templates/index.html:75
 msgid "Mp3 Support:"
 msgstr "รองรับ Mp3:"
 
-#: templates/index.html:77
+#: templates/index.html:76
 msgid "Easily Convert TikTok to Mp3 with high quality."
 msgstr "แปลง TikTok เป็น Mp3 ได้อย่างง่ายดายด้วยคุณภาพสูง"
 
-#: templates/index.html:89
+#: templates/index.html:88
 msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
 msgstr "ดาวน์โหลดวิดีโอ TikTok เป็น Mp4 HD บนอุปกรณ์มือถือ:"
 
-#: templates/index.html:90
+#: templates/index.html:89
 msgid ""
 "If you want to download and save TikTok videos on your mobile device that "
 "you have to download and install TikTok app and then select your favorite "
@@ -570,11 +678,11 @@ msgstr ""
 "จะใช้เวลาสองสามวินาทีในการรับลิงก์ที่ดาวน์โหลดได้ คุณจะเห็นปุ่ม "
 "&quot;ดาวน์โหลด&quot; เพื่อเริ่มการดาวน์โหลดวิดีโอบนอุปกรณ์ของคุณ"
 
-#: templates/index.html:101
+#: templates/index.html:100
 msgid "Download TikTok Video Without Watermark on your Device:"
 msgstr "ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำบนอุปกรณ์ของคุณ:"
 
-#: templates/index.html:102
+#: templates/index.html:101
 msgid ""
 "This method is very unique to get download video without watermark in "
 "original quality. We made this tool very easy and it works smoothly on "
@@ -595,15 +703,15 @@ msgstr ""
 "ในหน้าถัดไปเพียงวางลิงก์แล้วคลิก &quot;ปุ่มดาวน์โหลด&quot; "
 "รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ"
 
-#: templates/index.html:119
+#: templates/index.html:118
 msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
 msgstr "Tiktok เป็น MP3 converter ออนไลน์ฟรีสำหรับอุปกรณ์พกพาและเดสก์ท็อป:"
 
-#: templates/index.html:120
+#: templates/index.html:119
 msgid "If you are music lover then you will know the value of this"
 msgstr "หากคุณเป็นคนรักเสียงเพลง แล้วคุณจะรู้ถึงคุณค่าของสิ่งนี้"
 
-#: templates/index.html:120
+#: templates/index.html:119
 msgid ""
 "We have made this tool very easy and simple. You people can use this tool on"
 " your preferred devices without any limits. Make sure that you have to "
@@ -619,15 +727,15 @@ msgstr ""
 " "
 "กรุณาแบ่งปันเครื่องมือนี้กับเพื่อนและสมาชิกในครอบครัวของคุณด้วยความช่วยเหลือของโซเชียลมีเดียเพราะพวกเขาจะชอบและใช้งานสิ่งนี้อย่างแน่นอน"
 
-#: templates/index.html:128
+#: templates/index.html:127
 msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
 msgstr "Tiktok Video Cutter ออนไลน์ – TikTok Video Trimmer ออนไลน์ฟรี:"
 
-#: templates/index.html:129
+#: templates/index.html:128
 msgid "Here you go. "
 msgstr "เอาล่ะ."
 
-#: templates/index.html:129
+#: templates/index.html:128
 msgid ""
 " provides you a solution for your content creation. While using this tool on"
 " our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
@@ -715,7 +823,7 @@ msgstr ""
 "เพื่อทำความเข้าใจและบันทึกการตั้งค่าของคุณสำหรับการเข้าชมในอนาคต "
 "คุกกี้คือไฟล์ขนาดเล็กที่ไซต์หรือผู้ให้บริการถ่ายโอนไปยังฮาร์ดไดรฟ์ของคอมพิวเตอร์ของคุณผ่านเว็บเบราว์เซอร์ของคุณ"
 " (หากคุณอนุญาต) "
-"ซึ่งช่วยให้ไซต์หรือระบบของผู้ให้บริการสามารถจดจำเบราว์เซอร์ของคุณและบันทึกและจดจำข้อมูลบางอย่างได้)"
+"ซึ่งช่วยให้ไซต์หรือระบบของผู้ให้บริการรู้จักเบราว์เซอร์ของคุณและบันทึกและจดจำข้อมูลบางอย่าง"
 
 #: templates/privacypolicy.html:25
 msgid ""
@@ -900,7 +1008,8 @@ msgid ""
 msgstr ""
 "คุกกี้คือไฟล์ที่มีข้อมูลจำนวนเล็กน้อยซึ่งโดยทั่วไปจะใช้เป็นตัวระบุที่ไม่ระบุตัวตน"
 " "
-"สิ่งเหล่านี้จะถูกส่งไปยังเบราว์เซอร์ของคุณจากเว็บไซต์ที่คุณเยี่ยมชมและจัดเก็บไว้ในหน่วยความจำภายในของอุปกรณ์"
+"สิ่งเหล่านี้จะถูกส่งไปยังเบราว์เซอร์ของคุณจากเว็บไซต์ที่คุณเยี่ยมชมและเก็บไว้ในหน่วยความจำภายในของอุปกรณ์"
+" device"
 
 #: templates/privacypolicy.html:51
 msgid ""
@@ -1192,7 +1301,7 @@ msgid ""
 "You have the right to request that we restrict the processing of your "
 "personal data, under certain conditions."
 msgstr ""
-"เขามีสิทธิที่จะลบ – คุณมีสิทธิ์ที่จะขอให้เราลบข้อมูลส่วนบุคคลของคุณ "
+"เขามีสิทธิ์ที่จะลบ – คุณมีสิทธิ์ที่จะขอให้เราลบข้อมูลส่วนบุคคลของคุณ "
 "ภายใต้เงื่อนไขบางประการ สิทธิ์ในการจำกัดการประมวลผล – "
 "คุณมีสิทธิ์ร้องขอให้เราจำกัดการประมวลผลข้อมูลส่วนบุคคลของคุณ "
 "ภายใต้เงื่อนไขบางประการ"
@@ -1525,7 +1634,7 @@ msgid ""
 " general resource information."
 msgstr ""
 "เราจะอนุมัติคำขอเชื่อมโยงจากองค์กรเหล่านี้หากเราตัดสินใจว่า: (ก) "
-"ลิงก์จะไม่ทำให้เราดูไม่ดีต่อตนเองหรือธุรกิจที่ได้รับการรับรองของเรา (b) "
+"ลิงก์จะไม่ทำให้เราดูไม่ดีต่อตนเองหรือธุรกิจที่ได้รับการรับรองของเรา; (b) "
 "องค์กรไม่มีบันทึกเชิงลบใด ๆ กับเรา (c) "
 "ประโยชน์ที่เราจะได้รับจากการมองเห็นของไฮเปอร์ลิงก์จะชดเชยการไม่มี "
 "Tiksss.com; และ (d) ลิงก์อยู่ในบริบทของข้อมูลทรัพยากรทั่วไป"
@@ -1616,7 +1725,7 @@ msgstr ""
 "เราจะไม่รับผิดชอบต่อเนื้อหาใด ๆ ที่ปรากฏบนเว็บไซต์ของคุณ "
 "คุณตกลงที่จะปกป้องและปกป้องเราจากการเรียกร้องทั้งหมดที่เกิดขึ้นบนเว็บไซต์ของคุณ"
 " ลิงก์ไม่ควรปรากฏบนเว็บไซต์ใด ๆ ที่อาจตีความได้ว่าเป็นการหมิ่นประมาท "
-"ลามกอนาจารหรือทางอาญา หรือที่ละเมิด ละเมิด "
+"ลามกอนาจาร หรือทางอาญา หรือที่ละเมิด ละเมิด "
 "หรือสนับสนุนการละเมิดหรือการละเมิดสิทธิของบุคคลที่สาม"
 
 #: templates/tandc.html:119
@@ -1670,7 +1779,7 @@ msgid ""
 msgstr ""
 "เราไม่รับรองว่าข้อมูลบนเว็บไซต์นี้ถูกต้อง "
 "เราไม่รับประกันความสมบูรณ์หรือความถูกต้อง "
-"และเราสัญญาว่าจะไม่รับประกันว่าเว็บไซต์จะยังใช้ได้อยู่หรือเนื้อหาบนเว็บไซต์เป็นปัจจุบันอยู่เสมอ"
+"และเราสัญญาว่าจะไม่รับประกันว่าเว็บไซต์จะยังใช้งานได้หรือเนื้อหาบนเว็บไซต์จะได้รับการอัปเดตอยู่เสมอ"
 
 #: templates/tandc.html:126
 msgid "Disclaimer"
@@ -1696,7 +1805,7 @@ msgid ""
 "limit or exclude our or your liability for fraud or fraudulent "
 "misrepresentation;"
 msgstr ""
-"จำกัดหรือยกเว้นความรับผิดของเราหรือของคุณสำหรับการฉ้อโกงหรือการบิดเบือนความจริงฉ้อฉล"
+"จำกัดหรือยกเว้นความรับผิดของเราหรือของคุณสำหรับการฉ้อโกงหรือการบิดเบือนความจริงที่ฉ้อฉล"
 
 #: templates/tandc.html:136
 msgid ""
@@ -1739,11 +1848,11 @@ msgstr ""
 msgid "Video Without Watermark"
 msgstr "วิดีโอไม่มีลายน้ำ"
 
-#: templates/without.html:29
+#: templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำออนไลน์ฟรี:"
 
-#: templates/without.html:30
+#: templates/without.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1760,7 +1869,7 @@ msgstr ""
 "และนี่เป็นความสามารถพิเศษเพียงอย่างเดียวของ TikTok "
 "ที่ไม่มีเครื่องมือดาวน์โหลดวิดีโอลายน้ำ ไปที่"
 
-#: templates/without.html:30
+#: templates/without.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -1770,72 +1879,72 @@ msgid ""
 msgstr ""
 "และคุณจะเห็นเมนูแบบเลื่อนลงคลิกที่มันและเลือก &quot;ไม่มีลายน้ำ&quot; "
 "ในหน้าถัดไปเพียงวางลิงก์แล้วคลิก &quot;ปุ่มดาวน์โหลด&quot; "
-"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ คุณยังสามารถ “ดาวน์โหลดวิดีโอ "
-"TikTok พร้อมลายน้ำ” "
-"และสำหรับการเยี่ยมชมหน้าแรกของเว็บไซต์ของเราและดาวน์โหลดวิดีโอโปรดของคุณในเวลาน้อยกว่า"
+"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ คุณยังสามารถ &quot;ดาวน์โหลดวิดีโอ "
+"TikTok พร้อมลายน้ำ&quot; "
+"และสำหรับการเยี่ยมชมหน้าแรกของเว็บไซต์ของเราและดาวน์โหลดวิดีโอโปรดของคุณในเวลาไม่ถึง"
 " 10 วินาที"
 
-#: templates/without.html:34
+#: templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "คำถามที่พบบ่อย"
 
-#: tiktok/settings.py:138
+#: tiktok/settings.py:144
 msgid "English"
 msgstr "ภาษาอังกฤษ"
 
-#: tiktok/settings.py:139
+#: tiktok/settings.py:145
 msgid "Italian"
 msgstr "ภาษาอิตาลี"
 
-#: tiktok/settings.py:140
+#: tiktok/settings.py:146
 msgid "Polish"
 msgstr "ขัด"
 
-#: tiktok/settings.py:141
+#: tiktok/settings.py:147
 msgid "French"
 msgstr "ภาษาฝรั่งเศส"
 
-#: tiktok/settings.py:142
+#: tiktok/settings.py:148
 msgid "German"
 msgstr "เยอรมัน"
 
-#: tiktok/settings.py:143
+#: tiktok/settings.py:149
 msgid "Spanish"
 msgstr "สเปน"
 
-#: tiktok/settings.py:144
+#: tiktok/settings.py:150
 msgid "Indonesian"
 msgstr "ชาวอินโดนีเซีย"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:151
 msgid "Japanese"
 msgstr "ญี่ปุ่น"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:152
 msgid "Korean"
 msgstr "เกาหลี"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:153
 msgid "Portuguese"
 msgstr "โปรตุเกส"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:154
 msgid "Russian"
 msgstr "รัสเซีย"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:155
 msgid "Arabic"
 msgstr "อารบิก"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:156
 msgid "Turkish"
 msgstr "ภาษาตุรกี"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:157
 msgid "Thai"
 msgstr "ไทย"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:158
 msgid "Vietnamese"
 msgstr "ภาษาเวียดนาม"
 
@@ -2276,7 +2385,7 @@ msgstr "ไม่มีอินสแตนซ์%(model)s ที่มี %(fi
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
 msgid "Foreign Key (type determined by related field)"
-msgstr "กุญแจต่างประเทศ (ประเภทที่กำหนดโดยฟิลด์ที่เกี่ยวข้อง)"
+msgstr "Foreign Key (ประเภทที่กำหนดโดยสาขาที่เกี่ยวข้อง)"
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
 msgid "One-to-one relationship"
@@ -3038,7 +3147,7 @@ msgstr "ไม่อนุญาตให้ใช้ดัชนีไดเร
 #: venv/lib/python3.8/site-packages/django/views/static.py:42
 #, python-format
 msgid "“%(path)s” does not exist"
-msgstr "“%(path)s” ไม่มีอยู่จริง"
+msgstr "“%(path)s” ไม่มีอยู่"
 
 #: venv/lib/python3.8/site-packages/django/views/static.py:80
 #, python-format
