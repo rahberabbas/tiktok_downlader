@@ -320,13 +320,11 @@ msgstr "تنزيل الصوت"
 
 #: templates/base.html:49
 #, fuzzy
-#| msgid "Audio/Video Cutter"
 msgid "Video Cutter"
 msgstr "برنامج تقطيع الفيديو"
 
 #: templates/base.html:50
 #, fuzzy
-#| msgid "Audio/Video Cutter"
 msgid "Audio Cutter"
 msgstr "قاطع الصوت"
 
