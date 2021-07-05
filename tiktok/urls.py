@@ -27,7 +27,7 @@ urlpatterns += i18n_patterns(
     path('terms-of-services/', tandc, name='tandc'),
     path('faq/', faq, name='faq'),
     path('tiktok-video-cutter-online/', cutter, name="cutter"),
-    path('tiktok-audio-cutter-online/', audio_cutter, name="audio_cutter"),
+    path('tiktok-mp3-cutter-online/', audio_cutter, name="audio_cutter"),
 
 
     path('tiktok-download-with-watermark/', download, name='down'),
