@@ -1,8 +1,10 @@
+import time
 from django.shortcuts import render, HttpResponse
 from datetime import datetime
 import os
 from .import function
 import uuid
+
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -28,7 +30,7 @@ def download(request):
             
             with open(os.path.join(BASE_DIR+"/video_down",filename+'.mp4'), 'rb') as f:
                 data = f.read()
-
+            time.sleep(4)
             response = HttpResponse(data, content_type='application/vnd.mp4')
             response['Content-Disposition'] = "attachment; filename=%s" % file_hello
             return response
