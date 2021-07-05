@@ -19,10 +19,24 @@ def download1(request):
             
             url = url
             rtr = functions.withwater_download(urls=url)
+            r = uuid.uuid4()
+            file_hello = f"tiksss.com_{r}.mp3"
+            data = rtr.content
+            filename = str(uuid.uuid4())
+            with open(os.path.join(BASE_DIR+"/audio_down",filename) + '.mp4', 'wb') as f:
+                f.write(data)
+
+            video = VideoFileClip(os.path.join(BASE_DIR+"/audio_down",filename) + '.mp4')
+            video.audio.write_audiofile(os.path.join(BASE_DIR+"/audio_down2",filename) + '.mp3')
+
+            with open(os.path.join(BASE_DIR+"/audio_down2",filename+'.mp3'), 'rb') as f:
+                data = f.read()
+
+            response = HttpResponse(data, content_type='application/aud.mp3')
+            response['Content-Disposition'] = "attachment; filename=%s"  % file_hello
+            return response
         else:
-            return HttpResponse("Your link is Invalid")
-        context={'url': url}
-        return render(request, 'download1.html', context)
+            return render(request, 'audio.html')
     else:
         return render(request, 'audio.html')
 
