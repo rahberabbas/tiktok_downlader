@@ -44,7 +44,7 @@ def download6(request):
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
         ffmpeg_extract_subclip(filename=rtr, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
 
-        clip = VideoFileClip(os.path.join(BASE_DIR+"/video_audio_cut",filename+'.mp4'))
+        clip = VideoFileClip(os.path.join(BASE_DIR+"/video_cut",filename+'.mp4'))
         clip.audio.write_audiofile(os.path.join(BASE_DIR+"/audio_cut",filename+'.mp3'))
 
         with open(os.path.join(BASE_DIR+"/audio_cut",filename+'.mp3'), 'rb') as f:
