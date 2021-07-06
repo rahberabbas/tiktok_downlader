@@ -16,6 +16,9 @@
         </video>
     </center>
     <center>
+        <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
+    </center>
+    <center>
     <div class="form_style_trim">
         <form class="video-form" method="POST" action="{% url 'down4' %}">
             {% csrf_token %}
@@ -27,18 +30,6 @@
 </center>
 </div>
 
-<script type="text/javascript">
-
-    function show() {
-        document.getElementById("myDiv").style.display = "block";
-        setTimeout("hide()", 500000);  // 5 seconds
-    }
-
-    function hide() {
-        document.getElementById("myDiv").style.display = "none";
-    }
-
-</script>
 
 <style>
     .form_style_trim{
@@ -61,5 +52,17 @@
     }
 </style>
 
+<script type="text/javascript">
+
+    function show() {
+        document.getElementById("myDiv").style.display = "block";
+        setTimeout("hide()", 170000);  // 5 seconds
+    }
+
+    function hide() {
+        document.getElementById("myDiv").style.display = "none";
+    }
+
+</script>
 
 {% endblock %}

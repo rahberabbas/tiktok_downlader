@@ -29,12 +29,12 @@ def download5(request):
         return redirect(request, 'audio_cutter.html')
 
 def download6(request):
-    rts = rtr
     if request.method == "POST":
         t1 = request.POST.get('t1')
         tt1 = int(t1)
         t2 = request.POST.get('t2')
         tt2 = int(t2)
+        rts = functions.without(url=url)
         r = uuid.uuid4()
         file_hello = f"tiksss.com_{r}.mp3"
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
