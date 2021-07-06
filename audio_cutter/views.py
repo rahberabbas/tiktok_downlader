@@ -38,7 +38,8 @@ def download6(request):
         r = uuid.uuid4()
         file_hello = f"tiksss.com_{r}.mp3"
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
-        ffmpeg_extract_subclip(filename=rtr, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
+        rts = rtr
+        ffmpeg_extract_subclip(filename=rts, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
 
         clip = VideoFileClip(os.path.join(BASE_DIR+"/video_cut",filename+'.mp4'))
         clip.audio.write_audiofile(os.path.join(BASE_DIR+"/audio_cut",filename+'.mp3'))
