@@ -39,7 +39,6 @@ def download4(request):
         tt1 = int(t1)
         t2 = request.POST.get('t2')
         tt2 = int(t2)
-        context = {'t1': tt1, 't2': tt2, 'rtr': rtr}
         rts = functions.without(url=url)
         r = uuid.uuid4()
         file_hello = f"tiksss.com_{r}.mp4"
