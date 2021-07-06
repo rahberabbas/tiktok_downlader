@@ -30,6 +30,7 @@ def download5(request):
         return redirect(request, 'audio_cutter.html')
 
 def download6(request):
+    rts = rtr
     if request.method == "POST":
         t1 = request.POST.get('t1')
         tt1 = int(t1)
@@ -38,7 +39,6 @@ def download6(request):
         r = uuid.uuid4()
         file_hello = f"tiksss.com_{r}.mp3"
         filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
-        rts = rtr
         ffmpeg_extract_subclip(filename=rts, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
 
         clip = VideoFileClip(os.path.join(BASE_DIR+"/video_cut",filename+'.mp4'))
