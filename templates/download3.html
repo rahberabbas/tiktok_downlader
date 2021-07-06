@@ -18,7 +18,7 @@
    
     <center>
     <div class="form_style_trim">
-        <form class="video-form" method="POST" action="{% url 'down4' %}">
+        <form class="video-form" method="POST">
             {% csrf_token %}
             <input type="text" placeholder="Start time: 0" name="t1">
             <input type="text" placeholder="End time: n" name="t2">
