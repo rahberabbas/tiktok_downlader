@@ -1,4 +1,4 @@
-from django.shortcuts import render, HttpResponse
+from django.shortcuts import redirect, render, HttpResponse
 from datetime import datetime
 import os
 import pyshorteners
@@ -22,14 +22,12 @@ def download5(request):
         if "www.tiktok.com" in url:
             url = url
             rtr = functions.without(url=url)
-            short = pyshorteners.Shortener()
-            x = short.tinyurl.short(rtr)
         else:
             return HttpResponse("Your link is Invalid")
-        context={'url': url, 'rtr': rtr, 'x': x}
+        context={'url': url, 'rtr': rtr}
         return render(request, 'download5.html', context)
     else:
-        return HttpResponse('Something went Wrong')
+        return redirect(request, 'audio_cutter.html')
 
 def download6(request):
     if request.method == "POST":
