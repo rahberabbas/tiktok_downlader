@@ -18,7 +18,7 @@ def download5(request):
         global url
         global rtr
         url = request.POST.get('url')
-        if "www.tiktok.com" in url:
+        if "tiktok.com" in url:
             url = url
             rtr = functions.without(url=url)
         else:
