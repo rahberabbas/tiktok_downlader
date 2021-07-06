@@ -31,8 +31,6 @@ def download5(request):
 
 def download6(request):
     if request.method == "POST":
-        global tt2
-        global tt1
         t1 = request.POST.get('t1')
         tt1 = int(t1)
         t2 = request.POST.get('t2')
