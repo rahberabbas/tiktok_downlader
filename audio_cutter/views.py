@@ -17,7 +17,6 @@ def download5(request):
     if request.method == "POST":
         global url
         global rtr
-        global x
         url = request.POST.get('url')
         if "www.tiktok.com" in url:
             url = url
