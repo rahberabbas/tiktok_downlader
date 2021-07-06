@@ -15,9 +15,7 @@
             <source src="{{rtr}}" type="video/mp4" media="all and (max-width:480px)">
         </video>
     </center>
-    <center>
-        <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
-    </center>
+   
     <center>
     <div class="form_style_trim">
         <form class="video-form" method="POST" action="{% url 'down4' %}">
@@ -27,6 +25,10 @@
             <input class="buttons" type="submit" value="Convert">
         </form>
     </div>
+</center>
+<br><br>
+<center>
+    <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
 </center>
 </div>
 
