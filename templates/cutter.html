@@ -19,6 +19,8 @@
     </div>
 
     <form class="example" method="POST" action="{% url 'down3' %}">
+        <input type="text" placeholder="Enter Start time in Second" aria-describedby="url" name="t1" required>
+        <input type="text" placeholder="Enter End time in Second" aria-describedby="url" name="t2" required>
         <input type="text" placeholder="Enter Video URL" aria-describedby="url" name="url" required>
         <input type="hidden" name="todo" value="1">
         <button type="submit" onclick="show()">{% trans 'Search' %}</button>
@@ -73,7 +75,7 @@
 
     function show() {
         document.getElementById("myDiv").style.display = "block";
-        setTimeout("hide()", 500000);  // 5 seconds
+        setTimeout("hide()", 170000);  // 5 seconds
     }
 
     function hide() {

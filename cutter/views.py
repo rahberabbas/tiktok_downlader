@@ -24,12 +24,26 @@ def download3(request):
             rtr = functions.without(url=url)
             short = pyshorteners.Shortener()
             x = short.tinyurl.short(rtr)
+            t1 = request.POST.get('t1')
+            tt1 = int(t1)
+            t2 = request.POST.get('t2')
+            tt2 = int(t2)
+            rts = functions.without(url=url)
+            r = uuid.uuid4()
+            file_hello = f"tiksss.com_{r}.mp4"
+            filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
+            ffmpeg_extract_subclip(filename=rts, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
+
+            with open(os.path.join(BASE_DIR+"/video_cut",filename+'.mp4'), 'rb') as f:
+                data = f.read()
+
+            response = HttpResponse(data, content_type='application/vnd.mp4')
+            response['Content-Disposition'] = "attachment; filename=%s" % file_hello
+            return response
         else:
-            return HttpResponse("Your link is Invalid")
-        context={'url': url, 'rtr': rtr, 'x': x}
-        return render(request, 'download3.html', context)
+            return render(request, 'cutter.html')
     else:
-        return HttpResponse('Something went Wrong')
+        return render(request, 'cutter.html')
 
 def download4(request):
     if request.method == "POST":
