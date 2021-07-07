@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-06 02:36+0530\n"
+"POT-Creation-Date: 2021-07-07 23:51+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,7 +52,7 @@ msgid ""
 "our website"
 msgstr ""
 "우리 플랫폼은 TikTok에서 Mp4, Mp3, Video Cutter로 변환하는 다양한 유형의 TikTok 비디오 변환 도구를 지원하며"
-" 워터 마크없이 TikTok 비디오를 다운로드하거나 웹 사이트에서 볼 수있는 워터 마크가있는 단 몇 초 만에 다운로드합니다."
+" 워터 마크없이 TikTok 비디오를 다운로드합니다."
 
 #: templates/about.html:13
 msgid "Why Tiksss.com"
@@ -69,15 +69,15 @@ msgid ""
 msgstr ""
 "우리의 도구 디자인은 매우 독특하고 간단합니다. 이 도구는 고객과 사용자의 목적으로 만 만들었습니다. 콘텐츠 제작자이더라도 모든 사람이 "
 "일상 생활에서 매우 빠르고 쉽고 안전합니다. 이 도구는 많은 도움이되며 확실히 시간을 절약 할 수 있습니다. Tiksss는 항상 여기에 "
-"있으며 문제가 발생하면 도움을 드릴 준비가되어 있습니다. 질문이 있으시면 여기로 연락해주십시오."
+"있으며 문제가 발생하면 도움을 드릴 준비가되어 있습니다. 질문이 있으시면 여기로 문의 해주십시오."
 
 #: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4
+#: templates/download4.html:4 templates/download6.html:4
 msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
 msgstr "Mp3 변환기 온라인 무료 TikTok-Tiksss.com"
 
 #: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5
+#: templates/download4.html:5 templates/download6.html:5
 msgid ""
 "TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
@@ -86,18 +86,19 @@ msgstr ""
 "TikTok To Mp3 Converter Online 무료 웹 사이트 Tiksss.com. Tiktok 비디오를 완전히 무료 인 "
 "Tiktok 연인을위한 Mp3 형식으로 변환하는 가장 빠른 도구입니다."
 
-#: templates/audio.html:14 templates/audio.html:24 templates/index.html:21
-#: templates/without.html:13 templates/without.html:23
-msgid "Download"
-msgstr "다운로드"
-
 #: templates/audio.html:14
-msgid "Audio"
-msgstr "오디오"
+msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
+msgstr "Mp3 변환기 온라인 무료로-Mp3 변환기 온라인으로 TikTok 비디오"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "여기에 URL 입력"
+
+#: templates/audio.html:24 templates/audio_cutter.html:26
+#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
+#: templates/without.html:23
+msgid "Download"
+msgstr "다운로드"
 
 #: templates/audio.html:30
 msgid "TikTok to Mp3 Converter Online Free"
@@ -119,8 +120,8 @@ msgstr ""
 "북마크해야합니다. 사람들이이 도구를 사용하고 이점을 얻을 수있는 방법에 대한이 도구의 모든 지침을 추가했습니다. 이 도구를 친구 및 "
 "가족과 소셜 미디어의 도움으로 공유하십시오. 확실히 좋아하고 사용할 것입니다. 자세한 정보는 웹 사이트를 방문하세요"
 
-#: templates/audio.html:35 templates/audio_cutter.html:35
-#: templates/cutter.html:35 templates/faq.html:9 templates/index.html:28
+#: templates/audio.html:35 templates/audio_cutter.html:37
+#: templates/cutter.html:37 templates/faq.html:9 templates/index.html:28
 msgid "Frequently Asked Questions"
 msgstr "자주 묻는 질문"
 
@@ -168,19 +169,13 @@ msgstr "컴퓨터에서 직접 비디오를 다운로드 할 수있는 몇 초�
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
-msgstr "Kindly보다 우리의 도구와 서비스가 마음에 들면 친구 및 가족과 웹 사이트를 공유하십시오. 감사!"
+msgstr "Kindly보다 우리의 도구와 서비스가 마음에 들면 친구 및 가족과 우리 웹 사이트를 공유하십시오. 감사!"
 
-#: templates/audio_cutter.html:4
-#, fuzzy
-#| msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+#: templates/audio_cutter.html:4 templates/download5.html:4
 msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
 msgstr "TikTok Mp3 커터 온라인 무료-Tiksss.com"
 
-#: templates/audio_cutter.html:7
-#, fuzzy
-#| msgid ""
-#| "TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
-#| "Cut and Trim TikTok Videos Online Free."
+#: templates/audio_cutter.html:7 templates/download5.html:7
 msgid ""
 "TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
@@ -189,9 +184,6 @@ msgstr ""
 " 자르기 및 자르기."
 
 #: templates/audio_cutter.html:14
-#, fuzzy
-#| msgid ""
-#| "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
 msgid ""
 "TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
 "Free Tool"
@@ -202,17 +194,13 @@ msgstr "TikTok Mp3 커터 및 변환기 온라인-Mp3 온라인 무료 도구로
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
 msgstr "여기에 URL을 입력하고 10-15 초 동안 기다립니다."
 
-#: templates/audio_cutter.html:24 templates/cutter.html:24
-msgid "Search"
-msgstr "검색"
-
-#: templates/audio_cutter.html:30
+#: templates/audio_cutter.html:32
 msgid ""
 "Here is the special and unique tool which is called \"TikTok Mp3 Cutter "
 "Online\"."
-msgstr "다음은 &quot;TikTok Mp3 커터 온라인&quot;이라는 특별하고 독특한 도구입니다."
+msgstr "여기 &quot;TikTok Mp3 Cutter Online&quot;이라는 특별하고 독특한 도구가 있습니다."
 
-#: templates/audio_cutter.html:30
+#: templates/audio_cutter.html:32
 msgid ""
 "Introduced this tool to our valuable users because we know how much needy "
 "this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you "
@@ -226,35 +214,29 @@ msgstr ""
 "Mp3로 쉽게 변환하고자를 수 있습니다. 모든 사람이 웹 사이트에서 사용할 수있는 완전 무료이며이 도구는 일상 생활에서 사용하는 모든 "
 "장치에서 매우 빠릅니다."
 
-#: templates/audio_cutter.html:38
-#, fuzzy
-#| msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+#: templates/audio_cutter.html:40
 msgid "How To Cut and Trim TikTok Video To Mp3 Online Free"
 msgstr "TikTok 비디오를 Mp3 온라인으로 자르고 자르는 방법 무료"
 
-#: templates/audio_cutter.html:43 templates/cutter.html:43
+#: templates/audio_cutter.html:45 templates/cutter.html:45
 #: templates/faq.html:97
 msgid "Go to TikTok official website and copy the video link."
 msgstr "TikTok 공식 웹 사이트로 이동하여 비디오 링크를 복사하십시오."
 
-#: templates/audio_cutter.html:46
-#, fuzzy
-#| msgid ""
-#| "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
-#| " it and select TikTok Video Cutter."
+#: templates/audio_cutter.html:48
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on"
 " it and select \"TikTok Mp3 Cutter\""
 msgstr ""
-"웹 사이트 Tiksss.com으로 이동하면 상단 메뉴에 &quot;Tools&quot;가 표시되고 &quot;TikTok Mp3 "
+"웹 사이트 Tiksss.com으로 이동하면 상단 메뉴에서 &quot;Tools&quot;를 탭하고 &quot;TikTok Mp3 "
 "Cutter&quot;를 선택합니다."
 
-#: templates/audio_cutter.html:49 templates/cutter.html:49
+#: templates/audio_cutter.html:51 templates/cutter.html:51
 #: templates/faq.html:103
 msgid "On the next page paste your video link and click on “Cut Button”."
 msgstr "다음 페이지에서 비디오 링크를 붙여넣고“Cut Button”을 클릭하십시오."
 
-#: templates/audio_cutter.html:52
+#: templates/audio_cutter.html:54
 msgid ""
 "Choose the time duration from given down below option to Cut Your TikTok "
 "video To Mp3 and after that the converting process will start and it will be"
@@ -263,62 +245,54 @@ msgstr ""
 "TikTok 비디오를 Mp3로 자르려면 아래 옵션에서 시간 기간을 선택하십시오. 그 후 변환 프로세스가 시작되고 몇 초 안에 사용할 수 "
 "있습니다."
 
-#: templates/audio_cutter.html:55
-#, fuzzy
-#| msgid ""
-#| "If you like our TikTok Video Cutter and Trimmer Tool and services than "
-#| "Kindly share our website with your friends and family members. Thanks!"
+#: templates/audio_cutter.html:57
 msgid ""
 "If you like our TikTok Mp3 Cutter and Converter Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
 msgstr ""
 "TikTok Mp3 커터 및 변환기 도구 및 서비스가 마음에 들면 Kindly보다 웹 사이트를 친구 및 가족과 공유하십시오. 감사!"
 
-#: templates/base.html:38
+#: templates/base.html:40
 msgid "Home"
 msgstr "집"
 
-#: templates/base.html:40 templates/base.html:42
+#: templates/base.html:42 templates/base.html:44
 msgid "Tools"
 msgstr "도구"
 
-#: templates/base.html:44
+#: templates/base.html:46
 msgid "Download With Watermark"
 msgstr "워터 마크로 다운로드"
 
-#: templates/base.html:47
+#: templates/base.html:49
 msgid "Download Without Watermark"
 msgstr "워터 마크없이 다운로드"
 
-#: templates/base.html:48
+#: templates/base.html:50
 msgid "Download Audio"
 msgstr "오디오 다운로드"
 
-#: templates/base.html:49
-#, fuzzy
-#| msgid "Audio/Video Cutter"
+#: templates/base.html:51
 msgid "Video Cutter"
 msgstr "비디오 커터"
 
-#: templates/base.html:50
-#, fuzzy
-#| msgid "Audio/Video Cutter"
+#: templates/base.html:52
 msgid "Audio Cutter"
 msgstr "오디오 커터"
 
-#: templates/base.html:54
+#: templates/base.html:56
 msgid "About"
 msgstr "약"
 
-#: templates/base.html:108 templates/privacypolicy.html:10
+#: templates/base.html:110 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "개인 정보 정책"
 
-#: templates/base.html:111 templates/tandc.html:10
+#: templates/base.html:113 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "이용 약관"
 
-#: templates/base.html:114
+#: templates/base.html:116
 msgid "FAQ"
 msgstr "자주하는 질문"
 
@@ -338,7 +312,7 @@ msgstr ""
 msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
 msgstr "비디오 커터 온라인 – TikTok 비디오 트리머 온라인 무료"
 
-#: templates/cutter.html:30
+#: templates/cutter.html:32
 msgid ""
 "Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
 "for your content creation. While using this tool on our website "
@@ -346,18 +320,18 @@ msgstr ""
 "여기 있습니다. TikTok Video Cutter Online Free Tool은 콘텐츠 제작을위한 솔루션을 제공합니다. 웹 "
 "사이트에서이 도구를 사용하는 동안"
 
-#: templates/cutter.html:30
+#: templates/cutter.html:32
 msgid ""
 " you people can easily Trim and Cut TikTok Video in your devices for free. "
 "It’s very unique and user friendly tool for everyone."
 msgstr ""
 "사람들은 무료로 장치에서 TikTok 비디오를 쉽게 자르고자를 수 있습니다. 모두에게 매우 독특하고 사용자 친화적 인 도구입니다."
 
-#: templates/cutter.html:38 templates/faq.html:92
+#: templates/cutter.html:40 templates/faq.html:92
 msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
 msgstr "모바일 또는 PC에서 TikTok 비디오를 자르고 자르는 방법 :"
 
-#: templates/cutter.html:46 templates/faq.html:100
+#: templates/cutter.html:48 templates/faq.html:100
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok Video Cutter."
@@ -365,13 +339,13 @@ msgstr ""
 "당사 웹 사이트 Tiksss.com으로 이동하면 상단 메뉴에 &quot;도구&quot;탭이 표시되고 TikTok Video Cutter를"
 " 선택합니다."
 
-#: templates/cutter.html:52 templates/faq.html:106
+#: templates/cutter.html:54 templates/faq.html:106
 msgid ""
 "You will see a player down below. Kindly select the specific part which you "
 "want to cut it from tiktok video."
 msgstr "아래에 플레이어가 표시됩니다. tiktok 비디오에서 자르고 싶은 특정 부분을 친절하게 선택하십시오."
 
-#: templates/cutter.html:55 templates/faq.html:109
+#: templates/cutter.html:57 templates/faq.html:109
 msgid ""
 "Now you see two options over here. The first one is to download that "
 "specific cut part of the video in mp4 format or download track in mp3 format"
@@ -380,16 +354,16 @@ msgstr ""
 "이제 여기에 두 가지 옵션이 있습니다. 첫 번째는 비디오의 특정 컷 부분을 mp4 형식으로 다운로드하거나 비디오의 특정 트림 부분의 "
 "mp3 형식으로 트랙을 다운로드하는 것입니다."
 
-#: templates/cutter.html:58 templates/faq.html:112
+#: templates/cutter.html:60 templates/faq.html:112
 msgid ""
 "Choose one of the given options according to your needs and then proceed it."
 msgstr "필요에 따라 주어진 옵션 중 하나를 선택한 다음 진행하십시오."
 
-#: templates/cutter.html:61 templates/faq.html:115
+#: templates/cutter.html:63 templates/faq.html:115
 msgid "Now finally click on “Download Button” to download it in your device."
 msgstr "이제 마지막으로 &quot;다운로드 버튼&quot;을 클릭하여 장치에 다운로드합니다."
 
-#: templates/cutter.html:64 templates/faq.html:118
+#: templates/cutter.html:66 templates/faq.html:118
 msgid ""
 "If you like our TikTok Video Cutter and Trimmer Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -502,12 +476,12 @@ msgid ""
 "have made this tool for you people only to "
 msgstr ""
 "는 한 번의 클릭으로 TikTok 동영상을 장치에 저장할 수있는 TikTok 애호가를위한 놀라운 도구입니다. 이 도구는 매우 간단하며 "
-"누구나 쉽게 사용할 수 있습니다. 우리는 모두 해당 비디오를 다시보고 싶다면 로그에 남아있는 장치에서 Tik Tok 비디오를 보는 것을 "
-"좋아하지만, 플랫폼이 매일 생성하는 멋진 피드백으로 인해 비디오를 더 이상 사용할 수없고 손실되는 것을 경험했습니다. 완전 과도. "
-"TikTok에서는 선호하는 장치에 비디오를 다운로드하거나 저장할 수 없습니다. 그러나 사용자 측에서 업로드 한 동영상은 많은 제한이있는 "
-"공식 웹 사이트 또는 앱에서 제공됩니다. 그래서 문제는 이러한 모든 비디오 다운로드 문제를 해결하는 방법입니다. 그래서 저를 포함하여 "
-"모바일이나 노트북에서 TikTok 비디오를 시청하는 수백만 명의 사람들이 있지만 다운로드 할 수 없기 때문에 누구나 쉽게 사용할 수있는 "
-"도구를 만들기로 결정했습니다. 그래서 그것에 대해 걱정하지 마십시오. 나는 당신을 위해이 도구를 만들었습니다."
+"누구나 쉽게 사용할 수 있습니다. 우리 모두는 해당 비디오를 다시보고 싶다면 로그에 남아있는 장치에서 Tik Tok 비디오를 보는 것을 "
+"좋아하지만 플랫폼이 매일 생성하는 멋진 피드백으로 인해 비디오를 더 이상 사용할 수없고 손실되는 것을 경험했습니다. 완전 과도. "
+"TikTok은 선호하는 장치에 비디오를 다운로드하거나 저장하는 것을 허용하지 않습니다. 그러나 사용자 측에서 업로드 한 동영상은 많은 "
+"제한이있는 공식 웹 사이트 또는 앱에서 제공됩니다. 그래서 문제는 이러한 모든 비디오 다운로드 문제를 해결하는 방법입니다. 그래서 저를 "
+"포함하여 모바일이나 노트북에서 TikTok 비디오를 시청하는 수백만 명의 사람들이 있지만 다운로드 할 수 없기 때문에 누구나 쉽게 사용할"
+" 수있는 도구를 만들기로 결정했습니다. 그래서 그것에 대해 걱정하지 마십시오. 나는 당신을 위해이 도구를 만들었습니다."
 
 #: templates/index.html:23
 msgid "I proud myself to introduce an amazing "
@@ -637,7 +611,7 @@ msgid ""
 "page just paste the link and click “Download Button”. Wait a few seconds to "
 "get start downloading of your video."
 msgstr ""
-"이 방법은 원본 품질로 워터 마크없이 비디오를 다운로드하는 데 매우 독특합니다. 우리는이 도구를 매우 쉽게 만들었으며 Windows, "
+"이 방법은 원본 품질의 워터 마크없이 비디오를 다운로드하는 데 매우 독특합니다. 우리는이 도구를 매우 쉽게 만들었으며 Windows, "
 "Mac OS, Ipad, Android 장치에서 원활하게 작동합니다. 특히 PC 사용자의 경우 추가 소프트웨어 나 앱을 설치할 필요가 "
 "없으며 이것은이 TikTok 워터 마크가없는 비디오 다운로드 도구의 유일한 특징입니다. Tiksss.com으로 이동하면 드롭 다운 "
 "메뉴에서 클릭하고 &quot;워터 마크 없음&quot;을 선택합니다. 다음 페이지에서 링크를 붙여넣고“다운로드 버튼”을 클릭하십시오. "
@@ -678,8 +652,8 @@ msgid ""
 " our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
 "your devices for free. It’s very unique and user friendly tool for everyone."
 msgstr ""
-"콘텐츠 제작을위한 솔루션을 제공합니다. 웹 사이트 Tiksss.com에서이 도구를 사용하는 동안 사람들은 무료로 장치에서 TikTok "
-"비디오를 쉽게 자르고자를 수 있습니다. 모두에게 매우 독특하고 사용자 친화적 인 도구입니다."
+"콘텐츠 제작을위한 솔루션을 제공합니다. 당사 웹 사이트 Tiksss.com에서이 도구를 사용하는 동안 사람들은 무료로 장치에서 "
+"TikTok 비디오를 쉽게 자르고자를 수 있습니다. 모두에게 매우 독특하고 사용자 친화적 인 도구입니다."
 
 #: templates/privacypolicy.html:3
 msgid "Privacy Policy - Tiksss.com"
@@ -733,9 +707,8 @@ msgstr ""
 "귀하가 당사 웹 사이트에서 페이지를 요청하면 당사 서버는 IP 번호, 요청 시간, 귀하의 요청 URL 및 기타 정보를 포함하여 HTTP "
 "요청 헤더, JavaScript 또는 유사한 기술 도구에 제공된 정보를 기록합니다. 당사의 서버는이 정보를 사용하여이 웹 사이트의 "
 "페이지를 귀하에게 제공하기 때문에 당사 웹 사이트가 올바르게 작동하고 귀하가 웹 사이트에서 보는 기능을 제공하기 위해이 정보를 "
-"수집합니다. 또한이 정보를 사용하여 방문자가 당사 웹 사이트를 사용하는 방법과 귀하의 요구를 충족하기 위해 웹 사이트, 콘텐츠 및 기능을"
-" 더 잘 조정할 수있는 방법을 더 잘 이해할 수 있습니다. 그러나이 정보는 웹 사이트를 탐색하는 개인의 개인 식별 정보와 관련이 "
-"없습니다."
+"수집합니다. 또한이 정보를 사용하여 방문자가 당사 웹 사이트를 사용하는 방법과 귀하의 요구를 충족시키기 위해 웹 사이트, 콘텐츠 및 "
+"기능을 더 잘 조정할 수있는 방법을 더 잘 이해합니다. 그러나이 정보는 웹 사이트를 탐색하는 개인의 개인 식별 정보와 관련이 없습니다."
 
 #: templates/privacypolicy.html:22
 msgid ""
@@ -777,8 +750,8 @@ msgid ""
 "identifiable visitor information may be provided to other parties for "
 "marketing, advertising, or other uses"
 msgstr ""
-"당사는 귀하의 개인 식별 정보를 외부 당사자에게 판매, 거래 또는 전송하지 않습니다. 여기에는 당사 웹 사이트 운영, 비즈니스 수행 또는"
-" 귀하에게 서비스를 제공하는 신뢰할 수있는 제 3자가 포함되지 않습니다. 단, 해당 당사자가이 정보를 기밀로 유지하는 데 동의하는 한. "
+"당사는 귀하의 개인 식별 정보를 외부 당사자에게 판매, 거래 또는 전송하지 않습니다. 여기에는 당사 웹 사이트 운영, 사업 수행 또는 "
+"귀하에게 서비스를 제공하는 신뢰할 수있는 제 3자가 포함되지 않습니다. 단, 해당 당사자가이 정보를 기밀로 유지하는 데 동의하는 한. "
 "또한 공개가 법률을 준수하고, 사이트 정책을 시행하거나, 당사 또는 다른 사람의 권리, 재산 또는 안전을 보호하는 데 적절하다고 판단되는"
 " 경우 귀하의 정보를 공개 할 수 있습니다. 그러나 마케팅, 광고 또는 기타 사용을 위해 개인 식별이 불가능한 방문자 정보를 다른 "
 "당사자에게 제공 할 수 있습니다."
@@ -834,7 +807,7 @@ msgid ""
 msgstr ""
 "귀하가 당사 서비스를 사용하기로 선택한 경우 귀하는이 정책과 관련된 정보 수집 및 사용에 동의하는 것입니다. 당사가 수집하는 개인 정보는"
 " 서비스 제공 및 개선을 위해 사용됩니다. 우리는이 개인 정보 보호 정책에 설명 된 경우를 제외하고 누구와도 귀하의 정보를 사용하거나 "
-"공유하지 않습니다."
+"공유하지 않습니다"
 
 #: templates/privacypolicy.html:41
 msgid ""
@@ -955,7 +928,7 @@ msgid ""
 "to them on our behalf. However, they are obligated not to disclose or use "
 "the information for any other purpose."
 msgstr ""
-"당사는 이러한 제 3자가 귀하의 개인 정보에 액세스 할 수 있음을이 서비스의 사용자에게 알리고 싶습니다. 그 이유는 우리를 대신하여 "
+"당사는이 서비스 사용자에게 이러한 제 3자가 귀하의 개인 정보에 액세스 할 수 있음을 알리고 싶습니다. 그 이유는 우리를 대신하여 "
 "그들에게 할당 된 작업을 수행하기 위해서입니다. 그러나 다른 목적으로 정보를 공개하거나 사용하지 않을 의무가 있습니다."
 
 #: templates/privacypolicy.html:69
@@ -1072,9 +1045,9 @@ msgid ""
 msgstr ""
 "이 목록을 참조하여 qload.info의 각 광고 파트너에 대한 개인 정보 보호 정책을 찾을 수 있습니다. 제 3 자 광고 서버 또는 "
 "광고 네트워크는 사용자의 브라우저로 직접 전송되는 qload.info에 표시되는 해당 광고 및 링크에 사용되는 쿠키, JavaScript"
-" 또는 웹 비콘과 같은 기술을 사용합니다. 이 경우 자동으로 IP 주소를받습니다. 이러한 기술은 광고 캠페인의 효과를 측정하고 방문하는 "
-"웹 사이트에서 보는 광고 콘텐츠를 개인화하는 데 사용됩니다. qload.info는 타사 광고주가 사용하는 이러한 쿠키에 액세스하거나이를 "
-"제어 할 수 없습니다."
+" 또는 웹 비콘과 같은 기술을 사용합니다. 이 경우 자동으로 IP 주소를받습니다. 이러한 기술은 광고 캠페인의 효과를 측정하거나 방문하는"
+" 웹 사이트에서 보는 광고 콘텐츠를 개인화하는 데 사용됩니다. qload.info는 타사 광고주가 사용하는 이러한 쿠키에 액세스하거나이를"
+" 제어 할 수 없습니다."
 
 #: templates/privacypolicy.html:88
 msgid "Third Party Privacy Policies"
@@ -1173,7 +1146,7 @@ msgstr ""
 msgid ""
 "The right to object to processing – You have the right to object to our "
 "processing of your personal data, under certain conditions."
-msgstr "처리에 반대 할 권리 – 귀하는 특정 조건 하에서 당사의 개인 데이터 처리에 반대 할 권리가 있습니다."
+msgstr "처리에 이의를 제기 할 권리 – 귀하는 특정 조건 하에서 귀하의 개인 데이터 처리에 대해 이의를 제기 할 권리가 있습니다."
 
 #: templates/privacypolicy.html:103
 msgid ""
@@ -1365,8 +1338,8 @@ msgid ""
 "and authorize others to use, reproduce and edit any of your Comments in any "
 "and all forms, formats or media."
 msgstr ""
-"귀하는 이에 따라 Tiksss.com에 모든 형태, 형식 또는 미디어의 귀하의 의견을 사용, 복제, 편집 및 다른 사람이 사용, 복제 및"
-" 편집 할 수있는 권한을 부여하는 비 독점적 라이선스를 부여합니다."
+"귀하는 Tiksss.com에 모든 형식, 형식 또는 미디어로 귀하의 의견을 사용, 복제, 편집 및 다른 사람이 사용, 복제 및 편집 할 "
+"수있는 권한을 부여하는 비 독점적 라이선스를 부여합니다."
 
 #: templates/tandc.html:54
 msgid "Hyper linking to our Content"
@@ -1498,7 +1471,7 @@ msgstr "회사 이름을 사용하여 또는"
 
 #: templates/tandc.html:108
 msgid "By use of the uniform resource locator being linked to; or"
-msgstr "링크되는 단일 자원 위치 지정자를 사용하여; 또는"
+msgstr "링크 된 단일 자원 위치 지정자를 사용하여; 또는"
 
 #: templates/tandc.html:111
 msgid ""
@@ -1659,7 +1632,7 @@ msgid ""
 "extra software or App and this is the only specialty of this TikTok no "
 "watermark video download tool. Go to"
 msgstr ""
-"워터 마크 또는 워터 마크없이 TikTok 비디오를 다운로드하십시오. 이 방법은 원본 품질로 워터 마크없이 비디오를 다운로드하는 데 매우"
+"워터 마크 또는 워터 마크없이 TikTok 비디오를 다운로드하십시오. 이 방법은 원본 품질의 워터 마크없이 비디오를 다운로드하는 데 매우"
 " 독특합니다. 우리는이 도구를 매우 쉽게 만들었으며 Windows, Mac OS, Ipad, Android 장치에서 원활하게 작동합니다."
 " 특히 PC 사용자의 경우 추가 소프트웨어 나 앱을 설치할 필요가 없으며 이것은이 TikTok 워터 마크가없는 비디오 다운로드 도구의 "
 "유일한 특징입니다. 이동"
@@ -1801,7 +1774,7 @@ msgstr "문자, 숫자, 밑줄 또는 하이픈으로 구성된 유효한 &quot;
 msgid ""
 "Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
 " hyphens."
-msgstr "유니 코드 문자, 숫자, 밑줄 또는 하이픈으로 구성된 유효한 &quot;슬러그&quot;를 입력하십시오."
+msgstr "유니 코드 문자, 숫자, 밑줄 또는 하이픈으로 구성된 유효한 &quot;슬러그&quot;를 입력합니다."
 
 #: venv/lib/python3.8/site-packages/django/core/validators.py:278
 #: venv/lib/python3.8/site-packages/django/core/validators.py:288
@@ -1978,7 +1951,7 @@ msgstr "&quot;%(value)s&quot;값에 잘못된 날짜 형식이 있습니다. YYY
 msgid ""
 "“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
-msgstr "&quot;%(value)s&quot;값이 올바른 형식 (YYYY-MM-DD)을 가지고 있지만 유효하지 않은 날짜입니다."
+msgstr "“%(value)s”값이 올바른 형식 (YYYY-MM-DD)을 가지고 있지만 유효하지 않은 날짜입니다."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
 msgid "Date (without time)"
@@ -1999,7 +1972,7 @@ msgid ""
 "“%(value)s” value has the correct format (YYYY-MM-DD "
 "HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
 msgstr ""
-"&quot;%(value)s&quot;값이 올바른 형식 (YYYY-MM-DD HH : MM [: ss [.uuuuuu]] [TZ])이지만"
+"&quot;%(value)s&quot;값의 형식은 정확하지만 (YYYY-MM-DD HH : MM [: ss [.uuuuuu]] [TZ])"
 " 잘못된 날짜 / 시간입니다."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
@@ -2837,7 +2810,7 @@ msgstr ""
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:142
 msgid "More information is available with DEBUG=True."
-msgstr "자세한 정보는 DEBUG = True를 사용하여 사용할 수 있습니다."
+msgstr "자세한 정보는 DEBUG = True를 통해 사용할 수 있습니다."
 
 #: venv/lib/python3.8/site-packages/django/views/generic/dates.py:41
 msgid "No year specified"

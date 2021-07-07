@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-06 02:36+0530\n"
+"POT-Creation-Date: 2021-07-07 23:51+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,12 +81,12 @@ msgstr ""
 "questions, veuillez nous contacter ici :"
 
 #: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4
+#: templates/download4.html:4 templates/download6.html:4
 msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
 msgstr "Convertisseur TikTok en Mp3 en ligne gratuit - Tiksss.com"
 
 #: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5
+#: templates/download4.html:5 templates/download6.html:5
 msgid ""
 "TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
@@ -96,18 +96,21 @@ msgstr ""
 "C&#39;est notre outil le plus rapide pour convertir des vidéos Tiktok au "
 "format MP3 pour les amateurs de Tiktok, ce qui est totalement gratuit."
 
-#: templates/audio.html:14 templates/audio.html:24 templates/index.html:21
-#: templates/without.html:13 templates/without.html:23
-msgid "Download"
-msgstr "Télécharger"
-
 #: templates/audio.html:14
-msgid "Audio"
-msgstr "l&#39;audio"
+msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
+msgstr ""
+"Convertisseur Mp3 en ligne gratuit - Convertisseur vidéo TikTok en Mp3 en "
+"ligne"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "Entrez l&#39;URL ici"
+
+#: templates/audio.html:24 templates/audio_cutter.html:26
+#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
+#: templates/without.html:23
+msgid "Download"
+msgstr "Télécharger"
 
 #: templates/audio.html:30
 msgid "TikTok to Mp3 Converter Online Free"
@@ -134,8 +137,8 @@ msgstr ""
 "médias sociaux, car ils l&#39;aimeront certainement et l&#39;utiliseront à "
 "coup sûr. Pour plus d&#39;informations, visitez notre site"
 
-#: templates/audio.html:35 templates/audio_cutter.html:35
-#: templates/cutter.html:35 templates/faq.html:9 templates/index.html:28
+#: templates/audio.html:35 templates/audio_cutter.html:37
+#: templates/cutter.html:37 templates/faq.html:9 templates/index.html:28
 msgid "Frequently Asked Questions"
 msgstr "Questions fréquemment posées"
 
@@ -199,17 +202,11 @@ msgstr ""
 "Si vous aimez notre outil et nos services, veuillez partager notre site Web "
 "avec vos amis et les membres de votre famille. Merci!"
 
-#: templates/audio_cutter.html:4
-#, fuzzy
-#| msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+#: templates/audio_cutter.html:4 templates/download5.html:4
 msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
 msgstr "TikTok Mp3 Cutter en ligne gratuit - Tiksss.com"
 
-#: templates/audio_cutter.html:7
-#, fuzzy
-#| msgid ""
-#| "TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
-#| "Cut and Trim TikTok Videos Online Free."
+#: templates/audio_cutter.html:7 templates/download5.html:7
 msgid ""
 "TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
@@ -219,9 +216,6 @@ msgstr ""
 "gratuitement."
 
 #: templates/audio_cutter.html:14
-#, fuzzy
-#| msgid ""
-#| "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
 msgid ""
 "TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
 "Free Tool"
@@ -234,11 +228,7 @@ msgstr ""
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
 msgstr "Entrez l&#39;URL ici et attendez 10 à 15 secondes."
 
-#: templates/audio_cutter.html:24 templates/cutter.html:24
-msgid "Search"
-msgstr "Rechercher"
-
-#: templates/audio_cutter.html:30
+#: templates/audio_cutter.html:32
 msgid ""
 "Here is the special and unique tool which is called \"TikTok Mp3 Cutter "
 "Online\"."
@@ -246,7 +236,7 @@ msgstr ""
 "Voici l&#39;outil spécial et unique qui s&#39;appelle &quot;TikTok Mp3 "
 "Cutter Online&quot;."
 
-#: templates/audio_cutter.html:30
+#: templates/audio_cutter.html:32
 msgid ""
 "Introduced this tool to our valuable users because we know how much needy "
 "this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you "
@@ -264,23 +254,17 @@ msgstr ""
 "Web et cet outil est très rapide sur tous les appareils que vous utilisez "
 "dans votre vie quotidienne."
 
-#: templates/audio_cutter.html:38
-#, fuzzy
-#| msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+#: templates/audio_cutter.html:40
 msgid "How To Cut and Trim TikTok Video To Mp3 Online Free"
 msgstr ""
 "Comment couper et couper une vidéo TikTok en Mp3 en ligne gratuitement"
 
-#: templates/audio_cutter.html:43 templates/cutter.html:43
+#: templates/audio_cutter.html:45 templates/cutter.html:45
 #: templates/faq.html:97
 msgid "Go to TikTok official website and copy the video link."
 msgstr "Allez sur le site officiel de TikTok et copiez le lien vidéo."
 
-#: templates/audio_cutter.html:46
-#, fuzzy
-#| msgid ""
-#| "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
-#| " it and select TikTok Video Cutter."
+#: templates/audio_cutter.html:48
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on"
 " it and select \"TikTok Mp3 Cutter\""
@@ -288,14 +272,14 @@ msgstr ""
 "Accédez à notre site Web Tiksss.com et dans le menu du haut, vous verrez "
 "« Outils » appuyez dessus et sélectionnez « TikTok Mp3 Cutter »"
 
-#: templates/audio_cutter.html:49 templates/cutter.html:49
+#: templates/audio_cutter.html:51 templates/cutter.html:51
 #: templates/faq.html:103
 msgid "On the next page paste your video link and click on “Cut Button”."
 msgstr ""
 "Sur la page suivante, collez le lien de votre vidéo et cliquez sur "
 "&quot;Couper le bouton&quot;."
 
-#: templates/audio_cutter.html:52
+#: templates/audio_cutter.html:54
 msgid ""
 "Choose the time duration from given down below option to Cut Your TikTok "
 "video To Mp3 and after that the converting process will start and it will be"
@@ -305,11 +289,7 @@ msgstr ""
 "TikTok en Mp3 et après cela, le processus de conversion commencera et il "
 "sera disponible en quelques secondes."
 
-#: templates/audio_cutter.html:55
-#, fuzzy
-#| msgid ""
-#| "If you like our TikTok Video Cutter and Trimmer Tool and services than "
-#| "Kindly share our website with your friends and family members. Thanks!"
+#: templates/audio_cutter.html:57
 msgid ""
 "If you like our TikTok Mp3 Cutter and Converter Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -318,51 +298,47 @@ msgstr ""
 "veuillez partager notre site Web avec vos amis et les membres de votre "
 "famille. Merci!"
 
-#: templates/base.html:38
+#: templates/base.html:40
 msgid "Home"
 msgstr "Domicile"
 
-#: templates/base.html:40 templates/base.html:42
+#: templates/base.html:42 templates/base.html:44
 msgid "Tools"
 msgstr "Outils"
 
-#: templates/base.html:44
+#: templates/base.html:46
 msgid "Download With Watermark"
 msgstr "Télécharger avec filigrane"
 
-#: templates/base.html:47
+#: templates/base.html:49
 msgid "Download Without Watermark"
 msgstr "Télécharger sans filigrane"
 
-#: templates/base.html:48
+#: templates/base.html:50
 msgid "Download Audio"
 msgstr "Télécharger l&#39;audio"
 
-#: templates/base.html:49
-#, fuzzy
-#| msgid "Audio/Video Cutter"
+#: templates/base.html:51
 msgid "Video Cutter"
 msgstr "Coupeur vidéo"
 
-#: templates/base.html:50
-#, fuzzy
-#| msgid "Audio/Video Cutter"
+#: templates/base.html:52
 msgid "Audio Cutter"
 msgstr "Coupeur audio"
 
-#: templates/base.html:54
+#: templates/base.html:56
 msgid "About"
 msgstr "À propos"
 
-#: templates/base.html:108 templates/privacypolicy.html:10
+#: templates/base.html:110 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Politique de confidentialité"
 
-#: templates/base.html:111 templates/tandc.html:10
+#: templates/base.html:113 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Termes et conditions"
 
-#: templates/base.html:114
+#: templates/base.html:116
 msgid "FAQ"
 msgstr "FAQ"
 
@@ -383,7 +359,7 @@ msgstr ""
 msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
 msgstr "Découpeur vidéo en ligne – Découpeur vidéo TikTok en ligne gratuit"
 
-#: templates/cutter.html:30
+#: templates/cutter.html:32
 msgid ""
 "Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
 "for your content creation. While using this tool on our website "
@@ -392,7 +368,7 @@ msgstr ""
 "solution pour votre création de contenu. Lors de l&#39;utilisation de cet "
 "outil sur notre site Web"
 
-#: templates/cutter.html:30
+#: templates/cutter.html:32
 msgid ""
 " you people can easily Trim and Cut TikTok Video in your devices for free. "
 "It’s very unique and user friendly tool for everyone."
@@ -401,11 +377,11 @@ msgstr ""
 "gratuitement. C&#39;est un outil très unique et convivial pour tout le "
 "monde."
 
-#: templates/cutter.html:38 templates/faq.html:92
+#: templates/cutter.html:40 templates/faq.html:92
 msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
 msgstr "Comment couper et rogner des vidéos TikTok sur mobile ou PC :"
 
-#: templates/cutter.html:46 templates/faq.html:100
+#: templates/cutter.html:48 templates/faq.html:100
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok Video Cutter."
@@ -413,7 +389,7 @@ msgstr ""
 "Accédez à notre site Web Tiksss.com et dans le menu du haut, vous verrez "
 "«Outils», appuyez dessus et sélectionnez TikTok Video Cutter."
 
-#: templates/cutter.html:52 templates/faq.html:106
+#: templates/cutter.html:54 templates/faq.html:106
 msgid ""
 "You will see a player down below. Kindly select the specific part which you "
 "want to cut it from tiktok video."
@@ -421,7 +397,7 @@ msgstr ""
 "Vous verrez un joueur en bas. Veuillez sélectionner la partie spécifique que"
 " vous souhaitez couper de la vidéo tiktok."
 
-#: templates/cutter.html:55 templates/faq.html:109
+#: templates/cutter.html:57 templates/faq.html:109
 msgid ""
 "Now you see two options over here. The first one is to download that "
 "specific cut part of the video in mp4 format or download track in mp3 format"
@@ -431,20 +407,20 @@ msgstr ""
 "cette partie de coupe spécifique de la vidéo au format mp4 ou à télécharger "
 "la piste au format mp3 de cette partie de coupe spécifique de la vidéo."
 
-#: templates/cutter.html:58 templates/faq.html:112
+#: templates/cutter.html:60 templates/faq.html:112
 msgid ""
 "Choose one of the given options according to your needs and then proceed it."
 msgstr ""
 "Choisissez l&#39;une des options proposées en fonction de vos besoins, puis "
 "procédez."
 
-#: templates/cutter.html:61 templates/faq.html:115
+#: templates/cutter.html:63 templates/faq.html:115
 msgid "Now finally click on “Download Button” to download it in your device."
 msgstr ""
 "Maintenant, cliquez enfin sur « Télécharger le bouton » pour le télécharger "
 "sur votre appareil."
 
-#: templates/cutter.html:64 templates/faq.html:118
+#: templates/cutter.html:66 templates/faq.html:118
 msgid ""
 "If you like our TikTok Video Cutter and Trimmer Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -584,7 +560,7 @@ msgstr ""
 "téléchargées du côté de l&#39;utilisateur sont disponibles sur leur site Web"
 " officiel ou leur application avec de nombreuses restrictions. La question "
 "est donc de savoir comment résoudre tous ces problèmes de téléchargement de "
-"vidéos. J&#39;ai donc décidé de faire un outil qui sera facile à utiliser "
+"vidéos. J&#39;ai donc décidé de créer un outil qui sera facile à utiliser "
 "pour tout le monde car moi y compris il y a des millions de personnes sur "
 "cette plateforme pour regarder des vidéos TikTok sur mobile ou ordinateur "
 "portable mais ils ne peuvent pas le télécharger. Alors ne vous en souciez "
@@ -1136,8 +1112,8 @@ msgid ""
 msgstr ""
 "Nous souhaitons informer les utilisateurs de ce Service que ces tiers ont "
 "accès à vos Informations personnelles. La raison est d&#39;effectuer les "
-"tâches qui leur sont confiées en notre nom. Cependant, ils sont tenus de ne "
-"pas divulguer ou utiliser les informations à d&#39;autres fins."
+"tâches qui leur sont assignées en notre nom. Cependant, ils sont tenus de ne"
+" pas divulguer ou utiliser les informations à d&#39;autres fins."
 
 #: templates/privacypolicy.html:69
 msgid "Security"
@@ -1343,8 +1319,8 @@ msgid ""
 "Request that a business delete any personal data about the consumer that a "
 "business has collected."
 msgstr ""
-"Demander à une entreprise de supprimer toutes les données personnelles sur "
-"le consommateur qu&#39;une entreprise a collectées."
+"Demander à une entreprise de supprimer toutes les données personnelles du "
+"consommateur qu&#39;une entreprise a collectées."
 
 #: templates/privacypolicy.html:95
 msgid ""
@@ -1680,8 +1656,8 @@ msgid ""
 "they hyperlink to the Websites of other listed businesses; and"
 msgstr ""
 "Les distributeurs d&#39;annuaires en ligne peuvent créer un lien vers notre "
-"site Web de la même manière qu&#39;ils créent un hyperlien vers les sites "
-"Web d&#39;autres entreprises répertoriées ; et"
+"site Web de la même manière qu&#39;ils créent un lien hypertexte vers les "
+"sites Web d&#39;autres entreprises répertoriées ; et"
 
 #: templates/tandc.html:70
 msgid ""
@@ -1799,8 +1775,8 @@ msgstr ""
 #: templates/tandc.html:102
 msgid "Approved organizations may hyperlink to our Website as follows:"
 msgstr ""
-"Les organisations approuvées peuvent créer des hyperliens vers notre site "
-"Web comme suit :"
+"Les organisations approuvées peuvent créer un lien hypertexte vers notre "
+"site Web comme suit :"
 
 #: templates/tandc.html:105
 msgid "By use of our corporate name; or"
@@ -1939,7 +1915,7 @@ msgstr ""
 msgid "limit or exclude our or your liability for death or personal injury;"
 msgstr ""
 "limiter ou exclure notre ou votre responsabilité en cas de décès ou de "
-"blessures corporelles ;"
+"blessures ;"
 
 #: templates/tandc.html:133
 msgid ""
@@ -1962,8 +1938,8 @@ msgid ""
 "exclude any of our or your liabilities that may not be excluded under "
 "applicable law."
 msgstr ""
-"exclure nos ou vos responsabilités qui ne peuvent être exclues en vertu de "
-"la loi applicable."
+"exclure l&#39;une de nos ou vos responsabilités qui ne peuvent être exclues "
+"en vertu de la loi applicable."
 
 #: templates/tandc.html:142
 msgid ""
@@ -2383,7 +2359,7 @@ msgid ""
 "HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
 msgstr ""
 "La valeur &quot;%(value)s&quot; a le format correct (AAAA-MM-JJ "
-"HH:MM[:ss[.uuuuuu]][TZ]) mais c&#39;est une date/heure non valide."
+"HH:MM[:ss[.uuuuuu]][TZ]) mais il s&#39;agit d&#39;une date/heure non valide."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
 msgid "Date (with time)"
@@ -3125,7 +3101,7 @@ msgstr "décembre"
 
 #: venv/lib/python3.8/site-packages/django/utils/ipv6.py:8
 msgid "This is not a valid IPv6 address."
-msgstr "Ce n&#39;est pas une adresse IPv6 valide."
+msgstr "Il ne s&#39;agit pas d&#39;une adresse IPv6 valide."
 
 #: venv/lib/python3.8/site-packages/django/utils/text.py:71
 #, python-format
@@ -3191,7 +3167,7 @@ msgstr "Interdit"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:111
 msgid "CSRF verification failed. Request aborted."
-msgstr "La vérification CSRF a échoué. Demande abandonnée."
+msgstr "Échec de la vérification CSRF. Demande abandonnée."
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:115
 msgid ""
@@ -3306,7 +3282,8 @@ msgstr "Aucun %(verbose_name)s trouvé correspondant à la requête"
 #: venv/lib/python3.8/site-packages/django/views/generic/list.py:67
 msgid "Page is not “last”, nor can it be converted to an int."
 msgstr ""
-"La page n&#39;est pas « dernière » et ne peut pas être convertie en un int."
+"La page n&#39;est pas « dernière », elle ne peut pas non plus être convertie"
+" en un int."
 
 #: venv/lib/python3.8/site-packages/django/views/generic/list.py:72
 #, python-format

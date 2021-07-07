@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-06 02:36+0530\n"
+"POT-Creation-Date: 2021-07-07 23:51+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,20 +73,20 @@ msgid ""
 "kindly contact us over here:"
 msgstr ""
 "Thiết kế công cụ của chúng tôi rất độc đáo và đơn giản. Chúng tôi tạo ra "
-"công cụ này chỉ dành cho mục đích của khách hàng và người dùng. Nó rất nhanh"
-" chóng, dễ dàng và an toàn cho mọi người sử dụng trong cuộc sống hàng ngày "
-"của bạn ngay cả khi bạn là người sáng tạo nội dung. Công cụ này giúp bạn rất"
-" nhiều và tiết kiệm thời gian của bạn chắc chắn. Tiksss luôn ở đây và sẵn "
-"sàng giúp đỡ bạn nếu bạn gặp bất kỳ vấn đề nào. Nếu bạn có bất kỳ thắc mắc "
-"nào, vui lòng liên hệ với chúng tôi tại đây:"
+"công cụ này cho khách hàng và mục đích người dùng. Nó rất nhanh chóng, dễ "
+"dàng và an toàn cho mọi người sử dụng trong cuộc sống hàng ngày của bạn ngay"
+" cả khi bạn là người sáng tạo nội dung. Công cụ này giúp bạn rất nhiều và "
+"tiết kiệm thời gian của bạn chắc chắn. Tiksss luôn ở đây và sẵn sàng giúp đỡ"
+" bạn nếu bạn gặp bất kỳ vấn đề nào. Nếu bạn có bất kỳ thắc mắc nào, vui lòng"
+" liên hệ với chúng tôi tại đây:"
 
 #: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4
+#: templates/download4.html:4 templates/download6.html:4
 msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
 msgstr "TikTok To Mp3 Converter Online Miễn phí - Tiksss.com"
 
 #: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5
+#: templates/download4.html:5 templates/download6.html:5
 msgid ""
 "TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
@@ -96,18 +96,21 @@ msgstr ""
 "tôi. Công cụ nhanh nhất của chúng tôi để chuyển đổi video Tiktok sang định "
 "dạng Mp3 cho những người yêu thích Tiktok hoàn toàn miễn phí."
 
-#: templates/audio.html:14 templates/audio.html:24 templates/index.html:21
-#: templates/without.html:13 templates/without.html:23
-msgid "Download"
-msgstr "Tải xuống"
-
 #: templates/audio.html:14
-msgid "Audio"
-msgstr "Âm thanh"
+msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
+msgstr ""
+"Công cụ chuyển đổi sang Mp3 trực tuyến miễn phí - TikTok Video to Mp3 "
+"Converter trực tuyến"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "Nhập URL tại đây"
+
+#: templates/audio.html:24 templates/audio_cutter.html:26
+#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
+#: templates/without.html:23
+msgid "Download"
+msgstr "Tải xuống"
 
 #: templates/audio.html:30
 msgid "TikTok to Mp3 Converter Online Free"
@@ -135,8 +138,8 @@ msgstr ""
 "dụng công cụ này. Để biết thêm thông tin, hãy truy cập trang web của chúng "
 "tôi"
 
-#: templates/audio.html:35 templates/audio_cutter.html:35
-#: templates/cutter.html:35 templates/faq.html:9 templates/index.html:28
+#: templates/audio.html:35 templates/audio_cutter.html:37
+#: templates/cutter.html:37 templates/faq.html:9 templates/index.html:28
 msgid "Frequently Asked Questions"
 msgstr "Các câu hỏi thường gặp"
 
@@ -195,17 +198,11 @@ msgstr ""
 "Nếu bạn thích công cụ và dịch vụ của chúng tôi hơn Vui lòng chia sẻ trang "
 "web của chúng tôi với bạn bè và thành viên gia đình của bạn. Cảm ơn!"
 
-#: templates/audio_cutter.html:4
-#, fuzzy
-#| msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+#: templates/audio_cutter.html:4 templates/download5.html:4
 msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
 msgstr "TikTok Mp3 Cutter Online Miễn phí - Tiksss.com"
 
-#: templates/audio_cutter.html:7
-#, fuzzy
-#| msgid ""
-#| "TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
-#| "Cut and Trim TikTok Videos Online Free."
+#: templates/audio_cutter.html:7 templates/download5.html:7
 msgid ""
 "TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
@@ -215,9 +212,6 @@ msgstr ""
 "Miễn phí."
 
 #: templates/audio_cutter.html:14
-#, fuzzy
-#| msgid ""
-#| "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
 msgid ""
 "TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
 "Free Tool"
@@ -228,13 +222,9 @@ msgstr ""
 #: templates/audio_cutter.html:15 templates/cutter.html:15
 #: templates/without.html:14
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
-msgstr "Nhập URL vào đây và đợi trong 10 - 15 Giây."
+msgstr "Nhập URL Tại đây và đợi trong 10 - 15 Giây."
 
-#: templates/audio_cutter.html:24 templates/cutter.html:24
-msgid "Search"
-msgstr "Tìm kiếm"
-
-#: templates/audio_cutter.html:30
+#: templates/audio_cutter.html:32
 msgid ""
 "Here is the special and unique tool which is called \"TikTok Mp3 Cutter "
 "Online\"."
@@ -242,7 +232,7 @@ msgstr ""
 "Đây là công cụ đặc biệt và duy nhất được gọi là &quot;TikTok Mp3 Cutter "
 "Online&quot;."
 
-#: templates/audio_cutter.html:30
+#: templates/audio_cutter.html:32
 msgid ""
 "Introduced this tool to our valuable users because we know how much needy "
 "this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you "
@@ -260,22 +250,16 @@ msgstr ""
 "chúng tôi và công cụ này siêu nhanh trên mọi thiết bị mà bạn sử dụng trong "
 "cuộc sống hàng ngày."
 
-#: templates/audio_cutter.html:38
-#, fuzzy
-#| msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+#: templates/audio_cutter.html:40
 msgid "How To Cut and Trim TikTok Video To Mp3 Online Free"
 msgstr "Làm thế nào để cắt và cắt video TikTok thành Mp3 trực tuyến miễn phí"
 
-#: templates/audio_cutter.html:43 templates/cutter.html:43
+#: templates/audio_cutter.html:45 templates/cutter.html:45
 #: templates/faq.html:97
 msgid "Go to TikTok official website and copy the video link."
 msgstr "Truy cập trang web chính thức của TikTok và sao chép liên kết video."
 
-#: templates/audio_cutter.html:46
-#, fuzzy
-#| msgid ""
-#| "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
-#| " it and select TikTok Video Cutter."
+#: templates/audio_cutter.html:48
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on"
 " it and select \"TikTok Mp3 Cutter\""
@@ -283,13 +267,13 @@ msgstr ""
 "Truy cập trang web Tiksss.com của chúng tôi và trên menu trên cùng, bạn sẽ "
 "thấy ìToolsî nhấn vào đó và chọn &quot;TikTok Mp3 Cutter&quot;"
 
-#: templates/audio_cutter.html:49 templates/cutter.html:49
+#: templates/audio_cutter.html:51 templates/cutter.html:51
 #: templates/faq.html:103
 msgid "On the next page paste your video link and click on “Cut Button”."
 msgstr ""
 "Trên trang tiếp theo, dán liên kết video của bạn và nhấp vào “Nút Cắt”."
 
-#: templates/audio_cutter.html:52
+#: templates/audio_cutter.html:54
 msgid ""
 "Choose the time duration from given down below option to Cut Your TikTok "
 "video To Mp3 and after that the converting process will start and it will be"
@@ -299,11 +283,7 @@ msgstr ""
 "bạn thành Mp3 và sau đó quá trình chuyển đổi sẽ bắt đầu và nó sẽ khả dụng "
 "sau vài giây."
 
-#: templates/audio_cutter.html:55
-#, fuzzy
-#| msgid ""
-#| "If you like our TikTok Video Cutter and Trimmer Tool and services than "
-#| "Kindly share our website with your friends and family members. Thanks!"
+#: templates/audio_cutter.html:57
 msgid ""
 "If you like our TikTok Mp3 Cutter and Converter Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -312,51 +292,47 @@ msgstr ""
 "chúng tôi hơn Vui lòng chia sẻ trang web của chúng tôi với bạn bè và thành "
 "viên gia đình của bạn. Cảm ơn!"
 
-#: templates/base.html:38
+#: templates/base.html:40
 msgid "Home"
 msgstr "Trang Chủ"
 
-#: templates/base.html:40 templates/base.html:42
+#: templates/base.html:42 templates/base.html:44
 msgid "Tools"
 msgstr "Công cụ"
 
-#: templates/base.html:44
+#: templates/base.html:46
 msgid "Download With Watermark"
 msgstr "Tải xuống với hình mờ"
 
-#: templates/base.html:47
+#: templates/base.html:49
 msgid "Download Without Watermark"
 msgstr "Tải xuống không có hình mờ"
 
-#: templates/base.html:48
+#: templates/base.html:50
 msgid "Download Audio"
 msgstr "Tải xuống âm thanh"
 
-#: templates/base.html:49
-#, fuzzy
-#| msgid "Audio/Video Cutter"
+#: templates/base.html:51
 msgid "Video Cutter"
 msgstr "Máy cắt video"
 
-#: templates/base.html:50
-#, fuzzy
-#| msgid "Audio/Video Cutter"
+#: templates/base.html:52
 msgid "Audio Cutter"
 msgstr "Máy cắt âm thanh"
 
-#: templates/base.html:54
+#: templates/base.html:56
 msgid "About"
 msgstr "Trong khoảng"
 
-#: templates/base.html:108 templates/privacypolicy.html:10
+#: templates/base.html:110 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Chính sách bảo mật"
 
-#: templates/base.html:111 templates/tandc.html:10
+#: templates/base.html:113 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Các điều khoản và điều kiện"
 
-#: templates/base.html:114
+#: templates/base.html:116
 msgid "FAQ"
 msgstr "Câu hỏi thường gặp"
 
@@ -376,7 +352,7 @@ msgstr ""
 msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
 msgstr "Video Cutter Online - TikTok Video Trimmer Online Miễn phí"
 
-#: templates/cutter.html:30
+#: templates/cutter.html:32
 msgid ""
 "Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
 "for your content creation. While using this tool on our website "
@@ -385,7 +361,7 @@ msgstr ""
 "pháp để tạo nội dung. Trong khi sử dụng công cụ này trên trang web của chúng"
 " tôi"
 
-#: templates/cutter.html:30
+#: templates/cutter.html:32
 msgid ""
 " you people can easily Trim and Cut TikTok Video in your devices for free. "
 "It’s very unique and user friendly tool for everyone."
@@ -393,11 +369,11 @@ msgstr ""
 "bạn mọi người có thể dễ dàng Cắt và Cắt Video TikTok trong thiết bị của bạn "
 "miễn phí. Đó là công cụ rất độc đáo và thân thiện với mọi người."
 
-#: templates/cutter.html:38 templates/faq.html:92
+#: templates/cutter.html:40 templates/faq.html:92
 msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
 msgstr "Cách cắt và cắt video TikTok trên thiết bị di động hoặc PC:"
 
-#: templates/cutter.html:46 templates/faq.html:100
+#: templates/cutter.html:48 templates/faq.html:100
 msgid ""
 "Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
 " it and select TikTok Video Cutter."
@@ -405,7 +381,7 @@ msgstr ""
 "Truy cập trang web Tiksss.com của chúng tôi và trên menu trên cùng, bạn sẽ "
 "thấy “Công cụ”, hãy nhấn vào đó và chọn TikTok Video Cutter."
 
-#: templates/cutter.html:52 templates/faq.html:106
+#: templates/cutter.html:54 templates/faq.html:106
 msgid ""
 "You will see a player down below. Kindly select the specific part which you "
 "want to cut it from tiktok video."
@@ -413,7 +389,7 @@ msgstr ""
 "Bạn sẽ thấy một trình phát ở bên dưới. Vui lòng chọn phần cụ thể mà bạn muốn"
 " cắt nó khỏi video tiktok."
 
-#: templates/cutter.html:55 templates/faq.html:109
+#: templates/cutter.html:57 templates/faq.html:109
 msgid ""
 "Now you see two options over here. The first one is to download that "
 "specific cut part of the video in mp4 format or download track in mp3 format"
@@ -423,19 +399,19 @@ msgstr ""
 "thể đó của video ở định dạng mp4 hoặc tải xuống bản nhạc ở định dạng mp3 của"
 " phần cắt cụ thể đó của video."
 
-#: templates/cutter.html:58 templates/faq.html:112
+#: templates/cutter.html:60 templates/faq.html:112
 msgid ""
 "Choose one of the given options according to your needs and then proceed it."
 msgstr ""
 "Chọn một trong các tùy chọn nhất định theo nhu cầu của bạn và sau đó tiến "
 "hành nó."
 
-#: templates/cutter.html:61 templates/faq.html:115
+#: templates/cutter.html:63 templates/faq.html:115
 msgid "Now finally click on “Download Button” to download it in your device."
 msgstr ""
 "Bây giờ cuối cùng nhấp vào “Nút tải xuống” để tải xuống thiết bị của bạn."
 
-#: templates/cutter.html:64 templates/faq.html:118
+#: templates/cutter.html:66 templates/faq.html:118
 msgid ""
 "If you like our TikTok Video Cutter and Trimmer Tool and services than "
 "Kindly share our website with your friends and family members. Thanks!"
@@ -854,7 +830,7 @@ msgstr ""
 " hoặc nhà cung cấp dịch vụ của trang web đó chuyển đến ổ cứng máy tính của "
 "bạn thông qua trình duyệt Web của bạn (nếu bạn cho phép) cho phép các trang "
 "web hoặc hệ thống của nhà cung cấp dịch vụ nhận ra trình duyệt của bạn và "
-"nắm bắt và ghi nhớ một số thông tin nhất định)"
+"nắm bắt và ghi nhớ một số thông tin)"
 
 #: templates/privacypolicy.html:25
 msgid ""
@@ -910,11 +886,11 @@ msgid ""
 msgstr ""
 "Đôi khi, theo quyết định của chúng tôi, chúng tôi có thể bao gồm hoặc cung "
 "cấp các sản phẩm hoặc dịch vụ của bên thứ ba trên trang web của chúng tôi. "
-"Các trang web của bên thứ ba này có các chính sách bảo mật riêng biệt và độc"
-" lập. Do đó, chúng tôi không có trách nhiệm hoặc nghĩa vụ đối với nội dung "
-"và hoạt động của các trang web liên kết này. Tuy nhiên, chúng tôi cố gắng "
-"bảo vệ tính toàn vẹn của trang web của mình và hoan nghênh mọi phản hồi về "
-"các trang web này"
+"Các trang web của bên thứ ba này có chính sách bảo mật riêng biệt và độc "
+"lập. Do đó, chúng tôi không có trách nhiệm hoặc nghĩa vụ đối với nội dung và"
+" hoạt động của các trang web liên kết này. Tuy nhiên, chúng tôi cố gắng bảo "
+"vệ tính toàn vẹn của trang web của mình và hoan nghênh mọi phản hồi về các "
+"trang web này"
 
 #: templates/privacypolicy.html:34
 msgid ""
@@ -1119,10 +1095,10 @@ msgid ""
 msgstr ""
 "Chúng tôi đánh giá cao sự tin tưởng của bạn trong việc cung cấp cho chúng "
 "tôi Thông tin cá nhân của bạn, do đó chúng tôi đang cố gắng sử dụng các "
-"phương tiện được chấp nhận về mặt thương mại để bảo vệ nó. Nhưng hãy nhớ "
-"rằng không có phương thức truyền tải nào qua internet hoặc phương thức lưu "
-"trữ điện tử nào là an toàn và đáng tin cậy 100%% và chúng tôi không thể đảm "
-"bảo tính bảo mật tuyệt đối của nó."
+"phương tiện được chấp nhận về mặt thương mại để bảo vệ thông tin đó. Nhưng "
+"hãy nhớ rằng không có phương thức truyền tải nào qua internet hoặc phương "
+"thức lưu trữ điện tử nào là an toàn và đáng tin cậy 100%% và chúng tôi không"
+" thể đảm bảo tính bảo mật tuyệt đối của nó."
 
 #: templates/privacypolicy.html:71
 msgid "Links to Other Sites"
@@ -1159,13 +1135,13 @@ msgid ""
 "with personal information, please contact us so that we will be able to do "
 "necessary actions."
 msgstr ""
-"Những Dịch vụ này không liên quan đến bất kỳ ai dưới 13 tuổi, chúng tôi "
-"không cố ý thu thập thông tin nhận dạng cá nhân của trẻ em dưới 13. Trong "
-"trường hợp chúng tôi phát hiện ra rằng một đứa trẻ dưới 13 tuổi đã cung cấp "
-"cho chúng tôi thông tin cá nhân, chúng tôi sẽ ngay lập tức xóa thông tin này"
-" khỏi máy chủ của chúng tôi. Nếu bạn là cha mẹ hoặc người giám hộ và bạn "
-"biết rằng con bạn đã cung cấp thông tin cá nhân cho chúng tôi, vui lòng liên"
-" hệ với chúng tôi để chúng tôi có thể thực hiện các hành động cần thiết."
+"Các Dịch vụ này không liên quan đến bất kỳ ai dưới 13 tuổi, chúng tôi không "
+"cố ý thu thập thông tin nhận dạng cá nhân từ trẻ em dưới 13. Trong trường "
+"hợp chúng tôi phát hiện trẻ em dưới 13 tuổi đã cung cấp thông tin cá nhân "
+"cho chúng tôi, chúng tôi ngay lập tức xóa thông tin này khỏi máy chủ của "
+"chúng tôi. Nếu bạn là cha mẹ hoặc người giám hộ và bạn biết rằng con bạn đã "
+"cung cấp thông tin cá nhân cho chúng tôi, vui lòng liên hệ với chúng tôi để "
+"chúng tôi có thể thực hiện các hành động cần thiết."
 
 #: templates/privacypolicy.html:75
 msgid "Google Double-Click DART Cookie"
@@ -1449,7 +1425,7 @@ msgstr ""
 " nhận và xem xét thanh toán cần thiết để thực hiện quá trình hỗ trợ của "
 "chúng tôi cho Clien theo cách phù hợp nhất với mục đích rõ ràng là đáp ứng "
 "nhu cầu của Khách hàng liên quan đến việc cung cấp các dịch vụ đã nêu của "
-"Công ty, phù hợp và tuân theo , luật hiện hành của Hà Lan. Bất kỳ việc sử "
+"Công ty, phù hợp và tuân theo , luật hiện hành của Hà Lan. Bất kỳ cách sử "
 "dụng thuật ngữ nào ở trên hoặc các từ khác ở dạng số ít, số nhiều, viết hoa "
 "và / hoặc anh ấy / cô ấy hoặc chúng, đều có thể hoán đổi cho nhau và do đó "
 "được coi là giống nhau."
@@ -1489,8 +1465,8 @@ msgstr ""
 "Trừ khi có quy định khác, Tiksss.com và / hoặc người cấp phép của nó sở hữu "
 "các quyền sở hữu trí tuệ đối với tất cả các tài liệu trên Tiksss.com. Tất cả"
 " các quyền sở hữu trí tuệ được bảo lưu. Bạn có thể truy cập thông tin này từ"
-" Tiksss cho mục đích sử dụng cá nhân của riêng mình tùy theo các hạn chế "
-"được đặt ra trong các điều khoản và điều kiện"
+" Tiksss cho mục đích sử dụng cá nhân của riêng mình tùy thuộc vào các hạn "
+"chế được đặt ra trong các điều khoản và điều kiện này"
 
 #: templates/tandc.html:20
 msgid "You must not"
@@ -1534,10 +1510,10 @@ msgstr ""
 "trên trang web. Nhận xét không phản ánh quan điểm và ý kiến của Tiksss.com, "
 "đại lý của nó, một chi nhánh. Bình luận phản ánh quan điểm và ý kiến của "
 "người đăng quan điểm và ý kiến của họ. Trong phạm vi luật pháp hiện hành cho"
-" phép, Tiksss.com sẽ không chịu trách nhiệm đối với các Bình luận hoặc bất "
-"kỳ thiệt hại hoặc chi phí hợp pháp nào gây ra và / hoặc phải gánh chịu do "
-"bất kỳ việc sử dụng và / hoặc đăng và / hoặc sự xuất hiện của các Bình luận "
-"trên trang web này ."
+" phép, Tiksss.com sẽ không chịu trách nhiệm đối với Nhận xét hoặc bất kỳ "
+"thiệt hại hoặc chi phí hợp pháp nào gây ra và / hoặc phải chịu do bất kỳ "
+"việc sử dụng và / hoặc đăng và / hoặc sự xuất hiện của Nhận xét trên trang "
+"web này ."
 
 #: templates/tandc.html:37
 msgid ""
@@ -1636,7 +1612,7 @@ msgid ""
 "organizations, charity shopping malls, and charity fundraising groups which "
 "may not hyperlink to our Web site."
 msgstr ""
-"Các Doanh nghiệp Được Công nhận trên toàn hệ thống ngoại trừ việc kêu gọi "
+"Các Doanh nghiệp được Công nhận trên toàn hệ thống ngoại trừ việc kêu gọi "
 "các tổ chức phi lợi nhuận, các trung tâm mua sắm từ thiện và các nhóm gây "
 "quỹ từ thiện có thể không liên kết với trang Web của chúng tôi."
 
@@ -1735,9 +1711,9 @@ msgstr ""
 "liên kết đến trang web của chúng tôi, bạn phải thông báo cho chúng tôi bằng "
 "cách gửi e-mail đến Tiksss.com. Vui lòng bao gồm tên của bạn, tên tổ chức "
 "của bạn, thông tin liên hệ cũng như URL của trang web của bạn, danh sách bất"
-" kỳ URL nào bạn định liên kết đến Trang web của chúng tôi và danh sách các "
-"URL trên trang web của chúng tôi mà bạn muốn liên kết. Chờ 2-3 tuần để có "
-"phản hồi."
+" kỳ URL nào mà bạn định liên kết đến Trang web của chúng tôi và danh sách "
+"các URL trên trang web của chúng tôi mà bạn muốn liên kết. Chờ 2-3 tuần để "
+"có phản hồi."
 
 #: templates/tandc.html:102
 msgid "Approved organizations may hyperlink to our Website as follows:"
@@ -1966,8 +1942,8 @@ msgstr ""
 "và bạn sẽ thấy menu thả xuống nhấp vào nó và chọn “Không có Hình mờ”. Trên "
 "trang tiếp theo, chỉ cần dán liên kết và nhấp vào “Nút Tải xuống”. Chờ một "
 "vài giây để bắt đầu tải xuống video của bạn. Bạn cũng có thể “Tải xuống "
-"TikTok Video với Watermark” và để truy cập Trang chủ trang web của chúng tôi"
-" và tải xuống video yêu thích của bạn dưới 10 giây."
+"TikTok Video với Watermark” và để làm điều này, hãy truy cập Trang chủ trang"
+" web của chúng tôi và tải xuống video yêu thích của bạn dưới 10 giây."
 
 #: templates/without.html:33
 msgid "Frequently Asked Questions "
@@ -2607,7 +2583,8 @@ msgid ""
 "%(field_names)s. You may need to file a bug report if the issue persists."
 msgstr ""
 "Dữ liệu ManagementForm bị thiếu hoặc đã bị giả mạo. Các trường bị thiếu: "
-"%(field_names)s. Bạn có thể phải gửi báo cáo lỗi nếu sự cố vẫn tiếp diễn."
+"%(field_names)s. Bạn có thể cần phải gửi báo cáo lỗi nếu sự cố vẫn tiếp "
+"diễn."
 
 #: venv/lib/python3.8/site-packages/django/forms/formsets.py:370
 #, python-format
@@ -3141,9 +3118,9 @@ msgid ""
 msgstr ""
 "Nếu bạn đang sử dụng<meta name=\"referrer\" content=\"no-referrer\"> hoặc "
 "bao gồm tiêu đề “Liên kết giới thiệu-Chính sách: không có liên kết giới "
-"thiệu”, vui lòng xóa chúng. Việc bảo vệ CSRF yêu cầu tiêu đề “Người giới "
-"thiệu” phải thực hiện kiểm tra người giới thiệu nghiêm ngặt. Nếu bạn lo lắng"
-" về quyền riêng tư, hãy sử dụng các lựa chọn thay thế như <a "
+"thiệu”, vui lòng xóa chúng. Việc bảo vệ CSRF yêu cầu tiêu đề &quot;Người "
+"giới thiệu&quot; phải thực hiện kiểm tra người giới thiệu nghiêm ngặt. Nếu "
+"bạn lo lắng về quyền riêng tư, hãy sử dụng các lựa chọn thay thế như <a "
 "rel=\"noreferrer\" …>cho các liên kết đến các trang web của bên thứ ba.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132
@@ -3269,7 +3246,7 @@ msgid ""
 "target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
 "and you have not configured any URLs."
 msgstr ""
-"Bạn nhìn thấy trang này vì <a "
+"Bạn đang nhìn thấy trang này vì <a "
 "href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
 "target=\"_blank\" rel=\"noopener\">DEBUG = True</a> có trong tệp cài đặt của"
 " bạn và bạn chưa định cấu hình bất kỳ URL nào."
@@ -3325,4 +3302,4 @@ msgstr "Giá trị không được hỗ trợ cho thuật toán pw: %s."
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
 msgid "Redirected but the response is missing a Location: header."
-msgstr "Đã chuyển hướng nhưng phản hồi thiếu tiêu đề Location:."
+msgstr "Được chuyển hướng nhưng phản hồi thiếu tiêu đề Location:."
