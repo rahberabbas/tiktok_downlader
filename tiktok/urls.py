@@ -20,7 +20,7 @@ sitemaps = {
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('sitemap.xml', sitemap, {'sitemaps': sitemaps}),
-    path('robots.txt', TemplateView.as_view(template_name='robotstxt.html', content_type='text/plain'), name='robots'),
+    path('robots.txt/', TemplateView.as_view(template_name='robotstxt.html', content_type='text/plain'), name='robots'),
 ]
 urlpatterns += i18n_patterns(
     path('', index, name='index'),
