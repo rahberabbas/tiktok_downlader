@@ -10,6 +10,7 @@ from django.contrib.sitemaps.views import sitemap
 from .sitemaps import StaticViewSitemap
 from django.conf import settings
 from django.conf.urls.static import static
+from django.views.generic import TemplateView
 
 sitemaps = {
     'static': StaticViewSitemap
@@ -19,6 +20,7 @@ sitemaps = {
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('sitemap.xml', sitemap, {'sitemaps': sitemaps}),
+    path('robots.txt/', TemplateView.as_view(template_name='robotstxt.html', content_type='text/plain'), name='robots'),
 ]
 urlpatterns += i18n_patterns(
     path('', index, name='index'),
