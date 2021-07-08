@@ -68,6 +68,3 @@ def faq(request):
 
 def view_404(request, exception=None):
     return redirect('index')
-
-def error_500_view(request, exception=None):
-    return render(request, 'index.html')
