@@ -1,5 +1,5 @@
 import time
-from django.shortcuts import render, HttpResponse, redirect
+from django.shortcuts import render, HttpResponse
 from datetime import datetime
 import os
 from .import function
@@ -66,5 +66,8 @@ def tandc(request):
 def faq(request):
     return render(request, 'faq.html')
 
-def view_404(request, exception=None):
-    return redirect('index')
+def error_404_view(request, exception=None):
+    return render(request, 'index.html')
+
+def error_500_view(request, exception=None):
+    return render(request, 'index.html')
