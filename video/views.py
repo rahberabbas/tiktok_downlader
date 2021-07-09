@@ -1,5 +1,5 @@
 import time
-from django.shortcuts import render, HttpResponse
+from django.shortcuts import redirect, render, HttpResponse
 from datetime import datetime
 import os
 from .import function
@@ -52,7 +52,7 @@ def faq(request):
     return render(request, 'faq.html')
 
 def error_404_view(request, exception=None):
-    return render(request, 'index.html')
+    return redirect('index')
 
 def error_500_view(request, exception=None):
     return render(request, 'index.html')
