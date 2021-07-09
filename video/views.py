@@ -52,4 +52,4 @@ def faq(request):
     return render(request, 'faq.html')
 
 def view_404(request, exception=None):
-    return redirect('/')
+    return redirect('index')
