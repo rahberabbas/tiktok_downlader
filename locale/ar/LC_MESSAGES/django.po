@@ -188,7 +188,7 @@ msgstr ""
 
 #: templates/audio_cutter.html:4 templates/download5.html:4
 msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 القاطع على الإنترنت مجانا - Tiksss.com"
 
 #: templates/audio_cutter.html:7 templates/download5.html:7
 msgid ""

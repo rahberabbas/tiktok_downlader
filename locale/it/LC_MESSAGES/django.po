@@ -201,7 +201,7 @@ msgstr ""
 
 #: templates/audio_cutter.html:4 templates/download5.html:4
 msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Cutter online gratuito - Tiksss.com"
+msgstr "TikTok taglierina mp3 online gratis - Tiksss.com"
 
 #: templates/audio_cutter.html:7 templates/download5.html:7
 msgid ""
@@ -217,7 +217,7 @@ msgid ""
 "TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
 "Free Tool"
 msgstr ""
-"TikTok Mp3 Cutter e convertitore online - Taglia i video TikTok in Mp3 "
+"Mp3 Cutter e convertitore online - Taglia i video TikTok in Mp3 "
 "online strumento gratuito"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
