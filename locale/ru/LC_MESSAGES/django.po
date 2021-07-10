@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 23:51+0530\n"
+"POT-Creation-Date: 2021-07-10 19:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,29 +77,27 @@ msgstr ""
 "легко и безопасно для всех, чтобы использовать их в повседневной жизни, даже"
 " если вы являетесь создателем контента. Этот инструмент вам очень поможет и "
 "наверняка сэкономит ваше время. Tiksss всегда здесь и готов помочь вам, если"
-" у вас возникнут какие-либо проблемы. Если у вас есть какие-либо вопросы, "
+" вы столкнетесь с какой-либо проблемой. Если у вас есть какие-либо вопросы, "
 "свяжитесь с нами здесь:"
 
-#: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4 templates/download6.html:4
-msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
-msgstr "Конвертер TikTok в Mp3 онлайн бесплатно - Tiksss.com"
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
+msgstr "Конвертер TikTok в mp3 онлайн бесплатно - Tiksss.com"
 
-#: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5 templates/download6.html:5
+#: templates/audio.html:7
 msgid ""
-"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
 "is totally free."
 msgstr ""
-"Конвертер TikTok в Mp3 онлайн бесплатно на нашем сайте Tiksss.com. Это наш "
+"Конвертер TikTok в mp3 онлайн бесплатно на нашем сайте Tiksss.com. Это наш "
 "самый быстрый инструмент для конвертации видео Tiktok в формат Mp3 для "
 "любителей Tiktok, который совершенно бесплатен."
 
 #: templates/audio.html:14
-msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr ""
-"В Mp3 Converter Online бесплатно - TikTok Video To Mp3 Converter Online"
+"в mp3 конвертер онлайн бесплатно - TikTok видео в mp3 конвертер онлайн"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
@@ -133,7 +131,7 @@ msgstr ""
 "эту страницу инструмента в закладки на будущее. Мы добавили все инструкции к"
 " этому инструменту, чтобы узнать, как вы можете его использовать и извлечь "
 "из него пользу. Пожалуйста, поделитесь этим инструментом со своими друзьями "
-"и членами семьи с помощью социальных сетей, потому что им обязательно "
+"и членами семьи с помощью социальных сетей, потому что им определенно он "
 "понравится и они обязательно будут использовать его. Для получения "
 "дополнительной информации посетите наш веб-сайт"
 
@@ -199,26 +197,25 @@ msgstr ""
 "Если вам нравятся наши инструменты и услуги, пожалуйста, поделитесь нашим "
 "сайтом со своими друзьями и членами семьи. Спасибо!"
 
-#: templates/audio_cutter.html:4 templates/download5.html:4
-msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Cutter онлайн бесплатно - Tiksss.com"
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
+msgstr "TikTok mp3 резак онлайн бесплатно - Tiksss.com"
 
-#: templates/audio_cutter.html:7 templates/download5.html:7
+#: templates/audio_cutter.html:7
 msgid ""
-"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Mp3 Cutter Online Бесплатный инструмент. Как вырезать видео из TikTok"
-" в Mp3 онлайн бесплатно. Вырезать и обрезать видео в TikTok онлайн "
+"TikTok mp3 Cutter онлайн, бесплатный инструмент. Как вырезать видео из "
+"TikTok в Mp3 онлайн бесплатно. Вырезать и обрезать видео в TikTok онлайн "
 "бесплатно."
 
 #: templates/audio_cutter.html:14
 msgid ""
-"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
-"Free Tool"
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
 msgstr ""
-"TikTok Mp3 Cutter and Converter Online - Обрезка видео из TikTok в Mp3 "
-"онлайн, бесплатный инструмент"
+"резак и конвертер mp3 онлайн - Обрезать видео из TikTok в mp3 онлайн "
+"бесплатно"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
 #: templates/without.html:14
@@ -280,7 +277,7 @@ msgid ""
 " available in few seconds."
 msgstr ""
 "Выберите продолжительность из приведенного ниже варианта, чтобы вырезать "
-"видео из TikTok в Mp3, и после этого начнется процесс конвертации, и он "
+"видео из TikTok в Mp3, и после этого начнется процесс преобразования, и он "
 "будет доступен через несколько секунд."
 
 #: templates/audio_cutter.html:57
@@ -292,66 +289,66 @@ msgstr ""
 "Tool и услуги, пожалуйста, поделитесь нашим сайтом со своими друзьями и "
 "членами семьи. Спасибо!"
 
-#: templates/base.html:40
+#: templates/base.html:42
 msgid "Home"
 msgstr "Дом"
 
-#: templates/base.html:42 templates/base.html:44
+#: templates/base.html:44 templates/base.html:46
 msgid "Tools"
 msgstr "Инструменты"
 
-#: templates/base.html:46
+#: templates/base.html:48
 msgid "Download With Watermark"
 msgstr "Скачать с водяным знаком"
 
-#: templates/base.html:49
+#: templates/base.html:51
 msgid "Download Without Watermark"
 msgstr "Скачать без водяного знака"
 
-#: templates/base.html:50
+#: templates/base.html:52
 msgid "Download Audio"
 msgstr "Скачать аудио"
 
-#: templates/base.html:51
+#: templates/base.html:53
 msgid "Video Cutter"
-msgstr "Видео резак"
+msgstr "Видео Cutter"
 
-#: templates/base.html:52
+#: templates/base.html:54
 msgid "Audio Cutter"
 msgstr "Аудио резак"
 
-#: templates/base.html:56
+#: templates/base.html:58
 msgid "About"
 msgstr "О"
 
-#: templates/base.html:110 templates/privacypolicy.html:10
+#: templates/base.html:112 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Политика конфиденциальности"
 
-#: templates/base.html:113 templates/tandc.html:10
+#: templates/base.html:115 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Условия и положения"
 
-#: templates/base.html:116
+#: templates/base.html:118
 msgid "FAQ"
 msgstr "Часто задаваемые вопросы"
 
-#: templates/cutter.html:4 templates/download3.html:4
-msgid "TikTok Video Cutter Online Free – Tiksss.com"
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
 msgstr "TikTok Video Cutter онлайн бесплатно - Tiksss.com"
 
-#: templates/cutter.html:7 templates/download3.html:7
+#: templates/cutter.html:7
 msgid ""
-"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
 "Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Video Cutter Online Бесплатный инструмент. Как вырезать видео в "
+"TikTok Video Cutter онлайн, бесплатный инструмент. Как вырезать видео в "
 "TikTok онлайн бесплатно. Вырезать и обрезать видео в TikTok онлайн "
 "бесплатно."
 
 #: templates/cutter.html:14
-msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
-msgstr "Video Cutter Online - TikTok Video Trimmer Online Бесплатно"
+msgid "video cutter online – TikTok video trimmer online free"
+msgstr "обрезка видео онлайн - TikTok video trimmer онлайн бесплатно"
 
 #: templates/cutter.html:32
 msgid ""
@@ -421,11 +418,11 @@ msgstr ""
 "Tool, пожалуйста, поделитесь нашим сайтом со своими друзьями и членами "
 "семьи. Спасибо!"
 
-#: templates/download.html:6 templates/index.html:4
+#: templates/download.html:6
 msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
-msgstr "Скачать видео Tiktok без водяных знаков - Tiksss.Com"
+msgstr "Скачать видео с Tiktok без водяных знаков - Tiksss.Com"
 
-#: templates/download.html:7 templates/index.html:5
+#: templates/download.html:7
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on our website "
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
@@ -435,11 +432,27 @@ msgstr ""
 "Tiksss.com. Это наш самый быстрый онлайн-загрузчик видео с Tiktok для "
 "любителей Tiktok, который абсолютно бесплатен."
 
-#: templates/download2.html:4 templates/without.html:4
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "Конвертер TikTok в Mp3 онлайн бесплатно - Tiksss.com"
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"Конвертер TikTok в Mp3 онлайн бесплатно на нашем сайте Tiksss.com. Это наш "
+"самый быстрый инструмент для конвертации видео Tiktok в формат Mp3 для "
+"любителей Tiktok, который совершенно бесплатен."
+
+#: templates/download2.html:4
 msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
 msgstr "Скачать видео Tiktok без водяных знаков онлайн - Tiksss.com"
 
-#: templates/download2.html:6 templates/without.html:6
+#: templates/download2.html:6
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -448,6 +461,32 @@ msgstr ""
 "Загрузите видео Tiktok без водяных знаков онлайн бесплатно на нашем сайте "
 "Tiksss.com. Вы можете легко загружать видео Tiktok без водяных знаков на "
 "свой телефон и ноутбук."
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok Video Cutter онлайн бесплатно - Tiksss.com"
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Video Cutter Online Бесплатный инструмент. Как вырезать видео в "
+"TikTok онлайн бесплатно. Вырезать и обрезать видео в TikTok онлайн "
+"бесплатно."
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter онлайн бесплатно - Tiksss.com"
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Mp3 Cutter Online Бесплатный инструмент. Как вырезать видео из TikTok"
+" в Mp3 онлайн бесплатно. Вырезать и обрезать видео в TikTok онлайн "
+"бесплатно."
 
 #: templates/faq.html:3
 msgid "Frequently Asked Questions - Tiksss.com"
@@ -517,9 +556,23 @@ msgstr ""
 "Просто подождите несколько секунд, и вы сможете загрузить видео Tiktok без "
 "водяных знаков прямо на свой компьютер."
 
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr "Скачать видео Tiktok без водяных знаков - Tiksss.Com"
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"Скачайте видео Tiktok без водяных знаков онлайн бесплатно на нашем сайте "
+"Tiksss.com. Это наш самый быстрый онлайн-загрузчик видео с Tiktok для "
+"любителей Tiktok, который абсолютно бесплатен."
+
 #: templates/index.html:11
-msgid "to Mp4 Downloader Online Free"
-msgstr "в Mp4 Downloader Online Бесплатно"
+msgid "to mp4 downloader online free"
+msgstr "в mp4 загрузчик онлайн бесплатно"
 
 #: templates/index.html:23
 msgid ""
@@ -735,7 +788,7 @@ msgstr ""
 "закладки на будущее. Мы добавили все инструкции к этому инструменту, чтобы "
 "узнать, как вы можете его использовать и извлечь из него пользу. Пожалуйста,"
 " поделитесь этим инструментом со своими друзьями и членами семьи с помощью "
-"социальных сетей, потому что им обязательно понравится и они обязательно "
+"социальных сетей, потому что им определенно он понравится и они обязательно "
 "будут использовать его."
 
 #: templates/index.html:127
@@ -1069,7 +1122,7 @@ msgstr "Для оказания услуг, связанных с Сервисо
 
 #: templates/privacypolicy.html:65
 msgid "To assist us in analyzing how our Service is used."
-msgstr "Чтобы помочь нам проанализировать, как используется наш Сервис."
+msgstr "Чтобы помочь нам в анализе использования нашего Сервиса."
 
 #: templates/privacypolicy.html:68
 msgid ""
@@ -1079,7 +1132,7 @@ msgid ""
 "the information for any other purpose."
 msgstr ""
 "Мы хотим проинформировать пользователей этого Сервиса о том, что эти третьи "
-"стороны имеют доступ к вашей Личной информации. Причина в том, чтобы "
+"стороны имеют доступ к вашей личной информации. Причина в том, чтобы "
 "выполнять поставленные перед ними задачи от нашего имени. Однако они обязаны"
 " не раскрывать и не использовать информацию для каких-либо других целей."
 
@@ -1176,9 +1229,8 @@ msgstr ""
 "Наши рекламные партнеры Некоторые рекламодатели на нашем сайте могут "
 "использовать файлы cookie и веб-маяки. Наши рекламные партнеры перечислены "
 "ниже. У каждого из наших рекламных партнеров есть собственная Политика "
-"конфиденциальности для своих политик в отношении пользовательских данных. "
-"Для облегчения доступа мы разместили гиперссылку на их Политику "
-"конфиденциальности ниже."
+"конфиденциальности в отношении пользовательских данных. Для облегчения "
+"доступа мы разместили гиперссылку на их Политику конфиденциальности ниже."
 
 #: templates/privacypolicy.html:82
 msgid "Changes to This Privacy Policy"
@@ -1416,7 +1468,7 @@ msgid ""
 "plural, capitalization and/or he/she or they, are take interchangeable and "
 "therefore as referring to same."
 msgstr ""
-"Следующая терминология применяется к настоящим Условиям использования, "
+"Следующая терминология применяется к настоящим Положениям и условиям, "
 "Заявлению о конфиденциальности и Уведомлению об отказе от ответственности, а"
 " также ко всем Соглашениям: «Клиент», «Вы» и «Ваш» относится к вам, лицу, "
 "которое входит на этот веб-сайт в соответствии с условиями и положениями "
@@ -1425,11 +1477,10 @@ msgstr ""
 "условия относятся к принятию и рассмотрению платежа, необходимого для "
 "осуществления процесса нашей помощи Клиенту наиболее подходящим способом для"
 " явной цели удовлетворения потребностей Клиента в отношении предоставления "
-"заявленных услуг Компании, в соответствии с и при условии , действующее "
-"право Нидерландов. Любое использование вышеуказанной терминологии или других"
-" слов в единственном числе, множественном числе, с заглавной буквы и / или "
-"он / она или они считаются взаимозаменяемыми и, следовательно, относятся к "
-"ним."
+"заявленных услуг Компании в соответствии с и при условии , действующее право"
+" Нидерландов. Любое использование вышеуказанной терминологии или других слов"
+" в единственном числе, множественном числе, с заглавной буквы и / или он / "
+"она или они считаются взаимозаменяемыми и, следовательно, относятся к ним."
 
 #: templates/tandc.html:16
 msgid ""
@@ -1616,9 +1667,9 @@ msgid ""
 "organizations, charity shopping malls, and charity fundraising groups which "
 "may not hyperlink to our Web site."
 msgstr ""
-"Аккредитованные предприятия в масштабе всей системы, за исключением "
-"привлечения некоммерческих организаций, благотворительных торговых центров и"
-" благотворительных групп по сбору средств, которые не могут гиперссылки на "
+"Аккредитованные компании в масштабе всей системы, за исключением привлечения"
+" некоммерческих организаций, благотворительных торговых центров и "
+"благотворительных групп по сбору средств, которые не могут гиперссылки на "
 "наш веб-сайт."
 
 #: templates/tandc.html:73
@@ -1780,7 +1831,7 @@ msgstr ""
 "вашем веб-сайте. На любом веб-сайте не должны появляться ссылки, которые "
 "могут быть истолкованы как клеветнические, непристойные или преступные, или "
 "которые нарушают, иным образом нарушают или пропагандируют нарушение или "
-"иное нарушение любых прав третьих лиц."
+"иное нарушение прав третьих лиц"
 
 #: templates/tandc.html:119
 msgid "Your Privacy"
@@ -1903,9 +1954,23 @@ msgstr ""
 "Пока веб-сайт, а также информация и услуги на нем предоставляются бесплатно,"
 " мы не несем ответственности за любые убытки или ущерб любого характера."
 
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "Скачать видео Tiktok без водяных знаков онлайн - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Скачайте видео Tiktok без водяных знаков онлайн бесплатно на Нашем сайте "
+"Tiksss.com. Вы можете легко загружать видео Tiktok без водяных знаков на "
+"свой телефон и ноутбук."
+
 #: templates/without.html:13
-msgid "Video Without Watermark"
-msgstr "Видео без водяных знаков"
+msgid "video without watermark"
+msgstr "видео без водяных знаков"
 
 #: templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
@@ -2083,7 +2148,7 @@ msgstr "Введите действующий IPv4-адрес."
 #: venv/lib/python3.8/site-packages/django/core/validators.py:296
 #: venv/lib/python3.8/site-packages/django/core/validators.py:312
 msgid "Enter a valid IPv6 address."
-msgstr "Введите действительный адрес IPv6."
+msgstr "Введите действующий IPv6-адрес."
 
 #: venv/lib/python3.8/site-packages/django/core/validators.py:306
 #: venv/lib/python3.8/site-packages/django/core/validators.py:310
@@ -2362,8 +2427,7 @@ msgstr "айпи адрес"
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1987
 #, python-format
 msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
-"Значение «%(value)s» должно иметь значение «Нет», «Истина» или «Ложь»."
+msgstr "Значение «%(value)s» должно быть None, True или False."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1989
 msgid "Boolean (Either True, False or None)"
@@ -2608,7 +2672,7 @@ msgstr[1] "Пожалуйста, отправьте не более %d форм.
 msgid "Please submit at least %d form."
 msgid_plural "Please submit at least %d forms."
 msgstr[0] "Пожалуйста, отправьте как минимум %d форму."
-msgstr[1] "Пожалуйста, отправьте не менее %d форм."
+msgstr[1] "Отправьте не менее %d форм."
 
 #: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
 #: venv/lib/python3.8/site-packages/django/forms/formsets.py:412
@@ -3148,8 +3212,8 @@ msgid ""
 "them, at least for this site, or for “same-origin” requests."
 msgstr ""
 "Если вы настроили свой браузер на отключение файлов cookie, пожалуйста, "
-"снова включите их, по крайней мере, для этого сайта или для запросов «одного"
-" происхождения»."
+"повторно включите их, по крайней мере, для этого сайта или для запросов "
+"«того же происхождения»."
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:142
 msgid "More information is available with DEBUG=True."

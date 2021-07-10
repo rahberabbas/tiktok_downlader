@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 23:51+0530\n"
+"POT-Creation-Date: 2021-07-10 19:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,26 +78,24 @@ msgstr ""
 "เครื่องมือนี้ช่วยคุณได้มากและประหยัดเวลาของคุณอย่างแน่นอน Tiksss "
 "พร้อมช่วยเหลือคุณเสมอหากคุณประสบปัญหา หากคุณมีคำถามใด ๆ โปรดติดต่อเราที่นี่:"
 
-#: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4 templates/download6.html:4
-msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
-msgstr "TikTok เป็น Mp3 Converter ออนไลน์ฟรี - Tiksss.com"
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
+msgstr "โปรแกรมแปลงไฟล์ TikTok เป็น mp3 ออนไลน์ฟรี - Tiksss.com"
 
-#: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5 templates/download6.html:5
+#: templates/audio.html:7
 msgid ""
-"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
 "is totally free."
 msgstr ""
-"TikTok เป็น Mp3 Converter ออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"ตัวแปลง TikTok เป็น mp3 ออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
 "เป็นเครื่องมือที่เร็วที่สุดของเราในการแปลงวิดีโอ Tiktok เป็นรูปแบบ Mp3 "
 "สำหรับคนรัก Tiktok ซึ่งฟรีทั้งหมด"
 
 #: templates/audio.html:14
-msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr ""
-"เป็น Mp3 Converter ออนไลน์ฟรี - วิดีโอ TikTok เป็น Mp3 Converter ออนไลน์"
+"เป็น mp3 converter ออนไลน์ฟรี - วิดีโอ TikTok เป็น mp3 converter ออนไลน์"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
@@ -188,25 +186,23 @@ msgstr ""
 "หากคุณชอบเครื่องมือและบริการของเรามากกว่า "
 "กรุณาแบ่งปันเว็บไซต์ของเรากับเพื่อนและสมาชิกในครอบครัวของคุณ ขอบคุณ!"
 
-#: templates/audio_cutter.html:4 templates/download5.html:4
-msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Cutter ออนไลน์ฟรี - Tiksss.com"
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
+msgstr "เครื่องตัด mp3 TikTok ออนไลน์ฟรี - Tiksss.com"
 
-#: templates/audio_cutter.html:7 templates/download5.html:7
+#: templates/audio_cutter.html:7
 msgid ""
-"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"เครื่องมือตัด TikTok Mp3 ออนไลน์ฟรี วิธีตัดวิดีโอ TikTok เป็น Mp3 ออนไลน์ฟรี"
+"เครื่องมือตัด TikTok mp3 ออนไลน์ฟรี วิธีตัดวิดีโอ TikTok เป็น Mp3 ออนไลน์ฟรี"
 " ตัดและตัดแต่งวิดีโอ TikTok ออนไลน์ฟรี"
 
 #: templates/audio_cutter.html:14
 msgid ""
-"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
-"Free Tool"
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
 msgstr ""
-"TikTok Mp3 Cutter and Converter Online - ตัดวิดีโอ TikTok เป็น Mp3 Online "
-"เครื่องมือฟรี"
+"ตัวตัดและแปลง mp3 ออนไลน์ - ตัดวิดีโอ TikTok เป็น mp3 ออนไลน์เครื่องมือฟรี"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
 #: templates/without.html:14
@@ -277,64 +273,64 @@ msgstr ""
 "หากคุณชอบเครื่องมือและบริการ TikTok Mp3 Cutter and Converter ของเรามากกว่า "
 "กรุณาแชร์เว็บไซต์ของเรากับเพื่อนและสมาชิกในครอบครัวของคุณ ขอบคุณ!"
 
-#: templates/base.html:40
+#: templates/base.html:42
 msgid "Home"
 msgstr "บ้าน"
 
-#: templates/base.html:42 templates/base.html:44
+#: templates/base.html:44 templates/base.html:46
 msgid "Tools"
 msgstr "เครื่องมือ"
 
-#: templates/base.html:46
+#: templates/base.html:48
 msgid "Download With Watermark"
 msgstr "ดาวน์โหลดพร้อมลายน้ำ"
 
-#: templates/base.html:49
+#: templates/base.html:51
 msgid "Download Without Watermark"
 msgstr "ดาวน์โหลดไม่มีลายน้ำ"
 
-#: templates/base.html:50
+#: templates/base.html:52
 msgid "Download Audio"
 msgstr "ดาวน์โหลดไฟล์เสียง"
 
-#: templates/base.html:51
+#: templates/base.html:53
 msgid "Video Cutter"
 msgstr "เครื่องตัดวิดีโอ"
 
-#: templates/base.html:52
+#: templates/base.html:54
 msgid "Audio Cutter"
 msgstr "เครื่องตัดเสียง"
 
-#: templates/base.html:56
+#: templates/base.html:58
 msgid "About"
 msgstr "เกี่ยวกับ"
 
-#: templates/base.html:110 templates/privacypolicy.html:10
+#: templates/base.html:112 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "นโยบายความเป็นส่วนตัว"
 
-#: templates/base.html:113 templates/tandc.html:10
+#: templates/base.html:115 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "ข้อกำหนดและเงื่อนไข"
 
-#: templates/base.html:116
+#: templates/base.html:118
 msgid "FAQ"
 msgstr "คำถามที่พบบ่อย"
 
-#: templates/cutter.html:4 templates/download3.html:4
-msgid "TikTok Video Cutter Online Free – Tiksss.com"
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
 msgstr "เครื่องตัดวิดีโอ TikTok ออนไลน์ฟรี – Tiksss.com"
 
-#: templates/cutter.html:7 templates/download3.html:7
+#: templates/cutter.html:7
 msgid ""
-"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
 "Cut and Trim TikTok Videos Online Free."
 msgstr ""
 "เครื่องมือตัดวิดีโอ TikTok ออนไลน์ฟรี วิธีตัดวิดีโอ TikTok ออนไลน์ฟรี "
 "ตัดและตัดแต่งวิดีโอ TikTok ออนไลน์ฟรี"
 
 #: templates/cutter.html:14
-msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
+msgid "video cutter online – TikTok video trimmer online free"
 msgstr "เครื่องตัดวิดีโอออนไลน์ – เครื่องตัดวิดีโอ TikTok ออนไลน์ฟรี"
 
 #: templates/cutter.html:32
@@ -399,11 +395,11 @@ msgstr ""
 "หากคุณชอบเครื่องมือและบริการ TikTok Video Cutter และ Trimmer ของเรามากกว่า "
 "กรุณาแชร์เว็บไซต์ของเรากับเพื่อนและสมาชิกในครอบครัวของคุณ ขอบคุณ!"
 
-#: templates/download.html:6 templates/index.html:4
+#: templates/download.html:6
 msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
 msgstr "ดาวน์โหลดวิดีโอ Tiktok ไม่มีลายน้ำ - Tiksss.Com"
 
-#: templates/download.html:7 templates/index.html:5
+#: templates/download.html:7
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on our website "
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
@@ -413,11 +409,27 @@ msgstr ""
 "Tiktok Video Downloader ออนไลน์ที่เร็วที่สุดสำหรับคนรัก Tiktok "
 "ซึ่งฟรีทั้งหมด"
 
-#: templates/download2.html:4 templates/without.html:4
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "TikTok เป็น Mp3 Converter ออนไลน์ฟรี - Tiksss.com"
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok เป็น Mp3 Converter ออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"เป็นเครื่องมือที่เร็วที่สุดของเราในการแปลงวิดีโอ Tiktok เป็นรูปแบบ Mp3 "
+"สำหรับคนรัก Tiktok ซึ่งฟรีทั้งหมด"
+
+#: templates/download2.html:4
 msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
 msgstr "ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ - Tiksss.com"
 
-#: templates/download2.html:6 templates/without.html:6
+#: templates/download2.html:6
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -426,6 +438,30 @@ msgstr ""
 "ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
 "คุณสามารถดาวน์โหลดวิดีโอ Tiktok "
 "ได้อย่างง่ายดายโดยไม่มีลายน้ำในโทรศัพท์และแล็ปท็อปของคุณ"
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "เครื่องตัดวิดีโอ TikTok ออนไลน์ฟรี – Tiksss.com"
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"เครื่องมือตัดวิดีโอ TikTok ออนไลน์ฟรี วิธีตัดวิดีโอ TikTok ออนไลน์ฟรี "
+"ตัดและตัดแต่งวิดีโอ TikTok ออนไลน์ฟรี"
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter ออนไลน์ฟรี - Tiksss.com"
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"เครื่องมือตัด TikTok Mp3 ออนไลน์ฟรี วิธีตัดวิดีโอ TikTok เป็น Mp3 ออนไลน์ฟรี"
+" ตัดและตัดแต่งวิดีโอ TikTok ออนไลน์ฟรี"
 
 #: templates/faq.html:3
 msgid "Frequently Asked Questions - Tiksss.com"
@@ -490,9 +526,23 @@ msgstr ""
 "เพียงรอสักครู่เพื่อดาวน์โหลดวิดีโอ Tiktok "
 "แบบไม่มีลายน้ำลงในเครื่องของคุณโดยตรง"
 
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr "ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำ - Tiksss.Com"
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"Tiktok Video Downloader ออนไลน์ที่เร็วที่สุดสำหรับคนรัก Tiktok "
+"ซึ่งฟรีทั้งหมด"
+
 #: templates/index.html:11
-msgid "to Mp4 Downloader Online Free"
-msgstr "เป็น Mp4 Downloader ออนไลน์ฟรี"
+msgid "to mp4 downloader online free"
+msgstr "เป็น mp4 downloader ออนไลน์ฟรี"
 
 #: templates/index.html:23
 msgid ""
@@ -525,7 +575,7 @@ msgstr ""
 "ดังนั้นฉันจึงตัดสินใจสร้างเครื่องมือที่จะใช้งานง่ายสำหรับทุกคน "
 "เพราะในแพลตฟอร์มนี้มีคนนับล้านบนแพลตฟอร์มนี้เพื่อดูวิดีโอ TikTok "
 "บนมือถือหรือแล็ปท็อป แต่พวกเขาไม่สามารถดาวน์โหลดได้ "
-"ดังนั้นไม่ต้องกังวลกับมัน ฉันได้ทำเครื่องมือนี้เพื่อคุณคนเท่านั้นที่จะ"
+"ดังนั้นไม่ต้องกังวลกับมัน ฉันได้ทำเครื่องมือนี้เพื่อคุณคนเท่านั้นเพื่อ"
 
 #: templates/index.html:23
 msgid "I proud myself to introduce an amazing "
@@ -648,7 +698,7 @@ msgstr ""
 "นี่คือสิ่งที่สำคัญเมื่อคุณอยู่ในหน้าดาวน์โหลดวิดีโอ "
 "ดูที่ปุ่มแชร์ที่ด้านขวาของหน้าจออุปกรณ์ของคุณ "
 "แตะที่ปุ่มนั้นโดยใช้ลูกศรและคัดลอก &quot;ลิงก์&quot; เปิดเว็บไซต์ Tiksss.com"
-" ของเราแล้ววางลิงก์คัดลอกในช่องที่กำหนดและคลิกที่ปุ่ม &quot;ค้นหา&quot; "
+" ของเราแล้ววางลิงก์คัดลอกในช่องที่กำหนดแล้วคลิก &quot;ปุ่มค้นหา&quot; "
 "จะใช้เวลาสองสามวินาทีในการรับลิงก์ที่ดาวน์โหลดได้ คุณจะเห็นปุ่ม "
 "&quot;ดาวน์โหลด&quot; เพื่อเริ่มการดาวน์โหลดวิดีโอบนอุปกรณ์ของคุณ"
 
@@ -775,9 +825,9 @@ msgid ""
 msgstr ""
 "เมื่อคุณขอหน้าจากเว็บไซต์ของเรา "
 "เซิร์ฟเวอร์ของเราจะบันทึกข้อมูลที่ให้ไว้ในส่วนหัวคำขอ HTTP, JavaScript "
-"หรือเครื่องมือทางเทคนิคที่คล้ายคลึงกัน รวมถึงหมายเลข IP เวลาที่ร้องขอ URL "
+"หรือเครื่องมือทางเทคนิคที่คล้ายกัน รวมถึงหมายเลข IP เวลาที่ร้องขอ URL "
 "ของคำขอของคุณ และข้อมูลอื่นๆ "
-"เราเก็บรวบรวมข้อมูลนี้เพื่อทำให้เว็บไซต์ของเราทำงานได้อย่างถูกต้องและให้ฟังก์ชันการทำงานที่คุณเห็นบนเว็บไซต์"
+"เรารวบรวมข้อมูลนี้เพื่อให้เว็บไซต์ของเราทำงานได้อย่างถูกต้องและให้การทำงานที่คุณเห็นบนเว็บไซต์"
 " เนื่องจากเซิร์ฟเวอร์ของเราใช้ข้อมูลนี้เพื่อส่งหน้าต่างๆ "
 "บนเว็บไซต์นี้ให้กับคุณ "
 "เรายังใช้ข้อมูลนี้เพื่อทำความเข้าใจว่าผู้เยี่ยมชมใช้เว็บไซต์ของเราอย่างไร "
@@ -834,7 +884,7 @@ msgstr ""
 "หรือโอนข้อมูลที่สามารถระบุตัวบุคคลของคุณไปยังบุคคลภายนอกได้ "
 "ไม่รวมถึงบุคคลที่สามที่เชื่อถือได้ซึ่งช่วยเราในการดำเนินงานเว็บไซต์ของเรา "
 "ดำเนินธุรกิจของเรา หรือให้บริการคุณ "
-"ตราบใดที่ฝ่ายเหล่านั้นตกลงที่จะเก็บข้อมูลนี้เป็นความลับ "
+"ตราบใดที่บุคคลเหล่านั้นตกลงที่จะเก็บข้อมูลนี้เป็นความลับ "
 "เราอาจเปิดเผยข้อมูลของคุณเมื่อเราเชื่อว่าการเปิดเผยนั้นเหมาะสมที่จะปฏิบัติตามกฎหมาย"
 " บังคับใช้นโยบายเว็บไซต์ของเรา หรือปกป้องสิทธิ์ ทรัพย์สิน "
 "หรือความปลอดภัยของเราหรือผู้อื่น อย่างไรก็ตาม "
@@ -967,7 +1017,7 @@ msgstr ""
 "(ผ่านผลิตภัณฑ์ของบุคคลที่สาม) บนโทรศัพท์ของคุณที่เรียกว่า Log Data "
 "ข้อมูลบันทึกนี้อาจรวมถึงข้อมูลต่างๆ เช่น ที่อยู่ Internet Protocol "
 "(&quot;IP&quot;) ของอุปกรณ์ ชื่ออุปกรณ์ เวอร์ชันของระบบปฏิบัติการ "
-"การกำหนดค่าของแอปเมื่อใช้บริการของเรา เวลาและวันที่ของการใช้บริการ "
+"การกำหนดค่าของแอปเมื่อใช้บริการของเรา เวลาและวันที่ที่คุณใช้บริการ "
 "และสถิติอื่นๆ"
 
 #: templates/privacypolicy.html:49 templates/tandc.html:15
@@ -1089,9 +1139,9 @@ msgid ""
 "necessary actions."
 msgstr ""
 "บริการเหล่านี้ไม่ได้ระบุถึงผู้ใดก็ตามที่อายุต่ำกว่า 13 ปี "
-"เราไม่ได้เก็บรวบรวมข้อมูลส่วนบุคคลที่สามารถระบุตัวบุคคลได้จากเด็กอายุต่ำกว่า"
-" 13 ปีโดยเจตนา ในกรณีที่เราพบว่าเด็กอายุต่ำกว่า 13 "
-"ปีให้ข้อมูลส่วนบุคคลแก่เรา เราจะลบข้อมูลนี้ออกจากเซิร์ฟเวอร์ของเราทันที "
+"เราไม่ได้เก็บรวบรวมข้อมูลส่วนบุคคลที่สามารถระบุตัวตนได้จากเด็กอายุต่ำกว่า 13"
+" ปีโดยเจตนา ในกรณีที่เราพบว่าเด็กอายุต่ำกว่า 13 ปีให้ข้อมูลส่วนบุคคลแก่เรา "
+"เราจะลบข้อมูลนี้ออกจากเซิร์ฟเวอร์ของเราทันที "
 "หากคุณเป็นพ่อแม่หรือผู้ปกครองและคุณทราบว่าบุตรหลานของคุณได้ให้ข้อมูลส่วนบุคคลแก่เรา"
 " โปรดติดต่อเราเพื่อให้เราสามารถดำเนินการที่จำเป็นได้"
 
@@ -1165,9 +1215,10 @@ msgid ""
 "third-party advertisers."
 msgstr ""
 "คุณอาจศึกษารายการนี้เพื่อค้นหานโยบายความเป็นส่วนตัวสำหรับพันธมิตรโฆษณาแต่ละรายของ"
-" qload.info เซิร์ฟเวอร์โฆษณาบุคคลที่สามหรือเครือข่ายโฆษณาใช้เทคโนโลยี เช่น "
-"คุกกี้ JavaScript หรือเว็บบีคอนที่ใช้ในโฆษณาและลิงก์ที่เกี่ยวข้องซึ่งปรากฏบน"
-" qload.info ซึ่งส่งตรงไปยังเบราว์เซอร์ของผู้ใช้ พวกเขาจะได้รับที่อยู่ IP "
+" qload.info เซิร์ฟเวอร์โฆษณาหรือเครือข่ายโฆษณาของบริษัทอื่นใช้เทคโนโลยี เช่น"
+" คุกกี้ JavaScript "
+"หรือเว็บบีคอนที่ใช้ในโฆษณาและลิงก์ที่เกี่ยวข้องซึ่งปรากฏบน qload.info "
+"ซึ่งส่งตรงไปยังเบราว์เซอร์ของผู้ใช้ พวกเขาจะได้รับที่อยู่ IP "
 "ของคุณโดยอัตโนมัติเมื่อสิ่งนี้เกิดขึ้น "
 "เทคโนโลยีเหล่านี้ใช้เพื่อวัดประสิทธิภาพของแคมเปญโฆษณาและ/หรือเพื่อปรับแต่งเนื้อหาโฆษณาที่คุณเห็นบนเว็บไซต์ที่คุณเยี่ยมชม"
 " โปรดทราบว่า qload.info "
@@ -1364,7 +1415,7 @@ msgstr ""
 "&quot;บริษัท&quot; &quot;ตัวเรา&quot; &quot;เรา&quot; &quot;ของเรา&quot; และ"
 " &quot;เรา&quot; หมายถึงบริษัท &quot;คู่สัญญา&quot; &quot;คู่สัญญา&quot; "
 "หรือ &quot;เรา&quot; หมายถึงทั้งลูกค้าและตัวเราเอง "
-"ข้อกำหนดทั้งหมดอ้างถึงการยอมรับและการพิจารณาการชำระเงินที่จำเป็นเพื่อดำเนินการตามขั้นตอนการช่วยเหลือลูกค้าในลักษณะที่เหมาะสมที่สุดเพื่อวัตถุประสงค์ที่ชัดเจนในการตอบสนองความต้องการของลูกค้าในส่วนที่เกี่ยวกับการจัดหาบริการตามที่ระบุไว้ของบริษัท"
+"ข้อกำหนดทั้งหมดอ้างถึงการยอมรับและการพิจารณาการชำระเงินที่จำเป็นเพื่อดำเนินการตามขั้นตอนการช่วยเหลือลูกค้าในลักษณะที่เหมาะสมที่สุดเพื่อจุดประสงค์ที่ชัดเจนในการตอบสนองความต้องการของลูกค้าในส่วนที่เกี่ยวกับการจัดหาบริการตามที่ระบุไว้ของบริษัท"
 " ตามและอยู่ภายใต้ , กฎหมายที่ใช้บังคับของเนเธอร์แลนด์. "
 "การใช้คำศัพท์ข้างต้นหรือคำอื่นๆ ในรูปเอกพจน์ พหูพจน์ "
 "การใช้อักษรตัวพิมพ์ใหญ่และ/หรือเขา/เธอหรือพวกเขา "
@@ -1452,7 +1503,7 @@ msgstr ""
 " ในขอบเขตที่อนุญาตโดยกฎหมายที่ใช้บังคับ Tiksss.com "
 "จะไม่รับผิดชอบต่อความคิดเห็นหรือความเสียหายหรือค่าใช้จ่ายที่รับผิดชอบใด ๆ "
 "ที่เกิดขึ้นและ / หรือได้รับความเดือดร้อนอันเป็นผลมาจากการใช้และ / "
-"หรือการโพสต์และ / หรือการแสดงความเห็นในเว็บไซต์นี้ ."
+"หรือการโพสต์และ / หรือการแสดงความเห็นบนเว็บไซต์นี้ ."
 
 #: templates/tandc.html:37
 msgid ""
@@ -1607,7 +1658,7 @@ msgid ""
 " general resource information."
 msgstr ""
 "เราจะอนุมัติคำขอเชื่อมโยงจากองค์กรเหล่านี้หากเราตัดสินใจว่า: (ก) "
-"ลิงก์จะไม่ทำให้เราดูไม่ดีต่อตนเองหรือธุรกิจที่ได้รับการรับรองของเรา (b) "
+"ลิงก์จะไม่ทำให้เราดูไม่ดีต่อตนเองหรือธุรกิจที่ได้รับการรับรองของเรา; (b) "
 "องค์กรไม่มีบันทึกเชิงลบใด ๆ กับเรา (c) "
 "ประโยชน์ที่เราจะได้รับจากการมองเห็นของไฮเปอร์ลิงก์จะชดเชยการไม่มี "
 "Tiksss.com; และ (d) ลิงก์อยู่ในบริบทของข้อมูลทรัพยากรทั่วไป"
@@ -1636,8 +1687,8 @@ msgstr ""
 "หากคุณเป็นหนึ่งในองค์กรที่ระบุไว้ในวรรค 2 "
 "ด้านบนและสนใจที่จะเชื่อมโยงไปยังเว็บไซต์ของเรา "
 "คุณต้องแจ้งให้เราทราบโดยส่งอีเมลไปที่ Tiksss.com โปรดระบุชื่อของคุณ "
-"ชื่อองค์กรของคุณ ข้อมูลติดต่อ ตลอดจน URL ของไซต์ของคุณ รายการ URL ใด ๆ "
-"ที่คุณตั้งใจจะเชื่อมโยงไปยังเว็บไซต์ของเรา และรายการ URL "
+"ชื่อองค์กรของคุณ ข้อมูลติดต่อ เช่นเดียวกับ URL ของไซต์ของคุณ รายการ URL ใด ๆ"
+" ที่คุณตั้งใจจะเชื่อมโยงไปยังเว็บไซต์ของเรา และรายการ URL "
 "บนไซต์ของเราที่คุณต้องการ ลิงค์ รอ 2-3 สัปดาห์สำหรับการตอบกลับ"
 
 #: templates/tandc.html:102
@@ -1752,7 +1803,7 @@ msgid ""
 msgstr ""
 "เราไม่รับรองว่าข้อมูลบนเว็บไซต์นี้ถูกต้อง "
 "เราไม่รับประกันความสมบูรณ์หรือความถูกต้อง "
-"และเราสัญญาว่าจะไม่รับประกันว่าเว็บไซต์จะยังใช้งานได้หรือเนื้อหาบนเว็บไซต์จะได้รับการอัปเดตอยู่เสมอ"
+"และเราสัญญาว่าจะไม่รับประกันว่าเว็บไซต์จะยังใช้ได้อยู่หรือเนื้อหาบนเว็บไซต์เป็นปัจจุบันอยู่เสมอ"
 
 #: templates/tandc.html:126
 msgid "Disclaimer"
@@ -1778,7 +1829,7 @@ msgid ""
 "limit or exclude our or your liability for fraud or fraudulent "
 "misrepresentation;"
 msgstr ""
-"จำกัดหรือยกเว้นความรับผิดของเราหรือของคุณสำหรับการฉ้อโกงหรือการบิดเบือนความจริงฉ้อฉล"
+"จำกัดหรือยกเว้นความรับผิดของเราหรือของคุณสำหรับการฉ้อโกงหรือการบิดเบือนความจริงที่ฉ้อฉล;"
 
 #: templates/tandc.html:136
 msgid ""
@@ -1817,8 +1868,22 @@ msgstr ""
 "ตราบใดที่เว็บไซต์และข้อมูลและบริการบนเว็บไซต์มีให้ฟรี "
 "เราจะไม่รับผิดชอบต่อความสูญเสียหรือความเสียหายใดๆ"
 
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"ดาวน์โหลดวิดีโอ Tiktok แบบไม่มีลายน้ำออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"คุณสามารถดาวน์โหลดวิดีโอ Tiktok "
+"ได้อย่างง่ายดายโดยไม่มีลายน้ำในโทรศัพท์และแล็ปท็อปของคุณ"
+
 #: templates/without.html:13
-msgid "Video Without Watermark"
+msgid "video without watermark"
 msgstr "วิดีโอไม่มีลายน้ำ"
 
 #: templates/without.html:28
@@ -1852,9 +1917,9 @@ msgid ""
 msgstr ""
 "และคุณจะเห็นเมนูแบบเลื่อนลงคลิกที่มันและเลือก &quot;ไม่มีลายน้ำ&quot; "
 "ในหน้าถัดไปเพียงวางลิงก์แล้วคลิก &quot;ปุ่มดาวน์โหลด&quot; "
-"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ คุณยังสามารถ &quot;ดาวน์โหลดวิดีโอ "
-"TikTok พร้อมลายน้ำ&quot; "
-"และสำหรับการเยี่ยมชมหน้าแรกของเว็บไซต์ของเราและดาวน์โหลดวิดีโอโปรดของคุณในเวลาไม่ถึง"
+"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ คุณยังสามารถ “ดาวน์โหลดวิดีโอ "
+"TikTok พร้อมลายน้ำ” "
+"และสำหรับการเยี่ยมชมหน้าแรกของเว็บไซต์ของเราและดาวน์โหลดวิดีโอโปรดของคุณในเวลาน้อยกว่า"
 " 10 วินาที"
 
 #: templates/without.html:33
@@ -2358,7 +2423,7 @@ msgstr "ไม่มีอินสแตนซ์%(model)s ที่มี %(fi
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
 msgid "Foreign Key (type determined by related field)"
-msgstr "กุญแจต่างประเทศ (ประเภทที่กำหนดโดยฟิลด์ที่เกี่ยวข้อง)"
+msgstr "Foreign Key (ประเภทที่กำหนดโดยสาขาที่เกี่ยวข้อง)"
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
 msgid "One-to-one relationship"
@@ -2418,11 +2483,11 @@ msgstr "จำนวนวันต้องอยู่ระหว่าง {m
 
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:538
 msgid "No file was submitted. Check the encoding type on the form."
-msgstr "ไม่มีไฟล์ถูกส่ง ตรวจสอบประเภทการเข้ารหัสในแบบฟอร์ม"
+msgstr "ไม่มีการส่งไฟล์ ตรวจสอบประเภทการเข้ารหัสในแบบฟอร์ม"
 
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:539
 msgid "No file was submitted."
-msgstr "ไม่มีการส่งไฟล์"
+msgstr "ไม่มีไฟล์ถูกส่ง"
 
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:540
 msgid "The submitted file is empty."
@@ -3090,7 +3155,9 @@ msgstr ""
 #: venv/lib/python3.8/site-packages/django/views/generic/dates.py:628
 #, python-format
 msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr "สตริงวันที่ไม่ถูกต้อง “%(datestr)s” รูปแบบที่กำหนด “%(format)s”"
+msgstr ""
+"สตริงวันที่ไม่ถูกต้อง &quot;%(datestr)s&quot; รูปแบบที่กำหนด "
+"&quot;%(format)s&quot;"
 
 #: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
 #, python-format
@@ -3204,4 +3271,4 @@ msgstr "ค่าที่ไม่รองรับสำหรับ pw-algor
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
 msgid "Redirected but the response is missing a Location: header."
-msgstr "เปลี่ยนเส้นทางแล้ว แต่การตอบกลับไม่มีส่วนหัว Location:"
+msgstr "เปลี่ยนเส้นทางแล้ว แต่การตอบสนองไม่มีส่วนหัว Location:"

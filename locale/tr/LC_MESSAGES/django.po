@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 23:51+0530\n"
+"POT-Creation-Date: 2021-07-10 19:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 "Platformumuz, TikTok&#39;tan Mp4, Mp3&#39;e, Video Cutter gibi farklı türde "
 "TikTok video dönüştürme araçlarını destekler ve burada web sitemizde "
 "görüntüleyebileceğiniz sadece birkaç saniye içinde filigransız veya "
-"filigranlı TikTok videolarını indirir"
+"filigranlı TikTok videolarını indirir."
 
 #: templates/about.html:13
 msgid "Why Tiksss.com"
@@ -79,25 +79,24 @@ msgstr ""
 "burada ve herhangi bir sorunla karşılaşırsanız size yardım etmeye hazır. "
 "Herhangi bir sorunuz varsa, lütfen bizimle buradan iletişime geçin:"
 
-#: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4 templates/download6.html:4
-msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Dönüştürücü Çevrimiçi Ücretsiz - Tiksss.com"
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
+msgstr "TikTok&#39;tan mp3&#39;e çevrimiçi ücretsiz dönüştürücü - Tiksss.com"
 
-#: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5 templates/download6.html:5
+#: templates/audio.html:7
 msgid ""
-"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
 "is totally free."
 msgstr ""
-"TikTok To Mp3 Converter Online Ücretsiz Tiksss.com web sitemizde. Tamamen "
-"ücretsiz olan Tiktok Severler için Tiktok Videolarını Mp3 Formatına "
-"Dönüştürmek İçin En Hızlı Aracımız."
+"TikTok&#39;tan mp3 dönüştürücüye çevrimiçi ücretsiz Tiksss.com web "
+"sitemizde. Tamamen ücretsiz olan Tiktok Severler için Tiktok Videolarını Mp3"
+" Formatına Dönüştürmek İçin En Hızlı Aracımız."
 
 #: templates/audio.html:14
-msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
-msgstr "To Mp3 Converter Online Bedava - TikTok Video To Mp3 Converter Online"
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
+msgstr ""
+"mp3 dönüştürücü çevrimiçi ücretsiz - TikTok video çevrimiçi mp3 dönüştürücü"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
@@ -126,11 +125,11 @@ msgid ""
 msgstr ""
 "Müzik aşığıysanız, bu TikTok&#39;un Mp3 Dönüştürücü Çevrimiçi Aracının "
 "değerini bileceksiniz. Bu aracı çok kolay ve basit hale getirdik. Bu aracı "
-"dilediğiniz cihazlarda sınırsız olarak kullanabilirsiniz. Bu araç sayfasını "
+"istediğiniz cihazlarda sınırsız olarak kullanabilirsiniz. Bu araç sayfasını "
 "gelecek için işaretlemeniz gerektiğinden emin olun. Sizlerin nasıl "
-"kullanabileceğinizi ve ondan nasıl yararlanabileceğinizi anlatan bu aracın "
-"tüm talimatlarını ekledik. Lütfen bu aracı sosyal medya yardımıyla "
-"arkadaşlarınızla ve aile üyenizle paylaşın, çünkü bunu kesinlikle "
+"kullanabileceğinizi ve faydalanabileceğinizi anlatan bu aracın tüm "
+"talimatlarını ekledik. Lütfen bu aracı sosyal medya yardımıyla "
+"arkadaşlarınız ve aile üyelerinizle paylaşın, çünkü bunu kesinlikle "
 "beğenecekler ve kullanacaklardır. Daha fazla Bilgi için Web Sitemizi ziyaret"
 " edin"
 
@@ -195,25 +194,24 @@ msgstr ""
 "Aracımızı ve hizmetlerimizi beğendiyseniz, lütfen web sitemizi "
 "arkadaşlarınız ve aile üyelerinizle paylaşın. Teşekkürler!"
 
-#: templates/audio_cutter.html:4 templates/download5.html:4
-msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Cutter Online Ücretsiz - Tiksss.com"
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
+msgstr "TikTok mp3 kesici çevrimiçi ücretsiz - Tiksss.com"
 
-#: templates/audio_cutter.html:7 templates/download5.html:7
+#: templates/audio_cutter.html:7
 msgid ""
-"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Mp3 Cutter Çevrimiçi Ücretsiz Aracı. TikTok Videoyu Mp3&#39;e Online "
+"TikTok mp3 kesici çevrimiçi ücretsiz araç. TikTok Videoyu Mp3&#39;e Online "
 "Bedava Nasıl Kesilir. TikTok Videolarını Çevrimiçi Olarak Kesin ve Kesin."
 
 #: templates/audio_cutter.html:14
 msgid ""
-"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
-"Free Tool"
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
 msgstr ""
-"TikTok Mp3 Cutter and Converter Online - TikTok Videoyu Mp3 Online Ücretsiz "
-"Aracına Kırp"
+"çevrimiçi mp3 kesici ve dönüştürücü - TikTok videosunu mp3 çevrimiçi "
+"ücretsiz aracına kırpın"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
 #: templates/without.html:14
@@ -285,65 +283,65 @@ msgstr ""
 "lütfen web sitemizi arkadaşlarınız ve aile üyelerinizle paylaşın. "
 "Teşekkürler!"
 
-#: templates/base.html:40
+#: templates/base.html:42
 msgid "Home"
 msgstr "Ev"
 
-#: templates/base.html:42 templates/base.html:44
+#: templates/base.html:44 templates/base.html:46
 msgid "Tools"
 msgstr "Araçlar"
 
-#: templates/base.html:46
+#: templates/base.html:48
 msgid "Download With Watermark"
 msgstr "Filigranlı İndir"
 
-#: templates/base.html:49
+#: templates/base.html:51
 msgid "Download Without Watermark"
 msgstr "Filigran Olmadan İndir"
 
-#: templates/base.html:50
+#: templates/base.html:52
 msgid "Download Audio"
 msgstr "Ses İndir"
 
-#: templates/base.html:51
+#: templates/base.html:53
 msgid "Video Cutter"
 msgstr "Video Kesici"
 
-#: templates/base.html:52
+#: templates/base.html:54
 msgid "Audio Cutter"
 msgstr "Ses Kesici"
 
-#: templates/base.html:56
+#: templates/base.html:58
 msgid "About"
 msgstr "hakkında"
 
-#: templates/base.html:110 templates/privacypolicy.html:10
+#: templates/base.html:112 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Gizlilik Politikası"
 
-#: templates/base.html:113 templates/tandc.html:10
+#: templates/base.html:115 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Şartlar ve koşullar"
 
-#: templates/base.html:116
+#: templates/base.html:118
 msgid "FAQ"
 msgstr "SSS"
 
-#: templates/cutter.html:4 templates/download3.html:4
-msgid "TikTok Video Cutter Online Free – Tiksss.com"
-msgstr "TikTok Video Kesici Çevrimiçi Ücretsiz – Tiksss.com"
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
+msgstr "TikTok video kesici çevrimiçi ücretsiz – Tiksss.com"
 
-#: templates/cutter.html:7 templates/download3.html:7
+#: templates/cutter.html:7
 msgid ""
-"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
 "Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Video Kesici Çevrimiçi Ücretsiz Araç. TikTok Videoları çevrimiçi "
+"TikTok video kesici çevrimiçi ücretsiz araç. TikTok Videoları çevrimiçi "
 "ücretsiz nasıl kesilir. TikTok Videolarını Çevrimiçi Olarak Kesin ve Kesin."
 
 #: templates/cutter.html:14
-msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
-msgstr "Video Kesici Çevrimiçi – TikTok Video Kırpıcı Çevrimiçi Ücretsiz"
+msgid "video cutter online – TikTok video trimmer online free"
+msgstr "çevrimiçi video kesici – TikTok video düzenleyici çevrimiçi ücretsiz"
 
 #: templates/cutter.html:32
 msgid ""
@@ -411,11 +409,11 @@ msgstr ""
 "lütfen web sitemizi arkadaşlarınız ve aile üyelerinizle paylaşın. "
 "Teşekkürler!"
 
-#: templates/download.html:6 templates/index.html:4
+#: templates/download.html:6
 msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
 msgstr "Filigransız Tiktok Videolarını İndirin - Tiksss.Com"
 
-#: templates/download.html:7 templates/index.html:5
+#: templates/download.html:7
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on our website "
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
@@ -425,11 +423,27 @@ msgstr ""
 "Tiksss.com&#39;dan. Tamamen ücretsiz olan Tiktok Severler için Çevrimiçi En "
 "Hızlı Tiktok Video İndiricimiz."
 
-#: templates/download2.html:4 templates/without.html:4
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Dönüştürücü Çevrimiçi Ücretsiz - Tiksss.com"
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok To Mp3 Converter Online Ücretsiz Tiksss.com web sitemizde. Tamamen "
+"ücretsiz olan Tiktok Severler için Tiktok Videolarını Mp3 Formatına "
+"Dönüştürmek İçin En Hızlı Aracımız."
+
+#: templates/download2.html:4
 msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
 msgstr "Tiktok Videolarını Filigransız Çevrimiçi İndirin - Tiksss.com"
 
-#: templates/download2.html:6 templates/without.html:6
+#: templates/download2.html:6
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -438,6 +452,30 @@ msgstr ""
 "Tiktok Videolarını Filigran Olmadan Çevrimiçi Ücretsiz İndirin Web sitemiz "
 "Tiksss.com&#39;dan. Tiktok videolarını filigransız olarak telefonunuza ve "
 "dizüstü bilgisayarınıza kolayca indirebilirsiniz."
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok Video Kesici Çevrimiçi Ücretsiz – Tiksss.com"
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Video Kesici Çevrimiçi Ücretsiz Araç. TikTok Videoları çevrimiçi "
+"ücretsiz nasıl kesilir. TikTok Videolarını Çevrimiçi Olarak Kesin ve Kesin."
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter Online Ücretsiz - Tiksss.com"
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Mp3 Cutter Çevrimiçi Ücretsiz Aracı. TikTok Videoyu Mp3&#39;e Online "
+"Bedava Nasıl Kesilir. TikTok Videolarını Çevrimiçi Olarak Kesin ve Kesin."
 
 #: templates/faq.html:3
 msgid "Frequently Asked Questions - Tiksss.com"
@@ -467,7 +505,7 @@ msgstr ""
 
 #: templates/faq.html:39
 msgid "Tiktok to Mp3 Converter online Free"
-msgstr "Tiktok Mp3 Dönüştürücü çevrimiçi Ücretsiz"
+msgstr "Tiktok&#39;tan Mp3&#39;e Dönüştürücü çevrimiçi Ücretsiz"
 
 #: templates/faq.html:56
 msgid "Now you will see a download button, click on download"
@@ -505,9 +543,23 @@ msgstr ""
 "Tiktok Videosuz Filigran&#39;ı doğrudan makinenize indirebileceğiniz birkaç "
 "saniye bekleyin."
 
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr "Tiktok videolarını filigransız indirin - Tiksss.Com"
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"Tiktok videolarını filigransız çevrimiçi ücretsiz olarak web sitemiz "
+"Tiksss.com&#39;dan indirin. Tamamen ücretsiz olan Tiktok Severler için "
+"Çevrimiçi En Hızlı Tiktok Video İndiricimiz."
+
 #: templates/index.html:11
-msgid "to Mp4 Downloader Online Free"
-msgstr "Mp4 Downloader Online Ücretsiz"
+msgid "to mp4 downloader online free"
+msgstr "mp4 indiriciye çevrimiçi ücretsiz"
 
 #: templates/index.html:23
 msgid ""
@@ -703,7 +755,7 @@ msgstr ""
 
 #: templates/index.html:119
 msgid "If you are music lover then you will know the value of this"
-msgstr "Müzik aşığıysanız bunun değerini bileceksiniz."
+msgstr "Müzik aşığıysanız, bunun değerini bileceksiniz."
 
 #: templates/index.html:119
 msgid ""
@@ -1278,7 +1330,7 @@ msgid ""
 "like to exercise any of these rights, please contact us"
 msgstr ""
 "Bir istekte bulunursanız, size yanıt vermek için bir ayımız var. Bu "
-"haklardan herhangi birini kullanmak istiyorsanız, lütfen bizimle iletişime "
+"haklardan herhangi birini kullanmak isterseniz, lütfen bizimle iletişime "
 "geçin."
 
 #: templates/privacypolicy.html:97
@@ -1571,8 +1623,7 @@ msgid ""
 "The following organizations may link to our Website without prior written "
 "approval"
 msgstr ""
-"Aşağıdaki kuruluşlar önceden yazılı onay almadan Web Sitemize bağlantı "
-"verebilir"
+"Aşağıdaki kuruluşlar önceden yazılı onay almadan Web Sitemize bağlanabilir"
 
 #: templates/tandc.html:58
 msgid "Government agencies"
@@ -1693,8 +1744,8 @@ msgstr ""
 "Yukarıdaki 2. paragrafta listelenen kuruluşlardan biriyseniz ve web sitemize"
 " bağlantı vermekle ilgileniyorsanız, Tiksss.com&#39;a bir e-posta göndererek"
 " bizi bilgilendirmelisiniz. Lütfen adınızı, kuruluşunuzun adını, iletişim "
-"bilgilerinizin yanı sıra sitenizin URL&#39;sini, Web Sitemize bağlantı "
-"vermeyi düşündüğünüz URL&#39;lerin bir listesini ve sitemizde yer almak "
+"bilgilerinizi ve sitenizin URL&#39;sini, Web Sitemize bağlantı vermeyi "
+"düşündüğünüz herhangi bir URL&#39;nin bir listesini ve sitemizde yer almak "
 "istediğiniz URL&#39;lerin bir listesini ekleyin. bağlantı. Yanıt için 2-3 "
 "hafta bekleyin."
 
@@ -1801,7 +1852,7 @@ msgid ""
 "are free to contact and inform us any moment. We will consider requests to "
 "remove links but we are not obligated to or so or to respond to you directly"
 msgstr ""
-"Web Sitemizde herhangi bir nedenle rahatsız edici bir bağlantı bulursanız, "
+"Web Sitemizde herhangi bir nedenle saldırgan bir bağlantı bulursanız, "
 "istediğiniz zaman bizimle iletişime geçebilir ve bizi "
 "bilgilendirebilirsiniz. Bağlantıları kaldırma isteklerini dikkate alacağız, "
 "ancak size doğrudan yanıt vermekle yükümlü değiliz."
@@ -1871,9 +1922,9 @@ msgid ""
 msgstr ""
 "Bu Bölümde ve bu sorumluluk reddinin başka yerlerinde belirtilen sorumluluk "
 "sınırlamaları ve yasakları: (a) önceki paragrafa tabidir; ve (b) "
-"sözleşmeden, haksız fiilden ve yasal yükümlülüğün ihlalinden doğan "
-"yükümlülükler dahil olmak üzere, sorumluluk reddinden doğan tüm "
-"yükümlülükleri yönetir."
+"sözleşmeden, haksız fiilden ve kanuni görevin ihlalinden doğan yükümlülükler"
+" de dahil olmak üzere, sorumluluk reddinden doğan tüm yükümlülükleri "
+"yönetir."
 
 #: templates/tandc.html:143
 msgid ""
@@ -1884,9 +1935,23 @@ msgstr ""
 "Web sitesi ve web sitesindeki bilgi ve hizmetler ücretsiz olarak sağlandığı "
 "sürece, herhangi bir kayıp veya hasardan sorumlu olmayacağız."
 
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "Tiktok videolarını filigransız çevrimiçi indirin - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Tiktok videolarını filigransız çevrimiçi ücretsiz olarak web sitemiz "
+"Tiksss.com&#39;dan indirin. Tiktok videolarını filigransız olarak "
+"telefonunuza ve dizüstü bilgisayarınıza kolayca indirebilirsiniz."
+
 #: templates/without.html:13
-msgid "Video Without Watermark"
-msgstr "Filigransız Video"
+msgid "video without watermark"
+msgstr "filigransız video"
 
 #: templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
@@ -1919,7 +1984,7 @@ msgstr ""
 "ve açılır menüyü göreceksiniz, üzerine tıklayın ve “Filigransız” seçeneğini "
 "seçin. Bir sonraki sayfada sadece bağlantıyı yapıştırın ve “İndir Düğmesine”"
 " tıklayın. Videonuzu indirmeye başlamak için birkaç saniye bekleyin. Ayrıca "
-"“Filigranlı TikTok Videoyu İndirin” ve bunun için web sitemizin Ana "
+"“Filigranlı TikTok Videosunu İndirin” ve bunun için web sitemizin Ana "
 "Sayfasını ziyaret edebilir ve en sevdiğiniz videoyu 10 saniyeden daha kısa "
 "sürede indirebilirsiniz."
 
@@ -3201,7 +3266,7 @@ msgstr "Boş liste ve “%(class_name)s.allow_empty” False."
 
 #: venv/lib/python3.8/site-packages/django/views/static.py:40
 msgid "Directory indexes are not allowed here."
-msgstr "Dizin dizinlerine burada izin verilmez."
+msgstr "Burada dizin dizinlerine izin verilmez."
 
 #: venv/lib/python3.8/site-packages/django/views/static.py:42
 #, python-format

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 23:51+0530\n"
+"POT-Creation-Date: 2021-07-10 19:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,25 +80,25 @@ msgstr ""
 "problema. Se você tiver alguma dúvida, por favor, entre em contato conosco "
 "aqui:"
 
-#: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4 templates/download6.html:4
-msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
-msgstr "Conversor TikTok para Mp3 Online Grátis - Tiksss.com"
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
+msgstr "Conversor de TikTok para mp3 online grátis - Tiksss.com"
 
-#: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5 templates/download6.html:5
+#: templates/audio.html:7
 msgid ""
-"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
 "is totally free."
 msgstr ""
-"TikTok To Mp3 Converter Online Grátis em nosso website Tiksss.com. É a nossa"
-" ferramenta mais rápida para converter vídeos de Tiktok para o formato Mp3 "
-"para amantes de Tiktok que é totalmente gratuito."
+"Conversor de TikTok para mp3 online gratuito em nosso website Tiksss.com. É "
+"a nossa ferramenta mais rápida para converter vídeos de Tiktok para o "
+"formato Mp3 para amantes de Tiktok que é totalmente gratuito."
 
 #: templates/audio.html:14
-msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
-msgstr "To Mp3 Converter Online Grátis - TikTok Video To Mp3 Converter Online"
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
+msgstr ""
+"para conversor de mp3 online grátis - Conversor de vídeo para mp3 TikTok "
+"online"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
@@ -197,25 +197,24 @@ msgstr ""
 "Se você gosta de nossa ferramenta e serviços, então, por favor, compartilhe "
 "nosso site com seus amigos e familiares. Obrigado!"
 
-#: templates/audio_cutter.html:4 templates/download5.html:4
-msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Cutter Online Grátis - Tiksss.com"
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
+msgstr "TikTok mp3 cutter online grátis - Tiksss.com"
 
-#: templates/audio_cutter.html:7 templates/download5.html:7
+#: templates/audio_cutter.html:7
 msgid ""
-"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Mp3 Cutter ferramenta online grátis. Como cortar vídeo TikTok para "
+"TikTok mp3 cutter ferramenta online gratuita. Como cortar vídeo TikTok para "
 "MP3 online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
 
 #: templates/audio_cutter.html:14
 msgid ""
-"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
-"Free Tool"
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
 msgstr ""
-"Cortador e conversor de MP3 TikTok Online - Ferramenta gratuita de corte de "
-"vídeo para mp3 TikTok online"
+"cortador e conversor de mp3 online - Ferramenta gratuita de corte de vídeo "
+"TikTok para mp3 online"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
 #: templates/without.html:14
@@ -279,7 +278,7 @@ msgid ""
 msgstr ""
 "Escolha o tempo de duração da opção fornecida abaixo para Cortar seu vídeo "
 "TikTok para Mp3 e depois disso o processo de conversão começará e estará "
-"disponível em alguns segundos."
+"disponível em poucos segundos."
 
 #: templates/audio_cutter.html:57
 msgid ""
@@ -290,65 +289,65 @@ msgstr ""
 "serviços, por favor, compartilhe nosso site com seus amigos e familiares. "
 "Obrigado!"
 
-#: templates/base.html:40
+#: templates/base.html:42
 msgid "Home"
 msgstr "Casa"
 
-#: templates/base.html:42 templates/base.html:44
+#: templates/base.html:44 templates/base.html:46
 msgid "Tools"
 msgstr "Ferramentas"
 
-#: templates/base.html:46
+#: templates/base.html:48
 msgid "Download With Watermark"
 msgstr "Baixar com marca d&#39;água"
 
-#: templates/base.html:49
+#: templates/base.html:51
 msgid "Download Without Watermark"
 msgstr "Baixar sem marca d&#39;água"
 
-#: templates/base.html:50
+#: templates/base.html:52
 msgid "Download Audio"
 msgstr "Baixar áudio"
 
-#: templates/base.html:51
+#: templates/base.html:53
 msgid "Video Cutter"
 msgstr "Video Cutter"
 
-#: templates/base.html:52
+#: templates/base.html:54
 msgid "Audio Cutter"
 msgstr "Cortador de Áudio"
 
-#: templates/base.html:56
+#: templates/base.html:58
 msgid "About"
 msgstr "Cerca de"
 
-#: templates/base.html:110 templates/privacypolicy.html:10
+#: templates/base.html:112 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Política de Privacidade"
 
-#: templates/base.html:113 templates/tandc.html:10
+#: templates/base.html:115 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Termos e Condições"
 
-#: templates/base.html:116
+#: templates/base.html:118
 msgid "FAQ"
 msgstr "Perguntas frequentes"
 
-#: templates/cutter.html:4 templates/download3.html:4
-msgid "TikTok Video Cutter Online Free – Tiksss.com"
-msgstr "TikTok Video Cutter Online Grátis - Tiksss.com"
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
+msgstr "Cortador de vídeo TikTok online grátis - Tiksss.com"
 
-#: templates/cutter.html:7 templates/download3.html:7
+#: templates/cutter.html:7
 msgid ""
-"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
 "Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"Ferramenta gratuita online do cortador de vídeo TikTok. Como cortar vídeos "
+"Ferramenta gratuita online de cortador de vídeo TikTok. Como cortar vídeos "
 "TikTok online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
 
 #: templates/cutter.html:14
-msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
-msgstr "Video Cutter Online - TikTok Video Trimmer Online Grátis"
+msgid "video cutter online – TikTok video trimmer online free"
+msgstr "video cutter online - TikTok video trimmer online grátis"
 
 #: templates/cutter.html:32
 msgid ""
@@ -417,25 +416,41 @@ msgstr ""
 "Se você gosta de nossa ferramenta TikTok Video Cutter e Trimmer e serviços, "
 "por favor, compartilhe nosso site com seus amigos e familiares. Obrigado!"
 
-#: templates/download.html:6 templates/index.html:4
+#: templates/download.html:6
 msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
 msgstr "Baixe vídeos do Tiktok sem marca d&#39;água - Tiksss.Com"
 
-#: templates/download.html:7 templates/index.html:5
+#: templates/download.html:7
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on our website "
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
 " which is totally free."
 msgstr ""
 "Baixe vídeos Tiktok sem marca d&#39;água online gratuitamente em nosso site "
-"Tiksss.com. É o nosso downloader de vídeo mais rápido do Tiktok on-line para"
-" os amantes do Tiktok, que é totalmente gratuito."
+"Tiksss.com. É o nosso downloader de vídeo mais rápido do Tiktok online para "
+"amantes do Tiktok, que é totalmente gratuito."
 
-#: templates/download2.html:4 templates/without.html:4
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "Conversor TikTok para Mp3 Online Grátis - Tiksss.com"
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok To Mp3 Converter Online Grátis em nosso website Tiksss.com. É a nossa"
+" ferramenta mais rápida para converter vídeos de Tiktok para o formato Mp3 "
+"para amantes de Tiktok que é totalmente gratuito."
+
+#: templates/download2.html:4
 msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
 msgstr "Baixe vídeos do Tiktok sem marca d&#39;água online - Tiksss.com"
 
-#: templates/download2.html:6 templates/without.html:6
+#: templates/download2.html:6
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -444,6 +459,30 @@ msgstr ""
 "Baixe vídeos Tiktok sem marca d&#39;água online gratuitamente em nosso site "
 "Tiksss.com. Você pode facilmente baixar vídeos do Tiktok sem marca "
 "d&#39;água em seu telefone e laptop."
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok Video Cutter Online Grátis - Tiksss.com"
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"Ferramenta gratuita online do cortador de vídeo TikTok. Como cortar vídeos "
+"TikTok online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter Online Grátis - Tiksss.com"
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Mp3 Cutter Online Grátis Tool. Como cortar vídeo TikTok para MP3 "
+"online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
 
 #: templates/faq.html:3
 msgid "Frequently Asked Questions - Tiksss.com"
@@ -512,9 +551,23 @@ msgstr ""
 "Espere alguns segundos para fazer o download do vídeo do Tiktok sem marca "
 "d&#39;água diretamente em sua máquina."
 
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr "Baixe vídeos Tiktok sem marca d&#39;água - Tiksss.Com"
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"Baixe vídeos do Tiktok sem marca d&#39;água online gratuitamente em nosso "
+"site Tiksss.com. É o nosso downloader de vídeo mais rápido do Tiktok online "
+"para amantes do Tiktok, que é totalmente gratuito."
+
 #: templates/index.html:11
-msgid "to Mp4 Downloader Online Free"
-msgstr "para Mp4 Downloader Online Grátis"
+msgid "to mp4 downloader online free"
+msgstr "para downloader mp4 online grátis"
 
 #: templates/index.html:23
 msgid ""
@@ -616,11 +669,11 @@ msgstr ""
 "maneiras diferentes e se tornam celebridades por meio desta plataforma. Esta"
 " plataforma se tornou uma fonte para criadores de conteúdo para "
 "entretenimento e vídeos virais. O conteúdo do TikTok pode ser inacessível "
-"para aqueles que não têm wi-fi ou disponibilidade de internet, então "
-"certifique-se de ter conexão com a internet em seu dispositivo para assistir"
-" a vídeos virais e incríveis. Então, estamos aqui para dar a você esta "
-"incrível ferramenta TikTok Mp4 Downloader para baixar vídeos favoritos em "
-"seus dispositivos."
+"para quem não tem wi-fi ou disponibilidade de internet, então certifique-se "
+"de ter conexão com a internet em seu dispositivo para assistir a vídeos "
+"virais e incríveis. Então, estamos aqui para dar a você esta incrível "
+"ferramenta TikTok Mp4 Downloader para baixar vídeos favoritos em seus "
+"dispositivos."
 
 #: templates/index.html:60
 msgid "Unlimited Downloads"
@@ -807,7 +860,7 @@ msgid ""
 msgstr ""
 "Quando você solicita uma página do nosso site, nossos servidores registram "
 "as informações fornecidas no cabeçalho da solicitação HTTP, JavaScript ou "
-"ferramentas técnicas semelhantes, incluindo o número IP, a hora da "
+"ferramentas técnicas semelhantes, incluindo o número do IP, a hora da "
 "solicitação, o URL da sua solicitação e outras informações. Coletamos essas "
 "informações para fazer nosso site funcionar corretamente e fornecer a você a"
 " funcionalidade que você vê no site, pois nossos servidores usam essas "
@@ -1154,7 +1207,7 @@ msgstr ""
 " conhecidos como cookies DART, para veicular anúncios aos visitantes de "
 "nosso site com base em sua visita a www.website.com e outros sites na "
 "Internet. No entanto, os visitantes podem optar por recusar o uso de cookies"
-" DART visitando o anúncio do Google e a Política de privacidade da rede de "
+" DART visitando o anúncio do Google e a Política de Privacidade da rede de "
 "conteúdo no seguinte URL -"
 
 #: templates/privacypolicy.html:78
@@ -1240,9 +1293,9 @@ msgstr ""
 "como cancelar certas opções. Você pode encontrar uma lista completa dessas "
 "Políticas de Privacidade e seus links aqui: Links da Política de "
 "Privacidade. Você pode optar por desabilitar os cookies por meio das opções "
-"individuais do navegador. Para saber informações mais detalhadas sobre o "
-"gerenciamento de cookies com navegadores da web específicos, elas podem ser "
-"encontradas nos respectivos sites dos navegadores. O que são cookies?"
+"individuais do seu navegador. Para saber informações mais detalhadas sobre o"
+" gerenciamento de cookies com navegadores da web específicos, elas podem ser"
+" encontradas nos respectivos sites dos navegadores. O que são cookies?"
 
 #: templates/privacypolicy.html:90
 msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
@@ -1461,8 +1514,8 @@ msgstr ""
 "Salvo indicação em contrário, Tiksss.com e / ou seus licenciados detêm os "
 "direitos de propriedade intelectual de todo o material em Tiksss.com. Todos "
 "os direitos de propriedade intelectual são reservados. Você pode acessar "
-"este de Tiksss para seu próprio uso pessoal sujeito às restrições "
-"estabelecidas nestes termos e condições"
+"este de Tiksss para seu uso pessoal sujeito às restrições estabelecidas "
+"nestes termos e condições"
 
 #: templates/tandc.html:20
 msgid "You must not"
@@ -1768,9 +1821,9 @@ msgid ""
 "party rights"
 msgstr ""
 "Não seremos responsáveis por qualquer conteúdo que apareça em seu site. Você"
-" concorda em nos proteger e nos defender contra todas as reclamações que "
-"estão aumentando em seu site. Nenhum link deve aparecer em qualquer site que"
-" possa ser interpretado como difamatório, obsceno ou criminoso, ou que "
+" concorda em nos proteger e nos defender contra todas as reivindicações que "
+"estejam surgindo em seu site. Nenhum link (s) deve aparecer em qualquer site"
+" que possa ser interpretado como difamatório, obsceno ou criminoso, ou que "
 "infrinja, de outra forma viole ou defenda a violação ou outra violação de "
 "quaisquer direitos de terceiros"
 
@@ -1870,8 +1923,8 @@ msgid ""
 "exclude any of our or your liabilities that may not be excluded under "
 "applicable law."
 msgstr ""
-"excluirá qualquer uma das nossas responsabilidades ou responsabilidades que "
-"não possam ser excluídas ao abrigo da legislação aplicável."
+"excluirá qualquer uma de nossas responsabilidades ou responsabilidades que "
+"não possam ser excluídas de acordo com a legislação aplicável."
 
 #: templates/tandc.html:142
 msgid ""
@@ -1896,9 +1949,23 @@ msgstr ""
 "gratuitamente, não seremos responsáveis por perdas ou danos de qualquer "
 "natureza."
 
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "Baixe vídeos Tiktok sem marca d&#39;água online - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Baixe vídeos Tiktok sem marca d&#39;água online gratuitamente em nosso site "
+"Tiksss.com. Você pode facilmente baixar vídeos do Tiktok sem marca "
+"d&#39;água em seu telefone e laptop."
+
 #: templates/without.html:13
-msgid "Video Without Watermark"
-msgstr "Vídeo sem marca d&#39;água"
+msgid "video without watermark"
+msgstr "vídeo sem marca d&#39;água"
 
 #: templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
@@ -2296,7 +2363,7 @@ msgstr "Data (com hora)"
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
 #, python-format
 msgid "“%(value)s” value must be a decimal number."
-msgstr "O valor “%(value)s” deve ser um número decimal."
+msgstr "O valor de “%(value)s” deve ser um número decimal."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
 msgid "Decimal number"
@@ -2528,8 +2595,8 @@ msgid ""
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr[0] ""
-"Certifique-se de que este nome de arquivo tenha no máximo %(max)d caracteres"
-" (ele possui %(length)d)."
+"Certifique-se de que este nome de arquivo tenha no máximo %(max)d caractere "
+"(ele tem %(length)d)."
 msgstr[1] ""
 "Certifique-se de que este nome de arquivo tenha no máximo %(max)d caracteres"
 " (ele tem %(length)d)."
@@ -2938,7 +3005,7 @@ msgstr "julho"
 #: venv/lib/python3.8/site-packages/django/utils/dates.py:30
 msgctxt "abbrev. month"
 msgid "Aug."
-msgstr "Agosto"
+msgstr "De agosto"
 
 #: venv/lib/python3.8/site-packages/django/utils/dates.py:31
 msgctxt "abbrev. month"
@@ -3169,7 +3236,7 @@ msgstr "Nenhum dia especificado"
 
 #: venv/lib/python3.8/site-packages/django/views/generic/dates.py:188
 msgid "No week specified"
-msgstr "Sem semana especificada"
+msgstr "Nenhuma semana especificada"
 
 #: venv/lib/python3.8/site-packages/django/views/generic/dates.py:338
 #: venv/lib/python3.8/site-packages/django/views/generic/dates.py:367
@@ -3290,7 +3357,7 @@ msgstr "Valor sem suporte para qop: %s."
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:614
 #, python-format
 msgid "Unsupported value for algorithm: %s."
-msgstr "Valor sem suporte para o algoritmo: %s."
+msgstr "Valor sem suporte para algoritmo: %s."
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:609
 msgid "The challenge doesn't contain a server nonce, or this one is empty."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 23:51+0530\n"
+"POT-Creation-Date: 2021-07-10 19:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,8 +53,8 @@ msgid ""
 "watermark or with watermark in just few seconds which you can view here in "
 "our website"
 msgstr ""
-"تدعم منصتنا نوعًا مختلفًا من أدوات تحويل الفيديو TikTok مثل TikTok إلى Mp4 و"
-" Mp3 و Video Cutter وتنزيل مقاطع فيديو TikTok بدون علامة مائية أو بعلامة "
+"تدعم منصتنا أنواعًا مختلفة من أدوات تحويل الفيديو TikTok مثل TikTok إلى Mp4 "
+"و Mp3 و Video Cutter وتنزيل مقاطع فيديو TikTok بدون علامة مائية أو بعلامة "
 "مائية في بضع ثوانٍ فقط والتي يمكنك عرضها هنا في موقعنا على الإنترنت"
 
 #: templates/about.html:13
@@ -76,25 +76,24 @@ msgstr ""
 " Tiksss دائمًا هنا وجاهز لمساعدتك إذا كنت تواجه أي مشكلة. إذا كان لديك أي "
 "استفسارات ، فيرجى الاتصال بنا هنا:"
 
-#: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4 templates/download6.html:4
-msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
-msgstr "TikTok To Mp3 Converter Online Free - Tiksss.com"
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
+msgstr "تحويل TikTok إلى mp3 على الإنترنت مجانًا - Tiksss.com"
 
-#: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5 templates/download6.html:5
+#: templates/audio.html:7
 msgid ""
-"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
 "is totally free."
 msgstr ""
-"TikTok To Mp3 Converter Online Free على موقعنا على الإنترنت Tiksss.com. إنها"
-" أسرع أداة لدينا لتحويل مقاطع فيديو Tiktok إلى تنسيق MP3 لعشاق Tiktok وهي "
-"مجانية تمامًا."
+"TikTok to mp3 Converter عبر الإنترنت مجانًا على موقعنا Tiksss.com. إنها أسرع"
+" أداة لدينا لتحويل مقاطع فيديو Tiktok إلى تنسيق MP3 لعشاق Tiktok وهي مجانية "
+"تمامًا."
 
 #: templates/audio.html:14
-msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
-msgstr "إلى Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
+msgstr ""
+"لتحويل mp3 على الإنترنت مجانًا - تحويل فيديو TikTok إلى mp3 عبر الإنترنت"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
@@ -186,25 +185,24 @@ msgstr ""
 "إذا كنت تحب أداتنا وخدماتنا ، فيرجى مشاركة موقعنا الإلكتروني مع أصدقائك "
 "وأفراد عائلتك. شكرا!"
 
-#: templates/audio_cutter.html:4 templates/download5.html:4
-msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 القاطع على الإنترنت مجانا - Tiksss.com"
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
+msgstr "TikTok mp3 القاطع على الانترنت مجانا - Tiksss.com"
 
-#: templates/audio_cutter.html:7 templates/download5.html:7
+#: templates/audio_cutter.html:7
 msgid ""
-"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Mp3 Cutter Online أداة مجانية. كيفية قص TikTok Video to Mp3 عبر "
-"الإنترنت مجانًا. قص وتقليم مقاطع فيديو TikTok على الإنترنت مجانًا."
+"أداة قطع mp3 مجانية على الإنترنت من TikTok. كيفية قص TikTok Video to Mp3 عبر"
+" الإنترنت مجانًا. قص وتقليم مقاطع فيديو TikTok على الإنترنت مجانًا."
 
 #: templates/audio_cutter.html:14
 msgid ""
-"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
-"Free Tool"
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
 msgstr ""
-"TikTok Mp3 Cutter and Converter Online - تقليم TikTok Video to Mp3 Online "
-"Free Tool"
+"برنامج قص وتحويل mp3 عبر الإنترنت - أداة Trim TikTok video to mp3 free "
+"online"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
 #: templates/without.html:14
@@ -276,65 +274,66 @@ msgstr ""
 "إذا كنت تحب أداة TikTok Mp3 Cutter and Converter والخدمات التي نقدمها ، "
 "فيرجى مشاركة موقعنا على الويب مع أصدقائك وأفراد عائلتك. شكرا!"
 
-#: templates/base.html:40
+#: templates/base.html:42
 msgid "Home"
 msgstr "منزل، بيت"
 
-#: templates/base.html:42 templates/base.html:44
+#: templates/base.html:44 templates/base.html:46
 msgid "Tools"
 msgstr "أدوات"
 
-#: templates/base.html:46
+#: templates/base.html:48
 msgid "Download With Watermark"
 msgstr "تحميل بعلامة مائية"
 
-#: templates/base.html:49
+#: templates/base.html:51
 msgid "Download Without Watermark"
 msgstr "تحميل بدون علامة مائية"
 
-#: templates/base.html:50
+#: templates/base.html:52
 msgid "Download Audio"
 msgstr "تنزيل الصوت"
 
-#: templates/base.html:51
+#: templates/base.html:53
 msgid "Video Cutter"
 msgstr "برنامج تقطيع الفيديو"
 
-#: templates/base.html:52
+#: templates/base.html:54
 msgid "Audio Cutter"
 msgstr "قاطع الصوت"
 
-#: templates/base.html:56
+#: templates/base.html:58
 msgid "About"
 msgstr "حول"
 
-#: templates/base.html:110 templates/privacypolicy.html:10
+#: templates/base.html:112 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "سياسة الخصوصية"
 
-#: templates/base.html:113 templates/tandc.html:10
+#: templates/base.html:115 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "الأحكام والشروط"
 
-#: templates/base.html:116
+#: templates/base.html:118
 msgid "FAQ"
 msgstr "التعليمات"
 
-#: templates/cutter.html:4 templates/download3.html:4
-msgid "TikTok Video Cutter Online Free – Tiksss.com"
-msgstr "TikTok Video Cutter Online Free - Tiksss.com"
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
+msgstr "TikTok video cutter على الإنترنت مجانًا - Tiksss.com"
 
-#: templates/cutter.html:7 templates/download3.html:7
+#: templates/cutter.html:7
 msgid ""
-"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
 "Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Video Cutter Online أداة مجانية. كيفية قص مقاطع فيديو TikTok عبر "
+"أداة قص الفيديو على الإنترنت من TikTok. كيفية قص مقاطع فيديو TikTok عبر "
 "الإنترنت مجانًا. قص وتقليم مقاطع فيديو TikTok على الإنترنت مجانًا."
 
 #: templates/cutter.html:14
-msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
-msgstr "Video Cutter Online - TikTok Video Trimmer Online Free"
+msgid "video cutter online – TikTok video trimmer online free"
+msgstr ""
+"قاطع الفيديو عبر الإنترنت - أداة قص الفيديو TikTok على الإنترنت مجانًا"
 
 #: templates/cutter.html:32
 msgid ""
@@ -398,11 +397,11 @@ msgstr ""
 "إذا كنت تحب أداة TikTok Video Cutter and Trimmer وخدماتنا ، فيرجى مشاركة "
 "موقعنا على الويب مع أصدقائك وأفراد عائلتك. شكرا!"
 
-#: templates/download.html:6 templates/index.html:4
+#: templates/download.html:6
 msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
 msgstr "قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية - Tiksss.Com"
 
-#: templates/download.html:7 templates/index.html:5
+#: templates/download.html:7
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on our website "
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
@@ -412,12 +411,28 @@ msgstr ""
 " على الويب Tiksss.com. إنه أسرع برنامج تنزيل فيديو Tiktok عبر الإنترنت لمحبي"
 " Tiktok وهو مجاني تمامًا."
 
-#: templates/download2.html:4 templates/without.html:4
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "TikTok To Mp3 Converter Online Free - Tiksss.com"
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok To Mp3 Converter Online Free على موقعنا على الإنترنت Tiksss.com. إنها"
+" أسرع أداة لدينا لتحويل مقاطع فيديو Tiktok إلى تنسيق MP3 لعشاق Tiktok وهي "
+"مجانية تمامًا."
+
+#: templates/download2.html:4
 msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
 msgstr ""
 "قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية على الإنترنت - Tiksss.com"
 
-#: templates/download2.html:6 templates/without.html:6
+#: templates/download2.html:6
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -426,6 +441,30 @@ msgstr ""
 "قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية على الإنترنت مجانًا على موقعنا"
 " على الإنترنت Tiksss.com. يمكنك بسهولة تنزيل مقاطع فيديو Tiktok بدون علامة "
 "مائية في هاتفك وجهاز الكمبيوتر المحمول."
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok Video Cutter Online Free - Tiksss.com"
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Video Cutter Online أداة مجانية. كيفية قص مقاطع فيديو TikTok عبر "
+"الإنترنت مجانًا. قص وتقليم مقاطع فيديو TikTok على الإنترنت مجانًا."
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter Online Free - Tiksss.com"
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Mp3 Cutter Online أداة مجانية. كيفية قص TikTok Video to Mp3 عبر "
+"الإنترنت مجانًا. قص وتقليم مقاطع فيديو TikTok على الإنترنت مجانًا."
 
 #: templates/faq.html:3
 msgid "Frequently Asked Questions - Tiksss.com"
@@ -490,9 +529,23 @@ msgstr ""
 "فقط انتظر بضع ثوان حيث يمكنك تنزيل فيديو Tiktok بدون علامة مائية مباشرة في "
 "جهازك."
 
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr "قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية - Tiksss.Com"
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية عبر الإنترنت مجانًا على موقعنا"
+" على الإنترنت Tiksss.com. إنه أسرع برنامج تنزيل فيديو Tiktok عبر الإنترنت "
+"لمحبي Tiktok وهو مجاني تمامًا."
+
 #: templates/index.html:11
-msgid "to Mp4 Downloader Online Free"
-msgstr "إلى Mp4 Downloader Online Free"
+msgid "to mp4 downloader online free"
+msgstr "إلى تنزيل mp4 على الإنترنت مجانًا"
 
 #: templates/index.html:23
 msgid ""
@@ -642,8 +695,8 @@ msgstr ""
 "إليك بعض الأشياء المهمة عندما تكون في صفحة تنزيل الفيديو ، انظر زر المشاركة "
 "على الجانب الأيمن من شاشة جهازك ، اضغط عليه بمساعدة السهم وانسخ "
 "&quot;الرابط&quot;. لذا افتح موقعنا Tiksss.com والصق رابط النسخ هذا في حقل "
-"معين وانقر على &quot;زر البحث&quot;. سيستغرق الأمر بضع ثوانٍ للحصول على رابط"
-" قابل للتنزيل. سترى &quot;زر التنزيل&quot; اضغط عليه لبدء تنزيل الفيديو على "
+"معين وانقر على &quot;زر البحث&quot; سيستغرق الأمر بضع ثوانٍ للحصول على رابط "
+"قابل للتنزيل. سترى &quot;زر التنزيل&quot; اضغط عليه لبدء تنزيل الفيديو على "
 "جهازك."
 
 #: templates/index.html:100
@@ -765,14 +818,15 @@ msgid ""
 "not associated with any personally identifiable information of persons "
 "browsing the Website."
 msgstr ""
-"عندما تطلب صفحة من موقعنا الإلكتروني ، تقوم خوادمنا بتسجيل المعلومات المقدمة"
-" في عنوان طلب HTTP أو JavaScript أو الأدوات التقنية المماثلة ، بما في ذلك "
-"رقم IP ووقت الطلب وعنوان URL لطلبك ومعلومات أخرى. نقوم بجمع هذه المعلومات من"
-" أجل جعل موقعنا يعمل بشكل صحيح وتزويدك بالوظائف التي تراها على الموقع ، حيث "
+"عندما تطلب صفحة من موقعنا الإلكتروني ، تسجل خوادمنا المعلومات المقدمة في "
+"عنوان طلب HTTP أو JavaScript أو الأدوات التقنية المماثلة ، بما في ذلك رقم IP"
+" ووقت الطلب وعنوان URL لطلبك ومعلومات أخرى. نقوم بجمع هذه المعلومات من أجل "
+"جعل موقعنا يعمل بشكل صحيح وتزويدك بالوظائف التي تراها على الموقع ، حيث "
 "تستخدم خوادمنا هذه المعلومات لتوصيل الصفحات الموجودة على هذا الموقع إليك. "
-"نستخدم هذه المعلومات أيضًا لفهم كيفية استخدام الزوار لموقعنا على الويب بشكل "
-"أفضل وكيف يمكننا تحسين موقعنا ومحتوياته ووظائفه لتلبية احتياجاتك. ومع ذلك ، "
-"لا ترتبط هذه المعلومات بأي معلومات تعريف شخصية للأشخاص الذين يتصفحون الموقع."
+"نستخدم هذه المعلومات أيضًا لفهم كيفية استخدام الزائرين لموقعنا على الويب "
+"بشكل أفضل وكيف يمكننا تحسين موقعنا ومحتوياته ووظائفه لتلبية احتياجاتك. ومع "
+"ذلك ، لا ترتبط هذه المعلومات بأي معلومات تعريف شخصية للأشخاص الذين يتصفحون "
+"الموقع."
 
 #: templates/privacypolicy.html:22
 msgid ""
@@ -784,9 +838,9 @@ msgid ""
 msgstr ""
 "نحن نستخدم ملفات تعريف ارتباط Google Analytics لفهم تفضيلاتك وحفظها للزيارات"
 " المستقبلية. ملفات تعريف الارتباط هي ملفات صغيرة ينقلها الموقع أو مزود "
-"الخدمة إلى القرص الصلب لجهاز الكمبيوتر الخاص بك من خلال متصفح الويب الخاص بك"
-" (إذا سمحت بذلك) والتي تمكن المواقع أو أنظمة موفري الخدمة من التعرف على "
-"متصفحك والتقاط وتذكر معلومات معينة)"
+"الخدمة إلى محرك الأقراص الثابتة بجهاز الكمبيوتر الخاص بك من خلال متصفح الويب"
+" الخاص بك (إذا سمحت بذلك) والتي تمكن المواقع أو أنظمة موفري الخدمة من التعرف"
+" على متصفحك والتقاط وتذكر معلومات معينة)"
 
 #: templates/privacypolicy.html:25
 msgid ""
@@ -959,8 +1013,8 @@ msgid ""
 "websites that you visit and are stored on your device's internal memory"
 msgstr ""
 "ملفات تعريف الارتباط هي ملفات تحتوي على كمية صغيرة من البيانات التي يتم "
-"استخدامها بشكل شائع كمعرفات فريدة مجهولة. يتم إرسالها إلى متصفحك من مواقع "
-"الويب التي تزورها ويتم تخزينها على الذاكرة الداخلية لجهازك"
+"استخدامها بشكل شائع كمعرفات فريدة مجهولة الهوية. يتم إرسالها إلى متصفحك من "
+"مواقع الويب التي تزورها ويتم تخزينها على الذاكرة الداخلية لجهازك"
 
 #: templates/privacypolicy.html:51
 msgid ""
@@ -1339,10 +1393,10 @@ msgstr ""
 " الشركة. يشير &quot;الطرف&quot; أو &quot;الأطراف&quot; أو &quot;نحن&quot; "
 "إلى كل من العميل وأنفسنا. تشير جميع الشروط إلى القبول والنظر في الدفع اللازم"
 " للاضطلاع بعملية مساعدتنا إلى Clien بالطريقة الأنسب للغرض الصريح المتمثل في "
-"تلبية احتياجات العميل فيما يتعلق بتوفير خدمات الشركة المعلنة ، وفقًا لـ ، "
-"القانون السائد في هولندا. أي استخدام للمصطلحات المذكورة أعلاه أو غيرها من "
-"الكلمات في صيغة المفرد والجمع و / أو هو / هي أو هم ، يمكن استبدالها وبالتالي"
-" تشير إلى نفس الشيء."
+"تلبية احتياجات العميل فيما يتعلق بتوفير خدمات الشركة المعلنة ، وفقًا وخاضعة "
+"لـ ، القانون السائد في هولندا. أي استخدام للمصطلحات المذكورة أعلاه أو غيرها "
+"من الكلمات في صيغة المفرد والجمع و / أو هو / هي أو هم ، يمكن استبدالها "
+"وبالتالي تشير إلى نفس الشيء."
 
 #: templates/tandc.html:16
 msgid ""
@@ -1478,7 +1532,7 @@ msgid ""
 "and authorize others to use, reproduce and edit any of your Comments in any "
 "and all forms, formats or media."
 msgstr ""
-"أنت بموجب هذا تمنح Tiksss.com ترخيصًا غير حصري لاستخدام وإعادة إنتاج وتحرير "
+"أنت تمنح بموجب هذا Tiksss.com ترخيصًا غير حصري لاستخدام وإعادة إنتاج وتحرير "
 "وتفويض الآخرين لاستخدام وإعادة إنتاج وتحرير أي من تعليقاتك في أي وجميع "
 "الأشكال أو التنسيقات أو الوسائط."
 
@@ -1669,7 +1723,8 @@ msgstr ""
 "لن نتحمل المسؤولية عن أي محتوى يظهر على موقع الويب الخاص بك. أنت توافق على "
 "حمايتنا والدفاع عنا ضد جميع المطالبات التي تنشأ على موقع الويب الخاص بك. يجب"
 " ألا يظهر أي رابط (روابط) على أي موقع ويب يمكن تفسيره على أنه تشهيري أو فاحش"
-" أو إجرامي ، أو ينتهك أو ينتهك أو يدعو إلى التعدي أو انتهاك أي حقوق طرف ثالث"
+" أو إجرامي ، أو ينتهك أو ينتهك أو يدعو إلى التعدي أو الانتهاك الآخر لحقوق أي"
+" طرف ثالث"
 
 #: templates/tandc.html:119
 msgid "Your Privacy"
@@ -1785,8 +1840,23 @@ msgstr ""
 "طالما يتم توفير موقع الويب والمعلومات والخدمات على الموقع مجانًا ، فلن نكون "
 "مسؤولين عن أي خسارة أو ضرر من أي نوع."
 
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr ""
+"قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية عبر الإنترنت - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية عبر الإنترنت مجانًا على موقعنا"
+" على الإنترنت Tiksss.com. يمكنك بسهولة تنزيل مقاطع فيديو Tiktok بدون علامة "
+"مائية في هاتفك وجهاز الكمبيوتر المحمول."
+
 #: templates/without.html:13
-msgid "Video Without Watermark"
+msgid "video without watermark"
 msgstr "فيديو بدون علامة مائية"
 
 #: templates/without.html:28
@@ -2016,8 +2086,8 @@ msgstr[0] ""
 "تأكد من أن هذه القيمة تحتوي على حرف %(limit_value)d كحد أقصى (تحتوي على "
 "%(show_value)d)."
 msgstr[1] ""
-"تأكد من أن هذه القيمة تحتوي على أحرف %(limit_value)d كحد أقصى (تحتوي على "
-"%(show_value)d)."
+"تأكد من أن هذه القيمة تحتوي على أقصى حد من الأحرف %(limit_value)d (تحتوي على"
+" %(show_value)d)."
 
 #: venv/lib/python3.8/site-packages/django/core/validators.py:432
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:292
@@ -2097,7 +2167,7 @@ msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
 msgstr ""
 "يجب أن يكون%(field_label)s فريدًا من أجل %(date_field_label)s __ "
-"lookup_type__"
+"lookup_type__."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
 #, python-format
@@ -2408,8 +2478,8 @@ msgid_plural ""
 msgstr[0] ""
 "تأكد من أن اسم الملف هذا يحتوي على أقصى حد من الحرف %(max)d (له %(length)d)."
 msgstr[1] ""
-"تأكد من أن اسم الملف هذا يحتوي على أقصى حد من الأحرف %(max)d (طوله "
-"%(length)d)"
+"تأكد من أن اسم الملف هذا يحتوي على أقصى حد من الأحرف %(max)d (يحتوي على "
+"%(length)d)."
 
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:545
 msgid "Please either submit a file or check the clear checkbox, not both."
@@ -2497,7 +2567,7 @@ msgstr "يرجى تصحيح البيانات المكررة لـ %(field)s."
 #: venv/lib/python3.8/site-packages/django/forms/models.py:767
 #, python-format
 msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr "يرجى تصحيح البيانات المكررة لـ %(field)s، والتي يجب أن تكون فريدة."
+msgstr "يُرجى تصحيح البيانات المكررة لـ %(field)s، والتي يجب أن تكون فريدة."
 
 #: venv/lib/python3.8/site-packages/django/forms/models.py:773
 #, python-format
@@ -2993,10 +3063,10 @@ msgid ""
 "rel=\"noreferrer\" …> for links to third-party sites."
 msgstr ""
 "إذا كنت تستخدم ملف<meta name=\"referrer\" content=\"no-referrer\"> وضع علامة"
-" أو تضمين عنوان &quot;سياسة المُحيل: لا مُحيل&quot; ، يُرجى إزالتها. تتطلب "
-"حماية CSRF رأس &quot;الإحالة&quot; لإجراء فحص صارم للمراجع. إذا كنت قلقًا "
-"بشأن الخصوصية ، فاستخدم بدائل مثل <a rel=\"noreferrer\" …>الروابط إلى مواقع "
-"الجهات الخارجية.</a>"
+" أو تضمين عنوان &quot;سياسة المُحيل: لا يوجد مُحيل&quot; ، يُرجى إزالتها. "
+"تتطلب حماية CSRF رأس &quot;الإحالة&quot; لإجراء فحص صارم للمراجع. إذا كنت "
+"قلقًا بشأن الخصوصية ، فاستخدم بدائل مثل <a rel=\"noreferrer\" …>الروابط إلى "
+"مواقع الجهات الخارجية.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132
 msgid ""

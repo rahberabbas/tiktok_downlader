@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 23:51+0530\n"
+"POT-Creation-Date: 2021-07-10 19:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,21 +65,19 @@ msgid ""
 "kindly contact us over here:"
 msgstr ""
 
-#: templates/audio.html:4 templates/download1.html:4 templates/download4.html:4
-#: templates/download6.html:4
-msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
 msgstr ""
 
-#: templates/audio.html:7 templates/download1.html:5 templates/download4.html:5
-#: templates/download6.html:5
+#: templates/audio.html:7
 msgid ""
-"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
 "is totally free."
 msgstr ""
 
 #: templates/audio.html:14
-msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr ""
 
 #: templates/audio.html:15 templates/index.html:12
@@ -156,20 +154,19 @@ msgid ""
 "friends and family members. Thanks!"
 msgstr ""
 
-#: templates/audio_cutter.html:4 templates/download5.html:4
-msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
 msgstr ""
 
-#: templates/audio_cutter.html:7 templates/download5.html:7
+#: templates/audio_cutter.html:7
 msgid ""
-"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
 
 #: templates/audio_cutter.html:14
 msgid ""
-"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
-"Free Tool"
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
 msgstr ""
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
@@ -226,62 +223,62 @@ msgid ""
 "Kindly share our website with your friends and family members. Thanks!"
 msgstr ""
 
-#: templates/base.html:40
+#: templates/base.html:42
 msgid "Home"
 msgstr ""
 
-#: templates/base.html:42 templates/base.html:44
+#: templates/base.html:44 templates/base.html:46
 msgid "Tools"
 msgstr ""
 
-#: templates/base.html:46
+#: templates/base.html:48
 msgid "Download With Watermark"
 msgstr ""
 
-#: templates/base.html:49
+#: templates/base.html:51
 msgid "Download Without Watermark"
 msgstr ""
 
-#: templates/base.html:50
+#: templates/base.html:52
 msgid "Download Audio"
 msgstr ""
 
-#: templates/base.html:51
+#: templates/base.html:53
 msgid "Video Cutter"
 msgstr ""
 
-#: templates/base.html:52
+#: templates/base.html:54
 msgid "Audio Cutter"
 msgstr ""
 
-#: templates/base.html:56
+#: templates/base.html:58
 msgid "About"
 msgstr ""
 
-#: templates/base.html:110 templates/privacypolicy.html:10
+#: templates/base.html:112 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr ""
 
-#: templates/base.html:113 templates/tandc.html:10
+#: templates/base.html:115 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr ""
 
-#: templates/base.html:116
+#: templates/base.html:118
 msgid "FAQ"
 msgstr ""
 
-#: templates/cutter.html:4 templates/download3.html:4
-msgid "TikTok Video Cutter Online Free – Tiksss.com"
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
 msgstr ""
 
-#: templates/cutter.html:7 templates/download3.html:7
+#: templates/cutter.html:7
 msgid ""
-"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
 "Cut and Trim TikTok Videos Online Free."
 msgstr ""
 
 #: templates/cutter.html:14
-msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
+msgid "video cutter online – TikTok video trimmer online free"
 msgstr ""
 
 #: templates/cutter.html:32
@@ -334,26 +331,59 @@ msgid ""
 "Kindly share our website with your friends and family members. Thanks!"
 msgstr ""
 
-#: templates/download.html:6 templates/index.html:4
+#: templates/download.html:6
 msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
 msgstr ""
 
-#: templates/download.html:7 templates/index.html:5
+#: templates/download.html:7
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on our website Tiksss."
 "com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers which "
 "is totally free."
 msgstr ""
 
-#: templates/download2.html:4 templates/without.html:4
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr ""
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+
+#: templates/download2.html:4
 msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
 msgstr ""
 
-#: templates/download2.html:6 templates/without.html:6
+#: templates/download2.html:6
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on Our website Tiksss."
 "com. You can easily download Tiktok videos Without watermark in your phone "
 "and laptop."
+msgstr ""
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr ""
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr ""
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
 
 #: templates/faq.html:3
@@ -412,8 +442,19 @@ msgid ""
 "Watermark directly in your machine."
 msgstr ""
 
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr ""
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website Tiksss."
+"com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+
 #: templates/index.html:11
-msgid "to Mp4 Downloader Online Free"
+msgid "to mp4 downloader online free"
 msgstr ""
 
 #: templates/index.html:23
@@ -1396,8 +1437,19 @@ msgid ""
 "nature."
 msgstr ""
 
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr ""
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website Tiksss."
+"com. You can easily download Tiktok videos Without watermark in your phone "
+"and laptop."
+msgstr ""
+
 #: templates/without.html:13
-msgid "Video Without Watermark"
+msgid "video without watermark"
 msgstr ""
 
 #: templates/without.html:28

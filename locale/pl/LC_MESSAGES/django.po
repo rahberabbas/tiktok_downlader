@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 23:51+0530\n"
+"POT-Creation-Date: 2021-07-10 19:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,26 +79,23 @@ msgstr ""
 "gotowy do pomocy, jeśli napotkasz jakiś problem. Jeśli masz jakiekolwiek "
 "pytania, skontaktuj się z nami tutaj:"
 
-#: templates/audio.html:4 templates/download1.html:4
-#: templates/download4.html:4 templates/download6.html:4
-msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
-msgstr "Konwerter TikTok na Mp3 online za darmo - Tiksss.com"
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
+msgstr "Konwerter TikTok na mp3 online za darmo - Tiksss.com"
 
-#: templates/audio.html:7 templates/download1.html:5
-#: templates/download4.html:5 templates/download6.html:5
+#: templates/audio.html:7
 msgid ""
-"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
 "Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
 "is totally free."
 msgstr ""
-"TikTok To Mp3 Converter Online za darmo na naszej stronie Tiksss.com. To "
+"Konwerter TikTok na mp3 online za darmo na naszej stronie Tiksss.com. To "
 "nasze najszybsze narzędzie do konwersji filmów Tiktok do formatu Mp3 dla "
 "miłośników Tiktok, które jest całkowicie bezpłatne."
 
 #: templates/audio.html:14
-msgid "To Mp3 Converter Online Free - TikTok Video To Mp3 Converter Online"
-msgstr ""
-"Konwerter wideo na Mp3 online za darmo - TikTok Konwerter wideo na Mp3"
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
+msgstr "konwerter mp3 online za darmo - konwerter wideo TikTok na mp3 online"
 
 #: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
@@ -195,25 +192,25 @@ msgstr ""
 "Jeśli podoba Ci się nasze narzędzie i usługi, prosimy o udostępnienie naszej"
 " witryny znajomym i członkom rodziny. Dzięki!"
 
-#: templates/audio_cutter.html:4 templates/download5.html:4
-msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
-msgstr "TikTok Mp3 Cutter Online za darmo - Tiksss.com"
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
+msgstr "TikTok mp3 cutter online za darmo - Tiksss.com"
 
-#: templates/audio_cutter.html:7 templates/download5.html:7
+#: templates/audio_cutter.html:7
 msgid ""
-"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Mp3 Cutter Online Darmowe narzędzie. Jak przyciąć wideo TikTok do MP3"
-" online za darmo. Wycinaj i przycinaj filmy TikTok online za darmo."
+"Darmowe narzędzie online do wycinania plików mp3 TikTok. Jak przyciąć wideo "
+"TikTok do MP3 online za darmo. Wycinaj i przycinaj filmy TikTok online za "
+"darmo."
 
 #: templates/audio_cutter.html:14
 msgid ""
-"TikTok Mp3 Cutter and Converter Online - Trim TikTok Video To Mp3 Online "
-"Free Tool"
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
 msgstr ""
-"TikTok Mp3 Cutter and Converter Online - Przycinanie wideo TikTok do "
-"darmowego narzędzia Mp3 Online"
+"Wycinarka i konwerter mp3 online - Darmowe narzędzie do przycinania wideo "
+"TikTok do mp3 online"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
 #: templates/without.html:14
@@ -252,7 +249,7 @@ msgstr "Jak wyciąć i przyciąć wideo TikTok do Mp3 Online za darmo"
 #: templates/audio_cutter.html:45 templates/cutter.html:45
 #: templates/faq.html:97
 msgid "Go to TikTok official website and copy the video link."
-msgstr "Przejdź na oficjalną stronę TikTok i skopiuj link do filmu."
+msgstr "Wejdź na oficjalną stronę TikTok i skopiuj link do filmu."
 
 #: templates/audio_cutter.html:48
 msgid ""
@@ -275,7 +272,7 @@ msgid ""
 "video To Mp3 and after that the converting process will start and it will be"
 " available in few seconds."
 msgstr ""
-"Wybierz czas trwania z podanej poniżej opcji, aby przyciąć wideo TikTok do "
+"Wybierz czas trwania z podanej poniżej opcji, aby wyciąć wideo TikTok do "
 "Mp3, a następnie rozpocznie się proces konwersji i będzie dostępny za kilka "
 "sekund."
 
@@ -288,65 +285,65 @@ msgstr ""
 "Converter, prosimy o udostępnienie naszej witryny znajomym i członkom "
 "rodziny. Dzięki!"
 
-#: templates/base.html:40
+#: templates/base.html:42
 msgid "Home"
 msgstr "Dom"
 
-#: templates/base.html:42 templates/base.html:44
+#: templates/base.html:44 templates/base.html:46
 msgid "Tools"
 msgstr "Przybory"
 
-#: templates/base.html:46
+#: templates/base.html:48
 msgid "Download With Watermark"
 msgstr "Pobierz ze znakiem wodnym"
 
-#: templates/base.html:49
+#: templates/base.html:51
 msgid "Download Without Watermark"
 msgstr "Pobierz bez znaku wodnego"
 
-#: templates/base.html:50
+#: templates/base.html:52
 msgid "Download Audio"
 msgstr "Pobierz dźwięk"
 
-#: templates/base.html:51
+#: templates/base.html:53
 msgid "Video Cutter"
 msgstr "Obcinacz wideo"
 
-#: templates/base.html:52
+#: templates/base.html:54
 msgid "Audio Cutter"
 msgstr "Przycinacz audio"
 
-#: templates/base.html:56
+#: templates/base.html:58
 msgid "About"
 msgstr "O"
 
-#: templates/base.html:110 templates/privacypolicy.html:10
+#: templates/base.html:112 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Polityka prywatności"
 
-#: templates/base.html:113 templates/tandc.html:10
+#: templates/base.html:115 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Zasady i warunki"
 
-#: templates/base.html:116
+#: templates/base.html:118
 msgid "FAQ"
 msgstr "FAQ"
 
-#: templates/cutter.html:4 templates/download3.html:4
-msgid "TikTok Video Cutter Online Free – Tiksss.com"
-msgstr "TikTok Video Cutter Online za darmo – Tiksss.com"
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
+msgstr "Wycinarka wideo TikTok online za darmo – Tiksss.com"
 
-#: templates/cutter.html:7 templates/download3.html:7
+#: templates/cutter.html:7
 msgid ""
-"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
 "Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"Darmowe narzędzie online do cięcia wideo TikTok. Jak wycinać filmy TikTok "
-"online za darmo. Wycinaj i przycinaj filmy TikTok online za darmo."
+"Darmowe narzędzie online do wycinania wideo TikTok. Jak wycinać filmy TikTok"
+" online za darmo. Wycinaj i przycinaj filmy TikTok online za darmo."
 
 #: templates/cutter.html:14
-msgid "Video Cutter Online – TikTok Video Trimmer Online Free"
-msgstr "Video Cutter Online – TikTok Video Trimmer Online za darmo"
+msgid "video cutter online – TikTok video trimmer online free"
+msgstr "obcinarka wideo online – przycinarka wideo TikTok online za darmo"
 
 #: templates/cutter.html:32
 msgid ""
@@ -419,11 +416,11 @@ msgstr ""
 "wideo TikTok, prosimy o udostępnienie naszej witryny znajomym i członkom "
 "rodziny. Dzięki!"
 
-#: templates/download.html:6 templates/index.html:4
+#: templates/download.html:6
 msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
 msgstr "Pobierz filmy Tiktok bez znaku wodnego - Tiksss.Com"
 
-#: templates/download.html:7 templates/index.html:5
+#: templates/download.html:7
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on our website "
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
@@ -434,11 +431,27 @@ msgstr ""
 "pobierania wideo Tiktok dla miłośników Tiktok, który jest całkowicie "
 "bezpłatny."
 
-#: templates/download2.html:4 templates/without.html:4
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "Konwerter TikTok na Mp3 online za darmo - Tiksss.com"
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"TikTok To Mp3 Converter Online za darmo na naszej stronie Tiksss.com. To "
+"nasze najszybsze narzędzie do konwersji filmów Tiktok do formatu Mp3 dla "
+"miłośników Tiktok, które jest całkowicie bezpłatne."
+
+#: templates/download2.html:4
 msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
 msgstr "Pobierz filmy Tiktok bez znaku wodnego online - Tiksss.com"
 
-#: templates/download2.html:6 templates/without.html:6
+#: templates/download2.html:6
 msgid ""
 "Download Tiktok Videos Without Watermark Online Free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -447,6 +460,30 @@ msgstr ""
 "Pobierz filmy Tiktok bez znaku wodnego online bezpłatnie na naszej stronie "
 "internetowej Tiksss.com. Możesz łatwo pobierać filmy Tiktok bez znaku "
 "wodnego w telefonie i laptopie."
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "TikTok Video Cutter Online za darmo – Tiksss.com"
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"Darmowe narzędzie online do cięcia wideo TikTok. Jak wycinać filmy TikTok "
+"online za darmo. Wycinaj i przycinaj filmy TikTok online za darmo."
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 Cutter Online za darmo - Tiksss.com"
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"TikTok Mp3 Cutter Online Darmowe narzędzie. Jak przyciąć wideo TikTok do MP3"
+" online za darmo. Wycinaj i przycinaj filmy TikTok online za darmo."
 
 #: templates/faq.html:3
 msgid "Frequently Asked Questions - Tiksss.com"
@@ -515,9 +552,23 @@ msgstr ""
 "Poczekaj kilka sekund, w których możesz pobrać wideo Tiktok bez znaku "
 "wodnego bezpośrednio na swój komputer."
 
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr "Pobierz filmy Tiktok bez znaku wodnego - Tiksss.Com"
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"Pobierz filmy Tiktok bez znaku wodnego online bezpłatnie na naszej stronie "
+"Tiksss.com. Jest to nasz najszybszy internetowy program do pobierania wideo "
+"Tiktok dla miłośników Tiktok, który jest całkowicie bezpłatny."
+
 #: templates/index.html:11
-msgid "to Mp4 Downloader Online Free"
-msgstr "do MP4 Downloader Online za darmo"
+msgid "to mp4 downloader online free"
+msgstr "do mp4 downloader online za darmo"
 
 #: templates/index.html:23
 msgid ""
@@ -564,7 +615,7 @@ msgstr ""
 
 #: templates/index.html:30
 msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
-msgstr "Jak pobierać filmy TikTok do MP4 za pomocą Tiksss.com?"
+msgstr "Jak pobierać filmy TikTok do Mp4 za pomocą Tiksss.com?"
 
 #: templates/index.html:47
 msgid "Introduction of TikTok"
@@ -637,7 +688,7 @@ msgstr "Brak znaku wodnego na filmach:"
 
 #: templates/index.html:66
 msgid "Download TikTok videos without watermark with no limits."
-msgstr "Pobieraj filmy TikTok bez znaku wodnego bez ograniczeń."
+msgstr "Pobierz filmy TikTok bez znaku wodnego bez ograniczeń."
 
 #: templates/index.html:70
 msgid "Mp4 Supported HD:"
@@ -811,7 +862,7 @@ msgstr ""
 "podane w nagłówku żądania HTTP, JavaScript lub podobnych narzędziach "
 "technicznych, w tym numer IP, czas żądania, adres URL żądania i inne "
 "informacje. Zbieramy te informacje, aby nasza Witryna działała poprawnie i "
-"zapewniała Ci funkcjonalność, którą widzisz w Witrynie, ponieważ nasze "
+"aby zapewnić Ci funkcjonalność, którą widzisz w Witrynie, ponieważ nasze "
 "serwery wykorzystują te informacje, aby dostarczać Ci strony w tej Witrynie."
 " Korzystamy również z tych informacji, aby lepiej zrozumieć, w jaki sposób "
 "odwiedzający korzystają z naszej Witryny i jak możemy lepiej dostosować "
@@ -829,7 +880,7 @@ msgid ""
 msgstr ""
 "Używamy plików cookie Google Analytics, aby zrozumieć i zapisać Twoje "
 "preferencje dla przyszłych wizyt. Pliki cookie to małe pliki, które witryna "
-"lub jej usługodawca przesyła na dysk twardy Twojego komputera za "
+"lub jej usługodawca przesyła na dysk twardy komputera użytkownika za "
 "pośrednictwem przeglądarki internetowej (jeśli na to zezwolisz), które "
 "umożliwiają witrynom lub systemom usługodawców rozpoznanie przeglądarki oraz"
 " przechwytywanie i zapamiętywanie określonych informacji)"
@@ -891,7 +942,7 @@ msgstr ""
 "trzecich mają odrębne i niezależne polityki prywatności. W związku z tym nie"
 " ponosimy żadnej odpowiedzialności za treści i działania tych stron, do "
 "których prowadzą linki. Niemniej jednak staramy się chronić integralność "
-"naszej witryny i chętnie przyjmujemy wszelkie opinie na temat tych witryn"
+"naszej witryny i przyjmujemy wszelkie opinie na temat tych witryn"
 
 #: templates/privacypolicy.html:34
 msgid ""
@@ -1003,8 +1054,8 @@ msgstr ""
 "informujemy, że za każdym razem, gdy korzystasz z naszej Usługi, w przypadku"
 " wystąpienia błędu w aplikacji zbieramy dane i informacje (za pośrednictwem "
 "produktów firm trzecich) na Twoim telefonie o nazwie Log Data. Dane "
-"dziennika mogą zawierać takie informacje, jak adres IP urządzenia "
-"(&quot;IP&quot;), nazwa urządzenia, wersja systemu operacyjnego, "
+"dziennika mogą zawierać takie informacje, jak adres protokołu internetowego "
+"urządzenia („IP”), nazwa urządzenia, wersja systemu operacyjnego, "
 "konfiguracja aplikacji podczas korzystania z naszej Usługi, czas i data "
 "korzystania z Usługi oraz inne statystyki"
 
@@ -1135,8 +1186,8 @@ msgstr ""
 "świadomie danych osobowych od dzieci poniżej 13 roku życia. W przypadku "
 "odkrycia, że dziecko poniżej 13 roku życia przekazało nam dane osobowe, "
 "natychmiast usuwamy je z naszych serwerów. Jeśli jesteś rodzicem lub "
-"opiekunem i masz świadomość, że Twoje dziecko przekazało nam dane osobowe, "
-"skontaktuj się z nami, abyśmy mogli podjąć niezbędne działania."
+"opiekunem i wiesz, że Twoje dziecko przekazało nam dane osobowe, skontaktuj "
+"się z nami, abyśmy mogli podjąć niezbędne działania."
 
 #: templates/privacypolicy.html:75
 msgid "Google Double-Click DART Cookie"
@@ -1417,12 +1468,12 @@ msgstr ""
 "odnosi się do Spółki. „Strona”, „Strony” lub „Nas” odnosi się zarówno do "
 "Klienta, jak i do nas samych. Wszystkie warunki odnoszą się do przyjęcia i "
 "rozpatrzenia płatności niezbędnej do podjęcia procesu naszej pomocy "
-"Klientowi w najbardziej odpowiedni sposób w celu zaspokojenia potrzeb "
-"Klienta w odniesieniu do świadczenia określonych usług Spółki, zgodnie z i z"
-" zastrzeżeniem , obowiązującego prawa Holandii. Jakiekolwiek użycie "
-"powyższej terminologii lub innych słów w liczbie pojedynczej, mnogiej, "
-"wielkich liter i/lub on/ona są traktowane wymiennie, a zatem odnoszą się do "
-"tego samego."
+"Klientowi w najbardziej odpowiedni sposób dla wyraźnego celu zaspokojenia "
+"potrzeb Klienta w odniesieniu do świadczenia określonych usług Spółki, "
+"zgodnie i z zastrzeżeniem , obowiązującego prawa Holandii. Jakiekolwiek "
+"użycie powyższej terminologii lub innych słów w liczbie pojedynczej, "
+"mnogiej, wielkich liter i/lub on/ona są traktowane wymiennie, a zatem "
+"odnoszą się do tego samego."
 
 #: templates/tandc.html:16
 msgid ""
@@ -1557,7 +1608,7 @@ msgid ""
 msgstr ""
 "Komentarze nie będą wykorzystywane do nagabywania lub promowania "
 "działalności gospodarczej lub zwyczajów lub prezentowania działalności "
-"komercyjnej lub działalności niezgodnej z prawem."
+"komercyjnej lub działalności niezgodnej z prawem. ."
 
 #: templates/tandc.html:53
 msgid ""
@@ -1702,10 +1753,10 @@ msgstr ""
 "Jeśli jesteś jedną z organizacji wymienionych w paragrafie 2 powyżej i "
 "chcesz połączyć się z naszą witryną, musisz nas o tym poinformować, "
 "wysyłając wiadomość e-mail na adres Tiksss.com. Podaj swoje imię i nazwisko,"
-" nazwę organizacji, informacje kontaktowe, a także adres URL swojej witryny,"
-" listę wszelkich adresów URL, z których zamierzasz połączyć się z naszą "
-"Witryną, oraz listę adresów URL w naszej witrynie, do których chcesz "
-"połączyć. Poczekaj 2-3 tygodnie na odpowiedź."
+" nazwę organizacji, dane kontaktowe, a także adres URL swojej witryny, listę"
+" wszelkich adresów URL, z których zamierzasz połączyć się z naszą Witryną, "
+"oraz listę adresów URL w naszej witrynie, do których chcesz połączyć. "
+"Poczekaj 2-3 tygodnie na odpowiedź."
 
 #: templates/tandc.html:102
 msgid "Approved organizations may hyperlink to our Website as follows:"
@@ -1870,7 +1921,7 @@ msgid ""
 "applicable law."
 msgstr ""
 "wykluczyć wszelkie nasze lub Twoje zobowiązania, które nie mogą być "
-"wyłączone na mocy obowiązującego prawa."
+"wyłączone na mocy obowiązującego prawa. ."
 
 #: templates/tandc.html:142
 msgid ""
@@ -1895,9 +1946,23 @@ msgstr ""
 "są świadczone bezpłatnie, nie ponosimy odpowiedzialności za jakiekolwiek "
 "straty lub szkody jakiegokolwiek rodzaju."
 
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "Pobierz filmy Tiktok bez znaku wodnego online - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Pobierz filmy Tiktok bez znaku wodnego online bezpłatnie na naszej stronie "
+"Tiksss.com. Możesz łatwo pobierać filmy Tiktok bez znaku wodnego w telefonie"
+" i laptopie."
+
 #: templates/without.html:13
-msgid "Video Without Watermark"
-msgstr "Wideo bez znaku wodnego"
+msgid "video without watermark"
+msgstr "wideo bez znaku wodnego"
 
 #: templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
@@ -2462,7 +2527,7 @@ msgstr "%(from)s-%(to)s relacji"
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
 msgid "Many-to-many relationship"
-msgstr "Relacja wiele do wielu"
+msgstr "Relacja wiele-do-wielu"
 
 #. Translators: If found as last label character, these punctuation
 #. characters will prevent the default label_suffix to be appended to the
@@ -2587,7 +2652,7 @@ msgstr ""
 #, python-format
 msgid "Please submit at most %d form."
 msgid_plural "Please submit at most %d forms."
-msgstr[0] "Prześlij maksymalnie %d formularz."
+msgstr[0] "Prześlij maksymalnie formularz %d ."
 msgstr[1] "Prześlij maksymalnie %d formularzy."
 
 #: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
@@ -3114,9 +3179,9 @@ msgid ""
 msgstr ""
 "Jeśli używasz<meta name=\"referrer\" content=\"no-referrer\"> lub dołączając"
 " nagłówek „Referrer-Policy: no-referrer”, usuń je. Ochrona CSRF wymaga, aby "
-"nagłówek „Referer” wykonał ścisłe sprawdzenie referencji. Jeśli martwisz się"
-" o prywatność, użyj alternatyw, takich jak <a rel=\"noreferrer\" …>linki do "
-"witryn stron trzecich.</a>"
+"nagłówek „Referer” przeprowadzał ścisłą kontrolę referera. Jeśli martwisz "
+"się o prywatność, użyj alternatyw, takich jak <a rel=\"noreferrer\" …>linki "
+"do witryn stron trzecich.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132
 msgid ""
@@ -3267,7 +3332,7 @@ msgstr "Społeczność Django"
 
 #: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:249
 msgid "Connect, get help, or contribute"
-msgstr "Połącz się, uzyskaj pomoc lub weź udział"
+msgstr "Połącz się, uzyskaj pomoc lub wesprzyj się"
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:368
 #, python-format
@@ -3294,7 +3359,7 @@ msgstr "Wyzwanie nie zawiera ani jednego serwera lub ten jest pusty."
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:619
 #, python-format
 msgid "Unsupported value for pw-algorithm: %s."
-msgstr "Nieobsługiwana wartość algorytmu pw: %s."
+msgstr "Nieobsługiwana wartość dla algorytmu pw: %s."
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
 msgid "Redirected but the response is missing a Location: header."
