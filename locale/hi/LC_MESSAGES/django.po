@@ -1,0 +1,3347 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-12 22:04+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: templates/about.html:3
+msgid "About Us - Tiksss.com"
+msgstr "हमारे बारे में - Tiksss.com"
+
+#: templates/about.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com. If"
+" you have any question regarding this than kindly let us know. Thanks."
+msgstr ""
+"इस पृष्ठ में हमने अपनी वेबसाइट Tiksss.com के बारे में कुछ उपयोगी जानकारी "
+"जोड़ी है। यदि इस संबंध में आपका कोई प्रश्न है तो कृपया हमें बताएं। धन्यवाद।"
+
+#: templates/about.html:10
+msgid "About US"
+msgstr "हमारे बारे में"
+
+#: templates/about.html:11
+msgid "is an amazing popular"
+msgstr "एक अद्भुत लोकप्रिय है"
+
+#: templates/about.html:11
+msgid ""
+"tool that allows users from different regions to download and convert TikTok"
+" videos online free."
+msgstr ""
+"टूल जो विभिन्न क्षेत्रों के उपयोगकर्ताओं को टिकटॉक वीडियो को मुफ्त में "
+"ऑनलाइन डाउनलोड और परिवर्तित करने की अनुमति देता है।"
+
+#: templates/about.html:12
+msgid ""
+"Our platform supports different type of TikTok video converting tools like, "
+"TikTok to Mp4, Mp3, Video Cutter, and downloads TikTok videos without "
+"watermark or with watermark in just few seconds which you can view here in "
+"our website"
+msgstr ""
+"हमारा प्लेटफॉर्म विभिन्न प्रकार के टिकटॉक वीडियो कन्वर्टिंग टूल्स का समर्थन "
+"करता है, जैसे कि टिकटॉक टू एमपी4, एमपी3, वीडियो कटर, और बिना वॉटरमार्क या "
+"वॉटरमार्क के टिकटॉक वीडियो को कुछ ही सेकंड में डाउनलोड करता है, जिसे आप "
+"हमारी वेबसाइट पर यहां देख सकते हैं।"
+
+#: templates/about.html:13
+msgid "Why Tiksss.com"
+msgstr "क्यों Tiksss.com"
+
+#: templates/about.html:14
+msgid ""
+"Our tool design is very unique and simple. We made this tool for customers "
+"and users purpose only. It’s very fast, easy, and safe for everyone to use "
+"in your daily life routine even if you are a content creator. This tool "
+"helps you a lot and save your time for sure. Tiksss is always here and ready"
+" to help you out if you facing any problem. If you have any queries then "
+"kindly contact us over here:"
+msgstr ""
+"हमारा टूल डिज़ाइन बहुत ही अनोखा और सरल है। हमने इस टूल को केवल ग्राहकों और "
+"उपयोगकर्ताओं के उद्देश्य के लिए बनाया है। यह बहुत तेज़, आसान और हर किसी के "
+"लिए अपने दैनिक जीवन की दिनचर्या में उपयोग करने के लिए सुरक्षित है, भले ही आप"
+" एक सामग्री निर्माता हों। यह टूल आपकी बहुत मदद करता है और निश्चित रूप से "
+"आपका समय बचाता है। Tiksss हमेशा यहाँ है और यदि आप किसी भी समस्या का सामना कर"
+" रहे हैं तो आपकी सहायता के लिए तैयार हैं। यदि आपके कोई प्रश्न हैं तो कृपया "
+"हमसे यहां संपर्क करें:"
+
+#: templates/audio.html:4
+msgid "TikTok to mp3 converter online free - Tiksss.com"
+msgstr "टिकटॉक टू एमपी3 कन्वर्टर ऑनलाइन फ्री - Tiksss.com"
+
+#: templates/audio.html:7
+msgid ""
+"TikTok to mp3 converter online free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर टिकटॉक टू एमपी3 कन्वर्टर ऑनलाइन फ्री। टिकटोक "
+"प्रेमियों के लिए टिकटोक वीडियो को एमपी 3 प्रारूप में बदलने के लिए यह हमारा "
+"सबसे तेज़ टूल है जो पूरी तरह से मुफ़्त है।"
+
+#: templates/audio.html:14
+msgid "to mp3 converter online free - TikTok video to mp3 converter online"
+msgstr "एमपी3 कन्वर्टर ऑनलाइन फ्री - टिकटॉक वीडियो टू एमपी3 कन्वर्टर ऑनलाइन"
+
+#: templates/audio.html:15 templates/index.html:12
+msgid "Enter the URL Here"
+msgstr "यहां यूआरएल दर्ज करें"
+
+#: templates/audio.html:24 templates/audio_cutter.html:26
+#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
+#: templates/without.html:23
+msgid "Download"
+msgstr "डाउनलोड"
+
+#: templates/audio.html:30
+msgid "TikTok to Mp3 Converter Online Free"
+msgstr "TikTok से Mp3 कन्वर्टर ऑनलाइन फ्री"
+
+#: templates/audio.html:31
+msgid ""
+"If you are music lover then you will know the value of this TikTok to Mp3 "
+"Converter Online Tool. We have made this tool very easy and simple. You "
+"people can use this tool on your preferred devices without any limits. Make "
+"sure that you have to bookmark this tool page for future. We have added all "
+"the instructions of this tool that how you people can use and take benefits "
+"from it. Kindly share this tool with your friends and family member with the"
+" help of social media because they will definitely like and use this for "
+"sure. For more Info visit our Website"
+msgstr ""
+"अगर आप संगीत प्रेमी हैं तो आपको इस टिकटॉक टू एमपी3 कन्वर्टर ऑनलाइन टूल की "
+"कीमत पता होगी। हमने इस टूल को बहुत आसान और सरल बनाया है। आप लोग इस उपकरण का "
+"उपयोग अपने पसंदीदा उपकरणों पर बिना किसी सीमा के कर सकते हैं। सुनिश्चित करें "
+"कि आपको भविष्य के लिए इस टूल पेज को बुकमार्क करना होगा। हमने इस टूल के सभी "
+"निर्देशों को जोड़ा है कि आप लोग इसका उपयोग कैसे कर सकते हैं और इसका लाभ उठा "
+"सकते हैं। कृपया इस टूल को अपने दोस्तों और परिवार के सदस्यों के साथ सोशल "
+"मीडिया की मदद से साझा करें क्योंकि वे निश्चित रूप से इसे पसंद करेंगे और इसका"
+" उपयोग जरूर करेंगे। अधिक जानकारी के लिए हमारी वेबसाइट पर जाएँ"
+
+#: templates/audio.html:35 templates/audio_cutter.html:37
+#: templates/cutter.html:37 templates/faq.html:9 templates/index.html:28
+msgid "Frequently Asked Questions"
+msgstr "लगातार पूछे जाने वाले प्रश्न"
+
+#: templates/audio.html:38
+msgid ""
+"How to Convert Tiktok to Mp3 online Free with High Quality – Download TikTok"
+" to Mp3 Online Free:"
+msgstr ""
+"उच्च गुणवत्ता के साथ टिकटोक को ऑनलाइन एमपी3 में कैसे बदलें - टिकटॉक को एमपी3"
+" ऑनलाइन मुफ्त में डाउनलोड करें:"
+
+#: templates/audio.html:43 templates/faq.html:44
+msgid ""
+"Select a video URL on TikTok which you want to convert into mp3 format."
+msgstr ""
+"टिकटॉक पर एक वीडियो यूआरएल चुनें जिसे आप एमपी3 फॉर्मेट में बदलना चाहते हैं।"
+
+#: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+msgid "Copy the selected video link on your smartphone / computer or Laptop"
+msgstr ""
+"चयनित वीडियो लिंक को अपने स्मार्टफोन / कंप्यूटर या लैपटॉप पर कॉपी करें"
+
+#: templates/audio.html:49 templates/faq.html:50
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok to Mp3 Converter."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर जाएं और शीर्ष मेनू पर आपको &quot;टूल्स&quot; "
+"दिखाई देगा, उस पर टैप करें और TikTok से Mp3 कन्वर्टर का चयन करें।"
+
+#: templates/audio.html:52 templates/faq.html:53
+msgid "Insert the TikTok video link in the field and press \"Convert Button\""
+msgstr ""
+"टिकटॉक वीडियो लिंक को फील्ड में डालें और &quot;कन्वर्ट बटन&quot; दबाएं"
+
+#: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
+#: templates/index.html:36 templates/without.html:50
+msgid "Now you will see a download button, click on download."
+msgstr "अब आपको एक डाउनलोड बटन दिखाई देगा, डाउनलोड पर क्लिक करें।"
+
+#: templates/audio.html:58 templates/faq.html:31 templates/index.html:37
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine."
+msgstr ""
+"बस कुछ सेकंड प्रतीक्षा करें जिसमें आप वीडियो को सीधे अपनी मशीन में डाउनलोड "
+"कर सकते हैं।"
+
+#: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
+#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+msgid ""
+"If you like our tool and services than Kindly share our website with your "
+"friends and family members. Thanks!"
+msgstr ""
+"यदि आप हमारे टूल और सेवाओं को पसंद करते हैं तो कृपया हमारी वेबसाइट को अपने "
+"दोस्तों और परिवार के सदस्यों के साथ साझा करें। धन्यवाद!"
+
+#: templates/audio_cutter.html:4
+msgid "TikTok mp3 cutter online free - Tiksss.com"
+msgstr "टिकटॉक एमपी3 कटर ऑनलाइन फ्री - Tiksss.com"
+
+#: templates/audio_cutter.html:7
+msgid ""
+"TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"टिकटॉक एमपी3 कटर ऑनलाइन फ्री टूल। टिकटॉक वीडियो को एमपी3 ऑनलाइन फ्री में "
+"कैसे काटें। कट और ट्रिम टिकटॉक वीडियो ऑनलाइन फ्री।"
+
+#: templates/audio_cutter.html:14
+msgid ""
+"mp3 cutter and converter online - Trim TikTok video to mp3 online free tool"
+msgstr ""
+"एमपी3 कटर और कन्वर्टर ऑनलाइन - एमपी3 ऑनलाइन फ्री टूल के लिए टिकटॉक वीडियो "
+"ट्रिम करें"
+
+#: templates/audio_cutter.html:15 templates/cutter.html:15
+#: templates/without.html:14
+msgid "Enter the URL Here and wait for 10 - 15 Seconds."
+msgstr "यहां URL दर्ज करें और 10 - 15 सेकंड तक प्रतीक्षा करें।"
+
+#: templates/audio_cutter.html:32
+msgid ""
+"Here is the special and unique tool which is called \"TikTok Mp3 Cutter "
+"Online\"."
+msgstr ""
+"यहाँ विशेष और अनूठा टूल है जिसे &quot;TikTok Mp3 Cutter Online&quot; कहा "
+"जाता है।"
+
+#: templates/audio_cutter.html:32
+msgid ""
+"Introduced this tool to our valuable users because we know how much needy "
+"this tool is in today world. TikTok Mp3 Trimmer Converter Tool provides you "
+"a very simple solution for your content. With the help of this amazing tool,"
+" You people can easily convert and Cut TikTok Video to Mp3 With a single "
+"click. Its totally free for everyone to use it on our website and this tool "
+"is super fast on every device which you used in your daily life."
+msgstr ""
+"हमारे मूल्यवान उपयोगकर्ताओं के लिए इस उपकरण का परिचय दिया क्योंकि हम जानते "
+"हैं कि आज की दुनिया में इस उपकरण की कितनी जरूरत है। TikTok Mp3 ट्रिमर "
+"कन्वर्टर टूल आपको आपकी सामग्री के लिए एक बहुत ही सरल समाधान प्रदान करता है। "
+"इस अद्भुत टूल की मदद से आप लोग आसानी से एक क्लिक से टिकटॉक वीडियो को एमपी3 "
+"में कन्वर्ट और कट कर सकते हैं। यह हर किसी के लिए हमारी वेबसाइट पर इसका उपयोग"
+" करने के लिए पूरी तरह से मुफ़्त है और यह टूल आपके दैनिक जीवन में उपयोग किए "
+"जाने वाले प्रत्येक डिवाइस पर सुपर फास्ट है।"
+
+#: templates/audio_cutter.html:40
+msgid "How To Cut and Trim TikTok Video To Mp3 Online Free"
+msgstr "TikTok वीडियो को Mp3 ऑनलाइन फ्री में कैसे काटें और ट्रिम करें"
+
+#: templates/audio_cutter.html:45 templates/cutter.html:45
+#: templates/faq.html:97
+msgid "Go to TikTok official website and copy the video link."
+msgstr "टिकटॉक की आधिकारिक वेबसाइट पर जाएं और वीडियो लिंक को कॉपी करें।"
+
+#: templates/audio_cutter.html:48
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see ìToolsî tap on"
+" it and select \"TikTok Mp3 Cutter\""
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर जाएं और शीर्ष मेनू पर आपको ìToolsî दिखाई देगा, "
+"उस पर टैप करें और &quot;TikTok Mp3 Cutter&quot; चुनें।"
+
+#: templates/audio_cutter.html:51 templates/cutter.html:51
+#: templates/faq.html:103
+msgid "On the next page paste your video link and click on “Cut Button”."
+msgstr ""
+"अगले पेज पर अपना वीडियो लिंक पेस्ट करें और &quot;कट बटन&quot; पर क्लिक करें।"
+
+#: templates/audio_cutter.html:54
+msgid ""
+"Choose the time duration from given down below option to Cut Your TikTok "
+"video To Mp3 and after that the converting process will start and it will be"
+" available in few seconds."
+msgstr ""
+"अपने टिकटॉक वीडियो को Mp3 में कट करने के लिए नीचे दिए गए विकल्प में से समय "
+"अवधि चुनें और उसके बाद कनवर्ट करने की प्रक्रिया शुरू हो जाएगी और यह कुछ ही "
+"सेकंड में उपलब्ध हो जाएगी।"
+
+#: templates/audio_cutter.html:57
+msgid ""
+"If you like our TikTok Mp3 Cutter and Converter Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"यदि आप हमारे TikTok Mp3 कटर और कन्वर्टर टूल और सेवाओं को पसंद करते हैं तो "
+"कृपया हमारी वेबसाइट को अपने दोस्तों और परिवार के सदस्यों के साथ साझा करें। "
+"धन्यवाद!"
+
+#: templates/base.html:43
+msgid "Home"
+msgstr "घर"
+
+#: templates/base.html:45 templates/base.html:47
+msgid "Tools"
+msgstr "उपकरण"
+
+#: templates/base.html:49
+msgid "Download With Watermark"
+msgstr "वॉटरमार्क के साथ डाउनलोड करें"
+
+#: templates/base.html:52
+msgid "Download Without Watermark"
+msgstr "वॉटरमार्क के बिना डाउनलोड करें"
+
+#: templates/base.html:53
+msgid "Download Audio"
+msgstr "ऑडियो डाउनलोड करें"
+
+#: templates/base.html:54
+msgid "Video Cutter"
+msgstr "चलचित्र कर्तक"
+
+#: templates/base.html:55
+msgid "Audio Cutter"
+msgstr "ऑडियो कटर"
+
+#: templates/base.html:59
+msgid "About"
+msgstr "तकरीबन"
+
+#: templates/base.html:113 templates/privacypolicy.html:10
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+#: templates/base.html:116 templates/tandc.html:10
+msgid "Terms and Conditions"
+msgstr "नियम और शर्तें"
+
+#: templates/base.html:119
+msgid "FAQ"
+msgstr "सामान्य प्रश्न"
+
+#: templates/cutter.html:4
+msgid "TikTok video cutter online free – Tiksss.com"
+msgstr "टिकटॉक वीडियो कटर ऑनलाइन फ्री - Tiksss.com"
+
+#: templates/cutter.html:7
+msgid ""
+"TikTok video cutter online free tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"टिकटॉक वीडियो कटर ऑनलाइन फ्री टूल। टिकटॉक वीडियो को ऑनलाइन फ्री में कैसे "
+"काटें। कट और ट्रिम टिकटॉक वीडियो ऑनलाइन फ्री।"
+
+#: templates/cutter.html:14
+msgid "video cutter online – TikTok video trimmer online free"
+msgstr "वीडियो कटर ऑनलाइन - टिकटॉक वीडियो ट्रिमर ऑनलाइन मुफ्त"
+
+#: templates/cutter.html:32
+msgid ""
+"Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
+"for your content creation. While using this tool on our website "
+msgstr ""
+"हेयर यू गो। टिकटॉक वीडियो कटर ऑनलाइन फ्री टूल आपको आपकी सामग्री निर्माण के "
+"लिए एक समाधान प्रदान करता है। हमारी वेबसाइट पर इस टूल का उपयोग करते समय"
+
+#: templates/cutter.html:32
+msgid ""
+" you people can easily Trim and Cut TikTok Video in your devices for free. "
+"It’s very unique and user friendly tool for everyone."
+msgstr ""
+"आप लोग आसानी से अपने डिवाइस में टिकटॉक वीडियो को मुफ्त में ट्रिम और कट कर "
+"सकते हैं। यह सभी के लिए बहुत ही अनोखा और उपयोगकर्ता के अनुकूल उपकरण है।"
+
+#: templates/cutter.html:40 templates/faq.html:92
+msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
+msgstr "मोबाइल या पीसी में टिकटॉक वीडियो कैसे काटें और ट्रिम करें:"
+
+#: templates/cutter.html:48 templates/faq.html:100
+msgid ""
+"Go to our website Tiksss.com and on the top menu you will see “Tools” tap on"
+" it and select TikTok Video Cutter."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर जाएं और शीर्ष मेनू पर आपको &quot;टूल्स&quot; "
+"दिखाई देगा, उस पर टैप करें और टिकटॉक वीडियो कटर चुनें।"
+
+#: templates/cutter.html:54 templates/faq.html:106
+msgid ""
+"You will see a player down below. Kindly select the specific part which you "
+"want to cut it from tiktok video."
+msgstr ""
+"आपको नीचे एक खिलाड़ी दिखाई देगा। कृपया उस विशिष्ट भाग का चयन करें जिसे आप "
+"tiktok वीडियो से काटना चाहते हैं।"
+
+#: templates/cutter.html:57 templates/faq.html:109
+msgid ""
+"Now you see two options over here. The first one is to download that "
+"specific cut part of the video in mp4 format or download track in mp3 format"
+" of that specific Trim part of the video."
+msgstr ""
+"अब आपको यहाँ पर दो विकल्प दिखाई दे रहे हैं। पहला वीडियो के उस विशिष्ट कट भाग"
+" को mp4 प्रारूप में डाउनलोड करना है या वीडियो के उस विशिष्ट ट्रिम भाग के "
+"एमपी3 प्रारूप में ट्रैक डाउनलोड करना है।"
+
+#: templates/cutter.html:60 templates/faq.html:112
+msgid ""
+"Choose one of the given options according to your needs and then proceed it."
+msgstr ""
+"अपनी जरूरत के हिसाब से दिए गए विकल्पों में से किसी एक को चुनें और फिर आगे "
+"बढ़ें।"
+
+#: templates/cutter.html:63 templates/faq.html:115
+msgid "Now finally click on “Download Button” to download it in your device."
+msgstr ""
+"अब अंत में इसे अपने डिवाइस में डाउनलोड करने के लिए &quot;डाउनलोड बटन&quot; "
+"पर क्लिक करें।"
+
+#: templates/cutter.html:66 templates/faq.html:118
+msgid ""
+"If you like our TikTok Video Cutter and Trimmer Tool and services than "
+"Kindly share our website with your friends and family members. Thanks!"
+msgstr ""
+"यदि आप हमारे टिकटॉक वीडियो कटर और ट्रिमर टूल और सेवाओं को पसंद करते हैं तो "
+"कृपया हमारी वेबसाइट को अपने दोस्तों और परिवार के सदस्यों के साथ साझा करें। "
+"धन्यवाद!"
+
+#: templates/download.html:6
+msgid "Download Tiktok Videos Without Watermark - Tiksss.Com"
+msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो डाउनलोड करें - Tiksss.Com"
+
+#: templates/download.html:7
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर बिना वॉटरमार्क ऑनलाइन के टिकटॉक वीडियो डाउनलोड "
+"करें। टिकटोक प्रेमियों के लिए यह हमारा सबसे तेज टिकटोक वीडियो डाउनलोडर "
+"ऑनलाइन है जो पूरी तरह से मुफ्त है।"
+
+#: templates/download1.html:4 templates/download4.html:4
+#: templates/download6.html:4
+msgid "TikTok To Mp3 Converter Online Free - Tiksss.com"
+msgstr "TikTok से Mp3 कन्वर्टर ऑनलाइन फ्री - Tiksss.com"
+
+#: templates/download1.html:5 templates/download4.html:5
+#: templates/download6.html:5
+msgid ""
+"TikTok To Mp3 Converter Online Free on our website Tiksss.com. Its Our "
+"Fastest Tool to Convert Tiktok Videos to Mp3 Format for Tiktok Lovers which "
+"is totally free."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर टिकटॉक टू एमपी3 कन्वर्टर ऑनलाइन फ्री। टिकटोक "
+"प्रेमियों के लिए टिकटोक वीडियो को एमपी 3 प्रारूप में बदलने के लिए यह हमारा "
+"सबसे तेज़ टूल है जो पूरी तरह से मुफ़्त है।"
+
+#: templates/download2.html:4
+msgid "Download Tiktok Videos Without Watermark Online - Tiksss.com"
+msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन डाउनलोड करें - Tiksss.com"
+
+#: templates/download2.html:6
+msgid ""
+"Download Tiktok Videos Without Watermark Online Free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर बिना वॉटरमार्क ऑनलाइन के टिकटॉक वीडियो डाउनलोड "
+"करें। आप अपने फोन और लैपटॉप में बिना वॉटरमार्क के टिकटॉक वीडियो आसानी से "
+"डाउनलोड कर सकते हैं।"
+
+#: templates/download3.html:4
+msgid "TikTok Video Cutter Online Free – Tiksss.com"
+msgstr "टिकटॉक वीडियो कटर ऑनलाइन फ्री - Tiksss.com"
+
+#: templates/download3.html:7
+msgid ""
+"TikTok Video Cutter Online Free Tool. How to cut TikTok Videos online free. "
+"Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"टिकटॉक वीडियो कटर ऑनलाइन फ्री टूल। टिकटॉक वीडियो को ऑनलाइन फ्री में कैसे "
+"काटें। कट और ट्रिम टिकटॉक वीडियो ऑनलाइन फ्री।"
+
+#: templates/download5.html:4
+msgid "TikTok Mp3 Cutter Online Free - Tiksss.com"
+msgstr "TikTok Mp3 कटर ऑनलाइन फ्री - Tiksss.com"
+
+#: templates/download5.html:7
+msgid ""
+"TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
+"free. Cut and Trim TikTok Videos Online Free."
+msgstr ""
+"टिकटॉक एमपी3 कटर ऑनलाइन फ्री टूल। टिकटॉक वीडियो को एमपी3 ऑनलाइन फ्री में "
+"कैसे काटें। कट और ट्रिम टिकटॉक वीडियो ऑनलाइन फ्री।"
+
+#: templates/faq.html:3
+msgid "Frequently Asked Questions - Tiksss.com"
+msgstr "अक्सर पूछे जाने वाले प्रश्न - Tiksss.com"
+
+#: templates/faq.html:5
+msgid ""
+"In this page we have added some useful frequently asked questions of our "
+"website Tiksss.com."
+msgstr ""
+"इस पृष्ठ में हमने अपनी वेबसाइट Tiksss.com के कुछ उपयोगी अक्सर पूछे जाने वाले"
+" प्रश्न जोड़े हैं।"
+
+#: templates/faq.html:13
+msgid "How to Download TikTok Videos Online Free?"
+msgstr "टिकटॉक वीडियो ऑनलाइन फ्री में कैसे डाउनलोड करें?"
+
+#: templates/faq.html:19 templates/index.html:33
+msgid "Select a video on TikTok which you want to download"
+msgstr "TikTok पर एक वीडियो चुनें जिसे आप डाउनलोड करना चाहते हैं"
+
+#: templates/faq.html:25 templates/index.html:35
+msgid "Insert the TikTok video link on our website and press \"Search Button\""
+msgstr ""
+"हमारी वेबसाइट पर टिकटॉक वीडियो लिंक डालें और &quot;खोज बटन&quot; दबाएं"
+
+#: templates/faq.html:39
+msgid "Tiktok to Mp3 Converter online Free"
+msgstr "टिकटोक से एमपी3 कन्वर्टर ऑनलाइन फ्री"
+
+#: templates/faq.html:56
+msgid "Now you will see a download button, click on download"
+msgstr "अब आपको एक डाउनलोड बटन दिखाई देगा, डाउनलोड पर क्लिक करें"
+
+#: templates/faq.html:59
+msgid ""
+"Just wait a few seconds in which you can download the video directly in your"
+" machine"
+msgstr ""
+"बस कुछ सेकंड प्रतीक्षा करें जिसमें आप सीधे अपनी मशीन में वीडियो डाउनलोड कर "
+"सकते हैं"
+
+#: templates/faq.html:67 templates/without.html:36
+msgid "How to Download Tiktok Videos without Watermark:"
+msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो कैसे डाउनलोड करें:"
+
+#: templates/faq.html:72 templates/without.html:41
+msgid "Select a video on TikTok app or web which you want to download."
+msgstr "टिकटॉक ऐप या वेब पर एक वीडियो चुनें जिसे आप डाउनलोड करना चाहते हैं।"
+
+#: templates/faq.html:78 templates/without.html:47
+msgid ""
+"Copy paste the selected TikTok video link on our Website Tool Which is "
+"\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
+msgstr ""
+"हमारे वेबसाइट टूल पर चयनित टिकटॉक वीडियो लिंक को कॉपी पेस्ट करें जो "
+"&quot;टिकटॉक वीडियो डाउनलोड विदाउट वॉटरमार्क&quot; है और &quot;सर्च "
+"बटन&quot; दबाएं।"
+
+#: templates/faq.html:84 templates/without.html:53
+msgid ""
+"Just wait a few seconds in which you can download the Tiktok video Without "
+"Watermark directly in your machine."
+msgstr ""
+"बस कुछ सेकंड प्रतीक्षा करें जिसमें आप बिना वॉटरमार्क के टिकटोक वीडियो को "
+"सीधे अपनी मशीन में डाउनलोड कर सकते हैं।"
+
+#: templates/index.html:4
+msgid "Download Tiktok videos without watermark - Tiksss.Com"
+msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो डाउनलोड करें - Tiksss.Com"
+
+#: templates/index.html:5
+msgid ""
+"Download Tiktok videos without watermark online free on our website "
+"Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
+" which is totally free."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन फ्री में "
+"डाउनलोड करें। टिकटोक प्रेमियों के लिए यह हमारा सबसे तेज टिकटोक वीडियो "
+"डाउनलोडर ऑनलाइन है जो पूरी तरह से मुफ्त है।"
+
+#: templates/index.html:11
+msgid "to mp4 downloader online free"
+msgstr "mp4 डाउनलोडर ऑनलाइन मुफ्त"
+
+#: templates/index.html:23
+msgid ""
+"is an amazing tool for TikTok lovers to save TikTok videos to your device "
+"with a single click. This tool designed is very simple and everyone can use "
+"it easily without any hassle. We all love to watch Tik Tok videos in our "
+"devices which remain in our logs if we want to see those videos again but I "
+"have experienced that the videos no longer available and its gets lost due "
+"to the awesome feedback that platform produces every single day with full "
+"excessive. TikTok does not allow you to download or save videos on your "
+"preferred devices. But those uploaded videos from the user’s side available "
+"on their official website or app with a lot of restrictions. So the question"
+" is that how to solve all these video downloading issues. So I have decided "
+"to make a tool which will be easy to use for everyone because including me "
+"there are millions of people on this platform to watch TikTok videos on "
+"mobile or laptop but they can’t download it. So do not worry about it. I "
+"have made this tool for you people only to "
+msgstr ""
+"टिकटॉक प्रेमियों के लिए एक क्लिक से अपने डिवाइस में टिकटॉक वीडियो को सेव "
+"करने का एक अद्भुत टूल है। डिज़ाइन किया गया यह टूल बहुत ही सरल है और हर कोई "
+"इसे बिना किसी परेशानी के आसानी से उपयोग कर सकता है। हम सभी अपने उपकरणों में "
+"टिक टोक वीडियो देखना पसंद करते हैं जो हमारे लॉग में रहते हैं यदि हम उन "
+"वीडियो को फिर से देखना चाहते हैं लेकिन मैंने अनुभव किया है कि वीडियो अब "
+"उपलब्ध नहीं हैं और यह उस भयानक प्रतिक्रिया के कारण खो जाता है जो प्लेटफॉर्म "
+"हर एक दिन के साथ उत्पन्न करता है पूर्ण अत्यधिक। टिकटोक आपको अपने पसंदीदा "
+"उपकरणों पर वीडियो डाउनलोड करने या सहेजने की अनुमति नहीं देता है। लेकिन "
+"उपयोगकर्ता की ओर से अपलोड किए गए वीडियो उनकी आधिकारिक वेबसाइट या ऐप पर बहुत "
+"सारे प्रतिबंधों के साथ उपलब्ध हैं। तो सवाल यह है कि इन सभी वीडियो डाउनलोडिंग"
+" मुद्दों को कैसे हल किया जाए। इसलिए मैंने एक ऐसा टूल बनाने का फैसला किया है "
+"जो सभी के लिए उपयोग में आसान होगा क्योंकि मेरे सहित इस प्लेटफॉर्म पर लाखों "
+"लोग मोबाइल या लैपटॉप पर टिकटॉक वीडियो देखने के लिए हैं लेकिन वे इसे डाउनलोड "
+"नहीं कर सकते हैं। इसलिए इसकी चिंता न करें। मैंने यह टूल आप लोगों के लिए ही "
+"बनाया है"
+
+#: templates/index.html:23
+msgid "I proud myself to introduce an amazing "
+msgstr "मुझे एक अद्भुत . का परिचय देते हुए खुद पर गर्व है"
+
+#: templates/index.html:23
+msgid "web app which allow you to download TikTok videos to mp4 format."
+msgstr ""
+"वेब ऐप जो आपको टिकटोक वीडियो को mp4 प्रारूप में डाउनलोड करने की अनुमति देता "
+"है।"
+
+#: templates/index.html:30
+msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
+msgstr "Tiksss.com के साथ Mp4 में TikTok वीडियो कैसे डाउनलोड करें"
+
+#: templates/index.html:47
+msgid "Introduction of TikTok"
+msgstr "टिकटॉक का परिचय"
+
+#: templates/index.html:48
+msgid ""
+"Everyone knows that TikTok is very popular right now and with the help of "
+"Tik Tok app. You can create your own videos very easily. TikTok app also "
+"used for streaming and creating content for your own use."
+msgstr ""
+"हर कोई जानता है कि टिकटॉक इस समय और टिक टोक ऐप की मदद से बहुत लोकप्रिय है। "
+"आप बहुत ही आसानी से अपने खुद के वीडियो बना सकते हैं। टिकटॉक ऐप का इस्तेमाल "
+"स्ट्रीमिंग और कंटेंट बनाने के लिए भी किया जाता है।"
+
+#: templates/index.html:49
+msgid ""
+"It’s a Chinese app which also allows you to share your videos on social "
+"media platform, friends and family. TikTok owned by a Chinese company which "
+"is also known as “Bytedance”. The main purpose of using this app to create "
+"videos with lisping, short music creation, dancing and voiceover video "
+"clippings."
+msgstr ""
+"यह एक चीनी ऐप है जो आपको अपने वीडियो सोशल मीडिया प्लेटफॉर्म, दोस्तों और "
+"परिवार पर साझा करने की अनुमति देता है। टिकटोक एक चीनी कंपनी के स्वामित्व में"
+" है जिसे &quot;बाइटडांस&quot; के रूप में भी जाना जाता है। इस ऐप का उपयोग "
+"करने का मुख्य उद्देश्य लिस्पिंग, लघु संगीत निर्माण, नृत्य और वॉयसओवर वीडियो "
+"क्लिपिंग के साथ वीडियो बनाना है।"
+
+#: templates/index.html:50
+msgid ""
+"If you are a content creator and passionate to produce a unique content to "
+"the customers then this app will helps you a lot to fulfill your dreams come"
+" true. Most of the time people love to do voiceover where people select and "
+"play any music in the background and then they act respectively with that "
+"sound. For me I love to watch funny voiceover videos on this app. Everyday "
+"people shows their talent in different ways and become celebrities via this "
+"platform. This platform has become a source for content creators for "
+"entertainment and viral videos. The content of TikTok may unreachable to "
+"those who do not have wifi or internet availability so make sure you have "
+"internet connection on you device to watch viral and amazing videos. So we "
+"are here to give you this amazing TikTok Mp4 Downloader tool to download "
+"favorite videos on you devices."
+msgstr ""
+"यदि आप एक कंटेंट क्रिएटर हैं और ग्राहकों के लिए एक अनूठी सामग्री तैयार करने "
+"के शौक़ीन हैं तो यह ऐप आपके सपनों को पूरा करने में आपकी बहुत मदद करेगा। "
+"ज्यादातर लोग वॉयसओवर करना पसंद करते हैं, जहां लोग बैकग्राउंड में किसी भी "
+"संगीत को चुनते हैं और बजाते हैं और फिर वे उस ध्वनि के साथ क्रमशः अभिनय करते "
+"हैं। मेरे लिए मैं इस ऐप पर मजेदार वॉयसओवर वीडियो देखना पसंद करता हूं। हर दिन"
+" लोग अलग-अलग तरीकों से अपना टैलेंट दिखाते हैं और इस प्लेटफॉर्म के जरिए "
+"सेलिब्रिटी बन जाते हैं। यह प्लेटफॉर्म कंटेंट क्रिएटर्स के लिए मनोरंजन और "
+"वायरल वीडियो का जरिया बन गया है। टिकटोक की सामग्री उन लोगों के लिए उपलब्ध "
+"नहीं हो सकती है जिनके पास वाईफाई या इंटरनेट की उपलब्धता नहीं है, इसलिए "
+"सुनिश्चित करें कि वायरल और अद्भुत वीडियो देखने के लिए आपके डिवाइस पर इंटरनेट"
+" कनेक्शन है। तो हम यहां आपको अपने डिवाइस पर पसंदीदा वीडियो डाउनलोड करने के "
+"लिए यह अद्भुत TikTok Mp4 डाउनलोडर टूल दे रहे हैं।"
+
+#: templates/index.html:60
+msgid "Unlimited Downloads"
+msgstr "असीमित डाउनलोड"
+
+#: templates/index.html:61
+msgid "Download unlimited videos with no limitations."
+msgstr "बिना किसी सीमा के असीमित वीडियो डाउनलोड करें।"
+
+#: templates/index.html:65
+msgid "No Watermark on Videos:"
+msgstr "वीडियो पर कोई वॉटरमार्क नहीं:"
+
+#: templates/index.html:66
+msgid "Download TikTok videos without watermark with no limits."
+msgstr "बिना किसी सीमा के वॉटरमार्क के टिकटॉक वीडियो डाउनलोड करें।"
+
+#: templates/index.html:70
+msgid "Mp4 Supported HD:"
+msgstr "Mp4 समर्थित एचडी:"
+
+#: templates/index.html:71
+msgid "Download TikTok videos with Mp4 format HD."
+msgstr "Mp4 प्रारूप HD के साथ टिकटॉक वीडियो डाउनलोड करें।"
+
+#: templates/index.html:75
+msgid "Mp3 Support:"
+msgstr "एमपी 3 समर्थन:"
+
+#: templates/index.html:76
+msgid "Easily Convert TikTok to Mp3 with high quality."
+msgstr "उच्च गुणवत्ता के साथ आसानी से TikTok को Mp3 में बदलें।"
+
+#: templates/index.html:88
+msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
+msgstr "मोबाइल डिवाइस पर TikTok वीडियो को Mp4 HD में डाउनलोड करें:"
+
+#: templates/index.html:89
+msgid ""
+"If you want to download and save TikTok videos on your mobile device that "
+"you have to download and install TikTok app and then select your favorite "
+"video which you want to download. Here is some important thing when you are "
+"on video download page, see the share button on the right side of your "
+"device screen tap on it with the help of arrow and copy “link”. So open our "
+"website Tiksss.com and paste that copy link in given field and click on "
+"“Search Button”. It will take few seconds to get a downloadable link. You "
+"will see a “Download Button” hit on it to start video downloading on your "
+"device."
+msgstr ""
+"यदि आप अपने मोबाइल डिवाइस पर टिकटॉक वीडियो डाउनलोड और सेव करना चाहते हैं तो "
+"आपको टिकटॉक ऐप डाउनलोड और इंस्टॉल करना होगा और फिर अपना पसंदीदा वीडियो चुनें"
+" जिसे आप डाउनलोड करना चाहते हैं। यहां कुछ महत्वपूर्ण बात है जब आप वीडियो "
+"डाउनलोड पेज पर हों, तो अपनी डिवाइस स्क्रीन के दाईं ओर शेयर बटन देखें और तीर "
+"की मदद से उस पर टैप करें और &quot;लिंक&quot; कॉपी करें। तो हमारी वेबसाइट "
+"Tiksss.com खोलें और उस कॉपी लिंक को दिए गए फ़ील्ड में पेस्ट करें और "
+"&quot;Search Button&quot; पर क्लिक करें। डाउनलोड करने योग्य लिंक प्राप्त "
+"करने में कुछ सेकंड लगेंगे। आप अपने डिवाइस पर वीडियो डाउनलोडिंग शुरू करने के "
+"लिए उस पर &quot;डाउनलोड बटन&quot; हिट देखेंगे।"
+
+#: templates/index.html:100
+msgid "Download TikTok Video Without Watermark on your Device:"
+msgstr "अपने डिवाइस पर बिना वॉटरमार्क के टिकटॉक वीडियो डाउनलोड करें:"
+
+#: templates/index.html:101
+msgid ""
+"This method is very unique to get download video without watermark in "
+"original quality. We made this tool very easy and it works smoothly on "
+"windows, Mac OS, Ipad, Android devices. Especially for Pc users, they don’t "
+"need to install any extra software or App and this is the only specialty of "
+"this TikTok no watermark video download tool. Go to Tiksss.com and you will "
+"see dropdown menu click on it and select “Without Watermark”. On the next "
+"page just paste the link and click “Download Button”. Wait a few seconds to "
+"get start downloading of your video."
+msgstr ""
+"मूल गुणवत्ता में वॉटरमार्क के बिना डाउनलोड वीडियो प्राप्त करने के लिए यह "
+"विधि बहुत ही अनोखी है। हमने इस टूल को बहुत आसान बना दिया है और यह विंडोज़, "
+"मैक ओएस, आईपैड, एंड्रॉइड डिवाइस पर आसानी से काम करता है। विशेष रूप से पीसी "
+"उपयोगकर्ताओं के लिए, उन्हें कोई अतिरिक्त सॉफ़्टवेयर या ऐप इंस्टॉल करने की "
+"आवश्यकता नहीं है और यह इस टिकटॉक नो वॉटरमार्क वीडियो डाउनलोड टूल की एकमात्र "
+"विशेषता है। Tiksss.com पर जाएं और आपको ड्रॉपडाउन मेनू दिखाई देगा उस पर क्लिक"
+" करें और &quot;वॉटरमार्क के बिना&quot; चुनें। अगले पेज पर बस लिंक पेस्ट करें"
+" और &quot;डाउनलोड बटन&quot; पर क्लिक करें। अपने वीडियो का डाउनलोड शुरू करने "
+"के लिए कुछ सेकंड प्रतीक्षा करें।"
+
+#: templates/index.html:118
+msgid "Tiktok to MP3 converter online Free for mobile and Desktop Devices:"
+msgstr ""
+"मोबाइल और डेस्कटॉप उपकरणों के लिए टिकटोक से एमपी3 कनवर्टर ऑनलाइन मुफ्त:"
+
+#: templates/index.html:119
+msgid "If you are music lover then you will know the value of this"
+msgstr "अगर आप संगीत प्रेमी हैं तो आपको इसकी कीमत पता होगी"
+
+#: templates/index.html:119
+msgid ""
+"We have made this tool very easy and simple. You people can use this tool on"
+" your preferred devices without any limits. Make sure that you have to "
+"bookmark this tool page for future. We have added all the instructions of "
+"this tool that how you people can use and take benefits from it. Kindly "
+"share this tool with your friends and family member with the help of social "
+"media because they will definitely like and use this for sure."
+msgstr ""
+"हमने इस टूल को बहुत आसान और सरल बनाया है। आप लोग इस उपकरण का उपयोग अपने "
+"पसंदीदा उपकरणों पर बिना किसी सीमा के कर सकते हैं। सुनिश्चित करें कि आपको "
+"भविष्य के लिए इस टूल पेज को बुकमार्क करना होगा। हमने इस टूल के सभी निर्देशों"
+" को जोड़ा है कि आप लोग इसका उपयोग कैसे कर सकते हैं और इसका लाभ उठा सकते हैं।"
+" कृपया इस टूल को अपने दोस्तों और परिवार के सदस्यों के साथ सोशल मीडिया की मदद"
+" से साझा करें क्योंकि वे निश्चित रूप से इसे पसंद करेंगे और इसका उपयोग जरूर "
+"करेंगे।"
+
+#: templates/index.html:127
+msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
+msgstr "टिकटोक वीडियो कटर ऑनलाइन - टिकटॉक वीडियो ट्रिमर ऑनलाइन फ्री:"
+
+#: templates/index.html:128
+msgid "Here you go. "
+msgstr "हेयर यू गो।"
+
+#: templates/index.html:128
+msgid ""
+" provides you a solution for your content creation. While using this tool on"
+" our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
+"your devices for free. It’s very unique and user friendly tool for everyone."
+msgstr ""
+"आपको अपनी सामग्री निर्माण के लिए एक समाधान प्रदान करता है। हमारी वेबसाइट "
+"Tiksss.com पर इस टूल का उपयोग करते हुए, आप लोग आसानी से अपने डिवाइस में "
+"TikTok वीडियो को मुफ्त में ट्रिम और कट कर सकते हैं। यह सभी के लिए बहुत ही "
+"अनोखा और उपयोगकर्ता के अनुकूल उपकरण है।"
+
+#: templates/privacypolicy.html:3
+msgid "Privacy Policy - Tiksss.com"
+msgstr "गोपनीयता नीति - Tiksss.com"
+
+#: templates/privacypolicy.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Privacy Policy. If you have any question regarding this than kindly let us "
+"know. Thanks."
+msgstr ""
+"इस पृष्ठ में हमने अपनी वेबसाइट Tiksss.com गोपनीयता नीति के बारे में कुछ "
+"उपयोगी जानकारी जोड़ी है। यदि इस संबंध में आपका कोई प्रश्न है तो कृपया हमें "
+"बताएं। धन्यवाद।"
+
+#: templates/privacypolicy.html:13
+msgid "By using"
+msgstr "का उपयोग करके"
+
+#: templates/privacypolicy.html:13
+msgid ""
+"you signify your agreement to follow all the privacy policy set forth on "
+"this page:"
+msgstr ""
+"आप इस पृष्ठ पर निर्धारित सभी गोपनीयता नीति का पालन करने के लिए अपने समझौते "
+"का संकेत देते हैं:"
+
+#: templates/privacypolicy.html:16
+msgid ""
+"This Website does not collect personally identifiable information from your "
+"computer when you browse the Website and request pages from our servers. "
+"This means that, unless you voluntarily and knowingly provide us with "
+"personally identifiable information, we will not know your name, your e-mail"
+" address, or any other personally identifiable information."
+msgstr ""
+"जब आप वेबसाइट ब्राउज़ करते हैं और हमारे सर्वर से पृष्ठों का अनुरोध करते हैं "
+"तो यह वेबसाइट आपके कंप्यूटर से व्यक्तिगत रूप से पहचान योग्य जानकारी एकत्र "
+"नहीं करती है। इसका मतलब यह है कि, जब तक आप स्वेच्छा से और जानबूझकर हमें "
+"व्यक्तिगत रूप से पहचान योग्य जानकारी प्रदान नहीं करते हैं, हम आपका नाम, आपका"
+" ई-मेल पता, या कोई अन्य व्यक्तिगत रूप से पहचान योग्य जानकारी नहीं जान "
+"पाएंगे।"
+
+#: templates/privacypolicy.html:19
+msgid ""
+"When you request a page from our Website, our servers log the information "
+"provided in the HTTP request header, JavaScript or similar technical tools, "
+"including the IP number, the time of the request, the URL of your request "
+"and other information. We collect this information in order to make our "
+"Website function correctly and provide you the functionality that you see on"
+" the Website, as our servers use this information to deliver to you the "
+"pages on this Website. We also use this information to better understand how"
+" visitors use our Website and how we can better tune our Website, its "
+"contents and functionality to meet your needs. However, this information is "
+"not associated with any personally identifiable information of persons "
+"browsing the Website."
+msgstr ""
+"जब आप हमारी वेबसाइट से किसी पृष्ठ का अनुरोध करते हैं, तो हमारे सर्वर HTTP "
+"अनुरोध हेडर, जावास्क्रिप्ट या इसी तरह के तकनीकी उपकरणों में प्रदान की गई "
+"जानकारी को लॉग करते हैं, जिसमें आईपी नंबर, अनुरोध का समय, आपके अनुरोध का URL"
+" और अन्य जानकारी शामिल है। हम अपनी वेबसाइट को सही ढंग से काम करने के लिए और "
+"आपको वेबसाइट पर दिखाई देने वाली कार्यक्षमता प्रदान करने के लिए यह जानकारी "
+"एकत्र करते हैं, क्योंकि हमारे सर्वर इस जानकारी का उपयोग आपको इस वेबसाइट पर "
+"पृष्ठों को वितरित करने के लिए करते हैं। हम इस जानकारी का उपयोग यह बेहतर ढंग "
+"से समझने के लिए भी करते हैं कि आगंतुक हमारी वेबसाइट का उपयोग कैसे करते हैं "
+"और हम आपकी वेबसाइट, इसकी सामग्री और कार्यक्षमता को आपकी आवश्यकताओं को पूरा "
+"करने के लिए बेहतर तरीके से कैसे ट्यून कर सकते हैं। हालांकि, यह जानकारी "
+"वेबसाइट ब्राउज़ करने वाले व्यक्तियों की व्यक्तिगत रूप से पहचान योग्य जानकारी"
+" से जुड़ी नहीं है।"
+
+#: templates/privacypolicy.html:22
+msgid ""
+"We use Google Analytics cookies to understand and save your preferences for "
+"future visits. Cookies are small files that a site or its service provider "
+"transfers to your computers hard drive through your Web browser (if you "
+"allow) that enables the sites or service providers systems to recognize your"
+" browser and capture and remember certain information)"
+msgstr ""
+"हम भविष्य में विज़िट के लिए आपकी प्राथमिकताओं को समझने और सहेजने के लिए "
+"Google Analytics कुकीज़ का उपयोग करते हैं। कुकीज छोटी फाइलें होती हैं "
+"जिन्हें कोई साइट या उसका सेवा प्रदाता आपके वेब ब्राउज़र (यदि आप अनुमति देते "
+"हैं) के माध्यम से आपके कंप्यूटर की हार्ड ड्राइव में स्थानांतरित करता है जो "
+"साइट्स या सेवा प्रदाता सिस्टम को आपके ब्राउज़र को पहचानने और कुछ जानकारी को "
+"कैप्चर करने और याद रखने में सक्षम बनाता है)"
+
+#: templates/privacypolicy.html:25
+msgid ""
+"Some of the advertisements you see on the Site are selected and delivered by"
+" third parties, such as ad networks, advertising agencies, advertisers, and "
+"audience segment providers. These third parties may collect information "
+"about you and your online activities, either on the Site or on other "
+"websites, through cookies, web beacons, and other technologies in an effort "
+"to understand your interests and deliver to you advertisements that are "
+"tailored to your interests. The information practices of these third parties"
+" are not covered by this privacy policy"
+msgstr ""
+"साइट पर आपके द्वारा देखे जाने वाले कुछ विज्ञापन तीसरे पक्ष द्वारा चुने और "
+"वितरित किए जाते हैं, जैसे विज्ञापन नेटवर्क, विज्ञापन एजेंसियां, विज्ञापनदाता"
+" और ऑडियंस खंड प्रदाता। ये तृतीय पक्ष आपके और आपकी ऑनलाइन गतिविधियों के बारे"
+" में जानकारी एकत्र कर सकते हैं, या तो साइट पर या अन्य वेबसाइटों पर, कुकीज़, "
+"वेब बीकन और अन्य तकनीकों के माध्यम से आपकी रुचियों को समझने के प्रयास में और"
+" आपकी रुचियों के अनुरूप विज्ञापन आपको वितरित करने के प्रयास में। इन तृतीय "
+"पक्षों की सूचना प्रथाएं इस गोपनीयता नीति द्वारा कवर नहीं की जाती हैं"
+
+#: templates/privacypolicy.html:28
+msgid ""
+"We do not sell, trade, or otherwise transfer to outside parties your "
+"personally identifiable information. This does not include trusted third "
+"parties who assist us in operating our website, conducting our business, or "
+"servicing you, so long as those parties agree to keep this information "
+"confidential. We may also release your information when we believe release "
+"is appropriate to comply with the law, enforce our site policies, or protect"
+" ours or others rights, property, or safety. However, non-personally "
+"identifiable visitor information may be provided to other parties for "
+"marketing, advertising, or other uses"
+msgstr ""
+"हम आपकी व्यक्तिगत रूप से पहचान योग्य जानकारी को बाहरी पार्टियों को बेचते, "
+"व्यापार या अन्यथा हस्तांतरित नहीं करते हैं। इसमें विश्वसनीय तृतीय पक्ष शामिल"
+" नहीं हैं जो हमारी वेबसाइट के संचालन, हमारे व्यवसाय का संचालन करने, या आपकी "
+"सेवा करने में हमारी सहायता करते हैं, जब तक कि वे पक्ष इस जानकारी को गोपनीय "
+"रखने के लिए सहमत होते हैं। हम आपकी जानकारी तब भी जारी कर सकते हैं जब हमें "
+"लगता है कि रिलीज कानून का पालन करने, हमारी साइट नीतियों को लागू करने, या "
+"हमारे या अन्य अधिकारों, संपत्ति या सुरक्षा की रक्षा करने के लिए उपयुक्त है। "
+"हालांकि, गैर-व्यक्तिगत रूप से पहचान योग्य आगंतुक जानकारी अन्य पार्टियों को "
+"विपणन, विज्ञापन या अन्य उपयोगों के लिए प्रदान की जा सकती है"
+
+#: templates/privacypolicy.html:31
+msgid ""
+"Occasionally, at our discretion, we may include or offer third party "
+"products or services on our website. These third party sites have separate "
+"and independent privacy policies. We therefore have no responsibility or "
+"liability for the content and activities of these linked sites. Nonetheless,"
+" we seek to protect the integrity of our site and welcome any feedback about"
+" these sites"
+msgstr ""
+"कभी-कभी, हमारे विवेक पर, हम अपनी वेबसाइट पर तीसरे पक्ष के उत्पादों या सेवाओं"
+" को शामिल कर सकते हैं या पेश कर सकते हैं। इन तृतीय पक्ष साइटों की अलग और "
+"स्वतंत्र गोपनीयता नीतियां हैं। इसलिए इन लिंक्ड साइटों की सामग्री और "
+"गतिविधियों के लिए हमारी कोई जिम्मेदारी या दायित्व नहीं है। फिर भी, हम अपनी "
+"साइट की अखंडता की रक्षा करना चाहते हैं और इन साइटों के बारे में किसी भी "
+"प्रतिक्रिया का स्वागत करते हैं"
+
+#: templates/privacypolicy.html:34
+msgid ""
+"Changes to our Privacy Policy. If we decide to change our privacy policy, we"
+" will post those changes on this page"
+msgstr ""
+"हमारी गोपनीयता नीति में परिवर्तन। यदि हम अपनी गोपनीयता नीति को बदलने का "
+"निर्णय लेते हैं, तो हम उन परिवर्तनों को इस पृष्ठ पर पोस्ट करेंगे"
+
+#: templates/privacypolicy.html:37
+msgid "TIKSSS Video Downloader"
+msgstr "TIKSSS वीडियो डाउनलोडर"
+
+#: templates/privacypolicy.html:38
+msgid ""
+"TIK built the TIKSSS Mp4 Video Downloader for TikTok</b> app as an Ad "
+"Supported app. This SERVICE is provided by TIKsss at no cost and is intended"
+" for use as is"
+msgstr ""
+"TIK ने विज्ञापन समर्थित ऐप के रूप में टिकटॉक ऐप के लिए TIKSSS Mp4 वीडियो "
+"डाउनलोडर बनाया। यह सेवा TIKsss द्वारा बिना किसी लागत के प्रदान की जाती है और"
+" इस प्रकार उपयोग के लिए अभिप्रेत है"
+
+#: templates/privacypolicy.html:39
+msgid ""
+"This page is used to inform visitors regarding our policies with the "
+"collection, use, and disclosure of Personal Information if anyone decided to"
+" use our Service"
+msgstr ""
+"यदि किसी ने हमारी सेवा का उपयोग करने का निर्णय लिया है, तो व्यक्तिगत जानकारी"
+" के संग्रह, उपयोग और प्रकटीकरण के साथ हमारी नीतियों के बारे में आगंतुकों को "
+"सूचित करने के लिए इस पृष्ठ का उपयोग किया जाता है।"
+
+#: templates/privacypolicy.html:40
+msgid ""
+"If you choose to use our Service, then you agree to the collection and use "
+"of information in relation to this policy. The Personal Information that we "
+"collect is used for providing and improving the Service. We will not use or "
+"share your information with anyone except as described in this Privacy "
+"Policy"
+msgstr ""
+"यदि आप हमारी सेवा का उपयोग करना चुनते हैं, तो आप इस नीति के संबंध में "
+"जानकारी के संग्रह और उपयोग के लिए सहमत हैं। हमारे द्वारा एकत्रित की जाने "
+"वाली व्यक्तिगत जानकारी का उपयोग सेवा प्रदान करने और उसमें सुधार करने के लिए "
+"किया जाता है। हम इस गोपनीयता नीति में वर्णित के अलावा आपकी जानकारी का उपयोग "
+"या किसी के साथ साझा नहीं करेंगे"
+
+#: templates/privacypolicy.html:41
+msgid ""
+"The terms used in this Privacy Policy have the same meanings as in our Terms"
+" and Conditions, which is accessible at TIKSSS Video Downloader and Mp3 "
+"Converter for TikTok unless otherwise defined in this Privacy Policy"
+msgstr ""
+"इस गोपनीयता नीति में उपयोग किए गए शब्दों का वही अर्थ है जो हमारे नियमों और "
+"शर्तों में है, जो कि TIKSSS वीडियो डाउनलोडर और TikTok के लिए Mp3 कन्वर्टर पर"
+" उपलब्ध है, जब तक कि इस गोपनीयता नीति में अन्यथा परिभाषित न किया गया हो।"
+
+#: templates/privacypolicy.html:42
+msgid "Information we collect"
+msgstr "हमारे द्वारा एकत्रित की जाने वाली जानकारी"
+
+#: templates/privacypolicy.html:43
+msgid ""
+"The personal information that you are asked to provide, and the reasons why "
+"you are asked to provide it, will be made clear to you at the point we ask "
+"you to provide your personal information"
+msgstr ""
+"व्यक्तिगत जानकारी जो आपको प्रदान करने के लिए कहा गया है, और जिन कारणों से "
+"आपको इसे प्रदान करने के लिए कहा गया है, आपको उस समय स्पष्ट कर दिया जाएगा जब "
+"हम आपसे आपकी व्यक्तिगत जानकारी प्रदान करने के लिए कहेंगे।"
+
+#: templates/privacypolicy.html:44
+msgid ""
+"If you contact us directly, we may receive additional information about you "
+"such as your name, email address, phone number, and the contents of the "
+"message and/or attachments you may send us, and any other information you "
+"may choose to provide"
+msgstr ""
+"यदि आप हमसे सीधे संपर्क करते हैं, तो हम आपके बारे में अतिरिक्त जानकारी "
+"प्राप्त कर सकते हैं जैसे आपका नाम, ईमेल पता, फोन नंबर, और संदेश की सामग्री "
+"और/या संलग्नक जो आप हमें भेज सकते हैं, और कोई अन्य जानकारी जिसे आप प्रदान "
+"करना चुन सकते हैं"
+
+#: templates/privacypolicy.html:45
+msgid ""
+"When you register for an Account, we may ask for your contact information, "
+"including items such as name, company name, address, email address, and "
+"telephone number."
+msgstr ""
+"जब आप किसी खाते के लिए पंजीकरण करते हैं, तो हम आपकी संपर्क जानकारी मांग सकते"
+" हैं, जिसमें नाम, कंपनी का नाम, पता, ईमेल पता और टेलीफोन नंबर जैसे आइटम "
+"शामिल हैं।"
+
+#: templates/privacypolicy.html:46
+msgid "Log Data"
+msgstr "लॉग डेटा"
+
+#: templates/privacypolicy.html:47
+msgid ""
+"we want to inform you that whenever you use our Service, in a case of an "
+"error in the app we collect data and information (through third party "
+"products) on your phone called Log Data. This Log Data may include "
+"information such as your device Internet Protocol (\"IP\") address, device "
+"name, operating system version, the configuration of the app when utilizing "
+"our Service, the time and date of your use of the Service, and other "
+"statistics"
+msgstr ""
+"हम आपको सूचित करना चाहते हैं कि जब भी आप हमारी सेवा का उपयोग करते हैं, तो ऐप"
+" में किसी त्रुटि के मामले में हम लॉग डेटा नामक आपके फोन पर डेटा और जानकारी "
+"(तृतीय पक्ष उत्पादों के माध्यम से) एकत्र करते हैं। इस लॉग डेटा में आपकी "
+"डिवाइस इंटरनेट प्रोटोकॉल (&quot;आईपी&quot;) पता, डिवाइस का नाम, ऑपरेटिंग "
+"सिस्टम संस्करण, हमारी सेवा का उपयोग करते समय ऐप का कॉन्फ़िगरेशन, सेवा के "
+"आपके उपयोग का समय और तारीख, और अन्य आंकड़े जैसी जानकारी शामिल हो सकती है।"
+
+#: templates/privacypolicy.html:49 templates/tandc.html:15
+msgid "Cookies"
+msgstr "कुकीज़"
+
+#: templates/privacypolicy.html:50
+msgid ""
+"Cookies are files with a small amount of data that are commonly used as "
+"anonymous unique identifiers. These are sent to your browser from the "
+"websites that you visit and are stored on your device's internal memory"
+msgstr ""
+"कुकीज़ छोटी मात्रा में डेटा वाली फाइलें होती हैं जिनका उपयोग आमतौर पर अनाम "
+"विशिष्ट पहचानकर्ताओं के रूप में किया जाता है। ये आपके ब्राउज़र पर आपके "
+"द्वारा देखी जाने वाली वेबसाइटों से भेजे जाते हैं और आपके डिवाइस की आंतरिक "
+"मेमोरी में संग्रहीत होते हैं"
+
+#: templates/privacypolicy.html:51
+msgid ""
+"This Service does not use these \"cookies\" explicitly. However, the app may"
+" use third party code and libraries that use \"cookies\" to collect "
+"information and improve their services. You have the option to either accept"
+" or refuse these cookies and know when a cookie is being sent to your "
+"device. If you choose to refuse our cookies, you may not be able to use some"
+" portions of this Service."
+msgstr ""
+"यह सेवा इन &quot;कुकीज़&quot; का स्पष्ट रूप से उपयोग नहीं करती है। हालाँकि, "
+"ऐप तीसरे पक्ष के कोड और पुस्तकालयों का उपयोग कर सकता है जो जानकारी एकत्र "
+"करने और अपनी सेवाओं को बेहतर बनाने के लिए &quot;कुकीज़&quot; का उपयोग करते "
+"हैं। आपके पास इन कुकीज़ को स्वीकार या अस्वीकार करने और यह जानने का विकल्प है"
+" कि आपके डिवाइस पर कुकी कब भेजी जा रही है। यदि आप हमारी कुकीज़ को अस्वीकार "
+"करना चुनते हैं, तो आप इस सेवा के कुछ हिस्सों का उपयोग करने में सक्षम नहीं हो"
+" सकते हैं।"
+
+#: templates/privacypolicy.html:52
+msgid "Service Providers"
+msgstr "सेवा प्रदाता"
+
+#: templates/privacypolicy.html:53
+msgid ""
+"We may employ third-party companies and individuals due to the following "
+"reasons:"
+msgstr ""
+"हम निम्नलिखित कारणों से तृतीय-पक्ष कंपनियों और व्यक्तियों को नियुक्त कर सकते"
+" हैं:"
+
+#: templates/privacypolicy.html:56
+msgid "To facilitate our Service"
+msgstr "हमारी सेवा को सुविधाजनक बनाने के लिए"
+
+#: templates/privacypolicy.html:59
+msgid "To provide the Service on our behalf"
+msgstr "हमारी ओर से सेवा प्रदान करने के लिए"
+
+#: templates/privacypolicy.html:62
+msgid "To perform Service-related services; or"
+msgstr "सेवा से संबंधित सेवाएं करने के लिए; या"
+
+#: templates/privacypolicy.html:65
+msgid "To assist us in analyzing how our Service is used."
+msgstr ""
+"हमारी सेवा का उपयोग कैसे किया जाता है इसका विश्लेषण करने में हमारी सहायता "
+"करने के लिए।"
+
+#: templates/privacypolicy.html:68
+msgid ""
+"We want to inform users of this Service that these third parties have access"
+" to your Personal Information. The reason is to perform the tasks assigned "
+"to them on our behalf. However, they are obligated not to disclose or use "
+"the information for any other purpose."
+msgstr ""
+"हम इस सेवा के उपयोगकर्ताओं को सूचित करना चाहते हैं कि इन तृतीय पक्षों के पास"
+" आपकी व्यक्तिगत जानकारी तक पहुंच है। इसका कारण उन्हें हमारी ओर से सौंपे गए "
+"कार्यों को पूरा करना है। हालांकि, वे किसी अन्य उद्देश्य के लिए जानकारी का "
+"खुलासा या उपयोग नहीं करने के लिए बाध्य हैं।"
+
+#: templates/privacypolicy.html:69
+msgid "Security"
+msgstr "सुरक्षा"
+
+#: templates/privacypolicy.html:70
+#, python-format
+msgid ""
+"We value your trust in providing us your Personal Information, thus we are "
+"striving to use commercially acceptable means of protecting it. But remember"
+" that no method of transmission over the internet, or method of electronic "
+"storage is 100%% secure and reliable, and we cannot guarantee its absolute "
+"security."
+msgstr ""
+"हमें आपकी व्यक्तिगत जानकारी प्रदान करने में हम आपके भरोसे को महत्व देते हैं,"
+" इस प्रकार हम इसे सुरक्षित रखने के लिए व्यावसायिक रूप से स्वीकार्य साधनों का"
+" उपयोग करने का प्रयास कर रहे हैं। लेकिन याद रखें कि इंटरनेट पर ट्रांसमिशन का"
+" कोई भी तरीका या इलेक्ट्रॉनिक स्टोरेज का तरीका 100% सुरक्षित और विश्वसनीय "
+"नहीं है, और हम इसकी पूर्ण सुरक्षा की गारंटी नहीं दे सकते।"
+
+#: templates/privacypolicy.html:71
+msgid "Links to Other Sites"
+msgstr "अन्य साइटों के लिंक Link"
+
+#: templates/privacypolicy.html:72
+msgid ""
+"This Service may contain links to other sites. If you click on a third-party"
+" link, you will be directed to that site. Note that these external sites are"
+" not operated by us. Therefore, we strongly advise you to review the Privacy"
+" Policy of these websites. we have no control over and assume no "
+"responsibility for the content, privacy policies, or practices of any third-"
+"party sites or services."
+msgstr ""
+"इस सेवा में अन्य साइटों के लिंक हो सकते हैं। यदि आप किसी तृतीय-पक्ष लिंक पर "
+"क्लिक करते हैं, तो आपको उस साइट पर निर्देशित किया जाएगा। ध्यान दें कि ये "
+"बाहरी साइटें हमारे द्वारा संचालित नहीं हैं। इसलिए, हम आपको इन वेबसाइटों की "
+"गोपनीयता नीति की समीक्षा करने की दृढ़ता से सलाह देते हैं। किसी भी तृतीय-पक्ष"
+" साइटों या सेवाओं की सामग्री, गोपनीयता नीतियों, या प्रथाओं के लिए हमारा कोई "
+"नियंत्रण नहीं है और हम कोई जिम्मेदारी नहीं लेते हैं।"
+
+#: templates/privacypolicy.html:73
+msgid "Children's Privacy"
+msgstr "बच्चों की गोपनीयता"
+
+#: templates/privacypolicy.html:74
+msgid ""
+"These Services do not address anyone under the age of 13. we do not "
+"knowingly collect personally identifiable information from children under "
+"13. In the case we discover that a child under 13 has provided us with "
+"personal information, we immediately delete this from our servers. If you "
+"are a parent or guardian and you are aware that your child has provided us "
+"with personal information, please contact us so that we will be able to do "
+"necessary actions."
+msgstr ""
+"ये सेवाएं 13 साल से कम उम्र के किसी को भी संबोधित नहीं करती हैं। हम जानबूझकर"
+" 13 साल से कम उम्र के बच्चों से व्यक्तिगत रूप से पहचान योग्य जानकारी एकत्र "
+"नहीं करते हैं। अगर हमें पता चलता है कि 13 साल से कम उम्र के बच्चे ने हमें "
+"व्यक्तिगत जानकारी प्रदान की है, तो हम इसे तुरंत अपने सर्वर से हटा देते हैं। "
+"यदि आप माता-पिता या अभिभावक हैं और आप जानते हैं कि आपके बच्चे ने हमें "
+"व्यक्तिगत जानकारी प्रदान की है, तो कृपया हमसे संपर्क करें ताकि हम आवश्यक "
+"कार्रवाई कर सकें।"
+
+#: templates/privacypolicy.html:75
+msgid "Google Double-Click DART Cookie"
+msgstr "Google DART कुकी पर डबल-क्लिक करें"
+
+#: templates/privacypolicy.html:76
+msgid ""
+"Google is one of a third-party vendor on our site. It also uses cookies, "
+"known as DART cookies, to serve ads to our site visitors based upon their "
+"visit to www.website.com and other sites on the internet. However, visitors "
+"may choose to decline the use of DART cookies by visiting the Google ad and "
+"content network Privacy Policy at the following URL – "
+msgstr ""
+"Google हमारी साइट पर तीसरे पक्ष के विक्रेता में से एक है। यह हमारी साइट के "
+"आगंतुकों को www.website.com और इंटरनेट पर अन्य साइटों पर जाने के आधार पर "
+"विज्ञापन देने के लिए DART कुकीज़ के रूप में जानी जाने वाली कुकीज़ का भी "
+"उपयोग करता है। हालाँकि, आगंतुक निम्नलिखित URL पर Google विज्ञापन और सामग्री "
+"नेटवर्क गोपनीयता नीति पर जाकर DART कुकीज़ के उपयोग को अस्वीकार करना चुन सकते"
+" हैं -"
+
+#: templates/privacypolicy.html:78
+msgid "Our Advertising Partners"
+msgstr "हमारे विज्ञापन भागीदार"
+
+#: templates/privacypolicy.html:79
+msgid ""
+"Our Advertising Partners Some of advertisers on our site may use cookies and"
+" web beacons. Our advertising partners are listed below. Each of our "
+"advertising partners has their own Privacy Policy for their policies on user"
+" data. For easier access, we hyperlinked to their Privacy Policies below."
+msgstr ""
+"हमारे विज्ञापन भागीदार हमारी साइट पर कुछ विज्ञापनदाता कुकीज़ और वेब बीकन का "
+"उपयोग कर सकते हैं। हमारे विज्ञापन भागीदार नीचे सूचीबद्ध हैं। उपयोगकर्ता डेटा"
+" पर उनकी नीतियों के लिए हमारे प्रत्येक विज्ञापन भागीदार की अपनी गोपनीयता "
+"नीति है। आसान पहुंच के लिए, हमने नीचे उनकी गोपनीयता नीतियों से हाइपरलिंक "
+"किया है।"
+
+#: templates/privacypolicy.html:82
+msgid "Changes to This Privacy Policy"
+msgstr "इस गोपनीयता नीति में परिवर्तन"
+
+#: templates/privacypolicy.html:83
+msgid ""
+"We may update our Privacy Policy from time to time. Thus, you are advised to"
+" review this page periodically for any changes. We will notify you of any "
+"changes by posting the new Privacy Policy on this page."
+msgstr ""
+"हम समय-समय पर अपनी गोपनीयता नीति को अपडेट कर सकते हैं। इस प्रकार, आपको किसी "
+"भी परिवर्तन के लिए समय-समय पर इस पृष्ठ की समीक्षा करने की सलाह दी जाती है। "
+"हम इस पेज पर नई गोपनीयता नीति पोस्ट करके आपको किसी भी बदलाव के बारे में "
+"सूचित करेंगे।"
+
+#: templates/privacypolicy.html:85
+msgid "Advertising Partners Privacy Policies"
+msgstr "विज्ञापन भागीदार गोपनीयता नीतियां"
+
+#: templates/privacypolicy.html:86
+msgid ""
+"You may consult this list to find the Privacy Policy for each of the "
+"advertising partners of qload.info. Third-party ad servers or ad networks "
+"uses technologies like cookies, JavaScript, or Web Beacons that are used in "
+"their respective advertisements and links that appear on qload.info, which "
+"are sent directly to users' browser. They automatically receive your IP "
+"address when this occurs. These technologies are used to measure the "
+"effectiveness of their advertising campaigns and/or to personalize the "
+"advertising content that you see on websites that you visit. Note that "
+"qload.info has no access to or control over these cookies that are used by "
+"third-party advertisers."
+msgstr ""
+"qload.info के प्रत्येक विज्ञापन भागीदार के लिए गोपनीयता नीति खोजने के लिए आप"
+" इस सूची से परामर्श कर सकते हैं। तृतीय-पक्ष विज्ञापन सर्वर या विज्ञापन "
+"नेटवर्क कुकीज़, जावास्क्रिप्ट, या वेब बीकन जैसी तकनीकों का उपयोग करते हैं जो"
+" उनके संबंधित विज्ञापनों और लिंक में उपयोग किए जाते हैं जो qload.info पर "
+"दिखाई देते हैं, जो सीधे उपयोगकर्ताओं के ब्राउज़र पर भेजे जाते हैं। जब यह "
+"होता है, तब वे अपने आप आपका आईपी पता प्राप्त कर लेते हैं। इन तकनीकों का "
+"उपयोग उनके विज्ञापन अभियानों की प्रभावशीलता को मापने और/या आपके द्वारा देखी "
+"जाने वाली वेबसाइटों पर दिखाई देने वाली विज्ञापन सामग्री को वैयक्तिकृत करने "
+"के लिए किया जाता है। ध्यान दें कि तीसरे पक्ष के विज्ञापनदाताओं द्वारा उपयोग "
+"की जाने वाली इन कुकीज़ पर qload.info की कोई पहुंच या नियंत्रण नहीं है।"
+
+#: templates/privacypolicy.html:88
+msgid "Third Party Privacy Policies"
+msgstr "तृतीय पक्ष गोपनीयता नीतियां"
+
+#: templates/privacypolicy.html:89
+msgid ""
+"qload.info's Privacy Policy does not apply to other advertisers or websites."
+" Thus, we are advising you to consult the respective Privacy Policies of "
+"these third-party ad servers for more detailed information. It may include "
+"their practices and instructions about how to opt-out of certain options. "
+"You may find a complete list of these Privacy Policies and their links here:"
+" Privacy Policy Links. You can choose to disable cookies through your "
+"individual browser options. To know more detailed information about cookie "
+"management with specific web browsers, it can be found at the browsers' "
+"respective websites. What Are Cookies?"
+msgstr ""
+"qload.info की गोपनीयता नीति अन्य विज्ञापनदाताओं या वेबसाइटों पर लागू नहीं "
+"होती है। इस प्रकार, हम आपको अधिक विस्तृत जानकारी के लिए इन तृतीय-पक्ष "
+"विज्ञापन सर्वरों की संबंधित गोपनीयता नीतियों से परामर्श करने की सलाह दे रहे "
+"हैं। इसमें कुछ विकल्पों से ऑप्ट-आउट करने के तरीके के बारे में उनके अभ्यास और"
+" निर्देश शामिल हो सकते हैं। आपको इन गोपनीयता नीतियों और उनके लिंक की पूरी "
+"सूची यहां मिल सकती है: गोपनीयता नीति लिंक। आप अपने व्यक्तिगत ब्राउज़र "
+"विकल्पों के माध्यम से कुकीज़ को अक्षम करना चुन सकते हैं। विशिष्ट वेब "
+"ब्राउज़र के साथ कुकी प्रबंधन के बारे में अधिक विस्तृत जानकारी जानने के लिए, "
+"इसे ब्राउज़र की संबंधित वेबसाइटों पर पाया जा सकता है। कुकीज़ क्या हैं?"
+
+#: templates/privacypolicy.html:90
+msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+msgstr "सीसीपीए गोपनीयता अधिकार (मेरी व्यक्तिगत जानकारी न बेचें)"
+
+#: templates/privacypolicy.html:91
+msgid ""
+"Under the CCPA, among other rights, California consumers have the right to:"
+msgstr ""
+"CCPA के तहत, अन्य अधिकारों के साथ, कैलिफ़ोर्निया के उपभोक्ताओं को निम्न का "
+"अधिकार है:"
+
+#: templates/privacypolicy.html:92
+msgid ""
+"Request that a business that collects a consumer's personal data disclose "
+"the categories and specific pieces of personal data that a business has "
+"collected about consumers."
+msgstr ""
+"अनुरोध करें कि एक व्यवसाय जो उपभोक्ता के व्यक्तिगत डेटा को एकत्र करता है, उन"
+" श्रेणियों और व्यक्तिगत डेटा के विशिष्ट टुकड़ों का खुलासा करता है जो एक "
+"व्यवसाय ने उपभोक्ताओं के बारे में एकत्र किया है।"
+
+#: templates/privacypolicy.html:93
+msgid ""
+"Request that a business delete any personal data about the consumer that a "
+"business has collected."
+msgstr ""
+"अनुरोध करें कि एक व्यवसाय उपभोक्ता के बारे में किसी भी व्यक्तिगत डेटा को हटा"
+" देता है जिसे एक व्यवसाय ने एकत्र किया है।"
+
+#: templates/privacypolicy.html:95
+msgid ""
+"Request that a business that sells a consumer's personal data, not sell the "
+"consumer's personal data."
+msgstr ""
+"अनुरोध करें कि एक व्यवसाय जो उपभोक्ता के व्यक्तिगत डेटा को बेचता है, "
+"उपभोक्ता के व्यक्तिगत डेटा को नहीं बेचता है।"
+
+#: templates/privacypolicy.html:96
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us"
+msgstr ""
+"अगर आप कोई अनुरोध करते हैं, तो हमारे पास आपको जवाब देने के लिए एक महीने का "
+"समय है। यदि आप इनमें से किसी भी अधिकार का प्रयोग करना चाहते हैं, तो कृपया "
+"हमसे संपर्क करें"
+
+#: templates/privacypolicy.html:97
+msgid "GDPR Data Protection Rights"
+msgstr "GDPR डेटा सुरक्षा अधिकार"
+
+#: templates/privacypolicy.html:98
+msgid ""
+"We would like to make sure you are fully aware of all of your data "
+"protection rights. Every user is entitled to the following:"
+msgstr ""
+"हम यह सुनिश्चित करना चाहते हैं कि आप अपने सभी डेटा सुरक्षा अधिकारों से पूरी "
+"तरह अवगत हैं। प्रत्येक उपयोगकर्ता निम्नलिखित का हकदार है:"
+
+#: templates/privacypolicy.html:99
+msgid ""
+"The right to access – You have the right to request copies of your personal "
+"data. We may charge you a small fee for this service."
+msgstr ""
+"एक्सेस करने का अधिकार - आपको अपने व्यक्तिगत डेटा की प्रतियों का अनुरोध करने "
+"का अधिकार है। हम इस सेवा के लिए आपसे एक छोटा सा शुल्क ले सकते हैं।"
+
+#: templates/privacypolicy.html:100
+msgid ""
+"The right to rectification – You have the right to request that we correct "
+"any information you believe is inaccurate. You also have the right to "
+"request that we complete the information you believe is incomplete."
+msgstr ""
+"सुधार का अधिकार - आपको यह अनुरोध करने का अधिकार है कि हम किसी भी जानकारी को "
+"सही करें जिसे आप गलत मानते हैं। आपको यह अनुरोध करने का भी अधिकार है कि हम "
+"आपके अनुसार अधूरी जानकारी को पूरा करें।"
+
+#: templates/privacypolicy.html:101
+msgid ""
+"he right to erasure – You have the right to request that we erase your "
+"personal data, under certain conditions. The right to restrict processing – "
+"You have the right to request that we restrict the processing of your "
+"personal data, under certain conditions."
+msgstr ""
+"उसे मिटाने का अधिकार - आपको यह अनुरोध करने का अधिकार है कि हम कुछ शर्तों के "
+"तहत आपके व्यक्तिगत डेटा को मिटा दें। प्रसंस्करण को प्रतिबंधित करने का अधिकार"
+" - आपको यह अनुरोध करने का अधिकार है कि हम कुछ शर्तों के तहत आपके व्यक्तिगत "
+"डेटा के प्रसंस्करण को प्रतिबंधित करें।"
+
+#: templates/privacypolicy.html:102
+msgid ""
+"The right to object to processing – You have the right to object to our "
+"processing of your personal data, under certain conditions."
+msgstr ""
+"प्रसंस्करण पर आपत्ति का अधिकार - कुछ शर्तों के तहत, आपको अपने व्यक्तिगत डेटा"
+" के हमारे प्रसंस्करण पर आपत्ति करने का अधिकार है।"
+
+#: templates/privacypolicy.html:103
+msgid ""
+"The right to data portability – You have the right to request that we "
+"transfer the data that we have collected to another organization, or "
+"directly to you, under certain conditions."
+msgstr ""
+"डेटा पोर्टेबिलिटी का अधिकार - आपके पास यह अनुरोध करने का अधिकार है कि हम उस "
+"डेटा को किसी अन्य संगठन को, या सीधे आपको, कुछ शर्तों के तहत स्थानांतरित "
+"करें।"
+
+#: templates/privacypolicy.html:104
+msgid ""
+"If you make a request, we have one month to respond to you. If you would "
+"like to exercise any of these rights, please contact us."
+msgstr ""
+"अगर आप कोई अनुरोध करते हैं, तो हमारे पास आपको जवाब देने के लिए एक महीने का "
+"समय है। यदि आप इनमें से किसी भी अधिकार का प्रयोग करना चाहते हैं, तो कृपया "
+"हमसे संपर्क करें।"
+
+#: templates/tandc.html:3
+msgid "Terms of Services - Tiksss.com"
+msgstr "सेवा की शर्तें - Tiksss.com"
+
+#: templates/tandc.html:5
+msgid ""
+"In this page we have added some useful info about our website Tiksss.com "
+"Terms and Services. If you have any question regarding this than kindly let "
+"us know. Thanks."
+msgstr ""
+"इस पृष्ठ में हमने अपनी वेबसाइट Tiksss.com नियम और सेवाओं के बारे में कुछ "
+"उपयोगी जानकारी जोड़ी है। यदि इस संबंध में आपका कोई प्रश्न है तो कृपया हमें "
+"बताएं। धन्यवाद।"
+
+#: templates/tandc.html:11
+msgid "Welcome to"
+msgstr "आपका स्वागत है"
+
+#: templates/tandc.html:12
+msgid ""
+"These terms and conditions outline the rules and regulations for the use of "
+"Tiksss.com Website, located at"
+msgstr ""
+"ये नियम और शर्तें Ti पर स्थित Tiksss.com वेबसाइट के उपयोग के लिए नियमों और "
+"विनियमों की रूपरेखा तैयार करती हैं"
+
+#: templates/tandc.html:13
+msgid ""
+"By accessing this website we assume you accept these terms and conditions. "
+"Do not continue to use Tiksss.com if you do not agree to take all of the "
+"terms and conditions stated on this page."
+msgstr ""
+"इस वेबसाइट को एक्सेस करके हम मानते हैं कि आप इन नियमों और शर्तों को स्वीकार "
+"करते हैं। यदि आप इस पृष्ठ पर बताए गए सभी नियमों और शर्तों को लेने के लिए "
+"सहमत नहीं हैं, तो Tiksss.com का उपयोग जारी न रखें।"
+
+#: templates/tandc.html:14
+msgid ""
+"The following terminology applies to these Terms and Conditions, Privacy "
+"Statement and Discla Notice and all Agreements: \"Client\", \"You\" and "
+"\"Your\" refers to you, the person log on this website compliant to the "
+"Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", "
+"\"Our\" and \"Us\", refers to Company. \"Party\", \"Parties\", or \"Us\", "
+"refers to both the Client and ourselves. All terms refer to the of "
+"acceptance and consideration of payment necessary to undertake the process "
+"of our assistance to the Clien the most appropriate manner for the express "
+"purpose of meeting the Client’s needs in respect of provision of Company’s "
+"stated services, in accordance with and subject to, prevailing law of "
+"Netherlands. Any use of above terminology or other words in the singular, "
+"plural, capitalization and/or he/she or they, are take interchangeable and "
+"therefore as referring to same."
+msgstr ""
+"निम्नलिखित शब्दावली इन नियमों और शर्तों, गोपनीयता कथन और डिस्कला नोटिस और "
+"सभी समझौतों पर लागू होती है: &quot;ग्राहक&quot;, &quot;आप&quot; और "
+"&quot;आपका&quot; आपको संदर्भित करता है, व्यक्ति कंपनी के नियमों और शर्तों के"
+" अनुरूप इस वेबसाइट पर लॉग इन करता है। &quot;कंपनी&quot;, &quot;स्वयं&quot;, "
+"&quot;हम&quot;, &quot;हमारा&quot; और &quot;हम&quot;, कंपनी को संदर्भित करता "
+"है। &quot;पार्टी&quot;, &quot;पार्टियाँ&quot;, या &quot;हम&quot;, क्लाइंट और"
+" स्वयं दोनों को संदर्भित करता है। सभी शर्तें क्लाइंट को हमारी सहायता की "
+"प्रक्रिया शुरू करने के लिए आवश्यक भुगतान की स्वीकृति और विचार को संदर्भित "
+"करती हैं, कंपनी की घोषित सेवाओं के प्रावधान के संबंध में ग्राहक की जरूरतों "
+"को पूरा करने के लिए सबसे उपयुक्त तरीके से, के अनुसार और अधीन , नीदरलैंड का "
+"प्रचलित कानून। उपरोक्त शब्दावली या अन्य शब्दों का एकवचन, बहुवचन, पूंजीकरण और"
+" / या वह / वह या वे, विनिमेय हैं और इसलिए उसी के संदर्भ में हैं।"
+
+#: templates/tandc.html:16
+msgid ""
+"We employ the use of cookies. By accessing Tiksss.com, you agreed to use "
+"cookies in agreement  the Tiksss.com Privacy Policy"
+msgstr ""
+"हम कुकीज़ के उपयोग को नियोजित करते हैं। Tiksss.com पर पहुंचकर, आप Tiksss.com"
+" गोपनीयता नीति के समझौते में कुकीज़ का उपयोग करने के लिए सहमत हुए"
+
+#: templates/tandc.html:17
+msgid ""
+"Most interactive websites use cookies to let us retrieve the user’s details "
+"for each visit. Coo are used by our website to enable the functionality of "
+"certain areas to make it easier for people visiting website. Some of our "
+"affiliate/advertising partners may also use cookies"
+msgstr ""
+"अधिकांश सहभागी वेबसाइटें हमें प्रत्येक विज़िट के लिए उपयोगकर्ता के विवरण को "
+"पुनः प्राप्त करने के लिए कुकीज़ का उपयोग करती हैं। वेबसाइट पर आने वाले लोगों"
+" के लिए इसे आसान बनाने के लिए कुछ क्षेत्रों की कार्यक्षमता को सक्षम करने के "
+"लिए हमारी वेबसाइट द्वारा कू का उपयोग किया जाता है। हमारे कुछ सहयोगी/विज्ञापन"
+" भागीदार भी कुकीज़ का उपयोग कर सकते हैं"
+
+#: templates/tandc.html:18
+msgid "License"
+msgstr "लाइसेंस"
+
+#: templates/tandc.html:19
+msgid ""
+"Unless otherwise stated, Tiksss.com and/or its licensors own the "
+"intellectual property rights all material on Tiksss.com. All intellectual "
+"property rights are reserved. You may access this from Tiksss for your own "
+"personal use subjected to restrictions set in these terms and conditions"
+msgstr ""
+"जब तक अन्यथा न कहा गया हो, Tiksss.com और/या इसके लाइसेंसकर्ताओं के पास "
+"Tiksss.com पर सभी सामग्री के बौद्धिक संपदा अधिकार हैं। सभी बौद्धिक संपदा "
+"अधिकार सुरक्षित हैं। आप इन नियमों और शर्तों में निर्धारित प्रतिबंधों के अधीन"
+" अपने निजी इस्तेमाल के लिए Tiksss से इसे एक्सेस कर सकते हैं"
+
+#: templates/tandc.html:20
+msgid "You must not"
+msgstr "तुम नहीं करना चाहिए"
+
+#: templates/tandc.html:23
+msgid "Republish material from Tiksss.com"
+msgstr "Tiksss.com से सामग्री पुनर्प्रकाशित करें"
+
+#: templates/tandc.html:26
+msgid "Sell, rent or sub-license material from Tiksss.com"
+msgstr "Tiksss.com से सामग्री बेचें, किराए पर लें या उप-लाइसेंस दें"
+
+#: templates/tandc.html:29
+msgid "Reproduce, duplicate or copy material from Tiksss.com"
+msgstr "Tiksss.com से सामग्री को पुन: प्रस्तुत, डुप्लिकेट या कॉपी करें"
+
+#: templates/tandc.html:32
+msgid "Redistribute content from Tiksss.com"
+msgstr "Tiksss.com से सामग्री पुनर्वितरित करें"
+
+#: templates/tandc.html:35
+msgid "This Agreement shall begin on the date hereof."
+msgstr "यह समझौता यहां की तारीख से शुरू होगा।"
+
+#: templates/tandc.html:36
+msgid ""
+"Parts of this website offer an opportunity for users to post and exchange "
+"opinions and informa in certain areas of the website. Tiksss.com does not "
+"filter, edit, publish or review Comments prior to t presence on the website."
+" Comments do not reflect the views and opinions of Tiksss.com, its agents an"
+" affiliates. Comments reflect the views and opinions of the person who post "
+"their views and opinions. To extent permitted by applicable laws, Tiksss.com"
+" shall not be liable for the Comments or for any liabil damages or expenses "
+"caused and/or suffered as a result of any use of and/or posting of and/or "
+"appearance of Comments on this website."
+msgstr ""
+"इस वेबसाइट के कुछ हिस्से उपयोगकर्ताओं को वेबसाइट के कुछ क्षेत्रों में "
+"विचारों और सूचनाओं को पोस्ट करने और आदान-प्रदान करने का अवसर प्रदान करते "
+"हैं। Tiksss.com वेबसाइट पर उपस्थिति से पहले टिप्पणियों को फ़िल्टर, संपादित, "
+"प्रकाशित या समीक्षा नहीं करता है। टिप्पणियाँ Tiksss.com, इसके एजेंटों और "
+"सहयोगियों के विचारों और विचारों को नहीं दर्शाती हैं। टिप्पणियाँ उस व्यक्ति "
+"के विचारों और विचारों को दर्शाती हैं जो अपने विचार और राय पोस्ट करते हैं। "
+"लागू कानूनों द्वारा अनुमत सीमा तक, Tiksss.com टिप्पणियों के लिए या इस "
+"वेबसाइट पर टिप्पणियों के किसी भी उपयोग और/या पोस्टिंग और/या उपस्थिति के "
+"परिणामस्वरूप हुई और/या किसी भी देयता क्षति या व्यय के लिए उत्तरदायी नहीं "
+"होगा। ."
+
+#: templates/tandc.html:37
+msgid ""
+"Tiksss.com reserves the right to monitor all Comments and to remove any "
+"Comments which ca considered inappropriate, offensive or causes breach of "
+"these Terms and Conditions."
+msgstr ""
+"Tiksss.com सभी टिप्पणियों की निगरानी करने और किसी भी टिप्पणी को हटाने का "
+"अधिकार सुरक्षित रखता है जिसे अनुचित, आक्रामक माना जाता है या इन नियमों और "
+"शर्तों के उल्लंघन का कारण बनता है।"
+
+#: templates/tandc.html:38
+msgid "You warrant and represent that:"
+msgstr "आप वारंट करते हैं और उसका प्रतिनिधित्व करते हैं:"
+
+#: templates/tandc.html:41
+msgid ""
+"You are entitled to post the Comments on our website and have all necessary "
+"licenses and consents to do so;"
+msgstr ""
+"आप हमारी वेबसाइट पर टिप्पणियां पोस्ट करने के हकदार हैं और ऐसा करने के लिए "
+"आपके पास सभी आवश्यक लाइसेंस और सहमति हैं;"
+
+#: templates/tandc.html:44
+msgid ""
+"The Comments do not invade any intellectual property right, including "
+"without limitation copyright, patent or trademark of any third party;"
+msgstr ""
+"टिप्पणियाँ किसी भी बौद्धिक संपदा अधिकार पर आक्रमण नहीं करती हैं, जिसमें बिना"
+" किसी सीमा के कॉपीराइट, पेटेंट या किसी तीसरे पक्ष के ट्रेडमार्क शामिल हैं;"
+
+#: templates/tandc.html:47
+msgid ""
+"The Comments do not contain any defamatory, libelous, offensive, indecent or"
+" otherwise unlawful material which is an invasion of privacy"
+msgstr ""
+"टिप्पणियों में कोई भी मानहानिकारक, अपमानजनक, आपत्तिजनक, अश्लील या अन्यथा "
+"गैरकानूनी सामग्री शामिल नहीं है जो गोपनीयता का आक्रमण है"
+
+#: templates/tandc.html:50
+msgid ""
+"The Comments will not be used to solicit or promote business or custom or "
+"present commercial activities or unlawful activity."
+msgstr ""
+"टिप्पणियों का उपयोग व्यापार या प्रथा को बढ़ावा देने या व्यावसायिक गतिविधियों"
+" या गैरकानूनी गतिविधि को पेश करने के लिए नहीं किया जाएगा।"
+
+#: templates/tandc.html:53
+msgid ""
+"You hereby grant Tiksss.com a non-exclusive license to use, reproduce, edit "
+"and authorize others to use, reproduce and edit any of your Comments in any "
+"and all forms, formats or media."
+msgstr ""
+"आप इसके द्वारा Tiksss.com को किसी भी और सभी रूपों, प्रारूपों या मीडिया में "
+"अपनी किसी भी टिप्पणी का उपयोग, पुनरुत्पादन और संपादित करने के लिए दूसरों को "
+"उपयोग करने, पुन: पेश करने, संपादित करने और अधिकृत करने के लिए एक गैर-अनन्य "
+"लाइसेंस प्रदान करते हैं।"
+
+#: templates/tandc.html:54
+msgid "Hyper linking to our Content"
+msgstr "हमारी सामग्री से हाइपर लिंकिंग"
+
+#: templates/tandc.html:55
+msgid ""
+"The following organizations may link to our Website without prior written "
+"approval"
+msgstr ""
+"निम्नलिखित संगठन बिना पूर्व लिखित स्वीकृति के हमारी वेबसाइट से जुड़ सकते हैं"
+
+#: templates/tandc.html:58
+msgid "Government agencies"
+msgstr "सरकारी संस्थाएं"
+
+#: templates/tandc.html:61
+msgid "Search engines"
+msgstr "खोज इंजन"
+
+#: templates/tandc.html:64
+msgid "News organizations"
+msgstr "समाचार संगठन"
+
+#: templates/tandc.html:67
+msgid ""
+"Online directory distributors may link to our Website in the same manner as "
+"they hyperlink to the Websites of other listed businesses; and"
+msgstr ""
+"ऑनलाइन निर्देशिका वितरक हमारी वेबसाइट से उसी तरह लिंक कर सकते हैं जैसे वे "
+"अन्य सूचीबद्ध व्यवसायों की वेबसाइटों से हाइपरलिंक करते हैं; तथा"
+
+#: templates/tandc.html:70
+msgid ""
+"System wide Accredited Businesses except soliciting non-profit "
+"organizations, charity shopping malls, and charity fundraising groups which "
+"may not hyperlink to our Web site."
+msgstr ""
+"गैर-लाभकारी संगठनों, चैरिटी शॉपिंग मॉल और चैरिटी फंडरेज़िंग समूहों को छोड़कर"
+" जो हमारी वेब साइट से हाइपरलिंक नहीं हो सकते हैं, सिस्टम वाइड मान्यता "
+"प्राप्त व्यवसाय।"
+
+#: templates/tandc.html:73
+msgid ""
+"These organizations may link to our home page, to publications or to other "
+"Website information so long as the link: (a) is not in any way deceptive; "
+"(b) does not falsely imply sponsorship, endorsement or approval of the "
+"linking party and its products and/or services; and (c) fits within the "
+"context of the linking party’s site."
+msgstr ""
+"जब तक लिंक: (ए) किसी भी तरह से भ्रामक नहीं है, ये संगठन हमारे होम पेज, "
+"प्रकाशनों या अन्य वेबसाइट जानकारी से लिंक कर सकते हैं; (बी) लिंकिंग पार्टी "
+"और उसके उत्पादों और/या सेवाओं के प्रायोजन, समर्थन या अनुमोदन का झूठा अर्थ "
+"नहीं है; और (सी) लिंकिंग पार्टी की साइट के संदर्भ में फिट बैठता है।"
+
+#: templates/tandc.html:74
+msgid ""
+"We may consider and approve other link requests from the following types of "
+"organizations"
+msgstr ""
+"हम निम्नलिखित प्रकार के संगठनों से अन्य लिंक अनुरोधों पर विचार कर सकते हैं "
+"और उन्हें स्वीकार कर सकते हैं"
+
+#: templates/tandc.html:77
+msgid "commonly-known consumer and/or business information sources"
+msgstr "सामान्य रूप से ज्ञात उपभोक्ता और/या व्यावसायिक सूचना स्रोत"
+
+#: templates/tandc.html:80
+msgid "dot.com community sites"
+msgstr "dot.com कम्युनिटी साइट्स"
+
+#: templates/tandc.html:83
+msgid "associations or other groups representing charities"
+msgstr "संघ या अन्य समूह जो दान का प्रतिनिधित्व करते हैं"
+
+#: templates/tandc.html:86
+msgid "online directory distributors"
+msgstr "ऑनलाइन निर्देशिका वितरक"
+
+#: templates/tandc.html:89
+msgid "internet portals"
+msgstr "इंटरनेट पोर्टल"
+
+#: templates/tandc.html:92
+msgid "accounting, law and consulting firms; and"
+msgstr "लेखा, कानून और परामर्श फर्म; तथा"
+
+#: templates/tandc.html:95
+msgid "Educational institutions and trade associations."
+msgstr "शैक्षिक संस्थान और व्यापार संघ।"
+
+#: templates/tandc.html:98
+msgid ""
+"We will approve link requests from these organizations if we decide that: "
+"(a) the link would not make us look unfavorably to ourselves or to our "
+"accredited businesses; (b) the organization does not have any negative "
+"records with us; (c) the benefit to us from the visibility of the hyperlink "
+"compensates the absence of Tiksss.com; and (d) the link is in the context of"
+" general resource information."
+msgstr ""
+"हम इन संगठनों से लिंक अनुरोधों को स्वीकार करेंगे यदि हम यह निर्णय लेते हैं "
+"कि: (ए) लिंक हमें अपने या हमारे मान्यता प्राप्त व्यवसायों के प्रतिकूल नहीं "
+"लगेगा; (बी) संगठन का हमारे पास कोई नकारात्मक रिकॉर्ड नहीं है; (सी) हाइपरलिंक"
+" की दृश्यता से हमें जो लाभ मिलता है, वह Tiksss.com की अनुपस्थिति की भरपाई "
+"करता है; और (डी) लिंक सामान्य संसाधन जानकारी के संदर्भ में है।"
+
+#: templates/tandc.html:99
+msgid ""
+"These organizations may link to our home page so long as the link: (a) is "
+"not in any way deceptive; (b) does not falsely imply sponsorship, "
+"endorsement or approval of the linking party and its products or services; "
+"and (c) fits within the context of the linking party’s site."
+msgstr ""
+"ये संगठन हमारे होम पेज से तब तक लिंक हो सकते हैं जब तक लिंक: (ए) किसी भी तरह"
+" से भ्रामक नहीं है; (बी) लिंकिंग पार्टी और उसके उत्पादों या सेवाओं के "
+"प्रायोजन, समर्थन या अनुमोदन का झूठा अर्थ नहीं है; और (सी) लिंकिंग पार्टी की "
+"साइट के संदर्भ में फिट बैठता है।"
+
+#: templates/tandc.html:100
+msgid ""
+"If you are one of the organizations listed in paragraph 2 above and are "
+"interested in linking to our website, you must inform us by sending an "
+"e-mail to Tiksss.com. Please include your name, your organization name, "
+"contact information as well as the URL of your site, a list of any URLs from"
+" which you intend to link to our Website, and a list of the URLs on our site"
+" to which you would like to link. Wait 2-3 weeks for a response."
+msgstr ""
+"यदि आप ऊपर पैरा 2 में सूचीबद्ध संगठनों में से एक हैं और हमारी वेबसाइट से "
+"जुड़ने में रुचि रखते हैं, तो आपको Tiksss.com पर एक ई-मेल भेजकर हमें सूचित "
+"करना होगा। कृपया अपना नाम, अपने संगठन का नाम, संपर्क जानकारी के साथ-साथ आपकी"
+" साइट का यूआरएल, किसी भी यूआरएल की सूची, जिससे आप हमारी वेबसाइट से लिंक करना"
+" चाहते हैं, और हमारी साइट पर यूआरएल की एक सूची शामिल करें जिससे आप चाहते "
+"हैं। संपर्क। प्रतिक्रिया के लिए 2-3 सप्ताह प्रतीक्षा करें।"
+
+#: templates/tandc.html:102
+msgid "Approved organizations may hyperlink to our Website as follows:"
+msgstr "स्वीकृत संगठन हमारी वेबसाइट से निम्नानुसार हाइपरलिंक कर सकते हैं:"
+
+#: templates/tandc.html:105
+msgid "By use of our corporate name; or"
+msgstr "हमारे कॉर्पोरेट नाम के उपयोग से; या"
+
+#: templates/tandc.html:108
+msgid "By use of the uniform resource locator being linked to; or"
+msgstr "यूनिफ़ॉर्म रिसोर्स लोकेटर के उपयोग से जोड़ा जा रहा है; या"
+
+#: templates/tandc.html:111
+msgid ""
+"By use of any other description of our Website being linked to that makes "
+"sense within the context and format of content on the linking party’s site."
+msgstr ""
+"हमारी वेबसाइट के किसी भी अन्य विवरण का उपयोग करने से लिंकिंग पार्टी की साइट "
+"पर सामग्री के संदर्भ और प्रारूप के भीतर यह समझ में आता है।"
+
+#: templates/tandc.html:114
+msgid ""
+"No use of Tiksss.com logo or other artwork will be allowed for linking "
+"absent a trademark license agreement."
+msgstr ""
+"अनुपस्थित ट्रेडमार्क लाइसेंस समझौते को जोड़ने के लिए Tiksss.com लोगो या अन्य"
+" कलाकृति के उपयोग की अनुमति नहीं दी जाएगी।"
+
+#: templates/tandc.html:115
+msgid "iFrames"
+msgstr "आईफ्रेम्स"
+
+#: templates/tandc.html:116
+msgid ""
+"Without prior approval and written permission, you may not create frames "
+"around our Webpages that alter in any way the visual presentation or "
+"appearance of our Website"
+msgstr ""
+"पूर्व स्वीकृति और लिखित अनुमति के बिना, आप हमारे वेबपेजों के चारों ओर ऐसे "
+"फ्रेम नहीं बना सकते हैं जो हमारी वेबसाइट की दृश्य प्रस्तुति या उपस्थिति में "
+"किसी भी तरह से बदलाव करते हैं।"
+
+#: templates/tandc.html:117
+msgid "Content Liability"
+msgstr "सामग्री दायित्व"
+
+#: templates/tandc.html:118
+msgid ""
+"We shall not be hold responsible for any content that appears on your "
+"Website. You agree to protect and defend us against all claims that is "
+"rising on your Website. No link(s) should appear on any Website that may be "
+"interpreted as libelous, obscene or criminal, or which infringes, otherwise "
+"violates, or advocates the infringement or other violation of, any third "
+"party rights"
+msgstr ""
+"आपकी वेबसाइट पर दिखाई देने वाली किसी भी सामग्री के लिए हम जिम्मेदार नहीं "
+"होंगे। आप अपनी वेबसाइट पर उठने वाले सभी दावों से हमें बचाने और बचाव करने के "
+"लिए सहमत हैं। किसी भी वेबसाइट पर कोई लिंक नहीं दिखना चाहिए, जिसकी व्याख्या "
+"अपमानजनक, अश्लील या अपराधी के रूप में की जा सकती है, या जो उल्लंघन करती है, "
+"अन्यथा उल्लंघन करती है, या किसी तीसरे पक्ष के अधिकारों के उल्लंघन या अन्य "
+"उल्लंघन की वकालत करती है।"
+
+#: templates/tandc.html:119
+msgid "Your Privacy"
+msgstr "आपकी गोपनीयता"
+
+#: templates/tandc.html:120
+msgid "Please read Privacy Policy"
+msgstr "कृपया गोपनीयता नीति पढ़ें"
+
+#: templates/tandc.html:121
+msgid "Reservation of Rights"
+msgstr "अधिकारों का आरक्षण"
+
+#: templates/tandc.html:122
+msgid ""
+"We reserve the right to request that you remove all links or any particular "
+"link to our Website. You approve to immediately remove all links to our "
+"Website upon request. We also reserve the right to amen these terms and "
+"conditions and it’s linking policy at any time. By continuously linking to "
+"our Website, you agree to be bound to and follow these linking terms and "
+"conditions"
+msgstr ""
+"हम अनुरोध करने का अधिकार सुरक्षित रखते हैं कि आप हमारी वेबसाइट के सभी लिंक "
+"या किसी विशेष लिंक को हटा दें। आप अनुरोध पर हमारी वेबसाइट के सभी लिंक को "
+"तुरंत हटाने की स्वीकृति देते हैं। हम किसी भी समय इन नियमों और शर्तों और इसकी"
+" लिंकिंग नीति में संशोधन करने का अधिकार सुरक्षित रखते हैं। हमारी वेबसाइट से "
+"लगातार लिंक करके, आप इन लिंकिंग नियमों और शर्तों के लिए बाध्य होने और उनका "
+"पालन करने के लिए सहमत हैं"
+
+#: templates/tandc.html:123
+msgid "Removal of links from our website"
+msgstr "हमारी वेबसाइट से लिंक हटाना"
+
+#: templates/tandc.html:124
+msgid ""
+"If you find any link on our Website that is offensive for any reason, you "
+"are free to contact and inform us any moment. We will consider requests to "
+"remove links but we are not obligated to or so or to respond to you directly"
+msgstr ""
+"यदि आपको हमारी वेबसाइट पर कोई ऐसा लिंक मिलता है जो किसी भी कारण से आपत्तिजनक"
+" है, तो आप किसी भी क्षण हमसे संपर्क करने और सूचित करने के लिए स्वतंत्र हैं। "
+"हम लिंक को हटाने के अनुरोधों पर विचार करेंगे, लेकिन हम या तो या सीधे आपको "
+"जवाब देने के लिए बाध्य नहीं हैं"
+
+#: templates/tandc.html:125
+msgid ""
+"We do not ensure that the information on this website is correct, we do not "
+"warrant its completeness or accuracy; nor do we promise to ensure that the "
+"website remains available or that the material on the website is kept up to "
+"date"
+msgstr ""
+"हम यह सुनिश्चित नहीं करते हैं कि इस वेबसाइट पर दी गई जानकारी सही है, हम इसकी"
+" पूर्णता या सटीकता की गारंटी नहीं देते हैं; न ही हम यह सुनिश्चित करने का "
+"वादा करते हैं कि वेबसाइट उपलब्ध रहे या वेबसाइट पर सामग्री अद्यतित रहे"
+
+#: templates/tandc.html:126
+msgid "Disclaimer"
+msgstr "अस्वीकरण"
+
+#: templates/tandc.html:127
+msgid ""
+"To the maximum extent permitted by applicable law, we exclude all "
+"representations, warranties and conditions relating to our website and the "
+"use of this website. Nothing in this disclaimer will"
+msgstr ""
+"लागू कानून द्वारा अनुमत अधिकतम सीमा तक, हम अपनी वेबसाइट और इस वेबसाइट के "
+"उपयोग से संबंधित सभी अभ्यावेदन, वारंटी और शर्तों को बाहर करते हैं। इस "
+"अस्वीकरण में कुछ भी नहीं होगा"
+
+#: templates/tandc.html:130
+msgid "limit or exclude our or your liability for death or personal injury;"
+msgstr ""
+"मृत्यु या व्यक्तिगत चोट के लिए हमारी या आपकी देयता को सीमित या बहिष्कृत "
+"करना;"
+
+#: templates/tandc.html:133
+msgid ""
+"limit or exclude our or your liability for fraud or fraudulent "
+"misrepresentation;"
+msgstr ""
+"धोखाधड़ी या कपटपूर्ण गलत बयानी के लिए हमारी या आपकी देयता को सीमित या "
+"बहिष्कृत करें;"
+
+#: templates/tandc.html:136
+msgid ""
+"limit any of our or your liabilities in any way that is not permitted under "
+"applicable law; or"
+msgstr ""
+"हमारी या आपकी किसी भी देनदारियों को किसी भी तरह से सीमित करें जो लागू कानून "
+"के तहत अनुमत नहीं है; या"
+
+#: templates/tandc.html:139
+msgid ""
+"exclude any of our or your liabilities that may not be excluded under "
+"applicable law."
+msgstr ""
+"हमारी या आपकी किसी भी देनदारी को बाहर करें जिसे लागू कानून के तहत बाहर नहीं "
+"किया जा सकता है।"
+
+#: templates/tandc.html:142
+msgid ""
+"The limitations and prohibitions of liability set in this Section and "
+"elsewhere in this disclaimer: (a) are subject to the preceding paragraph; "
+"and (b) govern all liabilities arising under the disclaimer, including "
+"liabilities arising in contract, in tort and for breach of statutory duty."
+msgstr ""
+"इस खंड में और इस अस्वीकरण में कहीं और निर्धारित देयता की सीमाएं और निषेध: "
+"(ए) पूर्ववर्ती पैराग्राफ के अधीन हैं; और (बी) अस्वीकरण के तहत उत्पन्न होने "
+"वाली सभी देनदारियों को नियंत्रित करता है, जिसमें अनुबंध में उत्पन्न होने "
+"वाली देनदारियां, अपकार में और वैधानिक कर्तव्य के उल्लंघन के लिए शामिल हैं।"
+
+#: templates/tandc.html:143
+msgid ""
+"As long as the website and the information and services on the website are "
+"provided free of charge, we will not be liable for any loss or damage of any"
+" nature."
+msgstr ""
+"जब तक वेबसाइट और वेबसाइट पर सूचना और सेवाएं निःशुल्क प्रदान की जाती हैं, तब "
+"तक हम किसी भी प्रकार के नुकसान या क्षति के लिए उत्तरदायी नहीं होंगे।"
+
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन डाउनलोड करें - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन फ्री में "
+"डाउनलोड करें। आप अपने फोन और लैपटॉप में बिना वॉटरमार्क के टिकटॉक वीडियो "
+"आसानी से डाउनलोड कर सकते हैं।"
+
+#: templates/without.html:13
+msgid "video without watermark"
+msgstr "वॉटरमार्क के बिना वीडियो"
+
+#: templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "बिना वॉटरमार्क ऑनलाइन टिकटॉक वीडियो डाउनलोड करें:"
+
+#: templates/without.html:29
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"बिना वॉटरमार्क या बिना वॉटरमार्क के टिकटॉक वीडियो डाउनलोड करें। मूल गुणवत्ता"
+" में वॉटरमार्क के बिना डाउनलोड वीडियो प्राप्त करने के लिए यह विधि बहुत ही "
+"अनोखी है। हमने इस टूल को बहुत आसान बना दिया है और यह विंडोज़, मैक ओएस, "
+"आईपैड, एंड्रॉइड डिवाइस पर आसानी से काम करता है। विशेष रूप से पीसी "
+"उपयोगकर्ताओं के लिए, उन्हें कोई अतिरिक्त सॉफ़्टवेयर या ऐप इंस्टॉल करने की "
+"आवश्यकता नहीं है और यह इस टिकटॉक नो वॉटरमार्क वीडियो डाउनलोड टूल की एकमात्र "
+"विशेषता है। के लिए जाओ"
+
+#: templates/without.html:29
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"और आप ड्रॉपडाउन मेनू देखेंगे उस पर क्लिक करें और &quot;वॉटरमार्क के "
+"बिना&quot; चुनें। अगले पेज पर बस लिंक पेस्ट करें और &quot;डाउनलोड बटन&quot; "
+"पर क्लिक करें। अपने वीडियो का डाउनलोड शुरू करने के लिए कुछ सेकंड प्रतीक्षा "
+"करें। आप &quot;वॉटरमार्क के साथ टिकटॉक वीडियो डाउनलोड करें&quot; भी कर सकते "
+"हैं और इसके लिए हमारी वेबसाइट होम पेज पर जाएं और 10 सेकंड से कम समय में अपना"
+" पसंदीदा वीडियो डाउनलोड करें।"
+
+#: templates/without.html:33
+msgid "Frequently Asked Questions "
+msgstr "लगातार पूछे जाने वाले प्रश्न"
+
+#: tiktok/settings.py:144
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+#: tiktok/settings.py:145
+msgid "Hindi"
+msgstr "हिंदी"
+
+#: tiktok/settings.py:146
+msgid "Italian"
+msgstr "इतालवी"
+
+#: tiktok/settings.py:147
+msgid "Polish"
+msgstr "पोलिश"
+
+#: tiktok/settings.py:148
+msgid "French"
+msgstr "फ्रेंच"
+
+#: tiktok/settings.py:149
+msgid "German"
+msgstr "जर्मन"
+
+#: tiktok/settings.py:150
+msgid "Spanish"
+msgstr "स्पेनिश"
+
+#: tiktok/settings.py:151
+msgid "Indonesian"
+msgstr "इन्डोनेशियाई"
+
+#: tiktok/settings.py:152
+msgid "Japanese"
+msgstr "जापानी"
+
+#: tiktok/settings.py:153
+msgid "Korean"
+msgstr "कोरियाई"
+
+#: tiktok/settings.py:154
+msgid "Portuguese"
+msgstr "पुर्तगाली"
+
+#: tiktok/settings.py:155
+msgid "Russian"
+msgstr "रूसी"
+
+#: tiktok/settings.py:156
+msgid "Arabic"
+msgstr "अरबी"
+
+#: tiktok/settings.py:157
+msgid "Turkish"
+msgstr "तुर्की"
+
+#: tiktok/settings.py:158
+msgid "Thai"
+msgstr "थाई"
+
+#: tiktok/settings.py:159
+msgid "Vietnamese"
+msgstr "वियतनामी"
+
+#: venv/lib/python3.8/site-packages/django/contrib/messages/apps.py:7
+msgid "Messages"
+msgstr "संदेशों"
+
+#: venv/lib/python3.8/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "साइट मानचित्र"
+
+#: venv/lib/python3.8/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "स्टेटिक फ़ाइलें"
+
+#: venv/lib/python3.8/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "सिंडिकेशन"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:51
+msgid "That page number is not an integer"
+msgstr "वह पृष्ठ संख्या एक पूर्णांक नहीं है"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:53
+msgid "That page number is less than 1"
+msgstr "वह पृष्ठ संख्या 1 . से कम है"
+
+#: venv/lib/python3.8/site-packages/django/core/paginator.py:58
+msgid "That page contains no results"
+msgstr "उस पृष्ठ में कोई परिणाम नहीं है"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr "एक वैध मान दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:93
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:664
+msgid "Enter a valid URL."
+msgstr "एक मान्य URL दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:150
+msgid "Enter a valid integer."
+msgstr "एक मान्य पूर्णांक दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:161
+msgid "Enter a valid email address."
+msgstr "एक वैध ई - मेल पते की प्रविष्टि करें।"
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.8/site-packages/django/core/validators.py:262
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"अक्षरों, संख्याओं, अंडरस्कोर या हाइफ़न से युक्त एक मान्य &quot;स्लग&quot; "
+"दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:269
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"यूनिकोड अक्षरों, संख्याओं, अंडरस्कोर या हाइफ़न से युक्त एक मान्य "
+"&quot;स्लग&quot; दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:278
+#: venv/lib/python3.8/site-packages/django/core/validators.py:288
+#: venv/lib/python3.8/site-packages/django/core/validators.py:311
+msgid "Enter a valid IPv4 address."
+msgstr "एक मान्य IPv4 पता दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:296
+#: venv/lib/python3.8/site-packages/django/core/validators.py:312
+msgid "Enter a valid IPv6 address."
+msgstr "एक मान्य IPv6 पता दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:306
+#: venv/lib/python3.8/site-packages/django/core/validators.py:310
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "एक मान्य IPv4 या IPv6 पता दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:340
+msgid "Enter only digits separated by commas."
+msgstr "केवल अल्पविराम से अलग किए गए अंक दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:346
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "सुनिश्चित करें कि यह मान %(limit_value)s है (यह %(show_value)sहै)।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:379
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "सुनिश्चित करें कि यह मान %(limit_value)sसे कम या उसके बराबर है।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:388
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "सुनिश्चित करें कि यह मान %(limit_value)sसे अधिक या उसके बराबर है।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:398
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"सुनिश्चित करें कि इस मान में कम से कम %(limit_value)d वर्ण है (इसमें "
+"%(show_value)dहै)।"
+msgstr[1] ""
+"सुनिश्चित करें कि इस मान में कम से कम %(limit_value)d वर्ण हैं (इसमें "
+"%(show_value)dहै)।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:413
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"सुनिश्चित करें कि इस मान में अधिकतम %(limit_value)d वर्ण है (इसमें "
+"%(show_value)dहै)।"
+msgstr[1] ""
+"सुनिश्चित करें कि इस मान में अधिकतम %(limit_value)d वर्ण हैं (इसमें "
+"%(show_value)dहै)।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:432
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:292
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:327
+msgid "Enter a number."
+msgstr "एक नंबर दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:434
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "सुनिश्चित करें कि कुल मिलाकर %(max)s से अधिक अंक नहीं हैं।"
+msgstr[1] "सुनिश्चित करें कि कुल मिलाकर %(max)s से अधिक अंक नहीं हैं।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:439
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "सुनिश्चित करें कि %(max)s दशमलव स्थान से अधिक नहीं हैं।"
+msgstr[1] "सुनिश्चित करें कि %(max)s दशमलव स्थानों से अधिक नहीं हैं।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:444
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+"सुनिश्चित करें कि दशमलव बिंदु से पहले %(max)s से अधिक अंक नहीं हैं।"
+msgstr[1] ""
+"सुनिश्चित करें कि दशमलव बिंदु से पहले %(max)s से अधिक अंक नहीं हैं।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:506
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"फ़ाइल एक्सटेंशन &quot;%(extension)s&quot; की अनुमति नहीं है। अनुमत एक्सटेंशन"
+" हैं: %(allowed_extensions)s।"
+
+#: venv/lib/python3.8/site-packages/django/core/validators.py:559
+msgid "Null characters are not allowed."
+msgstr "शून्य वर्णों की अनुमति नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1197
+#: venv/lib/python3.8/site-packages/django/forms/models.py:768
+msgid "and"
+msgstr "तथा"
+
+#: venv/lib/python3.8/site-packages/django/db/models/base.py:1199
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "%(model_name)s इसके साथ %(field_labels)s पहले से मौजूद है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:100
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "मान %(value)r मान्य विकल्प नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:101
+msgid "This field cannot be null."
+msgstr "यह क्षेत्र रिक्त नहीं हो सकता।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:102
+msgid "This field cannot be blank."
+msgstr "यह क्षेत्र रिक्त नहीं रह सकता।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:103
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "%(model_name)s इसके साथ %(field_label)s पहले से मौजूद है।"
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:107
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)s  %(date_field_label)s %(lookup_type)sके लिए अद्वितीय होना "
+"चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "प्रकार का क्षेत्र: %(field_type)s"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:958
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "&quot;%(value)s&quot; मान या तो सही या गलत होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:959
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "&quot;%(value)s&quot; मान या तो सही, गलत या कोई नहीं होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:961
+msgid "Boolean (Either True or False)"
+msgstr "बूलियन (या तो सही या गलत)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1002
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "स्ट्रिंग ( %(max_length)sतक)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1096
+msgid "Comma-separated integers"
+msgstr "अल्पविराम से अलग किए गए पूर्णांक"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1145
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"“%(value)s” मान का दिनांक प्रारूप अमान्य है। यह YYYY-MM-DD प्रारूप में होना "
+"चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1147
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1290
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"“%(value)s” मान का प्रारूप सही है (YYYY-MM-DD) लेकिन यह एक अमान्य तिथि है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
+msgid "Date (without time)"
+msgstr "दिनांक (बिना समय के)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1288
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"“%(value)s” मान का प्रारूप अमान्य है। यह YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] "
+"प्रारूप में होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1292
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"“%(value)s” मान का प्रारूप सही है (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) लेकिन"
+" यह एक अमान्य दिनांक/समय है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1296
+msgid "Date (with time)"
+msgstr "तिथि (समय के साथ)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "&quot;%(value)s&quot; मान एक दशमलव संख्या होनी चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
+msgid "Decimal number"
+msgstr "दशमलव संख्या"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1585
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+"“%(value)s” मान का प्रारूप अमान्य है। यह [डीडी] [[एचएच:]एमएम:]एसएस[.uuuuuu] "
+"प्रारूप में होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1588
+msgid "Duration"
+msgstr "समयांतराल"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1638
+msgid "Email address"
+msgstr "ईमेल पता"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1661
+msgid "File path"
+msgstr "दस्तावेज पथ"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1727
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "&quot;%(value)s&quot; मान एक फ्लोट होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1729
+msgid "Floating point number"
+msgstr "चल बिन्दु संख्या"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "&quot;%(value)s&quot; मान एक पूर्णांक होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1769
+msgid "Integer"
+msgstr "पूर्णांक"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1852
+msgid "Big (8 byte) integer"
+msgstr "बड़ा (8 बाइट) पूर्णांक"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1867
+msgid "Small integer"
+msgstr "छोटा पूर्णांक"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1875
+msgid "IPv4 address"
+msgstr "आईपीवी4 पता"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1906
+msgid "IP address"
+msgstr "आईपी पता"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1986
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1987
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "&quot;%(value)s&quot; मान या तो कोई नहीं, सही या गलत होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1989
+msgid "Boolean (Either True, False or None)"
+msgstr "बूलियन (या तो सही, गलत या कोई नहीं)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2043
+msgid "Positive big integer"
+msgstr "सकारात्मक बड़ा पूर्णांक"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2056
+msgid "Positive integer"
+msgstr "सकारात्मक पूर्णांक"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2069
+msgid "Positive small integer"
+msgstr "सकारात्मक छोटा पूर्णांक"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2083
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "स्लग ( %(max_length)sतक)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2115
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2181
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"“%(value)s” मान का प्रारूप अमान्य है। यह HH:MM[:ss[.uuuuuu]] प्रारूप में "
+"होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2183
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"“%(value)s” मान का प्रारूप सही है (HH:MM[:ss[.uuuuuu]]) लेकिन यह एक अमान्य "
+"समय है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2186
+msgid "Time"
+msgstr "समय"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2312
+msgid "URL"
+msgstr "यूआरएल"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2334
+msgid "Raw binary data"
+msgstr "कच्चा बाइनरी डेटा"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2399
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "&quot;%(value)s&quot; मान्य UUID नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2401
+msgid "Universally unique identifier"
+msgstr "सार्वभौमिक रूप से विशिष्ट पहचानकर्ता"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:226
+msgid "File"
+msgstr "फ़ाइल"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/files.py:375
+msgid "Image"
+msgstr "छवि"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:18
+msgid "A JSON object"
+msgstr "एक JSON ऑब्जेक्ट"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/json.py:20
+msgid "Value must be valid JSON."
+msgstr "मान मान्य JSON होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:790
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "%(model)s उदाहरण %(field)s %(value)r के साथ मौजूद नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:792
+msgid "Foreign Key (type determined by related field)"
+msgstr "विदेशी कुंजी (संबंधित क्षेत्र द्वारा निर्धारित प्रकार)"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1045
+msgid "One-to-one relationship"
+msgstr "एक-से-एक संबंध"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1099
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "__से__-__से__ संबंध"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1100
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "__से__-__से__संबंध"
+
+#: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
+msgid "Many-to-many relationship"
+msgstr "कई-से-अनेक संबंध"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: venv/lib/python3.8/site-packages/django/forms/boundfield.py:150
+msgid ":?.!"
+msgstr ":?.!"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:54
+msgid "This field is required."
+msgstr "यह फ़ील्ड आवश्यक है।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:247
+msgid "Enter a whole number."
+msgstr "एक पूर्ण संख्या दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:391
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1132
+msgid "Enter a valid date."
+msgstr "एक वैद्य तिथि प्रविष्ट करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:415
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1133
+msgid "Enter a valid time."
+msgstr "एक मान्य समय दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:443
+msgid "Enter a valid date/time."
+msgstr "मान्य दिनांक/समय दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:477
+msgid "Enter a valid duration."
+msgstr "एक मान्य अवधि दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:478
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "दिनों की संख्या {min_days} और {max_days} के बीच होनी चाहिए."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:538
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "कोई फाइल जमा नहीं की गई। प्रपत्र पर एन्कोडिंग प्रकार की जाँच करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:539
+msgid "No file was submitted."
+msgstr "कोई फाइल जमा नहीं की गई।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:540
+msgid "The submitted file is empty."
+msgstr "सबमिट की गई फ़ाइल खाली है."
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:542
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"सुनिश्चित करें कि इस फ़ाइल नाम में अधिकतम %(max)d वर्ण है (इसमें __लंबाई__ "
+"है)।"
+msgstr[1] ""
+"सुनिश्चित करें कि इस फ़ाइल नाम में अधिकतम %(max)d वर्ण हैं (इसमें __लंबाई__ "
+"है)।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:545
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+"कृपया या तो कोई फ़ाइल सबमिट करें या स्पष्ट चेकबॉक्स चेक करें, दोनों नहीं।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:606
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"एक मान्य छवि अपलोड करें। आपके द्वारा अपलोड की गई फ़ाइल या तो कोई छवि या "
+"दूषित छवि नहीं थी।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:768
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:858
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1309
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "एक वैध विकल्प चुनें। %(value)s उपलब्ध विकल्पों में से एक नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:859
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:974
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1308
+msgid "Enter a list of values."
+msgstr "मूल्यों की एक सूची दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:975
+msgid "Enter a complete value."
+msgstr "एक पूर्ण मान दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1191
+msgid "Enter a valid UUID."
+msgstr "एक मान्य यूयूआईडी दर्ज करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/fields.py:1221
+msgid "Enter a valid JSON."
+msgstr "एक मान्य JSON दर्ज करें।"
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:76
+msgid ":"
+msgstr ":"
+
+#: venv/lib/python3.8/site-packages/django/forms/forms.py:203
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(छिपा हुआ क्षेत्र %(name)s) __त्रुटि__"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"ManagementForm डेटा गायब है या उसके साथ छेड़छाड़ की गई है। अनुपलब्ध फ़ील्ड: "
+"%(field_names)s। यदि समस्या बनी रहती है, तो आपको बग रिपोर्ट दर्ज करने की "
+"आवश्यकता हो सकती है।"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:370
+#, python-format
+msgid "Please submit at most %d form."
+msgid_plural "Please submit at most %d forms."
+msgstr[0] "कृपया अधिक से अधिक __नंबर__ फॉर्म जमा करें।"
+msgstr[1] "कृपया अधिक से अधिक __नंबर__ फॉर्म जमा करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
+#, python-format
+msgid "Please submit at least %d form."
+msgid_plural "Please submit at least %d forms."
+msgstr[0] "कृपया कम से कम __नंबर__ फॉर्म जमा करें।"
+msgstr[1] "कृपया कम से कम __नंबर__ फॉर्म जमा करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:412
+msgid "Order"
+msgstr "गण"
+
+#: venv/lib/python3.8/site-packages/django/forms/formsets.py:417
+msgid "Delete"
+msgstr "हटाएं"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:763
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "कृपया %(field)sके लिए डुप्लीकेट डेटा को सही करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:767
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+"कृपया %(field)sके लिए डुप्लीकेट डेटा सही करें, जो अद्वितीय होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:773
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"कृपया %(field_name)s के लिए डुप्लिकेट डेटा को ठीक करें जो %(lookup)s में "
+"%(date_field)sके लिए अद्वितीय होना चाहिए।"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:782
+msgid "Please correct the duplicate values below."
+msgstr "कृपया नीचे दिए गए डुप्लिकेट मानों को ठीक करें।"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1109
+msgid "The inline value did not match the parent instance."
+msgstr "इनलाइन मान पैरेंट इंस्टेंस से मेल नहीं खाता।"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1193
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr "एक वैध विकल्प चुनें। वह विकल्प उपलब्ध विकल्पों में से एक नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/forms/models.py:1311
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "&quot;%(pk)s&quot; मान्य मान नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/forms/utils.py:172
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s समय क्षेत्र %(current_timezone)sमें व्याख्या नहीं किया जा सका; "
+"यह अस्पष्ट हो सकता है या यह अस्तित्व में नहीं हो सकता है।"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:403
+msgid "Clear"
+msgstr "स्पष्ट"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:404
+msgid "Currently"
+msgstr "वर्तमान में"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:405
+msgid "Change"
+msgstr "खुले पैसे"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:714
+msgid "Unknown"
+msgstr "अनजान"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:715
+msgid "Yes"
+msgstr "हाँ"
+
+#: venv/lib/python3.8/site-packages/django/forms/widgets.py:716
+msgid "No"
+msgstr "नहीं न"
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:805
+msgid "yes,no,maybe"
+msgstr "हां नहीं शायद"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:834
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:851
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "__आकार__ बाइट"
+msgstr[1] "__आकार__ बाइट्स"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:853
+#, python-format
+msgid "%s KB"
+msgstr "%s केबी"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:855
+#, python-format
+msgid "%s MB"
+msgstr "%s एमबी"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:857
+#, python-format
+msgid "%s GB"
+msgstr "%s जीबी"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:859
+#, python-format
+msgid "%s TB"
+msgstr "%s टीबी"
+
+#: venv/lib/python3.8/site-packages/django/template/defaultfilters.py:861
+#, python-format
+msgid "%s PB"
+msgstr "%s पीबी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:66
+msgid "p.m."
+msgstr "बजे"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:67
+msgid "a.m."
+msgstr "बजे"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:72
+msgid "PM"
+msgstr "बजे"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:73
+msgid "AM"
+msgstr "बजे"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:146
+msgid "midnight"
+msgstr "आधी रात"
+
+#: venv/lib/python3.8/site-packages/django/utils/dateformat.py:148
+msgid "noon"
+msgstr "दोपहर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Monday"
+msgstr "सोमवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Thursday"
+msgstr "गुरूवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:6
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Saturday"
+msgstr "शनिवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:7
+msgid "Sunday"
+msgstr "रविवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Mon"
+msgstr "सोमवार"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Tue"
+msgstr "मंगल"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Wed"
+msgstr "बुध"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Thu"
+msgstr "गुरु"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:10
+msgid "Fri"
+msgstr "शुक्र"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sat"
+msgstr "बैठ गया"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:11
+msgid "Sun"
+msgstr "रवि"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "January"
+msgstr "जनवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "February"
+msgstr "फ़रवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "March"
+msgstr "जुलूस"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "April"
+msgstr "अप्रैल"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "May"
+msgstr "मई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:14
+msgid "June"
+msgstr "जून"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "July"
+msgstr "जुलाई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "August"
+msgstr "अगस्त"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "September"
+msgstr "सितंबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "October"
+msgstr "अक्टूबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:15
+msgid "November"
+msgstr "नवंबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:16
+msgid "December"
+msgstr "दिसंबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jan"
+msgstr "जनवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "feb"
+msgstr "फ़रवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "mar"
+msgstr "मार्च"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "apr"
+msgstr "अप्रैल"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "may"
+msgstr "मई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:19
+msgid "jun"
+msgstr "जून"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "jul"
+msgstr "जुलाई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "aug"
+msgstr "अगस्त"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "sep"
+msgstr "सितम्बर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "oct"
+msgstr "अक्टूबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "nov"
+msgstr "नवम्बर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:20
+msgid "dec"
+msgstr "दिसम्बर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "जनवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "फ़रवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "जुलूस"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "अप्रैल"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "मई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "जून"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "जुलाई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "अगस्त"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "सितम्बर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "अक्टूबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "नवम्बर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "दिसम्बर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr "जनवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr "फ़रवरी"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr "जुलूस"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr "अप्रैल"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr "मई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr "जून"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr "जुलाई"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr "अगस्त"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr "सितंबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr "अक्टूबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr "नवंबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr "दिसंबर"
+
+#: venv/lib/python3.8/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "यह एक मान्य IPv6 पता नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:71
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "__छंटनी_पाठ__…"
+
+#: venv/lib/python3.8/site-packages/django/utils/text.py:240
+msgid "or"
+msgstr "या"
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.8/site-packages/django/utils/text.py:259
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:94
+msgid ", "
+msgstr ","
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "__संख्या__ वर्ष"
+msgstr[1] "__संख्या__ वर्ष"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "__संख्या__ माह"
+msgstr[1] "__संख्या__ महीने"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "__संख्या__ सप्ताह"
+msgstr[1] "__संख्या__ सप्ताह"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "__संख्या__ दिन"
+msgstr[1] "__संख्या__ दिन"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "__संख्या__ घंटा"
+msgstr[1] "__संख्या__ घंटे"
+
+#: venv/lib/python3.8/site-packages/django/utils/timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "__संख्या__ मिनट"
+msgstr[1] "__संख्या__ मिनट"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:110
+msgid "Forbidden"
+msgstr "मना किया हुआ"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr "सीएसआरएफ सत्यापन विफल। अनुरोध निरस्त किया गया।"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"आप यह संदेश इसलिए देख रहे हैं क्योंकि इस HTTPS साइट को आपके वेब ब्राउज़र "
+"द्वारा भेजे जाने के लिए &quot;रेफ़रल हेडर&quot; की आवश्यकता है, लेकिन कोई भी"
+" नहीं भेजा गया था। यह हेडर सुरक्षा कारणों से आवश्यक है, यह सुनिश्चित करने के"
+" लिए कि आपका ब्राउज़र तीसरे पक्ष द्वारा अपहृत नहीं किया जा रहा है।"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:120
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"यदि आपने &quot;रेफरर&quot; हेडर को अक्षम करने के लिए अपने ब्राउज़र को "
+"कॉन्फ़िगर किया है, तो कृपया उन्हें कम से कम इस साइट के लिए, या HTTPS कनेक्शन"
+" के लिए, या &quot;समान-मूल&quot; अनुरोधों के लिए पुन: सक्षम करें।"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"यदि आप का उपयोग कर रहे हैं<meta name=\"referrer\" content=\"no-referrer\"> "
+"टैग या &quot;रेफरर-पॉलिसी: नो-रेफरर&quot; हेडर सहित, कृपया उन्हें हटा दें। "
+"सीएसआरएफ सुरक्षा के लिए &quot;रेफरर&quot; हेडर की सख्त रेफरर जांच करने की "
+"आवश्यकता होती है। यदि आप गोपनीयता के बारे में चिंतित हैं, तो <a "
+"rel=\"noreferrer\" …>तृतीय-पक्ष साइटों के लिंक के लिए विकल्पों का उपयोग "
+"करें।</a>"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"आप यह संदेश इसलिए देख रहे हैं क्योंकि फॉर्म जमा करते समय इस साइट को एक "
+"सीएसआरएफ कुकी की आवश्यकता होती है। सुरक्षा कारणों से यह कुकी आवश्यक है, यह "
+"सुनिश्चित करने के लिए कि आपके ब्राउज़र को तृतीय पक्षों द्वारा अपहृत नहीं "
+"किया जा रहा है।"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"यदि आपने कुकीज़ को अक्षम करने के लिए अपने ब्राउज़र को कॉन्फ़िगर किया है, तो "
+"कृपया उन्हें कम से कम इस साइट के लिए, या &quot;समान-मूल&quot; अनुरोधों के "
+"लिए पुन: सक्षम करें।"
+
+#: venv/lib/python3.8/site-packages/django/views/csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr "अधिक जानकारी DEBUG=True के साथ उपलब्ध है।"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:41
+msgid "No year specified"
+msgstr "कोई वर्ष निर्दिष्ट नहीं"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:61
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:111
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:208
+msgid "Date out of range"
+msgstr "तिथि सीमा से बाहर"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:90
+msgid "No month specified"
+msgstr "कोई महीना निर्दिष्ट नहीं"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:142
+msgid "No day specified"
+msgstr "कोई दिन निर्दिष्ट नहीं"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:188
+msgid "No week specified"
+msgstr "कोई सप्ताह निर्दिष्ट नहीं"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:338
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "कोई %(verbose_name_plural)s उपलब्ध नहीं है"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:594
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+"भविष्य %(verbose_name_plural)s उपलब्ध नहीं है क्योंकि "
+"%(class_name)s.allow_future गलत है।"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/dates.py:628
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+"अमान्य दिनांक स्ट्रिंग &quot;%(datestr)s&quot; दिया गया प्रारूप "
+"&quot;%(format)s&quot;"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "कोई %(verbose_name)s क्वेरी से मेल नहीं खाता"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:67
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "पृष्ठ &quot;अंतिम&quot; नहीं है, न ही इसे एक इंट में बदला जा सकता है।"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "अमान्य पृष्ठ (__पृष्ठ_संख्या__):%(page_number)s"
+
+#: venv/lib/python3.8/site-packages/django/views/generic/list.py:154
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "खाली सूची और &quot;%(class_name)s.allow_empty&quot; गलत है।"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr "यहां निर्देशिका अनुक्रमणिका की अनुमति नहीं है।"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:42
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "&quot;%(path)s&quot; मौजूद नहीं है"
+
+#: venv/lib/python3.8/site-packages/django/views/static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "__निर्देशिका__ का सूचकांक"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "इंस्टॉल सफलतापूर्वक काम किया! बधाई हो!"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"Django%(version)sके लिए <a href=\"https://docs.djangoproject.com/en/ "
+"%(version)s/releases/\" target=\"_blank\" rel=\"noopener\">रिलीज़ नोट</a> "
+"देखें"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"आप यह पृष्ठ इसलिए देख रहे हैं क्योंकि <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> आपकी सेटिंग फ़ाइल में है "
+"और आपने कोई URL कॉन्फ़िगर नहीं किया है।"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr "Django दस्तावेज़ीकरण"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "विषय, संदर्भ, और कैसे करें"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "ट्यूटोरियल: एक मतदान ऐप"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "Django के साथ आरंभ करें"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr "Django समुदाय"
+
+#: venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "कनेक्ट करें, सहायता प्राप्त करें या योगदान करें"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:368
+#, python-format
+msgid "Content purported to be compressed with %s but failed to decompress."
+msgstr ""
+"सामग्री को %s के साथ संपीड़ित करने के लिए कहा गया है लेकिन डीकंप्रेस करने "
+"में विफल रहा है।"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:532
+#, python-format
+msgid "Unsupported value for qop: %s."
+msgstr "qop के लिए असमर्थित मान: %s।"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:536
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:614
+#, python-format
+msgid "Unsupported value for algorithm: %s."
+msgstr "एल्गोरिथम के लिए असमर्थित मान: %s।"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:609
+msgid "The challenge doesn't contain a server nonce, or this one is empty."
+msgstr "चुनौती में एक सर्वर नहीं है, या यह खाली है।"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:619
+#, python-format
+msgid "Unsupported value for pw-algorithm: %s."
+msgstr "pw-एल्गोरिदम के लिए असमर्थित मान: %s।"
+
+#: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
+msgid "Redirected but the response is missing a Location: header."
+msgstr "पुनर्निर्देशित लेकिन प्रतिक्रिया में स्थान गुम है: शीर्षलेख।"
