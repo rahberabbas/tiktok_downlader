@@ -19,7 +19,7 @@ def download3(request):
         global rtr
         global x
         url = request.POST.get('url')
-        if "www.tiktok.com" in url:
+        if "tiktok.com" in url:
             url = url
             rtr = functions.without(url=url)
             short = pyshorteners.Shortener()
