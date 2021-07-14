@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-10 19:36+0530\n"
+"POT-Creation-Date: 2021-07-14 23:25+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,13 +101,14 @@ msgstr ""
 "công cụ chuyển đổi sang mp3 trực tuyến miễn phí - Công cụ chuyển đổi video "
 "sang mp3 trực tuyến TikTok"
 
-#: templates/audio.html:15 templates/index.html:12
+#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
 msgid "Enter the URL Here"
 msgstr "Nhập URL tại đây"
 
 #: templates/audio.html:24 templates/audio_cutter.html:26
-#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
-#: templates/without.html:23
+#: templates/cutter.html:26 templates/index.html:21
+#: templates/watermark.html:13 templates/watermark.html:23
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "Tải xuống"
 
@@ -157,7 +158,7 @@ msgstr ""
 "Chọn URL video trên TikTok mà bạn muốn chuyển đổi thành định dạng mp3."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Sao chép liên kết video đã chọn trên điện thoại thông minh / máy tính hoặc "
@@ -177,7 +178,7 @@ msgstr ""
 "Chèn liên kết video TikTok vào trường và nhấn &quot;Nút chuyển đổi&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/without.html:50
+#: templates/index.html:36 templates/watermark.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Bây giờ bạn sẽ thấy một nút tải xuống, nhấp vào tải xuống."
 
@@ -189,7 +190,8 @@ msgstr ""
 "Chỉ cần đợi vài giây là bạn có thể tải video trực tiếp về máy của mình."
 
 #: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+#: templates/faq.html:87 templates/index.html:38 templates/watermark.html:56
+#: templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -289,47 +291,47 @@ msgstr ""
 "chúng tôi hơn Vui lòng chia sẻ trang web của chúng tôi với bạn bè và thành "
 "viên gia đình của bạn. Cảm ơn!"
 
-#: templates/base.html:42
+#: templates/base.html:43
 msgid "Home"
 msgstr "Trang Chủ"
 
-#: templates/base.html:44 templates/base.html:46
+#: templates/base.html:45 templates/base.html:47
 msgid "Tools"
 msgstr "Công cụ"
 
-#: templates/base.html:48
+#: templates/base.html:49
 msgid "Download With Watermark"
 msgstr "Tải xuống với hình mờ"
 
-#: templates/base.html:51
+#: templates/base.html:52
 msgid "Download Without Watermark"
 msgstr "Tải xuống không có hình mờ"
 
-#: templates/base.html:52
+#: templates/base.html:53
 msgid "Download Audio"
 msgstr "Tải xuống âm thanh"
 
-#: templates/base.html:53
+#: templates/base.html:54
 msgid "Video Cutter"
 msgstr "Máy cắt video"
 
-#: templates/base.html:54
+#: templates/base.html:55
 msgid "Audio Cutter"
 msgstr "Máy cắt âm thanh"
 
-#: templates/base.html:58
+#: templates/base.html:59
 msgid "About"
 msgstr "Trong khoảng"
 
-#: templates/base.html:112 templates/privacypolicy.html:10
+#: templates/base.html:113 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Chính sách bảo mật"
 
-#: templates/base.html:115 templates/tandc.html:10
+#: templates/base.html:116 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Các điều khoản và điều kiện"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "FAQ"
 msgstr "Câu hỏi thường gặp"
 
@@ -354,9 +356,9 @@ msgid ""
 "Here you go. TikTok Video Cutter Online Free Tool provides you a solution "
 "for your content creation. While using this tool on our website "
 msgstr ""
-"Của bạn đây. Công cụ miễn phí trực tuyến TikTok Video Cutter cung cấp cho "
-"bạn giải pháp để tạo nội dung. Trong khi sử dụng công cụ này trên trang web "
-"của chúng tôi"
+"Của bạn đây. TikTok Video Cutter Online Free Tool cung cấp cho bạn một giải "
+"pháp để tạo nội dung. Trong khi sử dụng công cụ này trên trang web của chúng"
+" tôi"
 
 #: templates/cutter.html:32
 msgid ""
@@ -527,15 +529,15 @@ msgid ""
 msgstr ""
 "Chỉ cần đợi vài giây là bạn có thể tải video trực tiếp về máy của mình"
 
-#: templates/faq.html:67 templates/without.html:36
+#: templates/faq.html:67 templates/watermark.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Cách tải video Tiktok mà không có Watermark:"
 
-#: templates/faq.html:72 templates/without.html:41
+#: templates/faq.html:72 templates/watermark.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "Chọn một video trên ứng dụng hoặc web TikTok mà bạn muốn tải xuống."
 
-#: templates/faq.html:78 templates/without.html:47
+#: templates/faq.html:78 templates/watermark.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -544,7 +546,7 @@ msgstr ""
 " tôi. Công cụ này là &quot;Tải xuống video Tiktok Không có hình mờ&quot; và "
 "nhấn &quot;Nút tìm kiếm&quot;."
 
-#: templates/faq.html:84 templates/without.html:53
+#: templates/faq.html:84 templates/watermark.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -587,22 +589,22 @@ msgid ""
 "mobile or laptop but they can’t download it. So do not worry about it. I "
 "have made this tool for you people only to "
 msgstr ""
-"là một công cụ tuyệt vời dành cho những người yêu thích TikTok để lưu video "
+"là một công cụ tuyệt vời cho những người yêu thích TikTok để lưu video "
 "TikTok vào thiết bị của bạn chỉ với một cú nhấp chuột. Công cụ này được "
 "thiết kế rất đơn giản và mọi người đều có thể sử dụng nó một cách dễ dàng mà"
 " không gặp bất kỳ rắc rối nào. Tất cả chúng ta đều thích xem video Tik Tok "
-"trên thiết bị của chúng ta, chúng vẫn còn trong nhật ký của chúng ta nếu "
-"chúng ta muốn xem lại những video đó nhưng tôi đã nhận thấy rằng các video "
-"đó không còn khả dụng và nó bị mất do phản hồi tuyệt vời mà nền tảng tạo ra "
-"mỗi ngày. đầy đủ quá mức. TikTok không cho phép bạn tải xuống hoặc lưu video"
-" trên các thiết bị ưa thích của bạn. Nhưng những video được tải lên từ phía "
-"người dùng có sẵn trên trang web hoặc ứng dụng chính thức của họ với rất "
-"nhiều hạn chế. Vì vậy, câu hỏi đặt ra là làm thế nào để giải quyết tất cả "
-"các vấn đề tải xuống video này. Vì vậy, tôi đã quyết định tạo ra một công cụ"
-" sẽ dễ sử dụng cho tất cả mọi người vì bao gồm cả tôi, có hàng triệu người "
-"trên nền tảng này để xem video TikTok trên thiết bị di động hoặc máy tính "
-"xách tay nhưng họ không thể tải xuống. Vì vậy, đừng lo lắng về nó. Tôi đã "
-"làm công cụ này cho bạn, những người chỉ để"
+"trên thiết bị của chúng ta. Các video này vẫn còn trong nhật ký của chúng ta"
+" nếu chúng ta muốn xem lại những video đó nhưng tôi đã nhận thấy rằng các "
+"video đó không còn khả dụng nữa và nó bị mất do phản hồi tuyệt vời mà nền "
+"tảng tạo ra mỗi ngày. đầy đủ quá mức. TikTok không cho phép bạn tải xuống "
+"hoặc lưu video trên các thiết bị ưa thích của bạn. Nhưng những video được "
+"tải lên từ phía người dùng có sẵn trên trang web hoặc ứng dụng chính thức "
+"của họ với rất nhiều hạn chế. Vì vậy, câu hỏi đặt ra là làm thế nào để giải "
+"quyết tất cả các vấn đề tải xuống video này. Vì vậy, tôi đã quyết định tạo "
+"ra một công cụ sẽ dễ sử dụng cho tất cả mọi người vì bao gồm cả tôi, có hàng"
+" triệu người trên nền tảng này để xem video TikTok trên thiết bị di động "
+"hoặc máy tính xách tay nhưng họ không thể tải xuống. Vì vậy, đừng lo lắng về"
+" nó. Tôi đã làm công cụ này cho bạn, những người chỉ để"
 
 #: templates/index.html:23
 msgid "I proud myself to introduce an amazing "
@@ -901,8 +903,8 @@ msgstr ""
 "tin về bạn và các hoạt động trực tuyến của bạn, trên Trang web hoặc trên các"
 " trang web khác, thông qua cookie, đèn hiệu web và các công nghệ khác nhằm "
 "tìm hiểu sở thích của bạn và cung cấp cho bạn những quảng cáo phù hợp với sở"
-" thích của bạn. Các thông lệ về thông tin của các bên thứ ba này không được "
-"đề cập trong chính sách bảo mật này"
+" thích của bạn. Các hoạt động cung cấp thông tin của các bên thứ ba này "
+"không được đề cập trong chính sách bảo mật này"
 
 #: templates/privacypolicy.html:28
 msgid ""
@@ -918,14 +920,14 @@ msgid ""
 msgstr ""
 "Chúng tôi không bán, trao đổi hoặc chuyển giao cho các bên bên ngoài thông "
 "tin nhận dạng cá nhân của bạn. Điều này không bao gồm các bên thứ ba đáng "
-"tin cậy, những người hỗ trợ chúng tôi vận hành trang web của chúng tôi, tiến"
-" hành hoạt động kinh doanh của chúng tôi hoặc phục vụ bạn, miễn là các bên "
-"đó đồng ý giữ bí mật thông tin này. Chúng tôi cũng có thể tiết lộ thông tin "
-"của bạn khi chúng tôi tin rằng việc phát hành là phù hợp để tuân thủ luật "
-"pháp, thực thi các chính sách trang web của chúng tôi hoặc bảo vệ quyền, tài"
-" sản hoặc sự an toàn của chúng tôi hoặc những người khác. Tuy nhiên, thông "
-"tin khách truy cập không nhận dạng cá nhân có thể được cung cấp cho các bên "
-"khác để tiếp thị, quảng cáo hoặc các mục đích sử dụng khác"
+"tin cậy, những người hỗ trợ chúng tôi điều hành trang web của chúng tôi, "
+"tiến hành hoạt động kinh doanh của chúng tôi hoặc phục vụ bạn, miễn là các "
+"bên đó đồng ý giữ bí mật thông tin này. Chúng tôi cũng có thể tiết lộ thông "
+"tin của bạn khi chúng tôi tin rằng việc phát hành là phù hợp để tuân thủ "
+"luật pháp, thực thi các chính sách trang web của chúng tôi hoặc bảo vệ "
+"quyền, tài sản hoặc sự an toàn của chúng tôi hoặc người khác. Tuy nhiên, "
+"thông tin khách truy cập không nhận dạng cá nhân có thể được cung cấp cho "
+"các bên khác để tiếp thị, quảng cáo hoặc các mục đích sử dụng khác"
 
 #: templates/privacypolicy.html:31
 msgid ""
@@ -1230,7 +1232,7 @@ msgstr ""
 "chúng tôi được liệt kê dưới đây. Mỗi đối tác quảng cáo của chúng tôi có "
 "Chính sách bảo mật riêng cho các chính sách của họ về dữ liệu người dùng. Để"
 " truy cập dễ dàng hơn, chúng tôi đã liên kết siêu liên kết với Chính sách "
-"quyền riêng tư của họ bên dưới."
+"bảo mật của họ bên dưới."
 
 #: templates/privacypolicy.html:82
 msgid "Changes to This Privacy Policy"
@@ -1475,8 +1477,8 @@ msgstr ""
 "&quot;Bên&quot;, &quot;Các bên&quot; hoặc &quot;Chúng tôi&quot;, đề cập đến "
 "cả Khách hàng và chính chúng tôi. Tất cả các điều khoản đề cập đến việc chấp"
 " nhận và xem xét thanh toán cần thiết để thực hiện quá trình hỗ trợ của "
-"chúng tôi cho Clien theo cách thích hợp nhất với mục đích rõ ràng là đáp ứng"
-" nhu cầu của Khách hàng liên quan đến việc cung cấp các dịch vụ đã nêu của "
+"chúng tôi cho Clien theo cách phù hợp nhất với mục đích rõ ràng là đáp ứng "
+"nhu cầu của Khách hàng liên quan đến việc cung cấp các dịch vụ đã nêu của "
 "Công ty, phù hợp và tuân theo , luật hiện hành của Hà Lan. Bất kỳ cách sử "
 "dụng thuật ngữ nào ở trên hoặc các từ khác ở dạng số ít, số nhiều, viết hoa "
 "và / hoặc anh ấy / cô ấy hoặc chúng, đều có thể hoán đổi cho nhau và do đó "
@@ -1556,16 +1558,16 @@ msgid ""
 "caused and/or suffered as a result of any use of and/or posting of and/or "
 "appearance of Comments on this website."
 msgstr ""
-"Các phần của trang web này tạo cơ hội cho người dùng đăng tải và trao đổi ý "
-"kiến cũng như thông tin trong các lĩnh vực nhất định của trang web. "
-"Tiksss.com không lọc, chỉnh sửa, xuất bản hoặc xem xét các Bình luận trước "
-"khi có mặt trên trang web. Nhận xét không phản ánh quan điểm và ý kiến của "
-"Tiksss.com, đại lý của nó, một chi nhánh. Bình luận phản ánh quan điểm và ý "
-"kiến của người đăng quan điểm và ý kiến của họ. Trong phạm vi luật pháp hiện"
-" hành cho phép, Tiksss.com sẽ không chịu trách nhiệm đối với các Nhận xét "
-"hoặc bất kỳ thiệt hại hoặc chi phí liên quan nào gây ra và / hoặc phải gánh "
-"chịu do bất kỳ việc sử dụng và / hoặc đăng và / hoặc sự xuất hiện của các "
-"Nhận xét trên trang web này ."
+"Các phần của trang web này tạo cơ hội cho người dùng đăng và trao đổi ý kiến"
+" cũng như thông tin trong các lĩnh vực nhất định của trang web. Tiksss.com "
+"không lọc, chỉnh sửa, xuất bản hoặc xem xét các Bình luận trước khi có mặt "
+"trên trang web. Nhận xét không phản ánh quan điểm và ý kiến của Tiksss.com, "
+"đại lý của nó, một chi nhánh. Bình luận phản ánh quan điểm và ý kiến của "
+"người đăng quan điểm và ý kiến của họ. Trong phạm vi luật pháp hiện hành cho"
+" phép, Tiksss.com sẽ không chịu trách nhiệm đối với Nhận xét hoặc bất kỳ "
+"thiệt hại hoặc chi phí hợp pháp nào gây ra và / hoặc phải chịu do bất kỳ "
+"việc sử dụng và / hoặc đăng và / hoặc sự xuất hiện của Nhận xét trên trang "
+"web này ."
 
 #: templates/tandc.html:37
 msgid ""
@@ -1634,7 +1636,7 @@ msgid ""
 "The following organizations may link to our Website without prior written "
 "approval"
 msgstr ""
-"Các tổ chức sau có thể liên kết đến Trang web của chúng tôi mà không cần "
+"Các tổ chức sau có thể liên kết đến Trang web của chúng tôi mà không cần sự "
 "chấp thuận trước bằng văn bản"
 
 #: templates/tandc.html:58
@@ -1706,7 +1708,7 @@ msgstr "các hiệp hội hoặc các nhóm khác đại diện cho các tổ ch
 
 #: templates/tandc.html:86
 msgid "online directory distributors"
-msgstr "nhà phân phối thư mục trực tuyến"
+msgstr "nhà phân phối danh bạ trực tuyến"
 
 #: templates/tandc.html:89
 msgid "internet portals"
@@ -1714,7 +1716,7 @@ msgstr "cổng thông tin internet"
 
 #: templates/tandc.html:92
 msgid "accounting, law and consulting firms; and"
-msgstr "công ty kế toán, luật và tư vấn; và"
+msgstr "các công ty kế toán, luật và tư vấn; và"
 
 #: templates/tandc.html:95
 msgid "Educational institutions and trade associations."
@@ -1763,9 +1765,9 @@ msgstr ""
 "liên kết đến trang web của chúng tôi, bạn phải thông báo cho chúng tôi bằng "
 "cách gửi e-mail đến Tiksss.com. Vui lòng bao gồm tên của bạn, tên tổ chức "
 "của bạn, thông tin liên hệ cũng như URL của trang web của bạn, danh sách bất"
-" kỳ URL nào bạn định liên kết đến Trang web của chúng tôi và danh sách các "
-"URL trên trang web của chúng tôi mà bạn muốn liên kết. Chờ 2-3 tuần để có "
-"phản hồi."
+" kỳ URL nào mà bạn định liên kết đến Trang web của chúng tôi và danh sách "
+"các URL trên trang web của chúng tôi mà bạn muốn liên kết. Chờ 2-3 tuần để "
+"có phản hồi."
 
 #: templates/tandc.html:102
 msgid "Approved organizations may hyperlink to our Website as follows:"
@@ -1859,7 +1861,7 @@ msgstr ""
 "cụ thể nào đến Trang web của chúng tôi. Bạn chấp thuận xóa ngay lập tức tất "
 "cả các liên kết đến Trang web của chúng tôi theo yêu cầu. Chúng tôi cũng có "
 "quyền tuân theo các điều khoản và điều kiện này và chính sách liên kết của "
-"nó bất cứ lúc nào. Bằng cách liên tục liên kết đến Trang web của chúng tôi, "
+"nó bất kỳ lúc nào. Bằng cách liên tục liên kết đến Trang web của chúng tôi, "
 "bạn đồng ý bị ràng buộc và tuân theo các điều khoản và điều kiện liên kết "
 "này"
 
@@ -1958,11 +1960,11 @@ msgstr ""
 "miễn phí, chúng tôi sẽ không chịu trách nhiệm về bất kỳ tổn thất hoặc thiệt "
 "hại nào dưới bất kỳ hình thức nào."
 
-#: templates/without.html:4
+#: templates/watermark.html:4
 msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgstr "Tải xuống video Tiktok không có watermark trực tuyến - Tiksss.com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Download Tiktok videos without watermark online free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -1972,15 +1974,15 @@ msgstr ""
 " Tiksss.com của chúng tôi. Bạn có thể dễ dàng tải video Tiktok mà không cần "
 "watermark trong điện thoại và máy tính xách tay của mình."
 
-#: templates/without.html:13
+#: templates/watermark.html:13
 msgid "video without watermark"
 msgstr "video không có hình mờ"
 
-#: templates/without.html:28
+#: templates/watermark.html:28 templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "Tải xuống TikTok Video Không có Watermark Trực tuyến Miễn phí:"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1997,7 +1999,7 @@ msgstr ""
 "là điểm đặc biệt duy nhất của công cụ tải video TikTok no watermark này. Đi "
 "đến"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -2011,67 +2013,183 @@ msgstr ""
 "TikTok Video với Watermark” và để làm điều này, hãy truy cập Trang chủ trang"
 " web của chúng tôi và tải xuống video yêu thích của bạn dưới 10 giây."
 
-#: templates/without.html:33
+#: templates/watermark.html:33 templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "Các câu hỏi thường gặp"
 
-#: tiktok/settings.py:144
+#: templates/without.html:4
+#, fuzzy
+#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgid "Download TikTok video with watermark Online - Tiksss.Com"
+msgstr "Tải xuống video TikTok với watermark trực tuyến - Tiksss.Com"
+
+#: templates/without.html:6
+msgid ""
+"Here you can download TikTok video with watermark online free without any "
+"signup or registration. Its totally free on Tiksss.Com"
+msgstr ""
+"Tại đây, bạn có thể tải xuống video TikTok với watermark trực tuyến miễn phí"
+" mà không cần đăng ký hay đăng ký. Nó hoàn toàn miễn phí trên Tiksss.Com"
+
+#: templates/without.html:13
+#, fuzzy
+#| msgid "video without watermark"
+msgid "video with watermark"
+msgstr "video có hình mờ"
+
+#: templates/without.html:29
+msgid ""
+"Here on this page you people can easily download TikTok video with watermark"
+" online free. This tool is totally free and very easy to use. There is no "
+"any signup or registration needed for downloading TikTok videos in your any "
+"device. By using this Tik tok video downloader with watermark, you do not "
+"need to worry about the quality of the video. Our TikTok downloader tool "
+"gives you an original and by default quality video which user uploaded in "
+"the playlist. The use of this tool is very simple. You just need to go to "
+"TikTok Official website or app. Open any of your favourite video and copy "
+"its link or video url but there is two ways to copy link of the specific "
+"video url. If you are using any browser then you have to open the video and "
+"do right click and select copy link address and if you are using an app then"
+" open any video from the list and on the right side of the screen select "
+"share and then in the bottom you will see copy link option, just copy the "
+"link and go to our tool page and paste the video link and click on download "
+"button. It will take just 5 to 10 seconds to download your video in your "
+"device. We have also a "
+msgstr ""
+"Tại đây trên trang này, mọi người có thể dễ dàng tải video TikTok có "
+"watermark trực tuyến miễn phí. Công cụ này hoàn toàn miễn phí và rất dễ sử "
+"dụng. Không cần đăng ký hoặc đăng ký để tải video TikTok xuống bất kỳ thiết "
+"bị nào của bạn. Bằng cách sử dụng trình tải xuống video Tik tok này với hình"
+" mờ, bạn không cần phải lo lắng về chất lượng của video. Công cụ trình tải "
+"xuống TikTok của chúng tôi cung cấp cho bạn video chất lượng gốc và theo "
+"chất lượng mặc định mà người dùng đã tải lên trong danh sách phát. Việc sử "
+"dụng công cụ này rất đơn giản. Bạn chỉ cần truy cập trang web hoặc ứng dụng "
+"TikTok Official. Mở bất kỳ video yêu thích nào của bạn và sao chép liên kết "
+"hoặc url video của nó nhưng có hai cách để sao chép liên kết của url video "
+"cụ thể. Nếu bạn đang sử dụng bất kỳ trình duyệt nào thì bạn phải mở video và"
+" nhấp chuột phải và chọn địa chỉ liên kết sao chép và nếu bạn đang sử dụng "
+"một ứng dụng, hãy mở bất kỳ video nào từ danh sách và ở phía bên phải của "
+"màn hình, chọn chia sẻ và sau đó trong dưới cùng, bạn sẽ thấy tùy chọn sao "
+"chép liên kết, chỉ cần sao chép liên kết và đi đến trang công cụ của chúng "
+"tôi và dán liên kết video và nhấp vào nút tải xuống. Chỉ mất 5 đến 10 giây "
+"để tải video của bạn xuống thiết bị của bạn. Chúng tôi cũng có một"
+
+#: templates/without.html:29
+msgid ""
+" online tool which is also totally free to use. For more info visit our "
+"official website"
+msgstr ""
+"công cụ trực tuyến cũng hoàn toàn miễn phí để sử dụng. Để biết thêm thông "
+"tin, hãy truy cập trang web chính thức của chúng tôi"
+
+#: templates/without.html:36
+#, fuzzy
+#| msgid "How to Download Tiktok Videos without Watermark:"
+msgid "How to Download Tiktok Videos with Watermark:"
+msgstr "Cách tải video Tiktok bằng Watermark:"
+
+#: templates/without.html:41
+#, fuzzy
+#| msgid "Go to TikTok official website and copy the video link."
+msgid "Go to Tik tok official website or app and copy the video url."
+msgstr ""
+"Truy cập trang web hoặc ứng dụng chính thức của Tik tok và sao chép url "
+"video."
+
+#: templates/without.html:44
+#, fuzzy
+#| msgid ""
+#| "Select a video URL on TikTok which you want to convert into mp3 format."
+msgid "Select a video which you want to download in mp4 format."
+msgstr "Chọn video bạn muốn tải xuống ở định dạng mp4."
+
+#: templates/without.html:47
+#, fuzzy
+#| msgid ""
+#| "Copy the selected video link on your smartphone / computer or Laptop"
+msgid "Copy the selected video link on your smartphone / computer or Laptop."
+msgstr ""
+"Sao chép liên kết video đã chọn trên điện thoại thông minh / máy tính hoặc "
+"Máy tính xách tay của bạn."
+
+#: templates/without.html:50
+#, fuzzy
+#| msgid ""
+#| "Insert the TikTok video link in the field and press \"Convert Button\""
+msgid ""
+"Paste the TikTok video url in the given field on our tool page and click on "
+"\"download button\"."
+msgstr ""
+"Dán url video TikTok vào trường nhất định trên trang công cụ của chúng tôi "
+"và nhấp vào &quot;nút tải xuống&quot;."
+
+#: templates/without.html:53
+msgid ""
+"It will take up to 5 to 10 seconds to download Tik tok video in your device."
+msgstr ""
+"Sẽ mất tới 5 đến 10 giây để tải xuống video Tik tok trong thiết bị của bạn."
+
+#: tiktok/settings.py:145
 msgid "English"
 msgstr "Tiếng Anh"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:146
+msgid "Hindi"
+msgstr "Tiếng Hindi"
+
+#: tiktok/settings.py:147
 msgid "Italian"
 msgstr "người Ý"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:148
 msgid "Polish"
 msgstr "đánh bóng"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:149
 msgid "French"
 msgstr "người Pháp"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:150
 msgid "German"
 msgstr "tiếng Đức"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:151
 msgid "Spanish"
 msgstr "người Tây Ban Nha"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:152
 msgid "Indonesian"
 msgstr "Người Indonesia"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:153
 msgid "Japanese"
 msgstr "tiếng Nhật"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:154
 msgid "Korean"
 msgstr "Hàn Quốc"
 
-#: tiktok/settings.py:153
+#: tiktok/settings.py:155
 msgid "Portuguese"
 msgstr "Người Bồ Đào Nha"
 
-#: tiktok/settings.py:154
+#: tiktok/settings.py:156
 msgid "Russian"
 msgstr "tiếng Nga"
 
-#: tiktok/settings.py:155
+#: tiktok/settings.py:157
 msgid "Arabic"
 msgstr "tiếng Ả Rập"
 
-#: tiktok/settings.py:156
+#: tiktok/settings.py:158
 msgid "Turkish"
 msgstr "Thổ nhĩ kỳ"
 
-#: tiktok/settings.py:157
+#: tiktok/settings.py:159
 msgid "Thai"
 msgstr "Tiếng thái"
 
-#: tiktok/settings.py:158
+#: tiktok/settings.py:160
 msgid "Vietnamese"
 msgstr "Tiếng Việt"
 
@@ -3183,9 +3301,9 @@ msgid ""
 msgstr ""
 "Nếu bạn đang sử dụng<meta name=\"referrer\" content=\"no-referrer\"> hoặc "
 "bao gồm tiêu đề “Liên kết giới thiệu-Chính sách: không có liên kết giới "
-"thiệu”, vui lòng xóa chúng. Việc bảo vệ CSRF yêu cầu tiêu đề “Người giới "
-"thiệu” phải thực hiện kiểm tra người giới thiệu nghiêm ngặt. Nếu bạn lo lắng"
-" về quyền riêng tư, hãy sử dụng các lựa chọn thay thế như <a "
+"thiệu”, vui lòng xóa chúng. Việc bảo vệ CSRF yêu cầu tiêu đề &quot;Người "
+"giới thiệu&quot; phải thực hiện kiểm tra người giới thiệu nghiêm ngặt. Nếu "
+"bạn lo lắng về quyền riêng tư, hãy sử dụng các lựa chọn thay thế như <a "
 "rel=\"noreferrer\" …>cho các liên kết đến các trang web của bên thứ ba.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132

@@ -11,13 +11,13 @@
 <div class="hero" id="home">
   <div class="hero__container">
     <h1 class="hero__heading">{% trans 'Download' %} <span>TikTok</span> {% trans 'video without watermark' %} </h1>
-    <p class="hero__description">{% trans 'Enter the URL Here and wait for 10 - 15 Seconds.' %}</p>
+    <p class="hero__description">{% trans 'Enter the URL Here' %}</p>
     <center>
       <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
     </center>
   </div>
 
-  <form class="example" method="POST" action="{% url 'down2' %}">
+  <form class="example" method="POST" action="{% url 'down8' %}">
     <input type="text" placeholder="Enter Video URL" aria-describedby="url" name="url" required>
     <input type="hidden" name="todo" value="1">
     <button type="submit" onclick="show()">{% trans 'Download' %}</button>

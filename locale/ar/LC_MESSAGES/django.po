@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-10 19:36+0530\n"
+"POT-Creation-Date: 2021-07-14 23:25+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,9 +53,9 @@ msgid ""
 "watermark or with watermark in just few seconds which you can view here in "
 "our website"
 msgstr ""
-"تدعم منصتنا أنواعًا مختلفة من أدوات تحويل الفيديو TikTok مثل TikTok إلى Mp4 "
-"و Mp3 و Video Cutter وتنزيل مقاطع فيديو TikTok بدون علامة مائية أو بعلامة "
-"مائية في بضع ثوانٍ فقط والتي يمكنك عرضها هنا في موقعنا على الإنترنت"
+"تدعم منصتنا نوعًا مختلفًا من أدوات تحويل الفيديو TikTok مثل TikTok إلى Mp4 و"
+" Mp3 و Video Cutter وتنزيل مقاطع فيديو TikTok بدون علامة مائية أو بعلامة "
+"مائية في ثوانٍ قليلة يمكنك عرضها هنا في موقعنا على الإنترنت"
 
 #: templates/about.html:13
 msgid "Why Tiksss.com"
@@ -95,13 +95,14 @@ msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr ""
 "لتحويل mp3 على الإنترنت مجانًا - تحويل فيديو TikTok إلى mp3 عبر الإنترنت"
 
-#: templates/audio.html:15 templates/index.html:12
+#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
 msgid "Enter the URL Here"
 msgstr "أدخل عنوان URL هنا"
 
 #: templates/audio.html:24 templates/audio_cutter.html:26
-#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
-#: templates/without.html:23
+#: templates/cutter.html:26 templates/index.html:21
+#: templates/watermark.html:13 templates/watermark.html:23
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "تحميل"
 
@@ -148,7 +149,7 @@ msgid ""
 msgstr "حدد عنوان URL للفيديو على TikTok الذي تريد تحويله إلى تنسيق mp3."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "انسخ رابط الفيديو المحدد على هاتفك الذكي / الكمبيوتر أو الكمبيوتر المحمول"
@@ -166,7 +167,7 @@ msgid "Insert the TikTok video link in the field and press \"Convert Button\""
 msgstr "أدخل رابط فيديو TikTok في الحقل واضغط على &quot;زر التحويل&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/without.html:50
+#: templates/index.html:36 templates/watermark.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "الآن سترى زر تنزيل ، انقر فوق تنزيل."
 
@@ -177,7 +178,8 @@ msgid ""
 msgstr "فقط انتظر بضع ثوان حتى تتمكن من تنزيل الفيديو مباشرة في جهازك."
 
 #: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+#: templates/faq.html:87 templates/index.html:38 templates/watermark.html:56
+#: templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -274,47 +276,47 @@ msgstr ""
 "إذا كنت تحب أداة TikTok Mp3 Cutter and Converter والخدمات التي نقدمها ، "
 "فيرجى مشاركة موقعنا على الويب مع أصدقائك وأفراد عائلتك. شكرا!"
 
-#: templates/base.html:42
+#: templates/base.html:43
 msgid "Home"
 msgstr "منزل، بيت"
 
-#: templates/base.html:44 templates/base.html:46
+#: templates/base.html:45 templates/base.html:47
 msgid "Tools"
 msgstr "أدوات"
 
-#: templates/base.html:48
+#: templates/base.html:49
 msgid "Download With Watermark"
 msgstr "تحميل بعلامة مائية"
 
-#: templates/base.html:51
+#: templates/base.html:52
 msgid "Download Without Watermark"
 msgstr "تحميل بدون علامة مائية"
 
-#: templates/base.html:52
+#: templates/base.html:53
 msgid "Download Audio"
 msgstr "تنزيل الصوت"
 
-#: templates/base.html:53
+#: templates/base.html:54
 msgid "Video Cutter"
 msgstr "برنامج تقطيع الفيديو"
 
-#: templates/base.html:54
+#: templates/base.html:55
 msgid "Audio Cutter"
 msgstr "قاطع الصوت"
 
-#: templates/base.html:58
+#: templates/base.html:59
 msgid "About"
 msgstr "حول"
 
-#: templates/base.html:112 templates/privacypolicy.html:10
+#: templates/base.html:113 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "سياسة الخصوصية"
 
-#: templates/base.html:115 templates/tandc.html:10
+#: templates/base.html:116 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "الأحكام والشروط"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "FAQ"
 msgstr "التعليمات"
 
@@ -504,15 +506,15 @@ msgid ""
 " machine"
 msgstr "فقط انتظر بضع ثوان حتى تتمكن من تنزيل الفيديو مباشرة في جهازك"
 
-#: templates/faq.html:67 templates/without.html:36
+#: templates/faq.html:67 templates/watermark.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "كيفية تنزيل مقاطع فيديو Tiktok بدون علامة مائية:"
 
-#: templates/faq.html:72 templates/without.html:41
+#: templates/faq.html:72 templates/watermark.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "حدد مقطع فيديو على تطبيق TikTok أو الويب الذي تريد تنزيله."
 
-#: templates/faq.html:78 templates/without.html:47
+#: templates/faq.html:78 templates/watermark.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -521,7 +523,7 @@ msgstr ""
 "&quot;تنزيل مقاطع فيديو Tiktok بدون علامة مائية&quot; واضغط على &quot;زر "
 "البحث&quot;."
 
-#: templates/faq.html:84 templates/without.html:53
+#: templates/faq.html:84 templates/watermark.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -572,7 +574,7 @@ msgstr ""
 "المفرط. لا يسمح لك TikTok بتنزيل مقاطع الفيديو أو حفظها على أجهزتك المفضلة. "
 "لكن مقاطع الفيديو التي تم تحميلها من جانب المستخدم متاحة على موقعه "
 "الإلكتروني أو تطبيقه الرسمي مع الكثير من القيود. لذا فإن السؤال هو كيفية حل "
-"كل مشكلات تنزيل الفيديو هذه. لذلك قررت أن أصنع أداة يسهل استخدامها للجميع "
+"كل مشكلات تنزيل الفيديو هذه. لذلك قررت أن أصنع أداة سهلة الاستخدام للجميع "
 "لأن بما فيهم أنا هناك ملايين الأشخاص على هذه المنصة لمشاهدة مقاطع فيديو "
 "TikTok على الهاتف المحمول أو الكمبيوتر المحمول ولكن لا يمكنهم تنزيلها. لذلك "
 "لا تقلق بشأن ذلك. لقد صنعت هذه الأداة لك أيها الناس فقط"
@@ -694,10 +696,10 @@ msgstr ""
 "تنزيل تطبيق TikTok وتثبيته ثم تحديد الفيديو المفضل لديك الذي تريد تنزيله. "
 "إليك بعض الأشياء المهمة عندما تكون في صفحة تنزيل الفيديو ، انظر زر المشاركة "
 "على الجانب الأيمن من شاشة جهازك ، اضغط عليه بمساعدة السهم وانسخ "
-"&quot;الرابط&quot;. لذا افتح موقعنا Tiksss.com والصق رابط النسخ هذا في حقل "
-"معين وانقر على &quot;زر البحث&quot; سيستغرق الأمر بضع ثوانٍ للحصول على رابط "
-"قابل للتنزيل. سترى &quot;زر التنزيل&quot; اضغط عليه لبدء تنزيل الفيديو على "
-"جهازك."
+"&quot;الرابط&quot;. لذا افتح موقعنا على الويب Tiksss.com والصق رابط النسخ "
+"هذا في حقل معين وانقر على &quot;زر البحث&quot;. سيستغرق الأمر بضع ثوانٍ "
+"للحصول على رابط قابل للتنزيل. سترى &quot;زر التنزيل&quot; اضغط عليه لبدء "
+"تنزيل الفيديو على جهازك."
 
 #: templates/index.html:100
 msgid "Download TikTok Video Without Watermark on your Device:"
@@ -818,10 +820,10 @@ msgid ""
 "not associated with any personally identifiable information of persons "
 "browsing the Website."
 msgstr ""
-"عندما تطلب صفحة من موقعنا الإلكتروني ، تسجل خوادمنا المعلومات المقدمة في "
-"عنوان طلب HTTP أو JavaScript أو الأدوات التقنية المماثلة ، بما في ذلك رقم IP"
-" ووقت الطلب وعنوان URL لطلبك ومعلومات أخرى. نقوم بجمع هذه المعلومات من أجل "
-"جعل موقعنا يعمل بشكل صحيح وتزويدك بالوظائف التي تراها على الموقع ، حيث "
+"عندما تطلب صفحة من موقعنا الإلكتروني ، تقوم خوادمنا بتسجيل المعلومات المقدمة"
+" في عنوان طلب HTTP أو JavaScript أو الأدوات التقنية المماثلة ، بما في ذلك "
+"رقم IP ووقت الطلب وعنوان URL لطلبك ومعلومات أخرى. نقوم بجمع هذه المعلومات من"
+" أجل جعل موقعنا يعمل بشكل صحيح وتزويدك بالوظائف التي تراها على الموقع ، حيث "
 "تستخدم خوادمنا هذه المعلومات لتوصيل الصفحات الموجودة على هذا الموقع إليك. "
 "نستخدم هذه المعلومات أيضًا لفهم كيفية استخدام الزائرين لموقعنا على الويب "
 "بشكل أفضل وكيف يمكننا تحسين موقعنا ومحتوياته ووظائفه لتلبية احتياجاتك. ومع "
@@ -855,8 +857,8 @@ msgid ""
 msgstr ""
 "يتم تحديد بعض الإعلانات التي تراها على الموقع وتسليمها بواسطة جهات خارجية ، "
 "مثل شبكات الإعلانات ووكالات الإعلان والمعلنين وموفري شرائح الجمهور. قد تجمع "
-"هذه الأطراف الثالثة معلومات عنك وعن أنشطتك عبر الإنترنت ، سواء على الموقع أو"
-" على مواقع الويب الأخرى ، من خلال ملفات تعريف الارتباط وإشارات الويب "
+"هذه الأطراف الثالثة معلومات عنك وعن أنشطتك عبر الإنترنت ، إما على الموقع أو "
+"على مواقع الويب الأخرى ، من خلال ملفات تعريف الارتباط وإشارات الويب "
 "والتقنيات الأخرى في محاولة لفهم اهتماماتك وتقديم إعلانات مخصصة لك. لا تغطي "
 "سياسة الخصوصية هذه ممارسات المعلومات الخاصة بهذه الأطراف الثالثة"
 
@@ -1193,7 +1195,7 @@ msgid ""
 msgstr ""
 "يمكنك الرجوع إلى هذه القائمة للعثور على سياسة الخصوصية لكل من شركاء الإعلان "
 "في qload.info. تستخدم خوادم الإعلانات الخارجية أو شبكات الإعلانات تقنيات مثل"
-" ملفات تعريف الارتباط أو جافا سكريبت أو منارات الويب المستخدمة في الإعلانات "
+" ملفات تعريف الارتباط أو جافا سكريبت أو إشارات الويب المستخدمة في الإعلانات "
 "والروابط الخاصة بكل منها والتي تظهر على qload.info ، والتي يتم إرسالها "
 "مباشرة إلى متصفح المستخدمين. يتلقون عنوان IP الخاص بك تلقائيًا عند حدوث ذلك."
 " تُستخدم هذه التقنيات لقياس فعالية حملاتهم الإعلانية و / أو لتخصيص محتوى "
@@ -1478,7 +1480,7 @@ msgstr ""
 "الشخص الذي ينشر وجهات نظره وآرائه. إلى الحد الذي تسمح به القوانين المعمول "
 "بها ، لن يكون موقع Tiksss.com مسؤولاً عن التعليقات أو عن أي أضرار أو نفقات "
 "ناتجة عن المسؤولية و / أو تكبدتها نتيجة لأي استخدام و / أو نشر و / أو ظهور "
-"تعليقات على هذا الموقع ."
+"التعليقات على هذا الموقع ."
 
 #: templates/tandc.html:37
 msgid ""
@@ -1532,7 +1534,7 @@ msgid ""
 "and authorize others to use, reproduce and edit any of your Comments in any "
 "and all forms, formats or media."
 msgstr ""
-"أنت تمنح بموجب هذا Tiksss.com ترخيصًا غير حصري لاستخدام وإعادة إنتاج وتحرير "
+"أنت بموجب هذا تمنح Tiksss.com ترخيصًا غير حصري لاستخدام وإعادة إنتاج وتحرير "
 "وتفويض الآخرين لاستخدام وإعادة إنتاج وتحرير أي من تعليقاتك في أي وجميع "
 "الأشكال أو التنسيقات أو الوسائط."
 
@@ -1840,12 +1842,12 @@ msgstr ""
 "طالما يتم توفير موقع الويب والمعلومات والخدمات على الموقع مجانًا ، فلن نكون "
 "مسؤولين عن أي خسارة أو ضرر من أي نوع."
 
-#: templates/without.html:4
+#: templates/watermark.html:4
 msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgstr ""
 "قم بتنزيل مقاطع فيديو Tiktok بدون علامة مائية عبر الإنترنت - Tiksss.com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Download Tiktok videos without watermark online free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -1855,15 +1857,15 @@ msgstr ""
 " على الإنترنت Tiksss.com. يمكنك بسهولة تنزيل مقاطع فيديو Tiktok بدون علامة "
 "مائية في هاتفك وجهاز الكمبيوتر المحمول."
 
-#: templates/without.html:13
+#: templates/watermark.html:13
 msgid "video without watermark"
 msgstr "فيديو بدون علامة مائية"
 
-#: templates/without.html:28
+#: templates/watermark.html:28 templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "قم بتنزيل فيديو TikTok بدون علامة مائية على الإنترنت مجانًا:"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1879,7 +1881,7 @@ msgstr ""
 "برنامج أو تطبيق إضافي وهذا هو التخصص الوحيد لأداة تنزيل الفيديو بدون علامة "
 "مائية من TikTok. اذهب إلى"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -1893,67 +1895,177 @@ msgstr ""
 "Watermark&quot; ولهذا تفضل بزيارة الصفحة الرئيسية لموقعنا على الويب وتنزيل "
 "الفيديو المفضل لديك في أقل من 10 ثوانٍ."
 
-#: templates/without.html:33
+#: templates/watermark.html:33 templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "أسئلة مكررة"
 
-#: tiktok/settings.py:144
+#: templates/without.html:4
+#, fuzzy
+#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgid "Download TikTok video with watermark Online - Tiksss.Com"
+msgstr "قم بتنزيل فيديو TikTok بعلامة مائية عبر الإنترنت - Tiksss.Com"
+
+#: templates/without.html:6
+msgid ""
+"Here you can download TikTok video with watermark online free without any "
+"signup or registration. Its totally free on Tiksss.Com"
+msgstr ""
+"هنا يمكنك تنزيل فيديو TikTok بعلامة مائية عبر الإنترنت مجانًا دون أي اشتراك "
+"أو تسجيل. إنه مجاني تمامًا على Tiksss.Com"
+
+#: templates/without.html:13
+#, fuzzy
+#| msgid "video without watermark"
+msgid "video with watermark"
+msgstr "فيديو مع علامة مائية"
+
+#: templates/without.html:29
+msgid ""
+"Here on this page you people can easily download TikTok video with watermark"
+" online free. This tool is totally free and very easy to use. There is no "
+"any signup or registration needed for downloading TikTok videos in your any "
+"device. By using this Tik tok video downloader with watermark, you do not "
+"need to worry about the quality of the video. Our TikTok downloader tool "
+"gives you an original and by default quality video which user uploaded in "
+"the playlist. The use of this tool is very simple. You just need to go to "
+"TikTok Official website or app. Open any of your favourite video and copy "
+"its link or video url but there is two ways to copy link of the specific "
+"video url. If you are using any browser then you have to open the video and "
+"do right click and select copy link address and if you are using an app then"
+" open any video from the list and on the right side of the screen select "
+"share and then in the bottom you will see copy link option, just copy the "
+"link and go to our tool page and paste the video link and click on download "
+"button. It will take just 5 to 10 seconds to download your video in your "
+"device. We have also a "
+msgstr ""
+"هنا في هذه الصفحة ، يمكنك بسهولة تنزيل فيديو TikTok بعلامة مائية عبر "
+"الإنترنت مجانًا. هذه الأداة مجانية تمامًا وسهلة الاستخدام للغاية. لا يوجد أي"
+" اشتراك أو تسجيل مطلوب لتنزيل مقاطع فيديو TikTok على أي جهاز. باستخدام "
+"برنامج تنزيل الفيديو Tik tok هذا مع العلامة المائية ، لا داعي للقلق بشأن "
+"جودة الفيديو. تمنحك أداة تنزيل TikTok الخاصة بنا مقطع فيديو بجودة أصلية "
+"وافتراضي قام المستخدم بتحميله في قائمة التشغيل. استخدام هذه الأداة بسيط "
+"للغاية. ما عليك سوى الانتقال إلى موقع أو تطبيق TikTok الرسمي. افتح أي مقطع "
+"فيديو مفضل لديك وانسخ رابطه أو عنوان url الخاص به ولكن هناك طريقتان لنسخ "
+"رابط عنوان url المحدد للفيديو. إذا كنت تستخدم أي متصفح ، فعليك فتح الفيديو "
+"والقيام بالنقر بزر الماوس الأيمن واختيار نسخ عنوان الرابط وإذا كنت تستخدم "
+"تطبيقًا ، فافتح أي فيديو من القائمة وعلى الجانب الأيمن من الشاشة حدد مشاركة "
+"ثم في في الأسفل سترى خيار نسخ الرابط ، ما عليك سوى نسخ الرابط والانتقال إلى "
+"صفحة الأداة الخاصة بنا ولصق رابط الفيديو والنقر على زر التنزيل. سيستغرق "
+"تنزيل الفيديو على جهازك من 5 إلى 10 ثوانٍ فقط. لدينا أيضًا ملف"
+
+#: templates/without.html:29
+msgid ""
+" online tool which is also totally free to use. For more info visit our "
+"official website"
+msgstr ""
+"أداة عبر الإنترنت وهي أيضًا مجانية تمامًا للاستخدام. لمزيد من المعلومات قم "
+"بزيارة موقعنا الرسمي"
+
+#: templates/without.html:36
+#, fuzzy
+#| msgid "How to Download Tiktok Videos without Watermark:"
+msgid "How to Download Tiktok Videos with Watermark:"
+msgstr "كيفية تنزيل مقاطع فيديو Tiktok باستخدام العلامة المائية:"
+
+#: templates/without.html:41
+#, fuzzy
+#| msgid "Go to TikTok official website and copy the video link."
+msgid "Go to Tik tok official website or app and copy the video url."
+msgstr "انتقل إلى موقع Tik tok الرسمي أو التطبيق وانسخ رابط الفيديو."
+
+#: templates/without.html:44
+#, fuzzy
+#| msgid ""
+#| "Select a video URL on TikTok which you want to convert into mp3 format."
+msgid "Select a video which you want to download in mp4 format."
+msgstr "حدد مقطع فيديو تريد تنزيله بتنسيق mp4."
+
+#: templates/without.html:47
+#, fuzzy
+#| msgid ""
+#| "Copy the selected video link on your smartphone / computer or Laptop"
+msgid "Copy the selected video link on your smartphone / computer or Laptop."
+msgstr ""
+"انسخ رابط الفيديو المحدد على هاتفك الذكي / الكمبيوتر أو الكمبيوتر المحمول."
+
+#: templates/without.html:50
+#, fuzzy
+#| msgid ""
+#| "Insert the TikTok video link in the field and press \"Convert Button\""
+msgid ""
+"Paste the TikTok video url in the given field on our tool page and click on "
+"\"download button\"."
+msgstr ""
+"الصق عنوان url لفيديو TikTok في الحقل المحدد على صفحة الأداة الخاصة بنا "
+"وانقر على &quot;زر التنزيل&quot;."
+
+#: templates/without.html:53
+msgid ""
+"It will take up to 5 to 10 seconds to download Tik tok video in your device."
+msgstr ""
+"سيستغرق الأمر ما يصل إلى 5 إلى 10 ثوانٍ لتنزيل فيديو Tik tok في جهازك."
+
+#: tiktok/settings.py:145
 msgid "English"
 msgstr "الإنجليزية"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:146
+msgid "Hindi"
+msgstr "هندي"
+
+#: tiktok/settings.py:147
 msgid "Italian"
 msgstr "إيطالي"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:148
 msgid "Polish"
 msgstr "تلميع"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:149
 msgid "French"
 msgstr "الفرنسية"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:150
 msgid "German"
 msgstr "ألمانية"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:151
 msgid "Spanish"
 msgstr "الأسبانية"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:152
 msgid "Indonesian"
 msgstr "الأندونيسية"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:153
 msgid "Japanese"
 msgstr "اليابانية"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:154
 msgid "Korean"
 msgstr "الكورية"
 
-#: tiktok/settings.py:153
+#: tiktok/settings.py:155
 msgid "Portuguese"
 msgstr "البرتغالية"
 
-#: tiktok/settings.py:154
+#: tiktok/settings.py:156
 msgid "Russian"
 msgstr "الروسية"
 
-#: tiktok/settings.py:155
+#: tiktok/settings.py:157
 msgid "Arabic"
 msgstr "عربى"
 
-#: tiktok/settings.py:156
+#: tiktok/settings.py:158
 msgid "Turkish"
 msgstr "اللغة التركية"
 
-#: tiktok/settings.py:157
+#: tiktok/settings.py:159
 msgid "Thai"
 msgstr "التايلاندية"
 
-#: tiktok/settings.py:158
+#: tiktok/settings.py:160
 msgid "Vietnamese"
 msgstr "فيتنامي"
 
@@ -2167,7 +2279,7 @@ msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
 msgstr ""
 "يجب أن يكون%(field_label)s فريدًا من أجل %(date_field_label)s __ "
-"lookup_type__."
+"lookup_type__"
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:126
 #, python-format
@@ -2476,10 +2588,9 @@ msgid ""
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr[0] ""
-"تأكد من أن اسم الملف هذا يحتوي على أقصى حد من الحرف %(max)d (له %(length)d)."
+"تأكد من أن اسم الملف هذا يحتوي على أقصى حد من الحرف %(max)d (له %(length)d)"
 msgstr[1] ""
-"تأكد من أن اسم الملف هذا يحتوي على أقصى حد من الأحرف %(max)d (يحتوي على "
-"%(length)d)."
+"تأكد من أن اسم الملف هذا يحتوي على أقصى حد من الأحرف %(max)d (له %(length)d)"
 
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:545
 msgid "Please either submit a file or check the clear checkbox, not both."
@@ -2540,7 +2651,7 @@ msgstr ""
 #, python-format
 msgid "Please submit at most %d form."
 msgid_plural "Please submit at most %d forms."
-msgstr[0] "يرجى إرسال النموذج %d كحد أقصى."
+msgstr[0] "يرجى إرسال النموذج %d على الأكثر."
 msgstr[1] "يُرجى إرسال النماذج على الأكثر من %d ."
 
 #: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
@@ -2576,7 +2687,7 @@ msgid ""
 "for the %(lookup)s in %(date_field)s."
 msgstr ""
 "يرجى تصحيح البيانات المكررة لـ %(field_name)s والتي يجب أن تكون فريدة لـ __ "
-"lookup__ في %(lookup)s ."
+"lookup__ في %(lookup)s "
 
 #: venv/lib/python3.8/site-packages/django/forms/models.py:782
 msgid "Please correct the duplicate values below."
@@ -3131,7 +3242,7 @@ msgstr ""
 #, python-format
 msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
 msgstr ""
-"سلسلة التاريخ غير صالحة &quot;%(datestr)s&quot; بتنسيق "
+"سلسلة التاريخ غير صالحة &quot;%(datestr)s&quot; نظرًا للتنسيق "
 "&quot;%(format)s&quot;"
 
 #: venv/lib/python3.8/site-packages/django/views/generic/detail.py:54
@@ -3245,4 +3356,4 @@ msgstr "قيمة غير مدعومة لخوارزمية pw: %s."
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
 msgid "Redirected but the response is missing a Location: header."
-msgstr "تمت إعادة التوجيه ولكن الاستجابة لا تحتوي على عنوان الموقع:."
+msgstr "تمت إعادة التوجيه ولكن الاستجابة تفتقد العنوان Location:."

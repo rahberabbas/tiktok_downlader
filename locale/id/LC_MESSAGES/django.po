@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-10 19:36+0530\n"
+"POT-Creation-Date: 2021-07-14 23:25+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,13 +98,14 @@ msgstr ""
 msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr "to mp3 converter online gratis - TikTok video to mp3 converter online"
 
-#: templates/audio.html:15 templates/index.html:12
+#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
 msgid "Enter the URL Here"
 msgstr "Masukkan URL Di Sini"
 
 #: templates/audio.html:24 templates/audio_cutter.html:26
-#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
-#: templates/without.html:23
+#: templates/cutter.html:26 templates/index.html:21
+#: templates/watermark.html:13 templates/watermark.html:23
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "Unduh"
 
@@ -152,7 +153,7 @@ msgid ""
 msgstr "Pilih URL video di TikTok yang ingin Anda ubah menjadi format mp3."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Salin tautan video yang dipilih di smartphone / komputer atau Laptop Anda"
@@ -171,7 +172,7 @@ msgstr ""
 "Masukkan tautan video TikTok di bidang dan tekan &quot;Tombol Konversi&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/without.html:50
+#: templates/index.html:36 templates/watermark.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Sekarang Anda akan melihat tombol unduh, klik unduh."
 
@@ -184,7 +185,8 @@ msgstr ""
 "Anda."
 
 #: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+#: templates/faq.html:87 templates/index.html:38 templates/watermark.html:56
+#: templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -284,47 +286,47 @@ msgstr ""
 "silakan bagikan situs web kami dengan teman dan anggota keluarga Anda. "
 "Terima kasih!"
 
-#: templates/base.html:42
+#: templates/base.html:43
 msgid "Home"
 msgstr "Rumah"
 
-#: templates/base.html:44 templates/base.html:46
+#: templates/base.html:45 templates/base.html:47
 msgid "Tools"
 msgstr "Alat"
 
-#: templates/base.html:48
+#: templates/base.html:49
 msgid "Download With Watermark"
 msgstr "Unduh Dengan Tanda Air"
 
-#: templates/base.html:51
+#: templates/base.html:52
 msgid "Download Without Watermark"
 msgstr "Unduh Tanpa Tanda Air"
 
-#: templates/base.html:52
+#: templates/base.html:53
 msgid "Download Audio"
 msgstr "Unduh Audio"
 
-#: templates/base.html:53
+#: templates/base.html:54
 msgid "Video Cutter"
 msgstr "Pemotong Video"
 
-#: templates/base.html:54
+#: templates/base.html:55
 msgid "Audio Cutter"
 msgstr "Pemotong Audio"
 
-#: templates/base.html:58
+#: templates/base.html:59
 msgid "About"
 msgstr "Tentang"
 
-#: templates/base.html:112 templates/privacypolicy.html:10
+#: templates/base.html:113 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Kebijakan pribadi"
 
-#: templates/base.html:115 templates/tandc.html:10
+#: templates/base.html:116 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Syarat dan ketentuan"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "FAQ"
 msgstr "FAQ"
 
@@ -523,24 +525,24 @@ msgstr ""
 "Tunggu beberapa detik di mana Anda dapat mengunduh video langsung di mesin "
 "Anda"
 
-#: templates/faq.html:67 templates/without.html:36
+#: templates/faq.html:67 templates/watermark.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Cara Mengunduh Video Tiktok tanpa Tanda Air:"
 
-#: templates/faq.html:72 templates/without.html:41
+#: templates/faq.html:72 templates/watermark.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "Pilih video di aplikasi atau web TikTok yang ingin Anda unduh."
 
-#: templates/faq.html:78 templates/without.html:47
+#: templates/faq.html:78 templates/watermark.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
 msgstr ""
-"Salin tempel tautan video TikTok yang dipilih di Alat Situs Web kami Yaitu "
+"Salin tempel tautan video TikTok yang dipilih di Alat Situs Web kami yaitu "
 "&quot;Unduh Video Tiktok Tanpa tanda air&quot; dan tekan &quot;Tombol "
 "Cari&quot;."
 
-#: templates/faq.html:84 templates/without.html:53
+#: templates/faq.html:84 templates/watermark.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -585,7 +587,7 @@ msgid ""
 msgstr ""
 "adalah alat luar biasa bagi pecinta TikTok untuk menyimpan video TikTok ke "
 "perangkat Anda dengan satu klik. Alat ini dirancang sangat sederhana dan "
-"semua orang dapat menggunakannya dengan mudah tanpa kesulitan. Kami semua "
+"semua orang dapat menggunakannya dengan mudah tanpa kerumitan. Kami semua "
 "suka menonton video Tik Tok di perangkat kami yang tetap ada di log kami "
 "jika kami ingin melihat video itu lagi, tetapi saya telah mengalami bahwa "
 "video tidak lagi tersedia dan hilang karena umpan balik luar biasa yang "
@@ -935,10 +937,10 @@ msgid ""
 msgstr ""
 "Terkadang, atas kebijaksanaan kami, kami dapat menyertakan atau menawarkan "
 "produk atau layanan pihak ketiga di situs web kami. Situs pihak ketiga ini "
-"memiliki kebijakan privasi terpisah dan independen. Oleh karena itu, kami "
-"tidak bertanggung jawab atau berkewajiban atas konten dan aktivitas situs "
-"terkait ini. Meskipun demikian, kami berusaha untuk melindungi integritas "
-"situs kami dan menerima umpan balik tentang situs ini"
+"memiliki kebijakan privasi yang terpisah dan independen. Oleh karena itu, "
+"kami tidak bertanggung jawab atau berkewajiban atas konten dan aktivitas "
+"situs terkait ini. Meskipun demikian, kami berusaha untuk melindungi "
+"integritas situs kami dan menerima umpan balik tentang situs ini"
 
 #: templates/privacypolicy.html:34
 msgid ""
@@ -1189,7 +1191,7 @@ msgstr ""
 " 13 tahun telah memberi kami informasi pribadi, kami segera menghapusnya "
 "dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui "
 "bahwa anak Anda telah memberikan informasi pribadi kepada kami, silakan "
-"hubungi kami sehingga kami dapat melakukan tindakan yang diperlukan."
+"hubungi kami agar kami dapat melakukan tindakan yang diperlukan."
 
 #: templates/privacypolicy.html:75
 msgid "Google Double-Click DART Cookie"
@@ -1610,7 +1612,7 @@ msgid ""
 "present commercial activities or unlawful activity."
 msgstr ""
 "Komentar tidak akan digunakan untuk meminta atau mempromosikan bisnis atau "
-"kebiasaan atau menyajikan kegiatan komersial atau kegiatan yang melanggar "
+"kebiasaan atau menyajikan aktivitas komersial atau aktivitas yang melanggar "
 "hukum."
 
 #: templates/tandc.html:53
@@ -1822,9 +1824,9 @@ msgid ""
 msgstr ""
 "Kami tidak akan bertanggung jawab atas konten apa pun yang muncul di Situs "
 "Web Anda. Anda setuju untuk melindungi dan membela kami dari semua klaim "
-"yang muncul di Situs Web Anda. Tidak ada tautan yang muncul di Situs Web apa"
-" pun yang dapat ditafsirkan sebagai fitnah, cabul, atau kriminal, atau yang "
-"melanggar, jika tidak, melanggar, atau mendukung pelanggaran atau "
+"yang muncul di Situs Web Anda. Tidak boleh ada tautan yang muncul di Situs "
+"Web mana pun yang dapat ditafsirkan sebagai fitnah, cabul, atau kriminal, "
+"atau yang melanggar, jika tidak, melanggar, atau mendukung pelanggaran atau "
 "pelanggaran lain terhadap, hak pihak ketiga mana pun"
 
 #: templates/tandc.html:119
@@ -1909,7 +1911,7 @@ msgid ""
 "misrepresentation;"
 msgstr ""
 "membatasi atau mengecualikan tanggung jawab kami atau Anda atas penipuan "
-"atau misrepresentasi yang curang;"
+"atau pernyataan yang salah;"
 
 #: templates/tandc.html:136
 msgid ""
@@ -1950,11 +1952,11 @@ msgstr ""
 "gratis, kami tidak akan bertanggung jawab atas kehilangan atau kerusakan apa"
 " pun."
 
-#: templates/without.html:4
+#: templates/watermark.html:4
 msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgstr "Unduh video Tiktok tanpa tanda air online - Tiksss.com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Download Tiktok videos without watermark online free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -1964,15 +1966,15 @@ msgstr ""
 "Tiksss.com. Anda dapat dengan mudah mengunduh video Tiktok Tanpa tanda air "
 "di ponsel dan laptop Anda."
 
-#: templates/without.html:13
+#: templates/watermark.html:13
 msgid "video without watermark"
 msgstr "video tanpa tanda air"
 
-#: templates/without.html:28
+#: templates/watermark.html:28 templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "Unduh Video TikTok Tanpa Watermark Online Gratis:"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1989,7 +1991,7 @@ msgstr ""
 "ini adalah satu-satunya keistimewaan alat pengunduhan video TikTok tanpa "
 "watermark ini. Pergi ke"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -2004,67 +2006,181 @@ msgstr ""
 "dan untuk ini kunjungi Halaman Beranda situs web kami dan unduh video "
 "favorit Anda kurang dari 10 detik."
 
-#: templates/without.html:33
+#: templates/watermark.html:33 templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "Pertanyaan yang Sering Diajukan"
 
-#: tiktok/settings.py:144
+#: templates/without.html:4
+#, fuzzy
+#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgid "Download TikTok video with watermark Online - Tiksss.Com"
+msgstr "Unduh video TikTok dengan tanda air Online - Tiksss.Com"
+
+#: templates/without.html:6
+msgid ""
+"Here you can download TikTok video with watermark online free without any "
+"signup or registration. Its totally free on Tiksss.Com"
+msgstr ""
+"Di sini Anda dapat mengunduh video TikTok dengan tanda air online gratis "
+"tanpa pendaftaran atau pendaftaran apa pun. Ini benar-benar gratis di "
+"Tiksss.Com"
+
+#: templates/without.html:13
+#, fuzzy
+#| msgid "video without watermark"
+msgid "video with watermark"
+msgstr "video dengan tanda air"
+
+#: templates/without.html:29
+msgid ""
+"Here on this page you people can easily download TikTok video with watermark"
+" online free. This tool is totally free and very easy to use. There is no "
+"any signup or registration needed for downloading TikTok videos in your any "
+"device. By using this Tik tok video downloader with watermark, you do not "
+"need to worry about the quality of the video. Our TikTok downloader tool "
+"gives you an original and by default quality video which user uploaded in "
+"the playlist. The use of this tool is very simple. You just need to go to "
+"TikTok Official website or app. Open any of your favourite video and copy "
+"its link or video url but there is two ways to copy link of the specific "
+"video url. If you are using any browser then you have to open the video and "
+"do right click and select copy link address and if you are using an app then"
+" open any video from the list and on the right side of the screen select "
+"share and then in the bottom you will see copy link option, just copy the "
+"link and go to our tool page and paste the video link and click on download "
+"button. It will take just 5 to 10 seconds to download your video in your "
+"device. We have also a "
+msgstr ""
+"Di sini, di halaman ini, Anda dapat dengan mudah mengunduh video TikTok "
+"dengan tanda air online gratis. Alat ini benar-benar gratis dan sangat mudah"
+" digunakan. Tidak ada pendaftaran atau pendaftaran yang diperlukan untuk "
+"mengunduh video TikTok di perangkat apa pun Anda. Dengan menggunakan "
+"pengunduh video Tik tok ini dengan tanda air, Anda tidak perlu khawatir "
+"dengan kualitas video. Alat pengunduh TikTok kami memberi Anda video asli "
+"dan berkualitas default yang diunggah pengguna di daftar putar. Penggunaan "
+"alat ini sangat sederhana. Anda hanya perlu membuka situs web atau aplikasi "
+"Resmi TikTok. Buka salah satu video favorit Anda dan salin tautan atau url "
+"videonya tetapi ada dua cara untuk menyalin tautan dari url video tertentu. "
+"Jika Anda menggunakan browser apa pun maka Anda harus membuka video dan "
+"melakukan klik kanan dan pilih salin alamat tautan dan jika Anda menggunakan"
+" aplikasi, buka video apa pun dari daftar dan di sisi kanan layar pilih "
+"bagikan lalu di di bagian bawah Anda akan melihat opsi salin tautan, cukup "
+"salin tautan dan buka halaman alat kami dan tempel tautan video dan klik "
+"tombol unduh. Hanya perlu 5 hingga 10 detik untuk mengunduh video Anda di "
+"perangkat Anda. Kami juga memiliki"
+
+#: templates/without.html:29
+msgid ""
+" online tool which is also totally free to use. For more info visit our "
+"official website"
+msgstr ""
+"alat online yang juga benar-benar gratis untuk digunakan. Untuk info lebih "
+"lanjut kunjungi website resmi kami"
+
+#: templates/without.html:36
+#, fuzzy
+#| msgid "How to Download Tiktok Videos without Watermark:"
+msgid "How to Download Tiktok Videos with Watermark:"
+msgstr "Cara Mengunduh Video Tiktok dengan Tanda Air:"
+
+#: templates/without.html:41
+#, fuzzy
+#| msgid "Go to TikTok official website and copy the video link."
+msgid "Go to Tik tok official website or app and copy the video url."
+msgstr "Buka situs web atau aplikasi resmi Tik tok dan salin url video."
+
+#: templates/without.html:44
+#, fuzzy
+#| msgid ""
+#| "Select a video URL on TikTok which you want to convert into mp3 format."
+msgid "Select a video which you want to download in mp4 format."
+msgstr "Pilih video yang ingin Anda unduh dalam format mp4."
+
+#: templates/without.html:47
+#, fuzzy
+#| msgid ""
+#| "Copy the selected video link on your smartphone / computer or Laptop"
+msgid "Copy the selected video link on your smartphone / computer or Laptop."
+msgstr "Copy link video yang dipilih di smartphone/komputer atau Laptop."
+
+#: templates/without.html:50
+#, fuzzy
+#| msgid ""
+#| "Insert the TikTok video link in the field and press \"Convert Button\""
+msgid ""
+"Paste the TikTok video url in the given field on our tool page and click on "
+"\"download button\"."
+msgstr ""
+"Rekatkan url video TikTok di bidang yang diberikan pada halaman alat kami "
+"dan klik &quot;tombol unduh&quot;."
+
+#: templates/without.html:53
+msgid ""
+"It will take up to 5 to 10 seconds to download Tik tok video in your device."
+msgstr ""
+"Diperlukan waktu hingga 5 hingga 10 detik untuk mengunduh video Tik tok di "
+"perangkat Anda."
+
+#: tiktok/settings.py:145
 msgid "English"
 msgstr "Inggris"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:146
+msgid "Hindi"
+msgstr "Hindi"
+
+#: tiktok/settings.py:147
 msgid "Italian"
 msgstr "Italia"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:148
 msgid "Polish"
 msgstr "Polandia"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:149
 msgid "French"
 msgstr "Perancis"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:150
 msgid "German"
 msgstr "Jerman"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:151
 msgid "Spanish"
 msgstr "Orang Spanyol"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:152
 msgid "Indonesian"
 msgstr "bahasa Indonesia"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:153
 msgid "Japanese"
 msgstr "Jepang"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:154
 msgid "Korean"
 msgstr "Korea"
 
-#: tiktok/settings.py:153
+#: tiktok/settings.py:155
 msgid "Portuguese"
 msgstr "Portugis"
 
-#: tiktok/settings.py:154
+#: tiktok/settings.py:156
 msgid "Russian"
 msgstr "Rusia"
 
-#: tiktok/settings.py:155
+#: tiktok/settings.py:157
 msgid "Arabic"
 msgstr "Arab"
 
-#: tiktok/settings.py:156
+#: tiktok/settings.py:158
 msgid "Turkish"
 msgstr "Turki"
 
-#: tiktok/settings.py:157
+#: tiktok/settings.py:159
 msgid "Thai"
 msgstr "Thai"
 
-#: tiktok/settings.py:158
+#: tiktok/settings.py:160
 msgid "Vietnamese"
 msgstr "Orang Vietnam"
 
@@ -2680,7 +2796,7 @@ msgstr "Menghapus"
 #: venv/lib/python3.8/site-packages/django/forms/models.py:763
 #, python-format
 msgid "Please correct the duplicate data for %(field)s."
-msgstr "Harap perbaiki data duplikat untuk %(field)s."
+msgstr "Perbaiki data duplikat untuk %(field)s."
 
 #: venv/lib/python3.8/site-packages/django/forms/models.py:767
 #, python-format
@@ -3172,8 +3288,8 @@ msgid ""
 "origin” requests."
 msgstr ""
 "Jika Anda telah mengonfigurasi browser Anda untuk menonaktifkan tajuk "
-"&quot;Perujuk&quot;, aktifkan kembali, setidaknya untuk situs ini, atau "
-"untuk koneksi HTTPS, atau untuk permintaan &quot;asal yang sama&quot;."
+"&quot;Perujuk&quot;, harap aktifkan kembali, setidaknya untuk situs ini, "
+"atau untuk koneksi HTTPS, atau untuk permintaan &quot;asal yang sama&quot;."
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:124
 msgid ""

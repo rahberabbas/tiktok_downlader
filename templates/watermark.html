@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}{% trans 'Download TikTok video with watermark Online - Tiksss.Com' %}{% endblock %}
+{% block desc %}
+<meta name="description" content="{% trans 'Here you can download TikTok video with watermark online free without any signup or registration. Its totally free on Tiksss.Com' %}" />
+{% endblock %}
+{% block body %}
+
+<!-- Hero Section -->
+<div class="hero" id="home">
+  <div class="hero__container">
+    <h1 class="hero__heading">{% trans 'Download' %} <span>TikTok</span> {% trans 'video with watermark' %} </h1>
+    <p class="hero__description">{% trans 'Enter the URL Here and wait for 10 - 15 Seconds.' %}</p>
+    <center>
+      <div id="myDiv" style="display:none"><img id="myImage" src="{% static 'images/loading.gif' %}">
+    </center>
+  </div>
+
+  <form class="example" method="POST" action="{% url 'down2' %}">
+    <input type="text" placeholder="Enter Video URL" aria-describedby="url" name="url" required>
+    <input type="hidden" name="todo" value="1">
+    <button type="submit" onclick="show()">{% trans 'Download' %}</button>
+  </form>
+</div>
+
+<div class="about_tiktok">
+  <h1 style="margin-bottom: 10px;">{% trans 'Download TikTok Video Without Watermark Online Free:' %}</h1>
+  <p>{% trans 'Here on this page you people can easily download TikTok video with watermark online free. This tool is totally free and very easy to use. There is no any signup or registration needed for downloading TikTok videos in your any device. By using this Tik tok video downloader with watermark, you do not need to worry about the quality of the video. Our TikTok downloader tool gives you an original and by default quality video which user uploaded in the playlist. The use of this tool is very simple. You just need to go to TikTok Official website or app. Open any of your favourite video and copy its link or video url but there is two ways to copy link of the specific video url. If you are using any browser then you have to open the video and do right click and select copy link address and if you are using an app then open any video from the list and on the right side of the screen select share and then in the bottom you will see copy link option, just copy the link and go to our tool page and paste the video link and click on download button. It will take just 5 to 10 seconds to download your video in your device. We have also a ' %} <a href="{% url 'audio' %}" style="color: #ee0979;">TikTok to mp3 converter</a> {% trans ' online tool which is also totally free to use. For more info visit our official website' %} <a href="{% url 'index' %}" style="color: #ee0979;">Tiksss.com</a>.</p>
+</div>
+
+<div class="faq" id="faq" style="margin-top: -100px;">
+  <h1>{% trans 'Frequently Asked Questions ' %}</h1>
+  <div class="faq__main">
+    <button class="accordion">
+      <h2>{% trans '' %}{% trans 'How to Download Tiktok Videos with Watermark:' %}   <i class="fas fa-plus"></i></h2>
+    </button>
+    <div class="panel">
+      <ol style="margin-left: 20px;">
+        <li>
+          <p>{% trans 'Go to Tik tok official website or app and copy the video url.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Select a video which you want to download in mp4 format.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Copy the selected video link on your smartphone / computer or Laptop.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'Paste the TikTok video url in the given field on our tool page and click on "download button".' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'It will take up to 5 to 10 seconds to download Tik tok video in your device.' %}</p>
+        </li>
+        <li>
+          <p>{% trans 'If you like our tool and services than Kindly share our website with your friends and family members. Thanks!' %}</p>
+        </li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+
+  function show() {
+    document.getElementById("myDiv").style.display = "block";
+    setTimeout("hide()", 14000);  // 5 seconds
+  }
+
+  function hide() {
+    document.getElementById("myDiv").style.display = "none";
+  }
+
+</script>
+
+
+{% endblock %}

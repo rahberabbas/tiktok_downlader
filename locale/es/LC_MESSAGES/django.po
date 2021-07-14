@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-10 19:36+0530\n"
+"POT-Creation-Date: 2021-07-14 23:25+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,13 +98,14 @@ msgstr ""
 "convertidor a mp3 en línea gratis - convertidor de video a mp3 TikTok en "
 "línea"
 
-#: templates/audio.html:15 templates/index.html:12
+#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
 msgid "Enter the URL Here"
 msgstr "Ingrese la URL aquí"
 
 #: templates/audio.html:24 templates/audio_cutter.html:26
-#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
-#: templates/without.html:23
+#: templates/cutter.html:26 templates/index.html:21
+#: templates/watermark.html:13 templates/watermark.html:23
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "Descargar"
 
@@ -153,7 +154,7 @@ msgstr ""
 "Seleccione una URL de video en TikTok que desee convertir a formato mp3."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Copie el enlace de video seleccionado en su teléfono inteligente / "
@@ -174,7 +175,7 @@ msgstr ""
 "Convertir&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/without.html:50
+#: templates/index.html:36 templates/watermark.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Ahora verá un botón de descarga, haga clic en descargar."
 
@@ -187,7 +188,8 @@ msgstr ""
 "en tu máquina."
 
 #: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+#: templates/faq.html:87 templates/index.html:38 templates/watermark.html:56
+#: templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -267,7 +269,7 @@ msgstr ""
 #: templates/faq.html:103
 msgid "On the next page paste your video link and click on “Cut Button”."
 msgstr ""
-"En la página siguiente pegue el enlace de su video y haga clic en "
+"En la página siguiente, pegue el enlace de su video y haga clic en "
 "&quot;Botón Cortar&quot;."
 
 #: templates/audio_cutter.html:54
@@ -289,47 +291,47 @@ msgstr ""
 "Converter, comparta amablemente nuestro sitio web con sus amigos y "
 "familiares. ¡Gracias!"
 
-#: templates/base.html:42
+#: templates/base.html:43
 msgid "Home"
 msgstr "Casa"
 
-#: templates/base.html:44 templates/base.html:46
+#: templates/base.html:45 templates/base.html:47
 msgid "Tools"
 msgstr "Herramientas"
 
-#: templates/base.html:48
+#: templates/base.html:49
 msgid "Download With Watermark"
 msgstr "Descargar con marca de agua"
 
-#: templates/base.html:51
+#: templates/base.html:52
 msgid "Download Without Watermark"
 msgstr "Descargar sin marca de agua"
 
-#: templates/base.html:52
+#: templates/base.html:53
 msgid "Download Audio"
 msgstr "Descargar audio"
 
-#: templates/base.html:53
+#: templates/base.html:54
 msgid "Video Cutter"
 msgstr "Cortador de video"
 
-#: templates/base.html:54
+#: templates/base.html:55
 msgid "Audio Cutter"
 msgstr "Cortador de audio"
 
-#: templates/base.html:58
+#: templates/base.html:59
 msgid "About"
 msgstr "Acerca de"
 
-#: templates/base.html:112 templates/privacypolicy.html:10
+#: templates/base.html:113 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Política de privacidad"
 
-#: templates/base.html:115 templates/tandc.html:10
+#: templates/base.html:116 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Términos y condiciones"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "FAQ"
 msgstr "Preguntas más frecuentes"
 
@@ -529,16 +531,16 @@ msgstr ""
 "Solo espera unos segundos en los que podrás descargar el video directamente "
 "en tu máquina"
 
-#: templates/faq.html:67 templates/without.html:36
+#: templates/faq.html:67 templates/watermark.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Cómo descargar videos de Tiktok sin marca de agua:"
 
-#: templates/faq.html:72 templates/without.html:41
+#: templates/faq.html:72 templates/watermark.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr ""
 "Seleccione un video en la aplicación TikTok o en la web que desea descargar."
 
-#: templates/faq.html:78 templates/without.html:47
+#: templates/faq.html:78 templates/watermark.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -547,7 +549,7 @@ msgstr ""
 "herramienta de sitio web, que es &quot;Descarga de videos de Tiktok sin "
 "marca de agua&quot; y presione &quot;Botón de búsqueda&quot;."
 
-#: templates/faq.html:84 templates/without.html:53
+#: templates/faq.html:84 templates/watermark.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -666,8 +668,8 @@ msgid ""
 msgstr ""
 "Si eres un creador de contenido y te apasiona producir un contenido único "
 "para los clientes, esta aplicación te ayudará mucho a cumplir tus sueños. La"
-" mayoría de las veces a la gente le encanta hacer locuciones en las que las "
-"personas seleccionan y reproducen cualquier música de fondo y luego actúan "
+" mayoría de las veces a la gente le encanta hacer locuciones donde la gente "
+"selecciona y reproduce cualquier música de fondo y luego actúa "
 "respectivamente con ese sonido. Para mí, me encanta ver videos divertidos de"
 " voz en off en esta aplicación. La gente de todos los días muestra su "
 "talento de diferentes maneras y se convierte en celebridades a través de "
@@ -1019,9 +1021,9 @@ msgid ""
 "you are asked to provide it, will be made clear to you at the point we ask "
 "you to provide your personal information"
 msgstr ""
-"La información personal que se le solicita que proporcione y las razones por"
-" las que se le solicita que la proporcione, se le aclararán en el momento en"
-" que le solicitemos que proporcione su información personal."
+"La información personal que se le solicita que proporcione, y las razones "
+"por las que se le solicita que la proporcione, se le aclararán en el momento"
+" en que le solicitemos que proporcione su información personal."
 
 #: templates/privacypolicy.html:44
 msgid ""
@@ -1094,7 +1096,7 @@ msgid ""
 "device. If you choose to refuse our cookies, you may not be able to use some"
 " portions of this Service."
 msgstr ""
-"Este Servicio no utiliza estas &quot;cookies&quot; de forma explícita. Sin "
+"Este Servicio no utiliza estas &quot;cookies&quot; explícitamente. Sin "
 "embargo, la aplicación puede utilizar códigos de terceros y bibliotecas que "
 "utilizan &quot;cookies&quot; para recopilar información y mejorar sus "
 "servicios. Tiene la opción de aceptar o rechazar estas cookies y saber "
@@ -1195,12 +1197,12 @@ msgid ""
 "with personal information, please contact us so that we will be able to do "
 "necessary actions."
 msgstr ""
-"Estos Servicios no se dirigen a nadie menor de 13 años. No recopilamos a "
-"sabiendas información de identificación personal de niños menores de 13 "
-"años. En caso de que descubramos que un niño menor de 13 años nos ha "
-"proporcionado información personal, la eliminamos inmediatamente de nuestros"
-" servidores. Si usted es padre o tutor y sabe que su hijo nos ha "
-"proporcionado información personal, comuníquese con nosotros para que "
+"Estos Servicios no se dirigen a ninguna persona menor de 13 años. No "
+"recopilamos a sabiendas información de identificación personal de niños "
+"menores de 13 años. En el caso de que descubramos que un niño menor de 13 "
+"años nos ha proporcionado información personal, la eliminamos inmediatamente"
+" de nuestros servidores. Si usted es padre o tutor y sabe que su hijo nos ha"
+" proporcionado información personal, comuníquese con nosotros para que "
 "podamos realizar las acciones necesarias."
 
 #: templates/privacypolicy.html:75
@@ -1218,7 +1220,7 @@ msgstr ""
 "Google es uno de los proveedores externos de nuestro sitio. También utiliza "
 "cookies, conocidas como cookies de DART, para mostrar anuncios a los "
 "visitantes de nuestro sitio en función de su visita a www.website.com y "
-"otros sitios de Internet. Sin embargo, los visitantes pueden optar por "
+"otros sitios en Internet. Sin embargo, los visitantes pueden optar por "
 "rechazar el uso de cookies de DART visitando la Política de privacidad de la"
 " red de contenido y anuncios de Google en la siguiente URL:"
 
@@ -1237,7 +1239,7 @@ msgstr ""
 "pueden utilizar cookies y balizas web. Nuestros socios publicitarios se "
 "enumeran a continuación. Cada uno de nuestros socios publicitarios tiene su "
 "propia Política de privacidad para sus políticas sobre datos de usuario. "
-"Para un acceso más fácil, hicimos un hipervínculo a sus Políticas de "
+"Para un acceso más fácil, tenemos un hipervínculo a sus políticas de "
 "privacidad a continuación."
 
 #: templates/privacypolicy.html:82
@@ -1512,7 +1514,7 @@ msgstr ""
 "recuperar los detalles del usuario para cada visita. Coo son utilizados por "
 "nuestro sitio web para habilitar la funcionalidad de ciertas áreas para "
 "facilitar a las personas que visitan el sitio web. Algunos de nuestros "
-"socios publicitarios / afiliados también pueden utilizar cookies"
+"socios publicitarios / afiliados también pueden usar cookies"
 
 #: templates/tandc.html:18
 msgid "License"
@@ -1769,18 +1771,18 @@ msgid ""
 " to which you would like to link. Wait 2-3 weeks for a response."
 msgstr ""
 "Si usted es una de las organizaciones enumeradas en el párrafo 2 anterior y "
-"está interesado en vincularse a nuestro sitio web, debe informarnos enviando"
-" un correo electrónico a Tiksss.com. Incluya su nombre, el nombre de su "
-"organización, la información de contacto, así como la URL de su sitio, una "
-"lista de las URL desde las que desea vincular a nuestro sitio web y una "
-"lista de las URL de nuestro sitio a las que le gustaría Enlace. Espere 2-3 "
-"semanas para recibir una respuesta."
+"está interesado en vincularse a nuestro sitio web, debe informarnos "
+"enviándonos un correo electrónico a Tiksss.com. Incluya su nombre, el nombre"
+" de su organización, la información de contacto, así como la URL de su "
+"sitio, una lista de las URL desde las que desea vincular a nuestro sitio web"
+" y una lista de las URL de nuestro sitio a las que le gustaría Enlace. "
+"Espere 2-3 semanas para recibir una respuesta."
 
 #: templates/tandc.html:102
 msgid "Approved organizations may hyperlink to our Website as follows:"
 msgstr ""
-"Las organizaciones autorizadas pueden hacer hipervínculos a nuestro sitio "
-"web de la siguiente manera:"
+"Las organizaciones aprobadas pueden hacer hipervínculos a nuestro sitio web "
+"de la siguiente manera:"
 
 #: templates/tandc.html:105
 msgid "By use of our corporate name; or"
@@ -1865,7 +1867,7 @@ msgid ""
 msgstr ""
 "Nos reservamos el derecho de solicitar que elimine todos los enlaces o "
 "cualquier enlace en particular a nuestro sitio web. Usted aprueba eliminar "
-"de inmediato todos los enlaces a nuestro sitio web cuando lo solicite. "
+"inmediatamente todos los enlaces a nuestro sitio web cuando lo solicite. "
 "También nos reservamos el derecho de modificar estos términos y condiciones "
 "y su política de vinculación en cualquier momento. Al vincular continuamente"
 " a nuestro sitio web, usted acepta estar vinculado y seguir estos términos y"
@@ -1952,9 +1954,9 @@ msgstr ""
 "Las limitaciones y prohibiciones de responsabilidad establecidas en esta "
 "Sección y en otras partes de este descargo de responsabilidad: (a) están "
 "sujetas al párrafo anterior; y (b) regirá todas las responsabilidades que "
-"surjan en virtud del descargo de responsabilidad, incluidas las "
+"surjan en virtud de la exención de responsabilidad, incluidas las "
 "responsabilidades que surjan en el contrato, en agravio y por incumplimiento"
-" del deber legal."
+" de la obligación legal."
 
 #: templates/tandc.html:143
 msgid ""
@@ -1966,11 +1968,11 @@ msgstr ""
 " proporcionen de forma gratuita, no seremos responsables de ninguna pérdida "
 "o daño de cualquier naturaleza."
 
-#: templates/without.html:4
+#: templates/watermark.html:4
 msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgstr "Descarga videos de Tiktok sin marca de agua en línea - Tiksss.com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Download Tiktok videos without watermark online free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -1980,15 +1982,15 @@ msgstr ""
 "sitio web Tiksss.com. Puede descargar fácilmente videos de Tiktok sin marca "
 "de agua en su teléfono y computadora portátil."
 
-#: templates/without.html:13
+#: templates/watermark.html:13
 msgid "video without watermark"
 msgstr "video sin marca de agua"
 
-#: templates/without.html:28
+#: templates/watermark.html:28 templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "Descargar videos de TikTok sin marca de agua en línea gratis:"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -2005,7 +2007,7 @@ msgstr ""
 "es la única especialidad de esta herramienta de descarga de video TikTok sin"
 " marca de agua. Ir"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -2020,67 +2022,184 @@ msgstr ""
 "de agua&quot; y para esto, visite la página de inicio de nuestro sitio web y"
 " descargue su video favorito en menos de 10 segundos."
 
-#: templates/without.html:33
+#: templates/watermark.html:33 templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "Preguntas frecuentes"
 
-#: tiktok/settings.py:144
+#: templates/without.html:4
+#, fuzzy
+#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgid "Download TikTok video with watermark Online - Tiksss.Com"
+msgstr "Descargar video de TikTok con marca de agua en línea - Tiksss.Com"
+
+#: templates/without.html:6
+msgid ""
+"Here you can download TikTok video with watermark online free without any "
+"signup or registration. Its totally free on Tiksss.Com"
+msgstr ""
+"Aquí puede descargar videos de TikTok con marca de agua en línea gratis sin "
+"ningún tipo de registro o registro. Es totalmente gratis en Tiksss.Com"
+
+#: templates/without.html:13
+#, fuzzy
+#| msgid "video without watermark"
+msgid "video with watermark"
+msgstr "video con marca de agua"
+
+#: templates/without.html:29
+msgid ""
+"Here on this page you people can easily download TikTok video with watermark"
+" online free. This tool is totally free and very easy to use. There is no "
+"any signup or registration needed for downloading TikTok videos in your any "
+"device. By using this Tik tok video downloader with watermark, you do not "
+"need to worry about the quality of the video. Our TikTok downloader tool "
+"gives you an original and by default quality video which user uploaded in "
+"the playlist. The use of this tool is very simple. You just need to go to "
+"TikTok Official website or app. Open any of your favourite video and copy "
+"its link or video url but there is two ways to copy link of the specific "
+"video url. If you are using any browser then you have to open the video and "
+"do right click and select copy link address and if you are using an app then"
+" open any video from the list and on the right side of the screen select "
+"share and then in the bottom you will see copy link option, just copy the "
+"link and go to our tool page and paste the video link and click on download "
+"button. It will take just 5 to 10 seconds to download your video in your "
+"device. We have also a "
+msgstr ""
+"Aquí, en esta página, ustedes pueden descargar fácilmente videos de TikTok "
+"con marca de agua en línea gratis. Esta herramienta es totalmente gratuita y"
+" muy fácil de usar. No es necesario registrarse o registrarse para descargar"
+" videos de TikTok en cualquier dispositivo. Al usar este descargador de "
+"videos Tik tok con marca de agua, no necesita preocuparse por la calidad del"
+" video. Nuestra herramienta de descarga de TikTok le brinda un video "
+"original y de calidad predeterminada que el usuario cargó en la lista de "
+"reproducción. El uso de esta herramienta es muy sencillo. Solo necesita ir "
+"al sitio web o aplicación oficial de TikTok. Abra cualquiera de sus videos "
+"favoritos y copie su enlace o URL de video, pero hay dos formas de copiar el"
+" enlace de la URL de video específica. Si está utilizando cualquier "
+"navegador, debe abrir el video y hacer clic derecho y seleccionar copiar la "
+"dirección del enlace y si está usando una aplicación, abra cualquier video "
+"de la lista y en el lado derecho de la pantalla seleccione compartir y luego"
+" en el abajo verá la opción de copiar enlace, simplemente copie el enlace y "
+"vaya a nuestra página de herramientas y pegue el enlace del video y haga "
+"clic en el botón de descarga. Solo tomará de 5 a 10 segundos descargar su "
+"video en su dispositivo. También tenemos un"
+
+#: templates/without.html:29
+msgid ""
+" online tool which is also totally free to use. For more info visit our "
+"official website"
+msgstr ""
+"herramienta en línea que también es totalmente gratuita. Para obtener más "
+"información, visite nuestro sitio web oficial."
+
+#: templates/without.html:36
+#, fuzzy
+#| msgid "How to Download Tiktok Videos without Watermark:"
+msgid "How to Download Tiktok Videos with Watermark:"
+msgstr "Cómo descargar videos de Tiktok con marca de agua:"
+
+#: templates/without.html:41
+#, fuzzy
+#| msgid "Go to TikTok official website and copy the video link."
+msgid "Go to Tik tok official website or app and copy the video url."
+msgstr ""
+"Vaya al sitio web o aplicación oficial de Tik tok y copie la URL del video."
+
+#: templates/without.html:44
+#, fuzzy
+#| msgid ""
+#| "Select a video URL on TikTok which you want to convert into mp3 format."
+msgid "Select a video which you want to download in mp4 format."
+msgstr "Seleccione un video que desee descargar en formato mp4."
+
+#: templates/without.html:47
+#, fuzzy
+#| msgid ""
+#| "Copy the selected video link on your smartphone / computer or Laptop"
+msgid "Copy the selected video link on your smartphone / computer or Laptop."
+msgstr ""
+"Copie el enlace de video seleccionado en su teléfono inteligente / "
+"computadora o computadora portátil."
+
+#: templates/without.html:50
+#, fuzzy
+#| msgid ""
+#| "Insert the TikTok video link in the field and press \"Convert Button\""
+msgid ""
+"Paste the TikTok video url in the given field on our tool page and click on "
+"\"download button\"."
+msgstr ""
+"Pegue la URL del video de TikTok en el campo dado en nuestra página de "
+"herramientas y haga clic en &quot;botón de descarga&quot;."
+
+#: templates/without.html:53
+msgid ""
+"It will take up to 5 to 10 seconds to download Tik tok video in your device."
+msgstr ""
+"Tardará entre 5 y 10 segundos en descargar el video de Tik tok en su "
+"dispositivo."
+
+#: tiktok/settings.py:145
 msgid "English"
 msgstr "inglés"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:146
+msgid "Hindi"
+msgstr "hindi"
+
+#: tiktok/settings.py:147
 msgid "Italian"
 msgstr "italiano"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:148
 msgid "Polish"
 msgstr "polaco"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:149
 msgid "French"
 msgstr "francés"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:150
 msgid "German"
 msgstr "alemán"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:151
 msgid "Spanish"
 msgstr "Español"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:152
 msgid "Indonesian"
 msgstr "indonesio"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:153
 msgid "Japanese"
 msgstr "japonés"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:154
 msgid "Korean"
 msgstr "coreano"
 
-#: tiktok/settings.py:153
+#: tiktok/settings.py:155
 msgid "Portuguese"
 msgstr "portugués"
 
-#: tiktok/settings.py:154
+#: tiktok/settings.py:156
 msgid "Russian"
 msgstr "ruso"
 
-#: tiktok/settings.py:155
+#: tiktok/settings.py:157
 msgid "Arabic"
 msgstr "Arábica"
 
-#: tiktok/settings.py:156
+#: tiktok/settings.py:158
 msgid "Turkish"
 msgstr "turco"
 
-#: tiktok/settings.py:157
+#: tiktok/settings.py:159
 msgid "Thai"
 msgstr "tailandés"
 
-#: tiktok/settings.py:158
+#: tiktok/settings.py:160
 msgid "Vietnamese"
 msgstr "vietnamita"
 
@@ -2234,7 +2353,7 @@ msgstr[1] "Asegúrese de que no haya más de %(max)s dígitos en total."
 msgid "Ensure that there are no more than %(max)s decimal place."
 msgid_plural "Ensure that there are no more than %(max)s decimal places."
 msgstr[0] "Asegúrese de que no haya más de %(max)s decimales."
-msgstr[1] "Asegúrese de que no haya más de %(max)s posiciones decimales."
+msgstr[1] "Asegúrese de que no haya más de %(max)s decimales."
 
 #: venv/lib/python3.8/site-packages/django/core/validators.py:444
 #, python-format
@@ -2253,7 +2372,7 @@ msgid ""
 "File extension “%(extension)s” is not allowed. Allowed extensions are: "
 "%(allowed_extensions)s."
 msgstr ""
-"La extensión de archivo &quot;%(extension)s&quot; no está permitida. Las "
+"No se permite la extensión de archivo &quot;%(extension)s&quot;. Las "
 "extensiones permitidas son: %(allowed_extensions)s."
 
 #: venv/lib/python3.8/site-packages/django/core/validators.py:559
@@ -2412,7 +2531,7 @@ msgstr "Número de coma flotante"
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
 #, python-format
 msgid "“%(value)s” value must be an integer."
-msgstr "El valor &quot;%(value)s&quot; debe ser un número entero."
+msgstr "El valor “%(value)s” debe ser un número entero."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1769
 msgid "Integer"

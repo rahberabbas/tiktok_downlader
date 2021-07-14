@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-10 19:36+0530\n"
+"POT-Creation-Date: 2021-07-14 23:25+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,13 +98,14 @@ msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr ""
 "mp3 dönüştürücü çevrimiçi ücretsiz - TikTok video çevrimiçi mp3 dönüştürücü"
 
-#: templates/audio.html:15 templates/index.html:12
+#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
 msgid "Enter the URL Here"
 msgstr "URL&#39;yi Buraya Girin"
 
 #: templates/audio.html:24 templates/audio_cutter.html:26
-#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
-#: templates/without.html:23
+#: templates/cutter.html:26 templates/index.html:21
+#: templates/watermark.html:13 templates/watermark.html:23
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "İndir"
 
@@ -125,11 +126,11 @@ msgid ""
 msgstr ""
 "Müzik aşığıysanız, bu TikTok&#39;un Mp3 Dönüştürücü Çevrimiçi Aracının "
 "değerini bileceksiniz. Bu aracı çok kolay ve basit hale getirdik. Bu aracı "
-"istediğiniz cihazlarda sınırsız olarak kullanabilirsiniz. Bu araç sayfasını "
+"dilediğiniz cihazlarda sınırsız olarak kullanabilirsiniz. Bu araç sayfasını "
 "gelecek için işaretlemeniz gerektiğinden emin olun. Sizlerin nasıl "
-"kullanabileceğinizi ve faydalanabileceğinizi anlatan bu aracın tüm "
-"talimatlarını ekledik. Lütfen bu aracı sosyal medya yardımıyla "
-"arkadaşlarınız ve aile üyelerinizle paylaşın, çünkü bunu kesinlikle "
+"kullanabileceğinizi ve ondan nasıl yararlanabileceğinizi anlatan bu aracın "
+"tüm talimatlarını ekledik. Lütfen bu aracı sosyal medya yardımıyla "
+"arkadaşlarınızla ve aile üyenizle paylaşın, çünkü bunu kesinlikle "
 "beğenecekler ve kullanacaklardır. Daha fazla Bilgi için Web Sitemizi ziyaret"
 " edin"
 
@@ -154,7 +155,7 @@ msgstr ""
 "seçin."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Seçilen video bağlantısını akıllı telefonunuza / bilgisayarınıza veya "
@@ -175,7 +176,7 @@ msgstr ""
 "Düğmesine&quot; basın"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/without.html:50
+#: templates/index.html:36 templates/watermark.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Şimdi bir indirme düğmesi göreceksiniz, indir&#39;e tıklayın."
 
@@ -186,7 +187,8 @@ msgid ""
 msgstr "Videoyu doğrudan makinenize indirebileceğiniz birkaç saniye bekleyin."
 
 #: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+#: templates/faq.html:87 templates/index.html:38 templates/watermark.html:56
+#: templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -283,47 +285,47 @@ msgstr ""
 "lütfen web sitemizi arkadaşlarınız ve aile üyelerinizle paylaşın. "
 "Teşekkürler!"
 
-#: templates/base.html:42
+#: templates/base.html:43
 msgid "Home"
 msgstr "Ev"
 
-#: templates/base.html:44 templates/base.html:46
+#: templates/base.html:45 templates/base.html:47
 msgid "Tools"
 msgstr "Araçlar"
 
-#: templates/base.html:48
+#: templates/base.html:49
 msgid "Download With Watermark"
 msgstr "Filigranlı İndir"
 
-#: templates/base.html:51
+#: templates/base.html:52
 msgid "Download Without Watermark"
 msgstr "Filigran Olmadan İndir"
 
-#: templates/base.html:52
+#: templates/base.html:53
 msgid "Download Audio"
 msgstr "Ses İndir"
 
-#: templates/base.html:53
+#: templates/base.html:54
 msgid "Video Cutter"
 msgstr "Video Kesici"
 
-#: templates/base.html:54
+#: templates/base.html:55
 msgid "Audio Cutter"
 msgstr "Ses Kesici"
 
-#: templates/base.html:58
+#: templates/base.html:59
 msgid "About"
 msgstr "hakkında"
 
-#: templates/base.html:112 templates/privacypolicy.html:10
+#: templates/base.html:113 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Gizlilik Politikası"
 
-#: templates/base.html:115 templates/tandc.html:10
+#: templates/base.html:116 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Şartlar ve koşullar"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "FAQ"
 msgstr "SSS"
 
@@ -505,7 +507,7 @@ msgstr ""
 
 #: templates/faq.html:39
 msgid "Tiktok to Mp3 Converter online Free"
-msgstr "Tiktok&#39;tan Mp3&#39;e Dönüştürücü çevrimiçi Ücretsiz"
+msgstr "Tiktok Mp3 Dönüştürücü çevrimiçi Ücretsiz"
 
 #: templates/faq.html:56
 msgid "Now you will see a download button, click on download"
@@ -517,16 +519,16 @@ msgid ""
 " machine"
 msgstr "Videoyu doğrudan makinenize indirebileceğiniz birkaç saniye bekleyin"
 
-#: templates/faq.html:67 templates/without.html:36
+#: templates/faq.html:67 templates/watermark.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Filigransız Tiktok Videoları Nasıl İndirilir:"
 
-#: templates/faq.html:72 templates/without.html:41
+#: templates/faq.html:72 templates/watermark.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr ""
 "İndirmek istediğiniz TikTok uygulamasında veya web&#39;de bir video seçin."
 
-#: templates/faq.html:78 templates/without.html:47
+#: templates/faq.html:78 templates/watermark.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -535,7 +537,7 @@ msgstr ""
 "Filigransız İndir&quot; olan Web Sitesi Aracımıza yapıştırın ve &quot;Ara "
 "Düğmesine&quot; basın."
 
-#: templates/faq.html:84 templates/without.html:53
+#: templates/faq.html:84 templates/watermark.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -678,7 +680,7 @@ msgstr "Videolarda Filigran Yok:"
 
 #: templates/index.html:66
 msgid "Download TikTok videos without watermark with no limits."
-msgstr "TikTok videolarını filigransız ve limitsiz olarak indirin."
+msgstr "TikTok videolarını filigran olmadan sınırsız indirin."
 
 #: templates/index.html:70
 msgid "Mp4 Supported HD:"
@@ -770,8 +772,9 @@ msgstr ""
 "sınırsız olarak kullanabilirsiniz. Bu araç sayfasını gelecek için "
 "işaretlemeniz gerektiğinden emin olun. Sizlerin nasıl kullanabileceğinizi ve"
 " ondan nasıl yararlanabileceğinizi anlatan bu aracın tüm talimatlarını "
-"ekledik. Lütfen bu aracı sosyal medya yardımıyla arkadaşlarınızla ve aile "
-"üyenizle paylaşın, çünkü bunu kesinlikle beğenecekler ve kullanacaklardır."
+"ekledik. Lütfen bu aracı sosyal medya yardımıyla arkadaşlarınız ve aile "
+"üyelerinizle paylaşın, çünkü onlar bunu kesinlikle sevecek ve "
+"kullanacaklardır."
 
 #: templates/index.html:127
 msgid "Tiktok Video Cutter Online – TikTok Video Trimmer Online Free:"
@@ -847,9 +850,9 @@ msgid ""
 "browsing the Website."
 msgstr ""
 "Web Sitemizden bir sayfa talep ettiğinizde, sunucularımız HTTP istek "
-"başlığında, JavaScript&#39;te veya IP numarası, isteğin zamanı, isteğinizin "
-"URL&#39;si ve diğer bilgiler dahil olmak üzere benzer teknik araçlarda "
-"sağlanan bilgileri günlüğe kaydeder. Sunucularımız bu bilgileri size bu Web "
+"başlığında, JavaScript veya benzeri teknik araçlarda sağlanan IP numarası, "
+"isteğin zamanı, isteğinizin URL&#39;si ve diğer bilgiler dahil olmak üzere "
+"bilgileri günlüğe kaydeder. Sunucularımız bu bilgileri size bu Web "
 "Sitesindeki sayfaları sunmak için kullandığından, Web Sitemizin doğru bir "
 "şekilde çalışmasını sağlamak ve Web Sitesinde gördüğünüz işlevselliği "
 "sağlamak için bu bilgileri topluyoruz. Bu bilgileri ayrıca, ziyaretçilerin "
@@ -871,7 +874,7 @@ msgstr ""
 " sağlayıcısının Web tarayıcınız aracılığıyla (izin verirseniz) "
 "bilgisayarlarınızın sabit diskine aktardığı, sitelerin veya hizmet sağlayıcı"
 " sistemlerinin tarayıcınızı tanımasını ve belirli bilgileri yakalamasını ve "
-"hatırlamasını sağlayan küçük dosyalardır)"
+"hatırlamasını sağlayan küçük dosyalardır."
 
 #: templates/privacypolicy.html:25
 msgid ""
@@ -906,10 +909,10 @@ msgid ""
 "marketing, advertising, or other uses"
 msgstr ""
 "Kişisel olarak tanımlanabilir bilgilerinizi dış taraflara satmıyoruz, "
-"ticaretini yapmıyor veya başka bir şekilde devretmiyoruz. Bu, bu taraflar bu"
-" bilgileri gizli tutmayı kabul ettikleri sürece, web sitemizi işletmemize, "
-"işimizi yürütmemize veya size hizmet vermemize yardımcı olan güvenilir "
-"üçüncü tarafları kapsamaz. Ayrıca, yayınlamanın yasalara uymak, site "
+"ticaretini yapmıyor veya başka bir şekilde devretmiyoruz. Bu, web sitemizi "
+"işletmemize, işimizi yürütmemize veya size hizmet vermemize yardımcı olan "
+"güvenilir üçüncü tarafları, bu taraflar bu bilgileri gizli tutmayı kabul "
+"ettikleri sürece içermez. Ayrıca, yayınlamanın yasalara uymak, site "
 "politikalarımızı uygulamak veya bizim veya başkalarının haklarını, "
 "mülkiyetini veya güvenliğini korumak için uygun olduğuna inandığımızda da "
 "bilgilerinizi yayınlayabiliriz. Ancak, kişisel olarak tanımlanamayan "
@@ -987,8 +990,8 @@ msgid ""
 msgstr ""
 "Bu Gizlilik Politikasında kullanılan terimler, bu Gizlilik Politikasında "
 "aksi belirtilmedikçe, TIKSSS Video İndirici ve TikTok için Mp3 "
-"Dönüştürücü&#39;den erişilebilen Hüküm ve Koşullarımızdakiyle aynı anlamlara"
-" sahiptir."
+"Dönüştürücü&#39;den erişilebilen Hüküm ve Koşullarımızdaki ile aynı "
+"anlamlara sahiptir."
 
 #: templates/privacypolicy.html:42
 msgid "Information we collect"
@@ -1398,7 +1401,7 @@ msgid ""
 "If you make a request, we have one month to respond to you. If you would "
 "like to exercise any of these rights, please contact us."
 msgstr ""
-"Bir istekte bulunursanız, size yanıt vermek için bir ayımız var. Bu "
+"Bir istekte bulunursanız, size yanıt vermek için bir ay süremiz var. Bu "
 "haklardan herhangi birini kullanmak isterseniz, lütfen bizimle iletişime "
 "geçin."
 
@@ -1461,13 +1464,13 @@ msgstr ""
 "&quot;Şirket&quot;, &quot;Kendimiz&quot;, &quot;Biz&quot;, &quot;Bizim&quot;"
 " ve &quot;Biz&quot;, Şirket&#39;i ifade eder. &quot;Taraf&quot;, "
 "&quot;Taraflar&quot; veya &quot;Biz&quot;, hem Müşteriyi hem de kendimizi "
-"ifade eder. Tüm şartlar, Müşteriye Şirketin belirtilen hizmetlerinin "
+"ifade eder. Tüm şartlar, Müşterinin Şirketin belirtilen hizmetlerinin "
 "sağlanmasına ilişkin ihtiyaçlarının açık bir şekilde karşılanması amacıyla "
-"Müşteriye yardım sürecini en uygun şekilde üstlenmek için gerekli ödemenin "
-"kabulü ve değerlendirilmesi anlamına gelir. , Hollanda&#39;nın geçerli "
-"kanunu. Yukarıdaki terminolojinin veya diğer kelimelerin tekil, çoğul, büyük"
-" harf kullanımı ve/veya kendisi veya bunlar birbirinin yerine kullanılabilir"
-" ve dolayısıyla aynı anlama gelir."
+"Müşteriye yardım sürecini en uygun şekilde gerçekleştirmek için gerekli "
+"ödemenin kabulü ve değerlendirilmesi anlamına gelir. , Hollanda&#39;nın "
+"geçerli kanunu. Yukarıdaki terminolojinin veya diğer kelimelerin tekil, "
+"çoğul, büyük harf kullanımı ve/veya kendisi veya bunlar birbirinin yerine "
+"kullanılabilir ve dolayısıyla aynı anlama gelir."
 
 #: templates/tandc.html:16
 msgid ""
@@ -1549,7 +1552,7 @@ msgstr ""
 "veya incelemez. Yorumlar, acenteleri ve iştirakleri olan Tiksss.com&#39;un "
 "görüş ve düşüncelerini yansıtmaz. Yorumlar, görüş ve düşüncelerini "
 "yayınlayan kişinin görüş ve düşüncelerini yansıtır. Yürürlükteki yasaların "
-"izin verdiği ölçüde, Tiksss.com, Yorumlardan veya bu web sitesindeki "
+"izin verdiği ölçüde, Tiksss.com, Yorumlardan veya bu web sitesinde "
 "Yorumların herhangi bir şekilde kullanılması ve/veya yayınlanması ve/veya "
 "görünümünden kaynaklanan ve/veya maruz kalınan herhangi bir sorumlu zarar "
 "veya masraftan sorumlu olmayacaktır. ."
@@ -1623,7 +1626,8 @@ msgid ""
 "The following organizations may link to our Website without prior written "
 "approval"
 msgstr ""
-"Aşağıdaki kuruluşlar önceden yazılı onay almadan Web Sitemize bağlanabilir"
+"Aşağıdaki kuruluşlar önceden yazılı onay almadan Web Sitemize bağlantı "
+"verebilir"
 
 #: templates/tandc.html:58
 msgid "Government agencies"
@@ -1663,10 +1667,10 @@ msgid ""
 "linking party and its products and/or services; and (c) fits within the "
 "context of the linking party’s site."
 msgstr ""
-"Bu kuruluşlar, bağlantı: (a) hiçbir şekilde aldatıcı olmadığı; (b) bağlantı "
-"veren tarafın ve ürünlerinin ve/veya hizmetlerinin sponsorluğunu, onayını "
-"veya onayını yanlış bir şekilde ima etmez; ve (c) bağlantı veren tarafın "
-"sitesi bağlamına uyması."
+"Bu kuruluşlar, bağlantı: (a) hiçbir şekilde yanıltıcı olmadığı sürece; (b) "
+"bağlantı veren tarafın ve ürünlerinin ve/veya hizmetlerinin sponsorluğunu, "
+"onayını veya onayını yanlış bir şekilde ima etmez; ve (c) bağlantı veren "
+"tarafın sitesi bağlamına uyması."
 
 #: templates/tandc.html:74
 msgid ""
@@ -1744,8 +1748,8 @@ msgstr ""
 "Yukarıdaki 2. paragrafta listelenen kuruluşlardan biriyseniz ve web sitemize"
 " bağlantı vermekle ilgileniyorsanız, Tiksss.com&#39;a bir e-posta göndererek"
 " bizi bilgilendirmelisiniz. Lütfen adınızı, kuruluşunuzun adını, iletişim "
-"bilgilerinizi ve sitenizin URL&#39;sini, Web Sitemize bağlantı vermeyi "
-"düşündüğünüz herhangi bir URL&#39;nin bir listesini ve sitemizde yer almak "
+"bilgilerinizin yanı sıra sitenizin URL&#39;sini, Web Sitemize bağlantı "
+"vermeyi düşündüğünüz URL&#39;lerin bir listesini ve sitemizde yer almak "
 "istediğiniz URL&#39;lerin bir listesini ekleyin. bağlantı. Yanıt için 2-3 "
 "hafta bekleyin."
 
@@ -1809,10 +1813,10 @@ msgid ""
 msgstr ""
 "Web Sitenizde görünen herhangi bir içerikten sorumlu tutulamayız. Web "
 "Sitenizde ortaya çıkan tüm iddialara karşı bizi korumayı ve savunmayı kabul "
-"ediyorsunuz. Herhangi bir Web sitesinde iftira niteliğinde, müstehcen veya "
-"suçlu olarak yorumlanabilecek veya herhangi bir üçüncü taraf hakkını ihlal "
-"eden, başka bir şekilde ihlal eden veya ihlal veya diğer ihlalleri savunan "
-"hiçbir bağlantı görünmemelidir."
+"ediyorsunuz. Herhangi bir Web Sitesinde iftira niteliğinde, müstehcen veya "
+"suç teşkil eden veya herhangi bir üçüncü taraf hakkını ihlal eden, başka bir"
+" şekilde ihlal eden veya ihlal veya diğer ihlalleri savunan hiçbir bağlantı "
+"bulunmamalıdır."
 
 #: templates/tandc.html:119
 msgid "Your Privacy"
@@ -1935,11 +1939,11 @@ msgstr ""
 "Web sitesi ve web sitesindeki bilgi ve hizmetler ücretsiz olarak sağlandığı "
 "sürece, herhangi bir kayıp veya hasardan sorumlu olmayacağız."
 
-#: templates/without.html:4
+#: templates/watermark.html:4
 msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgstr "Tiktok videolarını filigransız çevrimiçi indirin - Tiksss.com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Download Tiktok videos without watermark online free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -1949,15 +1953,15 @@ msgstr ""
 "Tiksss.com&#39;dan indirin. Tiktok videolarını filigransız olarak "
 "telefonunuza ve dizüstü bilgisayarınıza kolayca indirebilirsiniz."
 
-#: templates/without.html:13
+#: templates/watermark.html:13
 msgid "video without watermark"
 msgstr "filigransız video"
 
-#: templates/without.html:28
+#: templates/watermark.html:28 templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "Filigran Olmadan TikTok Videosunu Çevrimiçi Ücretsiz İndirin:"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1973,7 +1977,7 @@ msgstr ""
 "Uygulama yüklemeleri gerekmez ve bu TikTok filigransız video indirme "
 "aracının tek özelliği budur. git"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -1984,71 +1988,187 @@ msgstr ""
 "ve açılır menüyü göreceksiniz, üzerine tıklayın ve “Filigransız” seçeneğini "
 "seçin. Bir sonraki sayfada sadece bağlantıyı yapıştırın ve “İndir Düğmesine”"
 " tıklayın. Videonuzu indirmeye başlamak için birkaç saniye bekleyin. Ayrıca "
-"“Filigranlı TikTok Videosunu İndirin” ve bunun için web sitemizin Ana "
+"“Filigranlı TikTok Videoyu İndirin” ve bunun için web sitemizin Ana "
 "Sayfasını ziyaret edebilir ve en sevdiğiniz videoyu 10 saniyeden daha kısa "
 "sürede indirebilirsiniz."
 
-#: templates/without.html:33
+#: templates/watermark.html:33 templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "Sıkça Sorulan Sorular"
 
-#: tiktok/settings.py:144
+#: templates/without.html:4
+#, fuzzy
+#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgid "Download TikTok video with watermark Online - Tiksss.Com"
+msgstr "Filigranlı TikTok videosunu Çevrimiçi indirin - Tiksss.Com"
+
+#: templates/without.html:6
+msgid ""
+"Here you can download TikTok video with watermark online free without any "
+"signup or registration. Its totally free on Tiksss.Com"
+msgstr ""
+"Burada, herhangi bir kayıt veya kayıt olmadan, filigranlı TikTok videosunu "
+"çevrimiçi olarak ücretsiz indirebilirsiniz. Tiksss.Com&#39;da tamamen "
+"ücretsizdir"
+
+#: templates/without.html:13
+#, fuzzy
+#| msgid "video without watermark"
+msgid "video with watermark"
+msgstr "filigranlı video"
+
+#: templates/without.html:29
+msgid ""
+"Here on this page you people can easily download TikTok video with watermark"
+" online free. This tool is totally free and very easy to use. There is no "
+"any signup or registration needed for downloading TikTok videos in your any "
+"device. By using this Tik tok video downloader with watermark, you do not "
+"need to worry about the quality of the video. Our TikTok downloader tool "
+"gives you an original and by default quality video which user uploaded in "
+"the playlist. The use of this tool is very simple. You just need to go to "
+"TikTok Official website or app. Open any of your favourite video and copy "
+"its link or video url but there is two ways to copy link of the specific "
+"video url. If you are using any browser then you have to open the video and "
+"do right click and select copy link address and if you are using an app then"
+" open any video from the list and on the right side of the screen select "
+"share and then in the bottom you will see copy link option, just copy the "
+"link and go to our tool page and paste the video link and click on download "
+"button. It will take just 5 to 10 seconds to download your video in your "
+"device. We have also a "
+msgstr ""
+"İşte bu sayfada, insanlar kolayca filigranlı TikTok videosunu çevrimiçi "
+"ücretsiz olarak indirebilirsiniz. Bu araç tamamen ücretsizdir ve kullanımı "
+"çok kolaydır. TikTok videolarını herhangi bir cihazınıza indirmek için "
+"herhangi bir kayıt veya kayıt gerekmez. Filigranlı bu Tik tok video "
+"indiricisini kullanarak, videonun kalitesi hakkında endişelenmenize gerek "
+"yok. TikTok indirme aracımız, kullanıcının oynatma listesine yüklediği "
+"orijinal ve varsayılan kalitede bir video sunar. Bu aracın kullanımı çok "
+"basittir. TikTok Resmi web sitesine veya uygulamasına gitmeniz yeterlidir. "
+"Favori videolarınızdan herhangi birini açın ve bağlantısını veya video "
+"URL&#39;sini kopyalayın, ancak belirli video URL&#39;sinin bağlantısını "
+"kopyalamanın iki yolu vardır. Herhangi bir tarayıcı kullanıyorsanız videoyu "
+"açmanız ve sağ tıklayıp bağlantı adresini kopyala&#39;yı seçmeniz ve bir "
+"uygulama kullanıyorsanız listeden herhangi bir videoyu açmanız ve ekranın "
+"sağ tarafında paylaş&#39;ı seçin ve ardından altta bağlantıyı kopyala "
+"seçeneğini göreceksiniz, sadece bağlantıyı kopyalayın ve araç sayfamıza "
+"gidin ve video bağlantısını yapıştırın ve indirme düğmesine tıklayın. "
+"Videonuzu cihazınıza indirmek sadece 5 ila 10 saniye sürecektir. biz de var"
+
+#: templates/without.html:29
+msgid ""
+" online tool which is also totally free to use. For more info visit our "
+"official website"
+msgstr ""
+"Ayrıca kullanımı tamamen ücretsiz olan çevrimiçi araç. Daha fazla bilgi için"
+" resmi web sitemizi ziyaret edin"
+
+#: templates/without.html:36
+#, fuzzy
+#| msgid "How to Download Tiktok Videos without Watermark:"
+msgid "How to Download Tiktok Videos with Watermark:"
+msgstr "Filigranlı Tiktok Videoları Nasıl İndirilir:"
+
+#: templates/without.html:41
+#, fuzzy
+#| msgid "Go to TikTok official website and copy the video link."
+msgid "Go to Tik tok official website or app and copy the video url."
+msgstr ""
+"Tik tok resmi web sitesine veya uygulamasına gidin ve video URL&#39;sini "
+"kopyalayın."
+
+#: templates/without.html:44
+#, fuzzy
+#| msgid ""
+#| "Select a video URL on TikTok which you want to convert into mp3 format."
+msgid "Select a video which you want to download in mp4 format."
+msgstr "Mp4 formatında indirmek istediğiniz videoyu seçin."
+
+#: templates/without.html:47
+#, fuzzy
+#| msgid ""
+#| "Copy the selected video link on your smartphone / computer or Laptop"
+msgid "Copy the selected video link on your smartphone / computer or Laptop."
+msgstr ""
+"Seçilen video bağlantısını akıllı telefonunuza / bilgisayarınıza veya "
+"Dizüstü bilgisayarınıza kopyalayın."
+
+#: templates/without.html:50
+#, fuzzy
+#| msgid ""
+#| "Insert the TikTok video link in the field and press \"Convert Button\""
+msgid ""
+"Paste the TikTok video url in the given field on our tool page and click on "
+"\"download button\"."
+msgstr ""
+"TikTok video url&#39;sini araç sayfamızda verilen alana yapıştırın ve "
+"&quot;indir düğmesine&quot; tıklayın."
+
+#: templates/without.html:53
+msgid ""
+"It will take up to 5 to 10 seconds to download Tik tok video in your device."
+msgstr "Tik tok videosunu cihazınıza indirmek 5 ila 10 saniye kadar sürer."
+
+#: tiktok/settings.py:145
 msgid "English"
 msgstr "ingilizce"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:146
+msgid "Hindi"
+msgstr "Hintçe"
+
+#: tiktok/settings.py:147
 msgid "Italian"
 msgstr "İtalyan"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:148
 msgid "Polish"
 msgstr "Lehçe"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:149
 msgid "French"
 msgstr "Fransızca"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:150
 msgid "German"
 msgstr "Almanca"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:151
 msgid "Spanish"
 msgstr "İspanyol"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:152
 msgid "Indonesian"
 msgstr "Endonezya dili"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:153
 msgid "Japanese"
 msgstr "Japonca"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:154
 msgid "Korean"
 msgstr "Koreli"
 
-#: tiktok/settings.py:153
+#: tiktok/settings.py:155
 msgid "Portuguese"
 msgstr "Portekizce"
 
-#: tiktok/settings.py:154
+#: tiktok/settings.py:156
 msgid "Russian"
 msgstr "Rusça"
 
-#: tiktok/settings.py:155
+#: tiktok/settings.py:157
 msgid "Arabic"
 msgstr "Arapça"
 
-#: tiktok/settings.py:156
+#: tiktok/settings.py:158
 msgid "Turkish"
 msgstr "Türk"
 
-#: tiktok/settings.py:157
+#: tiktok/settings.py:159
 msgid "Thai"
 msgstr "Tay"
 
-#: tiktok/settings.py:158
+#: tiktok/settings.py:160
 msgid "Vietnamese"
 msgstr "Vietnam"
 
@@ -2084,7 +2204,7 @@ msgstr "Bu sayfa numarası 1&#39;den az"
 
 #: venv/lib/python3.8/site-packages/django/core/paginator.py:58
 msgid "That page contains no results"
-msgstr "O sayfa sonuç içermiyor"
+msgstr "Bu sayfa sonuç içermiyor"
 
 #: venv/lib/python3.8/site-packages/django/core/validators.py:22
 msgid "Enter a valid value."
@@ -2288,7 +2408,7 @@ msgstr "“%(value)s” değeri Doğru, Yanlış veya Yok olmalıdır."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:961
 msgid "Boolean (Either True or False)"
-msgstr "Boolean (Doğru veya Yanlış)"
+msgstr "Boole (Doğru veya Yanlış)"
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1002
 #, python-format
@@ -3148,7 +3268,7 @@ msgid ""
 "hijacked by third parties."
 msgstr ""
 "Bu mesajı görüyorsunuz çünkü bu HTTPS sitesi, Web tarayıcınız tarafından bir"
-" &quot;Yönlendiren başlığı&quot; gönderilmesini gerektiriyor, ancak hiçbiri "
+" “Yönlendirme başlığı” gönderilmesini gerektiriyor, ancak hiçbiri "
 "gönderilmedi. Bu başlık, güvenlik nedenleriyle, tarayıcınızın üçüncü "
 "şahıslar tarafından ele geçirilmediğinden emin olmak için gereklidir."
 
@@ -3185,8 +3305,8 @@ msgid ""
 "that your browser is not being hijacked by third parties."
 msgstr ""
 "Bu mesajı, bu site form gönderirken bir CSRF tanımlama bilgisi gerektirdiği "
-"için görüyorsunuz. Bu çerez, güvenlik nedenleriyle, tarayıcınızın üçüncü "
-"şahıslar tarafından ele geçirilmediğinden emin olmak için gereklidir."
+"için görüyorsunuz. Bu çerez, tarayıcınızın üçüncü şahıslar tarafından ele "
+"geçirilmediğinden emin olmak için güvenlik nedenleriyle gereklidir."
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:137
 msgid ""
@@ -3358,4 +3478,4 @@ msgstr "pw-algoritması için desteklenmeyen değer: %s."
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
 msgid "Redirected but the response is missing a Location: header."
-msgstr "Yönlendirildi ancak yanıtta Location: başlığı eksik."
+msgstr "Yönlendirildi, ancak yanıtta bir Location: başlığı eksik."

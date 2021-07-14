@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-10 19:36+0530\n"
+"POT-Creation-Date: 2021-07-14 23:25+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,8 +27,8 @@ msgid ""
 "In this page we have added some useful info about our website Tiksss.com. If"
 " you have any question regarding this than kindly let us know. Thanks."
 msgstr ""
-"이 페이지에서 우리는 우리 웹사이트 Tikss.com에 대한 몇 가지 유용한 정보를 추가했습니다. 이와 관련하여 질문이 있으시면 저희에게"
-" 알려주십시오. 감사."
+"이 페이지에서 우리는 우리 웹사이트 Tikss.com에 대한 몇 가지 유용한 정보를 추가했습니다. 이와 관련하여 질문이 있으면 친절하게 "
+"알려주십시오. 감사."
 
 #: templates/about.html:10
 msgid "About US"
@@ -51,7 +51,7 @@ msgid ""
 "watermark or with watermark in just few seconds which you can view here in "
 "our website"
 msgstr ""
-"우리 플랫폼은 TikTok을 Mp4, Mp3, Video Cutter로 변환하는 다양한 유형의 TikTok 비디오 변환 도구를 지원하며 "
+"우리 플랫폼은 TikTok을 Mp4, Mp3, Video Cutter로 변환하는 다양한 유형의 TikTok 비디오 도구를 지원하며 "
 "워터마크가 없거나 몇 초 안에 워터마크가 있는 TikTok 비디오를 다운로드하여 여기 웹사이트에서 볼 수 있습니다."
 
 #: templates/about.html:13
@@ -88,13 +88,14 @@ msgstr ""
 msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr "mp3 변환기 온라인 무료 - TikTok 비디오를 mp3 변환기 온라인으로"
 
-#: templates/audio.html:15 templates/index.html:12
+#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
 msgid "Enter the URL Here"
 msgstr "여기에 URL을 입력하세요"
 
 #: templates/audio.html:24 templates/audio_cutter.html:26
-#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
-#: templates/without.html:23
+#: templates/cutter.html:26 templates/index.html:21
+#: templates/watermark.html:13 templates/watermark.html:23
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "다운로드"
 
@@ -114,7 +115,7 @@ msgid ""
 "sure. For more Info visit our Website"
 msgstr ""
 "음악 애호가라면 이 TikTok to Mp3 Converter Online Tool의 가치를 알게 될 것입니다. 우리는 이 도구를 매우 "
-"쉽고 간단하게 만들었습니다. 사람들은 제한 없이 원하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 수 있도록 이 도구 "
+"쉽고 간단하게 만들었습니다. 사람들은 제한 없이 선호하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 수 있도록 이 도구 "
 "페이지를 북마크에 추가해야 합니다. 우리는 사람들이 어떻게 사용하고 혜택을 받을 수 있는지 이 도구의 모든 지침을 추가했습니다. 소셜 "
 "미디어의 도움을 받아 이 도구를 친구 및 가족과 공유하십시오. 친구 및 가족은 분명히 이것을 좋아하고 사용할 것이기 때문입니다. 더 많은"
 " 정보를 원하시면 저희 웹사이트를 방문하십시오"
@@ -136,7 +137,7 @@ msgid ""
 msgstr "mp3 형식으로 변환하려는 TikTok의 비디오 URL을 선택하십시오."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr "선택한 비디오 링크를 스마트폰/컴퓨터 또는 노트북에 복사합니다."
 
@@ -153,7 +154,7 @@ msgid "Insert the TikTok video link in the field and press \"Convert Button\""
 msgstr "필드에 TikTok 비디오 링크를 삽입하고 &quot;변환 버튼&quot;을 누르십시오."
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/without.html:50
+#: templates/index.html:36 templates/watermark.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "이제 다운로드 버튼이 표시되면 다운로드를 클릭합니다."
 
@@ -164,7 +165,8 @@ msgid ""
 msgstr "몇 초만 기다리면 컴퓨터에서 직접 비디오를 다운로드할 수 있습니다."
 
 #: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+#: templates/faq.html:87 templates/index.html:38 templates/watermark.html:56
+#: templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -249,47 +251,47 @@ msgid ""
 "Kindly share our website with your friends and family members. Thanks!"
 msgstr "TikTok Mp3 커터 및 변환기 도구 및 서비스가 마음에 드시면 친구 및 가족과 웹 사이트를 공유하십시오. 감사!"
 
-#: templates/base.html:42
+#: templates/base.html:43
 msgid "Home"
 msgstr "집"
 
-#: templates/base.html:44 templates/base.html:46
+#: templates/base.html:45 templates/base.html:47
 msgid "Tools"
 msgstr "도구"
 
-#: templates/base.html:48
+#: templates/base.html:49
 msgid "Download With Watermark"
 msgstr "워터마크로 다운로드"
 
-#: templates/base.html:51
+#: templates/base.html:52
 msgid "Download Without Watermark"
 msgstr "워터마크 없이 다운로드"
 
-#: templates/base.html:52
+#: templates/base.html:53
 msgid "Download Audio"
 msgstr "오디오 다운로드"
 
-#: templates/base.html:53
+#: templates/base.html:54
 msgid "Video Cutter"
 msgstr "비디오 커터"
 
-#: templates/base.html:54
+#: templates/base.html:55
 msgid "Audio Cutter"
 msgstr "오디오 커터"
 
-#: templates/base.html:58
+#: templates/base.html:59
 msgid "About"
 msgstr "약"
 
-#: templates/base.html:112 templates/privacypolicy.html:10
+#: templates/base.html:113 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "개인 정보 정책"
 
-#: templates/base.html:115 templates/tandc.html:10
+#: templates/base.html:116 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "이용약관"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "FAQ"
 msgstr "자주하는 질문"
 
@@ -376,8 +378,8 @@ msgid ""
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
 " which is totally free."
 msgstr ""
-"당사 웹사이트 Tikss.com에서 워터마크가 없는 온라인 무료 Tiktok 비디오를 다운로드하십시오. Tiktok 애호가를 위한 가장 "
-"빠른 Tiktok 비디오 다운로더는 완전히 무료입니다."
+"당사 웹사이트 Tikss.com에서 워터마크가 없는 온라인 무료 Tiktok 비디오를 다운로드하십시오. 완전히 무료인 Tiktok "
+"애호가를 위한 가장 빠른 Tiktok 비디오 다운로더 온라인입니다."
 
 #: templates/download1.html:4 templates/download4.html:4
 #: templates/download6.html:4
@@ -467,23 +469,23 @@ msgid ""
 " machine"
 msgstr "몇 초만 기다리면 컴퓨터에서 직접 비디오를 다운로드할 수 있습니다."
 
-#: templates/faq.html:67 templates/without.html:36
+#: templates/faq.html:67 templates/watermark.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "워터마크 없이 Tiktok 비디오를 다운로드하는 방법:"
 
-#: templates/faq.html:72 templates/without.html:41
+#: templates/faq.html:72 templates/watermark.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "다운로드하려는 TikTok 앱 또는 웹에서 비디오를 선택하십시오."
 
-#: templates/faq.html:78 templates/without.html:47
+#: templates/faq.html:78 templates/watermark.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
 msgstr ""
-"선택한 TikTok 비디오 링크를 &quot;워터마크 없이 다운로드&quot;인 웹 사이트 도구에 붙여넣고 &quot;검색 "
-"버튼&quot;을 누릅니다."
+"선택한 TikTok 비디오 링크를 &quot;워터마크 없는 Tiktok 비디오 다운로드&quot;인 웹 사이트 도구에 붙여넣고 "
+"&quot;검색 버튼&quot;을 누릅니다."
 
-#: templates/faq.html:84 templates/without.html:53
+#: templates/faq.html:84 templates/watermark.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -525,7 +527,7 @@ msgid ""
 msgstr ""
 "TikTok 애호가가 클릭 한 번으로 TikTok 비디오를 장치에 저장할 수 있는 놀라운 도구입니다. 설계된 이 도구는 매우 간단하며 "
 "모든 사람이 번거로움 없이 쉽게 사용할 수 있습니다. 우리는 모두 비디오를 다시 보고 싶다면 로그에 남아 있는 장치에서 Tik Tok "
-"비디오를 보는 것을 좋아하지만 플랫폼이 매일 생성하는 멋진 피드백으로 인해 비디오를 더 이상 사용할 수 없고 손실된다는 것을 "
+"비디오를 보는 것을 좋아하지만 플랫폼에서 매일 생성하는 멋진 피드백으로 인해 비디오를 더 이상 사용할 수 없고 손실된다는 것을 "
 "경험했습니다. 완전 과잉. TikTok은 선호하는 장치에 비디오를 다운로드하거나 저장하는 것을 허용하지 않습니다. 그러나 사용자 측에서 "
 "업로드한 동영상은 많은 제한이 있는 공식 웹사이트나 앱에서 사용할 수 있습니다. 따라서 문제는 이러한 모든 비디오 다운로드 문제를 "
 "해결하는 방법입니다. 그래서 저는 이 플랫폼에 수백만 명의 사람들이 모바일이나 노트북에서 TikTok 비디오를 시청하지만 다운로드할 수 "
@@ -586,7 +588,7 @@ msgstr ""
 " 대부분의 경우 사람들은 배경에서 음악을 선택하고 재생한 다음 그 소리에 따라 각각 행동하는 보이스오버를 하는 것을 좋아합니다. 저는 이"
 " 앱에서 재미있는 음성 해설 동영상을 보는 것을 좋아합니다. 매일 사람들은 다양한 방식으로 자신의 재능을 보여주고 이 플랫폼을 통해 "
 "유명인이 됩니다. 이 플랫폼은 엔터테인먼트 및 바이럴 비디오 콘텐츠 제작자의 소스가 되었습니다. TikTok의 콘텐츠는 Wi-Fi 또는 "
-"인터넷 사용이 불가능한 사람들에게는 도달하지 못할 수 있으므로 바이러스적이고 놀라운 비디오를 보려면 장치에 인터넷 연결이 있는지 "
+"인터넷 사용이 불가능한 사람들에게는 접근할 수 없을 수 있으므로 바이러스성 및 놀라운 비디오를 시청하려면 장치에 인터넷 연결이 있는지 "
 "확인하십시오. 그래서 우리는 당신의 기기에서 좋아하는 비디오를 다운로드할 수 있는 이 놀라운 TikTok Mp4 다운로더 도구를 "
 "제공합니다."
 
@@ -701,7 +703,7 @@ msgid ""
 " our website Tiksss.com, you people can easily Trim and Cut TikTok Video in "
 "your devices for free. It’s very unique and user friendly tool for everyone."
 msgstr ""
-"콘텐츠 제작을 위한 솔루션을 제공합니다. 우리 웹사이트 Tikss.com에서 이 도구를 사용하는 동안 사람들은 무료로 장치에서 "
+"콘텐츠 제작을 위한 솔루션을 제공합니다. 우리 웹 사이트 Tikss.com에서 이 도구를 사용하는 동안 사람들은 무료로 장치에서 "
 "TikTok 비디오를 쉽게 자르고 자를 수 있습니다. 모두를 위한 매우 독특하고 사용자 친화적인 도구입니다."
 
 #: templates/privacypolicy.html:3
@@ -736,7 +738,7 @@ msgid ""
 " address, or any other personally identifiable information."
 msgstr ""
 "이 웹사이트는 귀하가 웹사이트를 탐색하고 당사 서버에서 페이지를 요청할 때 귀하의 컴퓨터에서 개인 식별 정보를 수집하지 않습니다. 이는 "
-"귀하가 자발적으로 의도적으로 개인 식별 정보를 제공하지 않는 한 귀하의 이름, 이메일 주소 또는 기타 개인 식별 정보를 알 수 없음을 "
+"귀하가 자발적으로 고의로 개인 식별 정보를 제공하지 않는 한 귀하의 이름, 이메일 주소 또는 기타 개인 식별 정보를 알 수 없음을 "
 "의미합니다."
 
 #: templates/privacypolicy.html:19
@@ -757,7 +759,7 @@ msgstr ""
 "헤더, JavaScript 또는 유사한 기술 도구에 제공된 정보를 기록합니다. 당사 서버가 이 정보를 사용하여 이 웹사이트의 페이지를 "
 "귀하에게 전달하기 때문에 당사는 웹사이트가 올바르게 기능하고 웹사이트에서 보는 기능을 제공하기 위해 이 정보를 수집합니다. 우리는 또한 "
 "이 정보를 사용하여 방문자가 웹사이트를 사용하는 방법과 웹사이트, 웹사이트의 콘텐츠 및 기능을 귀하의 요구에 맞게 더 잘 조정할 수 있는"
-" 방법을 더 잘 이해합니다. 그러나 이 정보는 웹사이트를 탐색하는 사람의 개인 식별 정보와 관련이 없습니다."
+" 방법을 더 잘 이해합니다. 그러나 이 정보는 웹사이트를 탐색하는 개인의 개인 식별 정보와 관련이 없습니다."
 
 #: templates/privacypolicy.html:22
 msgid ""
@@ -768,7 +770,7 @@ msgid ""
 " browser and capture and remember certain information)"
 msgstr ""
 "우리는 Google Analytics 쿠키를 사용하여 향후 방문을 위해 귀하의 기본 설정을 이해하고 저장합니다. 쿠키는 사이트 또는 "
-"서비스 제공자가 귀하의 웹 브라우저(허용하는 경우)를 통해 귀하의 컴퓨터 하드 드라이브로 전송하는 작은 파일로, 이를 통해 사이트 또는 "
+"서비스 제공자가 귀하의 웹 브라우저(허용하는 경우)를 통해 귀하의 컴퓨터 하드 드라이브에 전송하는 작은 파일로, 이를 통해 사이트 또는 "
 "서비스 제공자 시스템이 귀하의 브라우저를 인식하고 특정 정보를 캡처 및 기억할 수 있습니다."
 
 #: templates/privacypolicy.html:25
@@ -800,9 +802,10 @@ msgid ""
 "marketing, advertising, or other uses"
 msgstr ""
 "우리는 귀하의 개인 식별 정보를 판매, 거래 또는 외부 당사자에게 이전하지 않습니다. 여기에는 해당 당사자가 이 정보를 기밀로 유지하는 "
-"데 동의하는 한 웹 사이트 운영, 비즈니스 수행 또는 서비스를 지원하는 신뢰할 수 있는 제3자는 포함되지 않습니다. 또한 공개가 법을 "
-"준수하거나 사이트 정책을 시행하거나 당사 또는 다른 사람의 권리, 재산 또는 안전을 보호하기 위해 적절하다고 판단되는 경우 귀하의 정보를"
-" 공개할 수 있습니다. 그러나 개인 식별이 불가능한 방문자 정보는 마케팅, 광고 또는 기타 용도로 제3자에게 제공될 수 있습니다."
+"데 동의하는 한 웹 사이트 운영, 비즈니스 수행 또는 귀하에게 서비스를 제공하는 데 도움을 주는 신뢰할 수 있는 제3자는 포함되지 "
+"않습니다. 또한 공개가 법을 준수하거나 사이트 정책을 시행하거나 당사 또는 다른 사람의 권리, 재산 또는 안전을 보호하기 위해 적절하다고"
+" 판단되는 경우 귀하의 정보를 공개할 수 있습니다. 그러나 개인 식별이 불가능한 방문자 정보는 마케팅, 광고 또는 기타 용도로 제3자에게"
+" 제공될 수 있습니다."
 
 #: templates/privacypolicy.html:31
 msgid ""
@@ -853,8 +856,8 @@ msgid ""
 "share your information with anyone except as described in this Privacy "
 "Policy"
 msgstr ""
-"당사 서비스를 사용하기로 선택하면 이 정책과 관련된 정보 수집 및 사용에 동의하는 것입니다. 수집한 개인 정보는 서비스 제공 및 개선을 "
-"위해 사용됩니다. 우리는 이 개인 정보 보호 정책에 설명된 경우를 제외하고 귀하의 정보를 사용하거나 그 누구와도 공유하지 않을 것입니다"
+"서비스를 사용하기로 선택하면 이 정책과 관련된 정보 수집 및 사용에 동의하는 것입니다. 수집한 개인 정보는 서비스 제공 및 개선을 위해 "
+"사용됩니다. 우리는 이 개인 정보 보호 정책에 설명된 경우를 제외하고 귀하의 정보를 사용하거나 그 누구와도 공유하지 않을 것입니다"
 
 #: templates/privacypolicy.html:41
 msgid ""
@@ -875,8 +878,8 @@ msgid ""
 "you are asked to provide it, will be made clear to you at the point we ask "
 "you to provide your personal information"
 msgstr ""
-"귀하가 제공하도록 요청받은 개인 정보 및 귀하가 제공하도록 요청받은 이유는 귀하의 개인 정보 제공을 요청하는 시점에서 귀하에게 명확해질 "
-"것입니다."
+"귀하가 제공하도록 요청받은 개인 정보 및 귀하가 제공하도록 요청받은 이유는 귀하에게 개인 정보를 제공하도록 요청하는 시점에 귀하에게 "
+"명확해질 것입니다."
 
 #: templates/privacypolicy.html:44
 msgid ""
@@ -1112,9 +1115,9 @@ msgid ""
 msgstr ""
 "qload.info의 개인정보 보호정책은 다른 광고주나 웹사이트에 적용되지 않습니다. 따라서 보다 자세한 정보는 이러한 제3자 광고 "
 "서버의 개인정보 보호정책을 참조하시기 바랍니다. 여기에는 특정 옵션을 선택 해제하는 방법에 대한 관행 및 지침이 포함될 수 있습니다. "
-"이러한 개인정보 보호정책 및 해당 링크의 전체 목록은 다음에서 찾을 수 있습니다. 개인정보 보호정책 링크. 개별 브라우저 옵션을 통해 "
-"쿠키를 비활성화하도록 선택할 수 있습니다. 특정 웹 브라우저의 쿠키 관리에 대한 자세한 내용은 해당 브라우저의 웹사이트에서 확인할 수 "
-"있습니다. 쿠키란?"
+"이러한 개인 정보 보호 정책 및 해당 링크의 전체 목록은 다음에서 찾을 수 있습니다. 개인 정보 보호 정책 링크. 개별 브라우저 옵션을 "
+"통해 쿠키를 비활성화하도록 선택할 수 있습니다. 특정 웹 브라우저의 쿠키 관리에 대한 자세한 내용은 해당 브라우저의 웹사이트에서 확인할 "
+"수 있습니다. 쿠키란?"
 
 #: templates/privacypolicy.html:90
 msgid "CCPA Privacy Rights (Do Not Sell My Personal Information)"
@@ -1237,7 +1240,7 @@ msgid ""
 "Do not continue to use Tiksss.com if you do not agree to take all of the "
 "terms and conditions stated on this page."
 msgstr ""
-"이 웹사이트에 접속함으로써 우리는 귀하가 이 이용약관에 동의하는 것으로 간주합니다. 이 페이지에 명시된 모든 이용 약관에 동의하지 않는 "
+"이 웹사이트에 액세스함으로써 귀하가 이러한 이용 약관에 동의하는 것으로 간주합니다. 이 페이지에 명시된 모든 이용 약관에 동의하지 않는 "
 "경우 Tikss.com을 계속 사용하지 마십시오."
 
 #: templates/tandc.html:14
@@ -1256,14 +1259,14 @@ msgid ""
 "plural, capitalization and/or he/she or they, are take interchangeable and "
 "therefore as referring to same."
 msgstr ""
-"다음 용어는 본 이용약관, 개인정보 보호정책, 면책조항 및 모든 계약에 적용됩니다. &quot;고객&quot;, "
-"&quot;귀하&quot; 및 &quot;귀하의&quot;는 회사의 이용약관을 준수하여 이 웹사이트에 로그인하는 사람인 귀하를 "
-"의미합니다. &quot;회사&quot;, &quot;우리 자신&quot;, &quot;우리&quot;, &quot;우리&quot; 및 "
+"다음 용어는 본 이용 약관, 개인 정보 보호 정책 및 면책 조항 및 모든 계약에 적용됩니다. &quot;고객&quot;, "
+"&quot;귀하&quot; 및 &quot;귀하의&quot;는 회사의 이용 약관을 준수하여 이 웹사이트에 로그인하는 사람인 귀하를 "
+"나타냅니다. &quot;회사&quot;, &quot;우리 자신&quot;, &quot;우리&quot;, &quot;우리&quot; 및 "
 "&quot;우리&quot;는 회사를 의미합니다. &quot;당사자&quot;, &quot;당사자&quot; 또는 "
 "&quot;저희&quot;는 고객과 우리 모두를 나타냅니다. 모든 조건은 다음 조건에 따라 회사의 명시된 서비스 제공과 관련하여 고객의 "
-"요구를 충족시키기 위한 명시적 목적을 위해 고객에 대한 가장 적절한 지원 프로세스를 수행하는 데 필요한 지불을 수락하고 고려하는 것을 "
-"의미합니다. , 네덜란드의 지배적인 법률. 단수, 복수, 대문자 및/또는 그/그녀의 위의 용어 또는 기타 단어의 사용은 상호 교환 "
-"가능하므로 동일한 것으로 간주합니다."
+"요구를 충족시키기 위한 명시적 목적을 위해 가장 적절한 방식으로 고객에 대한 지원 프로세스를 수행하는 데 필요한 지불을 수락하고 고려하는"
+" 것을 의미합니다. , 네덜란드의 지배적인 법률. 단수, 복수, 대문자 및/또는 그/그녀의 위의 용어 또는 기타 단어의 사용은 상호 교환"
+" 가능하므로 동일한 것으로 간주합니다."
 
 #: templates/tandc.html:16
 msgid ""
@@ -1312,7 +1315,7 @@ msgstr "Tiksss.com에서 자료 판매, 임대 또는 재라이센스 부여"
 
 #: templates/tandc.html:29
 msgid "Reproduce, duplicate or copy material from Tiksss.com"
-msgstr "Tiksss.com에서 자료를 복제, 복제 또는 복사하십시오."
+msgstr "Tiksss.com에서 자료를 복제, 복제 또는 복사"
 
 #: templates/tandc.html:32
 msgid "Redistribute content from Tiksss.com"
@@ -1334,9 +1337,9 @@ msgid ""
 "caused and/or suffered as a result of any use of and/or posting of and/or "
 "appearance of Comments on this website."
 msgstr ""
-"이 웹사이트의 일부는 사용자가 웹사이트의 특정 영역에서 의견과 정보를 게시하고 교환할 수 있는 기회를 제공합니다. Tiksss.com은 "
+"이 웹사이트의 일부는 사용자가 웹사이트의 특정 영역에 의견과 정보를 게시하고 교환할 수 있는 기회를 제공합니다. Tiksss.com은 "
 "웹사이트에 존재하기 전에 댓글을 필터링, 편집, 게시 또는 검토하지 않습니다. 댓글은 Tiksss.com의 대리인 계열사의 견해와 의견을"
-" 반영하지 않습니다. 댓글은 자신의 견해와 의견을 게시한 사람의 견해와 의견을 반영합니다. 관련 법률이 허용하는 범위 내에서 "
+" 반영하지 않습니다. 댓글은 자신의 견해와 의견을 게시한 사람의 견해와 의견을 반영합니다. 해당 법률이 허용하는 범위 내에서, "
 "Tiksss.com은 이 웹사이트에서 댓글의 사용 및/또는 게시 및/또는 출현으로 인해 발생 및/또는 발생한 모든 책임 손해 또는 비용에"
 " 대해 책임을 지지 않습니다. ."
 
@@ -1578,9 +1581,9 @@ msgid ""
 "our Website, you agree to be bound to and follow these linking terms and "
 "conditions"
 msgstr ""
-"당사는 귀하가 당사 웹사이트에 대한 모든 링크 또는 특정 링크를 제거하도록 요청할 권리가 있습니다. 귀하는 요청 시 당사 웹사이트에 대한"
-" 모든 링크를 즉시 제거하는 데 동의합니다. 우리는 또한 이 이용 약관과 연결 정책을 언제든지 수정할 수 있는 권리를 보유합니다. 당사 "
-"웹사이트에 지속적으로 연결함으로써 귀하는 이러한 연결 이용약관을 준수하는 데 동의합니다."
+"당사는 귀하에게 당사 웹사이트에 대한 모든 링크 또는 특정 링크를 제거하도록 요청할 권리가 있습니다. 귀하는 요청 시 당사 웹사이트에 "
+"대한 모든 링크를 즉시 제거하는 데 동의합니다. 우리는 또한 이 이용 약관과 연결 정책을 언제든지 수정할 수 있는 권리를 보유합니다. "
+"당사 웹사이트에 지속적으로 연결함으로써 귀하는 이러한 연결 이용약관을 준수하는 데 동의합니다."
 
 #: templates/tandc.html:123
 msgid "Removal of links from our website"
@@ -1602,7 +1605,7 @@ msgid ""
 "website remains available or that the material on the website is kept up to "
 "date"
 msgstr ""
-"우리는 이 웹사이트의 정보가 정확하다는 것을 보증하지 않으며 그 완전성이나 정확성을 보증하지 않습니다. 또한 웹사이트를 계속 사용할 수 "
+"우리는 이 웹사이트의 정보가 정확하다는 것을 보장하지 않으며 그 완전성이나 정확성을 보증하지 않습니다. 또한 웹사이트를 계속 사용할 수 "
 "있도록 보장하거나 웹사이트의 자료를 최신 상태로 유지할 것을 약속하지 않습니다."
 
 #: templates/tandc.html:126
@@ -1658,11 +1661,11 @@ msgid ""
 msgstr ""
 "웹사이트와 웹사이트의 정보 및 서비스가 무료로 제공되는 한 당사는 어떠한 종류의 손실이나 손해에 대해서도 책임을 지지 않습니다."
 
-#: templates/without.html:4
+#: templates/watermark.html:4
 msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgstr "온라인으로 워터마크 없는 Tiktok 비디오 다운로드 - Tiksss.com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Download Tiktok videos without watermark online free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -1671,15 +1674,15 @@ msgstr ""
 "당사 웹사이트 Tikss.com에서 워터마크가 없는 Tiktok 비디오를 온라인으로 무료로 다운로드하십시오. 휴대폰과 노트북에 워터마크 "
 "없이 틱톡 영상을 쉽게 다운로드할 수 있습니다."
 
-#: templates/without.html:13
+#: templates/watermark.html:13
 msgid "video without watermark"
 msgstr "워터마크 없는 영상"
 
-#: templates/without.html:28
+#: templates/watermark.html:28 templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "워터마크 없는 TikTok 비디오 온라인 무료 다운로드:"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1693,7 +1696,7 @@ msgstr ""
 " 특히 PC 사용자의 경우 추가 소프트웨어나 앱을 설치할 필요가 없으며 이것이 이 TikTok 워터마크 없는 비디오 다운로드 도구의 "
 "유일한 특징입니다. 이동"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -1706,67 +1709,165 @@ msgstr ""
 "있는 TikTok 비디오 다운로드&quot;를 할 수 있으며 이를 위해 당사 웹사이트 홈 페이지를 방문하여 10초 이내에 좋아하는 "
 "비디오를 다운로드할 수 있습니다."
 
-#: templates/without.html:33
+#: templates/watermark.html:33 templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "자주 묻는 질문"
 
-#: tiktok/settings.py:144
+#: templates/without.html:4
+#, fuzzy
+#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgid "Download TikTok video with watermark Online - Tiksss.Com"
+msgstr "워터마크가 있는 TikTok 비디오 다운로드 온라인 - Tiksss.Com"
+
+#: templates/without.html:6
+msgid ""
+"Here you can download TikTok video with watermark online free without any "
+"signup or registration. Its totally free on Tiksss.Com"
+msgstr ""
+"여기에서 가입이나 등록 없이 워터마크가 있는 TikTok 비디오를 온라인으로 무료로 다운로드할 수 있습니다. Tikss.Com에서 완전 "
+"무료입니다."
+
+#: templates/without.html:13
+#, fuzzy
+#| msgid "video without watermark"
+msgid "video with watermark"
+msgstr "워터마크가 있는 동영상"
+
+#: templates/without.html:29
+msgid ""
+"Here on this page you people can easily download TikTok video with watermark"
+" online free. This tool is totally free and very easy to use. There is no "
+"any signup or registration needed for downloading TikTok videos in your any "
+"device. By using this Tik tok video downloader with watermark, you do not "
+"need to worry about the quality of the video. Our TikTok downloader tool "
+"gives you an original and by default quality video which user uploaded in "
+"the playlist. The use of this tool is very simple. You just need to go to "
+"TikTok Official website or app. Open any of your favourite video and copy "
+"its link or video url but there is two ways to copy link of the specific "
+"video url. If you are using any browser then you have to open the video and "
+"do right click and select copy link address and if you are using an app then"
+" open any video from the list and on the right side of the screen select "
+"share and then in the bottom you will see copy link option, just copy the "
+"link and go to our tool page and paste the video link and click on download "
+"button. It will take just 5 to 10 seconds to download your video in your "
+"device. We have also a "
+msgstr ""
+"여기 이 페이지에서 사람들은 워터마크가 있는 TikTok 비디오를 온라인에서 무료로 쉽게 다운로드할 수 있습니다. 이 도구는 완전 "
+"무료이며 사용하기 매우 쉽습니다. 모든 장치에서 TikTok 비디오를 다운로드하는 데 필요한 가입이나 등록이 없습니다. 워터마크가 있는 "
+"이 Tik tok 비디오 다운로더를 사용하면 비디오 품질에 대해 걱정할 필요가 없습니다. TikTok 다운로더 도구는 사용자가 재생 "
+"목록에 업로드한 기본 품질의 원본 비디오를 제공합니다. 이 도구의 사용은 매우 간단합니다. TikTok 공식 웹 사이트 또는 앱으로 "
+"이동하기만 하면 됩니다. 좋아하는 비디오를 열고 링크 또는 비디오 URL을 복사하지만 특정 비디오 URL의 링크를 복사하는 두 가지 "
+"방법이 있습니다. 브라우저를 사용하는 경우 비디오를 열고 마우스 오른쪽 버튼을 클릭하고 링크 주소 복사를 선택하고 앱을 사용하는 경우 "
+"목록에서 비디오를 열고 화면 오른쪽에서 공유를 선택한 다음 하단에 링크 복사 옵션이 표시됩니다. 링크를 복사하고 도구 페이지로 이동하여 "
+"비디오 링크를 붙여넣고 다운로드 버튼을 클릭하면 됩니다. 기기에 동영상을 다운로드하는 데 5~10초밖에 걸리지 않습니다. 우리는 또한"
+
+#: templates/without.html:29
+msgid ""
+" online tool which is also totally free to use. For more info visit our "
+"official website"
+msgstr "완전히 무료로 사용할 수 있는 온라인 도구입니다. 더 많은 정보를 원하시면 공식 웹사이트를 방문하세요"
+
+#: templates/without.html:36
+#, fuzzy
+#| msgid "How to Download Tiktok Videos without Watermark:"
+msgid "How to Download Tiktok Videos with Watermark:"
+msgstr "워터마크가 있는 Tiktok 비디오를 다운로드하는 방법:"
+
+#: templates/without.html:41
+#, fuzzy
+#| msgid "Go to TikTok official website and copy the video link."
+msgid "Go to Tik tok official website or app and copy the video url."
+msgstr "틱톡 공식 홈페이지나 앱에 접속하여 동영상 URL을 복사합니다."
+
+#: templates/without.html:44
+#, fuzzy
+#| msgid ""
+#| "Select a video URL on TikTok which you want to convert into mp3 format."
+msgid "Select a video which you want to download in mp4 format."
+msgstr "mp4 형식으로 다운로드하려는 비디오를 선택하십시오."
+
+#: templates/without.html:47
+#, fuzzy
+#| msgid ""
+#| "Copy the selected video link on your smartphone / computer or Laptop"
+msgid "Copy the selected video link on your smartphone / computer or Laptop."
+msgstr "선택한 비디오 링크를 스마트폰/컴퓨터 또는 노트북에 복사합니다."
+
+#: templates/without.html:50
+#, fuzzy
+#| msgid ""
+#| "Insert the TikTok video link in the field and press \"Convert Button\""
+msgid ""
+"Paste the TikTok video url in the given field on our tool page and click on "
+"\"download button\"."
+msgstr "도구 페이지의 지정된 필드에 TikTok 비디오 URL을 붙여넣고 &quot;다운로드 버튼&quot;을 클릭합니다."
+
+#: templates/without.html:53
+msgid ""
+"It will take up to 5 to 10 seconds to download Tik tok video in your device."
+msgstr "기기에 Tik tok 비디오를 다운로드하는 데 최대 5~10초가 소요됩니다."
+
+#: tiktok/settings.py:145
 msgid "English"
 msgstr "영어"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:146
+msgid "Hindi"
+msgstr "힌디 어"
+
+#: tiktok/settings.py:147
 msgid "Italian"
 msgstr "이탈리아 사람"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:148
 msgid "Polish"
 msgstr "광택"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:149
 msgid "French"
 msgstr "프랑스 국민"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:150
 msgid "German"
 msgstr "독일 사람"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:151
 msgid "Spanish"
 msgstr "스페인의"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:152
 msgid "Indonesian"
 msgstr "인도네시아 인"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:153
 msgid "Japanese"
 msgstr "일본어"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:154
 msgid "Korean"
 msgstr "한국어"
 
-#: tiktok/settings.py:153
+#: tiktok/settings.py:155
 msgid "Portuguese"
 msgstr "포르투갈 인"
 
-#: tiktok/settings.py:154
+#: tiktok/settings.py:156
 msgid "Russian"
 msgstr "러시아인"
 
-#: tiktok/settings.py:155
+#: tiktok/settings.py:157
 msgid "Arabic"
 msgstr "아라비아 말"
 
-#: tiktok/settings.py:156
+#: tiktok/settings.py:158
 msgid "Turkish"
 msgstr "터키어"
 
-#: tiktok/settings.py:157
+#: tiktok/settings.py:159
 msgid "Thai"
 msgstr "태국어"
 
-#: tiktok/settings.py:158
+#: tiktok/settings.py:160
 msgid "Vietnamese"
 msgstr "베트남어"
 
@@ -2073,7 +2174,7 @@ msgstr "&quot;%(value)s&quot; 값은 부동 소수점이어야 합니다."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1729
 msgid "Floating point number"
-msgstr "부동 소수점 수"
+msgstr "부동 소수점 숫자"
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1767
 #, python-format

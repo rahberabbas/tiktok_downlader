@@ -1,6 +1,7 @@
 from django.contrib import admin
 from django.urls import path
 from video.views import index, download, about, privacy, tandc, faq
+from watermark.views import download8, watermark
 from audio.views import audio, download1
 from without.views import without, download2
 from cutter.views import cutter, download3, download4
@@ -24,6 +25,7 @@ urlpatterns = [
 ]
 urlpatterns += i18n_patterns(
     path('', index, name='index'),
+    path('download-tiktok-video-with-watermark/', watermark, name='watermark'),
     path('about-us/', about, name='about'),
     path('privacy-policy/', privacy, name='privacy'),
     path('terms-of-services/', tandc, name='tandc'),
@@ -33,6 +35,7 @@ urlpatterns += i18n_patterns(
 
 
     path('tiktok-download-with-watermark/', download, name='down'),
+    path('tiktok-download-with-watermark2/', download8, name='down8'),
     path('tiktok-to-mp3-converter-online/', audio, name='audio'),
     path('tiktok-download-audio/', download1, name='down1'),
     path('download-tiktok-video-without-watermark/', without, name='without'),

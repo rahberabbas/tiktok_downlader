@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'without',
     'cutter',
     'audio_cutter',
+    'watermark',
     'autotranslate',
     'django.contrib.sitemaps',
 ]

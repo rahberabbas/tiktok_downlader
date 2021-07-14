@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-10 19:36+0530\n"
+"POT-Creation-Date: 2021-07-14 23:25+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,13 +100,14 @@ msgstr ""
 "para conversor de mp3 online grátis - Conversor de vídeo para mp3 TikTok "
 "online"
 
-#: templates/audio.html:15 templates/index.html:12
+#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
 msgid "Enter the URL Here"
 msgstr "Insira o URL aqui"
 
 #: templates/audio.html:24 templates/audio_cutter.html:26
-#: templates/cutter.html:26 templates/index.html:21 templates/without.html:13
-#: templates/without.html:23
+#: templates/cutter.html:26 templates/index.html:21
+#: templates/watermark.html:13 templates/watermark.html:23
+#: templates/without.html:13 templates/without.html:23
 msgid "Download"
 msgstr "Download"
 
@@ -156,7 +157,7 @@ msgstr ""
 " mp3."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Copie o link de vídeo selecionado em seu smartphone / computador ou laptop"
@@ -176,7 +177,7 @@ msgstr ""
 "Converter&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/without.html:50
+#: templates/index.html:36 templates/watermark.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Agora você verá um botão de download, clique em download."
 
@@ -189,7 +190,8 @@ msgstr ""
 "diretamente em sua máquina."
 
 #: templates/audio.html:61 templates/faq.html:34 templates/faq.html:62
-#: templates/faq.html:87 templates/index.html:38 templates/without.html:56
+#: templates/faq.html:87 templates/index.html:38 templates/watermark.html:56
+#: templates/without.html:56
 msgid ""
 "If you like our tool and services than Kindly share our website with your "
 "friends and family members. Thanks!"
@@ -206,8 +208,8 @@ msgid ""
 "TikTok mp3 cutter online free tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok mp3 cutter ferramenta online gratuita. Como cortar vídeo TikTok para "
-"MP3 online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
+"TikTok mp3 cutter ferramenta online gratuita. Como cortar o vídeo do TikTok "
+"para MP3 online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
 
 #: templates/audio_cutter.html:14
 msgid ""
@@ -278,7 +280,7 @@ msgid ""
 msgstr ""
 "Escolha o tempo de duração da opção fornecida abaixo para Cortar seu vídeo "
 "TikTok para Mp3 e depois disso o processo de conversão começará e estará "
-"disponível em poucos segundos."
+"disponível em alguns segundos."
 
 #: templates/audio_cutter.html:57
 msgid ""
@@ -289,47 +291,47 @@ msgstr ""
 "serviços, por favor, compartilhe nosso site com seus amigos e familiares. "
 "Obrigado!"
 
-#: templates/base.html:42
+#: templates/base.html:43
 msgid "Home"
 msgstr "Casa"
 
-#: templates/base.html:44 templates/base.html:46
+#: templates/base.html:45 templates/base.html:47
 msgid "Tools"
 msgstr "Ferramentas"
 
-#: templates/base.html:48
+#: templates/base.html:49
 msgid "Download With Watermark"
 msgstr "Baixar com marca d&#39;água"
 
-#: templates/base.html:51
+#: templates/base.html:52
 msgid "Download Without Watermark"
 msgstr "Baixar sem marca d&#39;água"
 
-#: templates/base.html:52
+#: templates/base.html:53
 msgid "Download Audio"
 msgstr "Baixar áudio"
 
-#: templates/base.html:53
+#: templates/base.html:54
 msgid "Video Cutter"
 msgstr "Video Cutter"
 
-#: templates/base.html:54
+#: templates/base.html:55
 msgid "Audio Cutter"
 msgstr "Cortador de Áudio"
 
-#: templates/base.html:58
+#: templates/base.html:59
 msgid "About"
 msgstr "Cerca de"
 
-#: templates/base.html:112 templates/privacypolicy.html:10
+#: templates/base.html:113 templates/privacypolicy.html:10
 msgid "Privacy Policy"
 msgstr "Política de Privacidade"
 
-#: templates/base.html:115 templates/tandc.html:10
+#: templates/base.html:116 templates/tandc.html:10
 msgid "Terms and Conditions"
 msgstr "Termos e Condições"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "FAQ"
 msgstr "Perguntas frequentes"
 
@@ -481,8 +483,8 @@ msgid ""
 "TikTok Mp3 Cutter Online Free Tool. How to Cut TikTok Video to Mp3 online "
 "free. Cut and Trim TikTok Videos Online Free."
 msgstr ""
-"TikTok Mp3 Cutter Online Grátis Tool. Como cortar vídeo TikTok para MP3 "
-"online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
+"TikTok Mp3 Cutter ferramenta online grátis. Como cortar vídeo TikTok para "
+"MP3 online gratuitamente. Cortar e aparar vídeos TikTok online grátis."
 
 #: templates/faq.html:3
 msgid "Frequently Asked Questions - Tiksss.com"
@@ -526,15 +528,15 @@ msgstr ""
 "Espere alguns segundos nos quais você poderá baixar o vídeo diretamente em "
 "sua máquina"
 
-#: templates/faq.html:67 templates/without.html:36
+#: templates/faq.html:67 templates/watermark.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Como baixar vídeos do Tiktok sem marca d&#39;água:"
 
-#: templates/faq.html:72 templates/without.html:41
+#: templates/faq.html:72 templates/watermark.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "Selecione um vídeo no aplicativo TikTok ou na web que deseja baixar."
 
-#: templates/faq.html:78 templates/without.html:47
+#: templates/faq.html:78 templates/watermark.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -543,7 +545,7 @@ msgstr ""
 " que é &quot;Baixar vídeos Tiktok sem marca d&#39;água&quot; e pressione o "
 "&quot;botão Pesquisar&quot;."
 
-#: templates/faq.html:84 templates/without.html:53
+#: templates/faq.html:84 templates/watermark.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -561,9 +563,9 @@ msgid ""
 "Tiksss.com. Its Our Fastest Tiktok Video Downloader Online for Tiktok Lovers"
 " which is totally free."
 msgstr ""
-"Baixe vídeos do Tiktok sem marca d&#39;água online gratuitamente em nosso "
-"site Tiksss.com. É o nosso downloader de vídeo mais rápido do Tiktok online "
-"para amantes do Tiktok, que é totalmente gratuito."
+"Baixe vídeos Tiktok sem marca d&#39;água online gratuitamente em nosso site "
+"Tiksss.com. É o nosso downloader de vídeo mais rápido do Tiktok online para "
+"amantes do Tiktok, que é totalmente gratuito."
 
 #: templates/index.html:11
 msgid "to mp4 downloader online free"
@@ -669,11 +671,11 @@ msgstr ""
 "maneiras diferentes e se tornam celebridades por meio desta plataforma. Esta"
 " plataforma se tornou uma fonte para criadores de conteúdo para "
 "entretenimento e vídeos virais. O conteúdo do TikTok pode ser inacessível "
-"para quem não tem wi-fi ou disponibilidade de internet, então certifique-se "
-"de ter conexão com a internet em seu dispositivo para assistir a vídeos "
-"virais e incríveis. Então, estamos aqui para dar a você esta incrível "
-"ferramenta TikTok Mp4 Downloader para baixar vídeos favoritos em seus "
-"dispositivos."
+"para aqueles que não têm wi-fi ou disponibilidade de internet, então "
+"certifique-se de ter conexão com a internet em seu dispositivo para assistir"
+" a vídeos virais e incríveis. Então, estamos aqui para dar a você esta "
+"incrível ferramenta TikTok Mp4 Downloader para baixar vídeos favoritos em "
+"seus dispositivos."
 
 #: templates/index.html:60
 msgid "Unlimited Downloads"
@@ -731,7 +733,7 @@ msgstr ""
 " “link”. Portanto, abra nosso site Tiksss.com e cole o link da cópia em "
 "determinado campo e clique no botão “Pesquisar”. Levará alguns segundos para"
 " obter um link para download. Você verá um &quot;Botão de download&quot; "
-"pressionado para iniciar o download do vídeo no seu dispositivo."
+"pressionado para iniciar o download do vídeo em seu dispositivo."
 
 #: templates/index.html:100
 msgid "Download TikTok Video Without Watermark on your Device:"
@@ -782,7 +784,7 @@ msgstr ""
 "Certifique-se de marcar esta página de ferramenta para o futuro. Nós "
 "adicionamos todas as instruções desta ferramenta de como vocês podem usar e "
 "tirar proveito dela. Por favor, compartilhe esta ferramenta com seus amigos "
-"e familiares com a ajuda das redes sociais, porque eles definitivamente vão "
+"e familiares com a ajuda das redes sociais, porque eles vão certamente "
 "gostar e usar isso com certeza."
 
 #: templates/index.html:127
@@ -858,16 +860,16 @@ msgid ""
 "not associated with any personally identifiable information of persons "
 "browsing the Website."
 msgstr ""
-"Quando você solicita uma página do nosso site, nossos servidores registram "
+"Quando você solicita uma página de nosso site, nossos servidores registram "
 "as informações fornecidas no cabeçalho da solicitação HTTP, JavaScript ou "
-"ferramentas técnicas semelhantes, incluindo o número do IP, a hora da "
-"solicitação, o URL da sua solicitação e outras informações. Coletamos essas "
-"informações para fazer nosso site funcionar corretamente e fornecer a você a"
-" funcionalidade que você vê no site, pois nossos servidores usam essas "
-"informações para fornecer a você as páginas deste site. Também usamos essas "
-"informações para entender melhor como os visitantes usam nosso site e como "
-"podemos ajustar melhor nosso site, seu conteúdo e funcionalidade para "
-"atender às suas necessidades. No entanto, essas informações não estão "
+"ferramentas técnicas semelhantes, incluindo o número de IP, a hora da "
+"solicitação, o URL de sua solicitação e outras informações. Coletamos essas "
+"informações a fim de fazer nosso site funcionar corretamente e fornecer a "
+"você a funcionalidade que você vê no site, uma vez que nossos servidores "
+"usam essas informações para fornecer a você as páginas deste site. Também "
+"usamos essas informações para entender melhor como os visitantes usam nosso "
+"site e como podemos ajustar melhor nosso site, seu conteúdo e funcionalidade"
+" para atender às suas necessidades. No entanto, essas informações não estão "
 "associadas a nenhuma informação pessoal identificável de pessoas que navegam"
 " no site."
 
@@ -1204,10 +1206,10 @@ msgid ""
 "content network Privacy Policy at the following URL – "
 msgstr ""
 "O Google é um fornecedor terceirizado em nosso site. Ele também usa cookies,"
-" conhecidos como cookies DART, para veicular anúncios aos visitantes de "
-"nosso site com base em sua visita a www.website.com e outros sites na "
-"Internet. No entanto, os visitantes podem optar por recusar o uso de cookies"
-" DART visitando o anúncio do Google e a Política de Privacidade da rede de "
+" conhecidos como cookies DART, para exibir anúncios aos visitantes de nosso "
+"site com base em sua visita a www.website.com e outros sites na Internet. No"
+" entanto, os visitantes podem optar por recusar o uso de cookies DART "
+"visitando o anúncio do Google e a Política de Privacidade da rede de "
 "conteúdo no seguinte URL -"
 
 #: templates/privacypolicy.html:78
@@ -1476,7 +1478,7 @@ msgstr ""
 "propósito expresso de atender às necessidades do Cliente no que diz respeito"
 " à prestação de serviços declarados da Empresa, de acordo com e sujeito a , "
 "lei vigente da Holanda. Qualquer uso da terminologia acima ou outras "
-"palavras no singular, plural, maiúsculas e / ou ele / ela são considerados "
+"palavras no singular, plural, maiúsculas e / ou ele / ela, são considerados "
 "intercambiáveis e, portanto, como referindo-se aos mesmos."
 
 #: templates/tandc.html:16
@@ -1514,8 +1516,8 @@ msgstr ""
 "Salvo indicação em contrário, Tiksss.com e / ou seus licenciados detêm os "
 "direitos de propriedade intelectual de todo o material em Tiksss.com. Todos "
 "os direitos de propriedade intelectual são reservados. Você pode acessar "
-"este de Tiksss para seu uso pessoal sujeito às restrições estabelecidas "
-"nestes termos e condições"
+"este de Tiksss para seu próprio uso pessoal sujeito às restrições "
+"estabelecidas nestes termos e condições"
 
 #: templates/tandc.html:20
 msgid "You must not"
@@ -1661,9 +1663,9 @@ msgid ""
 "organizations, charity shopping malls, and charity fundraising groups which "
 "may not hyperlink to our Web site."
 msgstr ""
-"Negócios credenciados em todo o sistema, exceto para solicitar organizações "
-"sem fins lucrativos, shopping centers de caridade e grupos de arrecadação de"
-" fundos de caridade que não podem ter um link para nosso site."
+"Negócios credenciados em todo o sistema, exceto a solicitação de "
+"organizações sem fins lucrativos, shopping centers de caridade e grupos de "
+"arrecadação de fundos de caridade que não podem ter um link para nosso site."
 
 #: templates/tandc.html:73
 msgid ""
@@ -1822,8 +1824,8 @@ msgid ""
 msgstr ""
 "Não seremos responsáveis por qualquer conteúdo que apareça em seu site. Você"
 " concorda em nos proteger e nos defender contra todas as reivindicações que "
-"estejam surgindo em seu site. Nenhum link (s) deve aparecer em qualquer site"
-" que possa ser interpretado como difamatório, obsceno ou criminoso, ou que "
+"estejam surgindo em seu site. Nenhum link deve aparecer em qualquer site que"
+" possa ser interpretado como difamatório, obsceno ou criminoso, ou que "
 "infrinja, de outra forma viole ou defenda a violação ou outra violação de "
 "quaisquer direitos de terceiros"
 
@@ -1866,7 +1868,7 @@ msgid ""
 "are free to contact and inform us any moment. We will consider requests to "
 "remove links but we are not obligated to or so or to respond to you directly"
 msgstr ""
-"Se você encontrar algum link em nosso site que seja ofensivo por qualquer "
+"Se você encontrar em nosso site algum link que seja ofensivo por qualquer "
 "motivo, você está à vontade para entrar em contato e nos informar a qualquer"
 " momento. Consideraremos as solicitações de remoção de links, mas não somos "
 "obrigados a isso ou a responder diretamente a você"
@@ -1945,15 +1947,15 @@ msgid ""
 "provided free of charge, we will not be liable for any loss or damage of any"
 " nature."
 msgstr ""
-"Enquanto o site e as informações e serviços nele contidos forem fornecidos "
-"gratuitamente, não seremos responsáveis por perdas ou danos de qualquer "
+"Desde que o site e as informações e serviços nele fornecidos sejam "
+"gratuitos, não seremos responsáveis por perdas ou danos de qualquer "
 "natureza."
 
-#: templates/without.html:4
+#: templates/watermark.html:4
 msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgstr "Baixe vídeos Tiktok sem marca d&#39;água online - Tiksss.com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Download Tiktok videos without watermark online free on Our website "
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
@@ -1963,15 +1965,15 @@ msgstr ""
 "Tiksss.com. Você pode facilmente baixar vídeos do Tiktok sem marca "
 "d&#39;água em seu telefone e laptop."
 
-#: templates/without.html:13
+#: templates/watermark.html:13
 msgid "video without watermark"
 msgstr "vídeo sem marca d&#39;água"
 
-#: templates/without.html:28
+#: templates/watermark.html:28 templates/without.html:28
 msgid "Download TikTok Video Without Watermark Online Free:"
 msgstr "Baixe o vídeo TikTok sem marca d&#39;água online gratuitamente:"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "Download TikTok Videos without Watermark or No Watermark. This method is "
 "very unique to get download video without watermark in original quality. We "
@@ -1988,7 +1990,7 @@ msgstr ""
 "esta é a única especialidade desta ferramenta de download de vídeo TikTok "
 "sem marca d&#39;água. Vamos para"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 "and you will see dropdown menu click on it and select “Without Watermark”. "
 "On the next page just paste the link and click “Download Button”. Wait a few"
@@ -2002,67 +2004,184 @@ msgstr ""
 "“Baixar Vídeo TikTok com marca d&#39;água” e, para isso, visite nossa página"
 " inicial do site e baixe seu vídeo favorito em menos de 10 segundos."
 
-#: templates/without.html:33
+#: templates/watermark.html:33 templates/without.html:33
 msgid "Frequently Asked Questions "
 msgstr "perguntas frequentes"
 
-#: tiktok/settings.py:144
+#: templates/without.html:4
+#, fuzzy
+#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgid "Download TikTok video with watermark Online - Tiksss.Com"
+msgstr "Baixe o vídeo TikTok com marca d&#39;água Online - Tiksss.Com"
+
+#: templates/without.html:6
+msgid ""
+"Here you can download TikTok video with watermark online free without any "
+"signup or registration. Its totally free on Tiksss.Com"
+msgstr ""
+"Aqui você pode baixar o vídeo TikTok com marca d&#39;água online "
+"gratuitamente, sem qualquer inscrição ou registro. É totalmente gratuito no "
+"Tiksss.Com"
+
+#: templates/without.html:13
+#, fuzzy
+#| msgid "video without watermark"
+msgid "video with watermark"
+msgstr "vídeo com marca d&#39;água"
+
+#: templates/without.html:29
+msgid ""
+"Here on this page you people can easily download TikTok video with watermark"
+" online free. This tool is totally free and very easy to use. There is no "
+"any signup or registration needed for downloading TikTok videos in your any "
+"device. By using this Tik tok video downloader with watermark, you do not "
+"need to worry about the quality of the video. Our TikTok downloader tool "
+"gives you an original and by default quality video which user uploaded in "
+"the playlist. The use of this tool is very simple. You just need to go to "
+"TikTok Official website or app. Open any of your favourite video and copy "
+"its link or video url but there is two ways to copy link of the specific "
+"video url. If you are using any browser then you have to open the video and "
+"do right click and select copy link address and if you are using an app then"
+" open any video from the list and on the right side of the screen select "
+"share and then in the bottom you will see copy link option, just copy the "
+"link and go to our tool page and paste the video link and click on download "
+"button. It will take just 5 to 10 seconds to download your video in your "
+"device. We have also a "
+msgstr ""
+"Aqui nesta página, vocês podem baixar facilmente o vídeo TikTok com marca "
+"d&#39;água online gratuitamente. Esta ferramenta é totalmente gratuita e "
+"muito fácil de usar. Não há nenhuma inscrição ou registro necessário para "
+"baixar os vídeos do TikTok em qualquer dispositivo. Ao usar este downloader "
+"de vídeo Tik tok com marca d&#39;água, você não precisa se preocupar com a "
+"qualidade do vídeo. Nossa ferramenta de download TikTok oferece um vídeo "
+"original e de qualidade padrão que o usuário carregou na lista de "
+"reprodução. O uso desta ferramenta é muito simples. Você só precisa ir ao "
+"site ou aplicativo oficial do TikTok. Abra qualquer um dos seus vídeos "
+"favoritos e copie o link ou url do vídeo, mas há duas maneiras de copiar o "
+"link do url do vídeo específico. Se estiver usando qualquer navegador, você "
+"deve abrir o vídeo e clicar com o botão direito do mouse e selecionar copiar"
+" o endereço do link e, se estiver usando um aplicativo, abra qualquer vídeo "
+"da lista e, no lado direito da tela, selecione compartilhar e, em seguida, "
+"no embaixo você verá a opção copiar link, apenas copie o link e vá para a "
+"nossa página de ferramentas e cole o link do vídeo e clique no botão de "
+"download. Demorará apenas 5 a 10 segundos para baixar o vídeo no seu "
+"dispositivo. Nós também temos um"
+
+#: templates/without.html:29
+msgid ""
+" online tool which is also totally free to use. For more info visit our "
+"official website"
+msgstr ""
+"ferramenta online de utilização totalmente gratuita. Para mais informações "
+"visite nosso site oficial"
+
+#: templates/without.html:36
+#, fuzzy
+#| msgid "How to Download Tiktok Videos without Watermark:"
+msgid "How to Download Tiktok Videos with Watermark:"
+msgstr "Como baixar vídeos do Tiktok com marca d&#39;água:"
+
+#: templates/without.html:41
+#, fuzzy
+#| msgid "Go to TikTok official website and copy the video link."
+msgid "Go to Tik tok official website or app and copy the video url."
+msgstr ""
+"Acesse o site ou aplicativo oficial do Tik tok e copie o URL do vídeo."
+
+#: templates/without.html:44
+#, fuzzy
+#| msgid ""
+#| "Select a video URL on TikTok which you want to convert into mp3 format."
+msgid "Select a video which you want to download in mp4 format."
+msgstr "Selecione um vídeo que deseja baixar no formato mp4."
+
+#: templates/without.html:47
+#, fuzzy
+#| msgid ""
+#| "Copy the selected video link on your smartphone / computer or Laptop"
+msgid "Copy the selected video link on your smartphone / computer or Laptop."
+msgstr ""
+"Copie o link de vídeo selecionado em seu smartphone / computador ou laptop."
+
+#: templates/without.html:50
+#, fuzzy
+#| msgid ""
+#| "Insert the TikTok video link in the field and press \"Convert Button\""
+msgid ""
+"Paste the TikTok video url in the given field on our tool page and click on "
+"\"download button\"."
+msgstr ""
+"Cole o url do vídeo TikTok no campo fornecido em nossa página de ferramentas"
+" e clique no &quot;botão de download&quot;."
+
+#: templates/without.html:53
+msgid ""
+"It will take up to 5 to 10 seconds to download Tik tok video in your device."
+msgstr ""
+"O download do vídeo Tik tok em seu dispositivo pode levar de 5 a 10 "
+"segundos."
+
+#: tiktok/settings.py:145
 msgid "English"
 msgstr "inglês"
 
-#: tiktok/settings.py:145
+#: tiktok/settings.py:146
+msgid "Hindi"
+msgstr "hindi"
+
+#: tiktok/settings.py:147
 msgid "Italian"
 msgstr "italiano"
 
-#: tiktok/settings.py:146
+#: tiktok/settings.py:148
 msgid "Polish"
 msgstr "polonês"
 
-#: tiktok/settings.py:147
+#: tiktok/settings.py:149
 msgid "French"
 msgstr "francês"
 
-#: tiktok/settings.py:148
+#: tiktok/settings.py:150
 msgid "German"
 msgstr "alemão"
 
-#: tiktok/settings.py:149
+#: tiktok/settings.py:151
 msgid "Spanish"
 msgstr "espanhol"
 
-#: tiktok/settings.py:150
+#: tiktok/settings.py:152
 msgid "Indonesian"
 msgstr "indonésio"
 
-#: tiktok/settings.py:151
+#: tiktok/settings.py:153
 msgid "Japanese"
 msgstr "japonês"
 
-#: tiktok/settings.py:152
+#: tiktok/settings.py:154
 msgid "Korean"
 msgstr "coreano"
 
-#: tiktok/settings.py:153
+#: tiktok/settings.py:155
 msgid "Portuguese"
 msgstr "português"
 
-#: tiktok/settings.py:154
+#: tiktok/settings.py:156
 msgid "Russian"
 msgstr "russo"
 
-#: tiktok/settings.py:155
+#: tiktok/settings.py:157
 msgid "Arabic"
 msgstr "árabe"
 
-#: tiktok/settings.py:156
+#: tiktok/settings.py:158
 msgid "Turkish"
 msgstr "turco"
 
-#: tiktok/settings.py:157
+#: tiktok/settings.py:159
 msgid "Thai"
 msgstr "tailandês"
 
-#: tiktok/settings.py:158
+#: tiktok/settings.py:160
 msgid "Vietnamese"
 msgstr "vietnamita"
 
@@ -2363,7 +2482,7 @@ msgstr "Data (com hora)"
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1444
 #, python-format
 msgid "“%(value)s” value must be a decimal number."
-msgstr "O valor de “%(value)s” deve ser um número decimal."
+msgstr "O valor “%(value)s” deve ser um número decimal."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1446
 msgid "Decimal number"
@@ -2595,8 +2714,8 @@ msgid ""
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr[0] ""
-"Certifique-se de que este nome de arquivo tenha no máximo %(max)d caractere "
-"(ele tem %(length)d)."
+"Certifique-se de que este nome de arquivo tenha no máximo %(max)d caracteres"
+" (ele possui %(length)d)."
 msgstr[1] ""
 "Certifique-se de que este nome de arquivo tenha no máximo %(max)d caracteres"
 " (ele tem %(length)d)."
@@ -3005,7 +3124,7 @@ msgstr "julho"
 #: venv/lib/python3.8/site-packages/django/utils/dates.py:30
 msgctxt "abbrev. month"
 msgid "Aug."
-msgstr "De agosto"
+msgstr "Agosto"
 
 #: venv/lib/python3.8/site-packages/django/utils/dates.py:31
 msgctxt "abbrev. month"
