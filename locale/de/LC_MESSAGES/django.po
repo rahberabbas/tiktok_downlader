@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:25+0530\n"
+"POT-Creation-Date: 2021-07-14 23:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,7 +98,7 @@ msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr ""
 "zu mp3-Konverter online kostenlos - TikTok-Video zu mp3-Konverter online"
 
-#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "Geben Sie die URL hier ein"
 
@@ -156,7 +156,7 @@ msgstr ""
 "konvertieren möchten."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Kopieren Sie den ausgewählten Videolink auf Ihr Smartphone / Computer oder "
@@ -178,7 +178,7 @@ msgstr ""
 "Schaltfläche &quot;Konvertieren&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/watermark.html:50
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Jetzt sehen Sie einen Download-Button, klicken Sie auf Download."
 
@@ -220,7 +220,7 @@ msgstr ""
 "mp3-Cutter und Konverter online - TikTok-Video auf mp3-Online-Tool trimmen"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
-#: templates/without.html:14
+#: templates/watermark.html:14 templates/without.html:14
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
 msgstr "Geben Sie hier die URL ein und warten Sie 10 - 15 Sekunden."
 
@@ -536,17 +536,17 @@ msgstr ""
 "Warten Sie einfach ein paar Sekunden, in denen Sie das Video direkt auf "
 "Ihren Computer herunterladen können"
 
-#: templates/faq.html:67 templates/watermark.html:36
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "So laden Sie Tiktok-Videos ohne Wasserzeichen herunter:"
 
-#: templates/faq.html:72 templates/watermark.html:41
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr ""
 "Wählen Sie ein Video in der TikTok-App oder im Web aus, das Sie "
 "herunterladen möchten."
 
-#: templates/faq.html:78 templates/watermark.html:47
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -555,7 +555,7 @@ msgstr ""
 "&quot;Tiktok-Videos ohne Wasserzeichen herunterladen&quot; heißt, und "
 "klicken Sie auf die Schaltfläche &quot;Suchen&quot;."
 
-#: templates/faq.html:84 templates/watermark.html:53
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -1996,72 +1996,10 @@ msgstr ""
 "oder Schäden jeglicher Art."
 
 #: templates/watermark.html:4
-msgid "Download Tiktok videos without watermark online - Tiksss.com"
-msgstr ""
-"Laden Sie Tiktok-Videos ohne Wasserzeichen online herunter - Tiksss.com"
-
-#: templates/watermark.html:6
-msgid ""
-"Download Tiktok videos without watermark online free on Our website "
-"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
-"phone and laptop."
-msgstr ""
-"Laden Sie Tiktok-Videos ohne Wasserzeichen kostenlos online auf unserer "
-"Website Tiksss.com herunter. Sie können Tiktok-Videos ganz einfach ohne "
-"Wasserzeichen auf Ihr Telefon und Ihren Laptop herunterladen."
-
-#: templates/watermark.html:13
-msgid "video without watermark"
-msgstr "Video ohne Wasserzeichen"
-
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "Laden Sie TikTok-Videos ohne Wasserzeichen kostenlos online herunter:"
-
-#: templates/watermark.html:29
-msgid ""
-"Download TikTok Videos without Watermark or No Watermark. This method is "
-"very unique to get download video without watermark in original quality. We "
-"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
-"Android devices. Especially for Pc users, they don’t need to install any "
-"extra software or App and this is the only specialty of this TikTok no "
-"watermark video download tool. Go to"
-msgstr ""
-"Laden Sie TikTok-Videos ohne Wasserzeichen oder ohne Wasserzeichen herunter."
-" Diese Methode ist einzigartig, um Videos ohne Wasserzeichen in "
-"Originalqualität herunterzuladen. Wir haben dieses Tool sehr einfach gemacht"
-" und es funktioniert reibungslos auf Windows-, Mac OS-, Ipad- und Android-"
-"Geräten. Besonders für PC-Benutzer müssen sie keine zusätzliche Software "
-"oder App installieren und dies ist die einzige Besonderheit dieses TikTok-"
-"Video-Download-Tools ohne Wasserzeichen. Gehe zu"
-
-#: templates/watermark.html:29
-msgid ""
-"and you will see dropdown menu click on it and select “Without Watermark”. "
-"On the next page just paste the link and click “Download Button”. Wait a few"
-" seconds to get start downloading of your video. You can also “Download "
-"TikTok Video with Watermark” and for this visit our website Home Page and "
-"download you favorite video less than 10 seconds."
-msgstr ""
-"und Sie sehen ein Dropdown-Menü, klicken Sie darauf und wählen Sie "
-"&quot;Ohne Wasserzeichen&quot;. Fügen Sie auf der nächsten Seite einfach den"
-" Link ein und klicken Sie auf &quot;Download-Button&quot;. Warten Sie einige"
-" Sekunden, um mit dem Herunterladen Ihres Videos zu beginnen. Sie können "
-"auch „TikTok-Video mit Wasserzeichen herunterladen“ und dazu unsere Website-"
-"Homepage besuchen und Ihr Lieblingsvideo in weniger als 10 Sekunden "
-"herunterladen."
-
-#: templates/watermark.html:33 templates/without.html:33
-msgid "Frequently Asked Questions "
-msgstr "Häufig gestellte Fragen"
-
-#: templates/without.html:4
-#, fuzzy
-#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgid "Download TikTok video with watermark Online - Tiksss.Com"
 msgstr "Laden Sie TikTok-Video mit Wasserzeichen Online herunter - Tiksss.Com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Here you can download TikTok video with watermark online free without any "
 "signup or registration. Its totally free on Tiksss.Com"
@@ -2070,13 +2008,15 @@ msgstr ""
 "herunterladen, ohne sich anmelden oder registrieren zu müssen. Es ist völlig"
 " kostenlos auf Tiksss.Com"
 
-#: templates/without.html:13
-#, fuzzy
-#| msgid "video without watermark"
+#: templates/watermark.html:13
 msgid "video with watermark"
 msgstr "Video mit Wasserzeichen"
 
-#: templates/without.html:29
+#: templates/watermark.html:28 templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Laden Sie TikTok-Videos ohne Wasserzeichen kostenlos online herunter:"
+
+#: templates/watermark.html:29
 msgid ""
 "Here on this page you people can easily download TikTok video with watermark"
 " online free. This tool is totally free and very easy to use. There is no "
@@ -2115,7 +2055,7 @@ msgstr ""
 "klicken Sie auf die Download-Schaltfläche. Es dauert nur 5 bis 10 Sekunden, "
 "um Ihr Video auf Ihr Gerät herunterzuladen. Wir haben auch a"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 " online tool which is also totally free to use. For more info visit our "
 "official website"
@@ -2123,41 +2063,32 @@ msgstr ""
 "Online-Tool, das ebenfalls völlig kostenlos ist. Für weitere Informationen "
 "besuchen Sie unsere offizielle Website"
 
-#: templates/without.html:36
-#, fuzzy
-#| msgid "How to Download Tiktok Videos without Watermark:"
+#: templates/watermark.html:33 templates/without.html:33
+msgid "Frequently Asked Questions "
+msgstr "Häufig gestellte Fragen"
+
+#: templates/watermark.html:36
 msgid "How to Download Tiktok Videos with Watermark:"
 msgstr "So laden Sie Tiktok-Videos mit Wasserzeichen herunter:"
 
-#: templates/without.html:41
-#, fuzzy
-#| msgid "Go to TikTok official website and copy the video link."
+#: templates/watermark.html:41
 msgid "Go to Tik tok official website or app and copy the video url."
 msgstr ""
 "Gehen Sie zur offiziellen Website oder App von Tik Tok und kopieren Sie die "
 "Video-URL."
 
-#: templates/without.html:44
-#, fuzzy
-#| msgid ""
-#| "Select a video URL on TikTok which you want to convert into mp3 format."
+#: templates/watermark.html:44
 msgid "Select a video which you want to download in mp4 format."
 msgstr ""
 "Wählen Sie ein Video aus, das Sie im mp4-Format herunterladen möchten."
 
-#: templates/without.html:47
-#, fuzzy
-#| msgid ""
-#| "Copy the selected video link on your smartphone / computer or Laptop"
+#: templates/watermark.html:47
 msgid "Copy the selected video link on your smartphone / computer or Laptop."
 msgstr ""
 "Kopieren Sie den ausgewählten Videolink auf Ihr Smartphone / Computer oder "
 "Laptop."
 
-#: templates/without.html:50
-#, fuzzy
-#| msgid ""
-#| "Insert the TikTok video link in the field and press \"Convert Button\""
+#: templates/watermark.html:50
 msgid ""
 "Paste the TikTok video url in the given field on our tool page and click on "
 "\"download button\"."
@@ -2165,12 +2096,64 @@ msgstr ""
 "Fügen Sie die TikTok-Video-URL in das angegebene Feld auf unserer Tool-Seite"
 " ein und klicken Sie auf die Schaltfläche &quot;Download&quot;."
 
-#: templates/without.html:53
+#: templates/watermark.html:53
 msgid ""
 "It will take up to 5 to 10 seconds to download Tik tok video in your device."
 msgstr ""
 "Es dauert bis zu 5 bis 10 Sekunden, um das Tik-Tok-Video auf Ihr Gerät "
 "herunterzuladen."
+
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr ""
+"Laden Sie Tiktok-Videos ohne Wasserzeichen online herunter - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Laden Sie Tiktok-Videos ohne Wasserzeichen kostenlos online auf unserer "
+"Website Tiksss.com herunter. Sie können Tiktok-Videos ganz einfach ohne "
+"Wasserzeichen auf Ihr Telefon und Ihren Laptop herunterladen."
+
+#: templates/without.html:13
+msgid "video without watermark"
+msgstr "Video ohne Wasserzeichen"
+
+#: templates/without.html:29
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"Laden Sie TikTok-Videos ohne Wasserzeichen oder ohne Wasserzeichen herunter."
+" Diese Methode ist einzigartig, um Videos ohne Wasserzeichen in "
+"Originalqualität herunterzuladen. Wir haben dieses Tool sehr einfach gemacht"
+" und es funktioniert reibungslos auf Windows-, Mac OS-, Ipad- und Android-"
+"Geräten. Besonders für PC-Benutzer müssen sie keine zusätzliche Software "
+"oder App installieren und dies ist die einzige Besonderheit dieses TikTok-"
+"Video-Download-Tools ohne Wasserzeichen. Gehe zu"
+
+#: templates/without.html:29
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"und Sie sehen ein Dropdown-Menü, klicken Sie darauf und wählen Sie "
+"&quot;Ohne Wasserzeichen&quot;. Fügen Sie auf der nächsten Seite einfach den"
+" Link ein und klicken Sie auf &quot;Download-Button&quot;. Warten Sie einige"
+" Sekunden, um mit dem Herunterladen Ihres Videos zu beginnen. Sie können "
+"auch „TikTok-Video mit Wasserzeichen herunterladen“ und dazu unsere Website-"
+"Homepage besuchen und Ihr Lieblingsvideo in weniger als 10 Sekunden "
+"herunterladen."
 
 #: tiktok/settings.py:145
 msgid "English"

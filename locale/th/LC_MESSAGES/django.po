@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:25+0530\n"
+"POT-Creation-Date: 2021-07-14 23:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,7 +97,7 @@ msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr ""
 "เป็น mp3 converter ออนไลน์ฟรี - วิดีโอ TikTok เป็น mp3 converter ออนไลน์"
 
-#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "ใส่ URL ที่นี่"
 
@@ -151,7 +151,7 @@ msgid ""
 msgstr "เลือก URL ของวิดีโอบน TikTok ที่คุณต้องการแปลงเป็นรูปแบบ mp3"
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr "คัดลอกลิงก์วิดีโอที่เลือกบนสมาร์ทโฟน / คอมพิวเตอร์หรือแล็ปท็อป"
 
@@ -168,7 +168,7 @@ msgid "Insert the TikTok video link in the field and press \"Convert Button\""
 msgstr "ใส่ลิงค์วิดีโอ TikTok ลงในช่องแล้วกด &quot;ปุ่มแปลง&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/watermark.html:50
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "ตอนนี้คุณจะเห็นปุ่มดาวน์โหลด คลิกที่ดาวน์โหลด"
 
@@ -207,7 +207,7 @@ msgstr ""
 "ตัวตัดและแปลง mp3 ออนไลน์ - ตัดวิดีโอ TikTok เป็น mp3 ออนไลน์เครื่องมือฟรี"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
-#: templates/without.html:14
+#: templates/watermark.html:14 templates/without.html:14
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
 msgstr "ป้อน URL ที่นี่ และรอ 10 - 15 วินาที"
 
@@ -503,15 +503,15 @@ msgid ""
 " machine"
 msgstr "เพียงรอสักครู่เพื่อดาวน์โหลดวิดีโอลงในเครื่องของคุณโดยตรง"
 
-#: templates/faq.html:67 templates/watermark.html:36
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "วิธีดาวน์โหลดวิดีโอ Tiktok โดยไม่มีลายน้ำ:"
 
-#: templates/faq.html:72 templates/watermark.html:41
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "เลือกวิดีโอบนแอพ TikTok หรือเว็บที่คุณต้องการดาวน์โหลด"
 
-#: templates/faq.html:78 templates/watermark.html:47
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -520,7 +520,7 @@ msgstr ""
 "&quot;ดาวน์โหลดวิดีโอ Tiktok โดยไม่มีลายน้ำ&quot; แล้วกด "
 "&quot;ปุ่มค้นหา&quot;"
 
-#: templates/faq.html:84 templates/watermark.html:53
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -1871,70 +1871,10 @@ msgstr ""
 "เราจะไม่รับผิดชอบต่อความสูญเสียหรือความเสียหายใดๆ"
 
 #: templates/watermark.html:4
-msgid "Download Tiktok videos without watermark online - Tiksss.com"
-msgstr "ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ - Tiksss.com"
-
-#: templates/watermark.html:6
-msgid ""
-"Download Tiktok videos without watermark online free on Our website "
-"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
-"phone and laptop."
-msgstr ""
-"ดาวน์โหลดวิดีโอ Tiktok แบบไม่มีลายน้ำออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
-"คุณสามารถดาวน์โหลดวิดีโอ Tiktok "
-"ได้อย่างง่ายดายโดยไม่มีลายน้ำในโทรศัพท์และแล็ปท็อปของคุณ"
-
-#: templates/watermark.html:13
-msgid "video without watermark"
-msgstr "วิดีโอไม่มีลายน้ำ"
-
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำออนไลน์ฟรี:"
-
-#: templates/watermark.html:29
-msgid ""
-"Download TikTok Videos without Watermark or No Watermark. This method is "
-"very unique to get download video without watermark in original quality. We "
-"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
-"Android devices. Especially for Pc users, they don’t need to install any "
-"extra software or App and this is the only specialty of this TikTok no "
-"watermark video download tool. Go to"
-msgstr ""
-"ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำหรือไม่มีลายน้ำ "
-"วิธีนี้เป็นวิธีพิเศษในการดาวน์โหลดวิดีโอโดยไม่มีลายน้ำในคุณภาพดั้งเดิม "
-"เราทำให้เครื่องมือนี้ง่ายมากและทำงานได้อย่างราบรื่นบน windows, Mac OS, Ipad,"
-" อุปกรณ์ Android โดยเฉพาะอย่างยิ่งสำหรับผู้ใช้พีซี "
-"พวกเขาไม่จำเป็นต้องติดตั้งซอฟต์แวร์หรือแอพเพิ่มเติมใด ๆ "
-"และนี่เป็นความสามารถพิเศษเพียงอย่างเดียวของ TikTok "
-"ที่ไม่มีเครื่องมือดาวน์โหลดวิดีโอลายน้ำ ไปที่"
-
-#: templates/watermark.html:29
-msgid ""
-"and you will see dropdown menu click on it and select “Without Watermark”. "
-"On the next page just paste the link and click “Download Button”. Wait a few"
-" seconds to get start downloading of your video. You can also “Download "
-"TikTok Video with Watermark” and for this visit our website Home Page and "
-"download you favorite video less than 10 seconds."
-msgstr ""
-"และคุณจะเห็นเมนูแบบเลื่อนลงคลิกที่มันและเลือก &quot;ไม่มีลายน้ำ&quot; "
-"ในหน้าถัดไปเพียงวางลิงก์แล้วคลิก &quot;ปุ่มดาวน์โหลด&quot; "
-"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ คุณยังสามารถ “ดาวน์โหลดวิดีโอ "
-"TikTok พร้อมลายน้ำ” "
-"และสำหรับการเยี่ยมชมหน้าแรกของเว็บไซต์ของเราและดาวน์โหลดวิดีโอโปรดของคุณในเวลาน้อยกว่า"
-" 10 วินาที"
-
-#: templates/watermark.html:33 templates/without.html:33
-msgid "Frequently Asked Questions "
-msgstr "คำถามที่พบบ่อย"
-
-#: templates/without.html:4
-#, fuzzy
-#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgid "Download TikTok video with watermark Online - Tiksss.Com"
 msgstr "ดาวน์โหลดวิดีโอ TikTok พร้อมลายน้ำออนไลน์ - Tiksss.Com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Here you can download TikTok video with watermark online free without any "
 "signup or registration. Its totally free on Tiksss.Com"
@@ -1942,13 +1882,15 @@ msgstr ""
 "คุณสามารถดาวน์โหลดวิดีโอ TikTok "
 "พร้อมลายน้ำออนไลน์ได้ฟรีโดยไม่ต้องลงทะเบียนหรือลงทะเบียน ฟรีบน Tiksss.Com"
 
-#: templates/without.html:13
-#, fuzzy
-#| msgid "video without watermark"
+#: templates/watermark.html:13
 msgid "video with watermark"
 msgstr "วิดีโอที่มีลายน้ำ"
 
-#: templates/without.html:29
+#: templates/watermark.html:28 templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำออนไลน์ฟรี:"
+
+#: templates/watermark.html:29
 msgid ""
 "Here on this page you people can easily download TikTok video with watermark"
 " online free. This tool is totally free and very easy to use. There is no "
@@ -1982,7 +1924,7 @@ msgstr ""
 "เพียงคัดลอกลิงก์และไปที่หน้าเครื่องมือของเราแล้ววางลิงก์วิดีโอแล้วคลิกปุ่มดาวน์โหลด"
 " การดาวน์โหลดวิดีโอในอุปกรณ์ของคุณจะใช้เวลาเพียง 5 ถึง 10 วินาที เรายังมี"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 " online tool which is also totally free to use. For more info visit our "
 "official website"
@@ -1990,37 +1932,28 @@ msgstr ""
 "เครื่องมือออนไลน์ที่ใช้งานได้ฟรีทั้งหมด สำหรับข้อมูลเพิ่มเติม "
 "โปรดเยี่ยมชมเว็บไซต์อย่างเป็นทางการของเรา"
 
-#: templates/without.html:36
-#, fuzzy
-#| msgid "How to Download Tiktok Videos without Watermark:"
+#: templates/watermark.html:33 templates/without.html:33
+msgid "Frequently Asked Questions "
+msgstr "คำถามที่พบบ่อย"
+
+#: templates/watermark.html:36
 msgid "How to Download Tiktok Videos with Watermark:"
 msgstr "วิธีดาวน์โหลดวิดีโอ Tiktok พร้อมลายน้ำ:"
 
-#: templates/without.html:41
-#, fuzzy
-#| msgid "Go to TikTok official website and copy the video link."
+#: templates/watermark.html:41
 msgid "Go to Tik tok official website or app and copy the video url."
 msgstr ""
 "ไปที่เว็บไซต์หรือแอพอย่างเป็นทางการของ Tik tok แล้วคัดลอก URL ของวิดีโอ"
 
-#: templates/without.html:44
-#, fuzzy
-#| msgid ""
-#| "Select a video URL on TikTok which you want to convert into mp3 format."
+#: templates/watermark.html:44
 msgid "Select a video which you want to download in mp4 format."
 msgstr "เลือกวิดีโอที่คุณต้องการดาวน์โหลดในรูปแบบ mp4"
 
-#: templates/without.html:47
-#, fuzzy
-#| msgid ""
-#| "Copy the selected video link on your smartphone / computer or Laptop"
+#: templates/watermark.html:47
 msgid "Copy the selected video link on your smartphone / computer or Laptop."
 msgstr "คัดลอกลิงค์วิดีโอที่เลือกบนสมาร์ทโฟน / คอมพิวเตอร์หรือแล็ปท็อปของคุณ"
 
-#: templates/without.html:50
-#, fuzzy
-#| msgid ""
-#| "Insert the TikTok video link in the field and press \"Convert Button\""
+#: templates/watermark.html:50
 msgid ""
 "Paste the TikTok video url in the given field on our tool page and click on "
 "\"download button\"."
@@ -2028,11 +1961,61 @@ msgstr ""
 "วาง URL ของวิดีโอ TikTok ในช่องที่กำหนดในหน้าเครื่องมือของเราแล้วคลิก "
 "&quot;ปุ่มดาวน์โหลด&quot;"
 
-#: templates/without.html:53
+#: templates/watermark.html:53
 msgid ""
 "It will take up to 5 to 10 seconds to download Tik tok video in your device."
 msgstr ""
 "การดาวน์โหลดวิดีโอ Tik tok ในอุปกรณ์ของคุณจะใช้เวลาสูงสุด 5 ถึง 10 วินาที"
+
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "ดาวน์โหลดวิดีโอ Tiktok ที่ไม่มีลายน้ำออนไลน์ - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"ดาวน์โหลดวิดีโอ Tiktok แบบไม่มีลายน้ำออนไลน์ฟรีบนเว็บไซต์ของเรา Tiksss.com "
+"คุณสามารถดาวน์โหลดวิดีโอ Tiktok "
+"ได้อย่างง่ายดายโดยไม่มีลายน้ำในโทรศัพท์และแล็ปท็อปของคุณ"
+
+#: templates/without.html:13
+msgid "video without watermark"
+msgstr "วิดีโอไม่มีลายน้ำ"
+
+#: templates/without.html:29
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"ดาวน์โหลดวิดีโอ TikTok ที่ไม่มีลายน้ำหรือไม่มีลายน้ำ "
+"วิธีนี้เป็นวิธีพิเศษในการดาวน์โหลดวิดีโอโดยไม่มีลายน้ำในคุณภาพดั้งเดิม "
+"เราทำให้เครื่องมือนี้ง่ายมากและทำงานได้อย่างราบรื่นบน windows, Mac OS, Ipad,"
+" อุปกรณ์ Android โดยเฉพาะอย่างยิ่งสำหรับผู้ใช้พีซี "
+"พวกเขาไม่จำเป็นต้องติดตั้งซอฟต์แวร์หรือแอพเพิ่มเติมใด ๆ "
+"และนี่เป็นความสามารถพิเศษเพียงอย่างเดียวของ TikTok "
+"ที่ไม่มีเครื่องมือดาวน์โหลดวิดีโอลายน้ำ ไปที่"
+
+#: templates/without.html:29
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"และคุณจะเห็นเมนูแบบเลื่อนลงคลิกที่มันและเลือก &quot;ไม่มีลายน้ำ&quot; "
+"ในหน้าถัดไปเพียงวางลิงก์แล้วคลิก &quot;ปุ่มดาวน์โหลด&quot; "
+"รอสักครู่เพื่อเริ่มดาวน์โหลดวิดีโอของคุณ คุณยังสามารถ “ดาวน์โหลดวิดีโอ "
+"TikTok พร้อมลายน้ำ” "
+"และสำหรับการเยี่ยมชมหน้าแรกของเว็บไซต์ของเราและดาวน์โหลดวิดีโอโปรดของคุณในเวลาน้อยกว่า"
+" 10 วินาที"
 
 #: tiktok/settings.py:145
 msgid "English"

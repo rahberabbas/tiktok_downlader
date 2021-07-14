@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:25+0530\n"
+"POT-Creation-Date: 2021-07-14 23:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,7 +101,7 @@ msgstr ""
 "công cụ chuyển đổi sang mp3 trực tuyến miễn phí - Công cụ chuyển đổi video "
 "sang mp3 trực tuyến TikTok"
 
-#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "Nhập URL tại đây"
 
@@ -158,7 +158,7 @@ msgstr ""
 "Chọn URL video trên TikTok mà bạn muốn chuyển đổi thành định dạng mp3."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "Sao chép liên kết video đã chọn trên điện thoại thông minh / máy tính hoặc "
@@ -178,7 +178,7 @@ msgstr ""
 "Chèn liên kết video TikTok vào trường và nhấn &quot;Nút chuyển đổi&quot;"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/watermark.html:50
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "Bây giờ bạn sẽ thấy một nút tải xuống, nhấp vào tải xuống."
 
@@ -219,7 +219,7 @@ msgstr ""
 "mp3 trực tuyến miễn phí"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
-#: templates/without.html:14
+#: templates/watermark.html:14 templates/without.html:14
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
 msgstr "Nhập URL Tại đây và đợi trong 10 - 15 Giây."
 
@@ -529,15 +529,15 @@ msgid ""
 msgstr ""
 "Chỉ cần đợi vài giây là bạn có thể tải video trực tiếp về máy của mình"
 
-#: templates/faq.html:67 templates/watermark.html:36
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "Cách tải video Tiktok mà không có Watermark:"
 
-#: templates/faq.html:72 templates/watermark.html:41
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "Chọn một video trên ứng dụng hoặc web TikTok mà bạn muốn tải xuống."
 
-#: templates/faq.html:78 templates/watermark.html:47
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -546,7 +546,7 @@ msgstr ""
 " tôi. Công cụ này là &quot;Tải xuống video Tiktok Không có hình mờ&quot; và "
 "nhấn &quot;Nút tìm kiếm&quot;."
 
-#: templates/faq.html:84 templates/watermark.html:53
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -1961,69 +1961,10 @@ msgstr ""
 "hại nào dưới bất kỳ hình thức nào."
 
 #: templates/watermark.html:4
-msgid "Download Tiktok videos without watermark online - Tiksss.com"
-msgstr "Tải xuống video Tiktok không có watermark trực tuyến - Tiksss.com"
-
-#: templates/watermark.html:6
-msgid ""
-"Download Tiktok videos without watermark online free on Our website "
-"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
-"phone and laptop."
-msgstr ""
-"Tải xuống video Tiktok không có watermark trực tuyến miễn phí trên trang web"
-" Tiksss.com của chúng tôi. Bạn có thể dễ dàng tải video Tiktok mà không cần "
-"watermark trong điện thoại và máy tính xách tay của mình."
-
-#: templates/watermark.html:13
-msgid "video without watermark"
-msgstr "video không có hình mờ"
-
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "Tải xuống TikTok Video Không có Watermark Trực tuyến Miễn phí:"
-
-#: templates/watermark.html:29
-msgid ""
-"Download TikTok Videos without Watermark or No Watermark. This method is "
-"very unique to get download video without watermark in original quality. We "
-"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
-"Android devices. Especially for Pc users, they don’t need to install any "
-"extra software or App and this is the only specialty of this TikTok no "
-"watermark video download tool. Go to"
-msgstr ""
-"Tải xuống TikTok Video mà không có Hình mờ hoặc Không có Hình mờ. Phương "
-"pháp này rất độc đáo để tải xuống video mà không có hình mờ ở chất lượng "
-"gốc. Chúng tôi đã tạo ra công cụ này rất dễ dàng và nó hoạt động trơn tru "
-"trên các thiết bị windows, Mac OS, Ipad, Android. Đặc biệt đối với người "
-"dùng Pc, họ không cần cài đặt thêm bất kỳ phần mềm hay ứng dụng nào và đây "
-"là điểm đặc biệt duy nhất của công cụ tải video TikTok no watermark này. Đi "
-"đến"
-
-#: templates/watermark.html:29
-msgid ""
-"and you will see dropdown menu click on it and select “Without Watermark”. "
-"On the next page just paste the link and click “Download Button”. Wait a few"
-" seconds to get start downloading of your video. You can also “Download "
-"TikTok Video with Watermark” and for this visit our website Home Page and "
-"download you favorite video less than 10 seconds."
-msgstr ""
-"và bạn sẽ thấy menu thả xuống nhấp vào nó và chọn “Không có Hình mờ”. Trên "
-"trang tiếp theo, chỉ cần dán liên kết và nhấp vào “Nút Tải xuống”. Chờ một "
-"vài giây để bắt đầu tải xuống video của bạn. Bạn cũng có thể “Tải xuống "
-"TikTok Video với Watermark” và để làm điều này, hãy truy cập Trang chủ trang"
-" web của chúng tôi và tải xuống video yêu thích của bạn dưới 10 giây."
-
-#: templates/watermark.html:33 templates/without.html:33
-msgid "Frequently Asked Questions "
-msgstr "Các câu hỏi thường gặp"
-
-#: templates/without.html:4
-#, fuzzy
-#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgid "Download TikTok video with watermark Online - Tiksss.Com"
 msgstr "Tải xuống video TikTok với watermark trực tuyến - Tiksss.Com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Here you can download TikTok video with watermark online free without any "
 "signup or registration. Its totally free on Tiksss.Com"
@@ -2031,13 +1972,15 @@ msgstr ""
 "Tại đây, bạn có thể tải xuống video TikTok với watermark trực tuyến miễn phí"
 " mà không cần đăng ký hay đăng ký. Nó hoàn toàn miễn phí trên Tiksss.Com"
 
-#: templates/without.html:13
-#, fuzzy
-#| msgid "video without watermark"
+#: templates/watermark.html:13
 msgid "video with watermark"
 msgstr "video có hình mờ"
 
-#: templates/without.html:29
+#: templates/watermark.html:28 templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Tải xuống TikTok Video Không có Watermark Trực tuyến Miễn phí:"
+
+#: templates/watermark.html:29
 msgid ""
 "Here on this page you people can easily download TikTok video with watermark"
 " online free. This tool is totally free and very easy to use. There is no "
@@ -2074,7 +2017,7 @@ msgstr ""
 "tôi và dán liên kết video và nhấp vào nút tải xuống. Chỉ mất 5 đến 10 giây "
 "để tải video của bạn xuống thiết bị của bạn. Chúng tôi cũng có một"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 " online tool which is also totally free to use. For more info visit our "
 "official website"
@@ -2082,40 +2025,31 @@ msgstr ""
 "công cụ trực tuyến cũng hoàn toàn miễn phí để sử dụng. Để biết thêm thông "
 "tin, hãy truy cập trang web chính thức của chúng tôi"
 
-#: templates/without.html:36
-#, fuzzy
-#| msgid "How to Download Tiktok Videos without Watermark:"
+#: templates/watermark.html:33 templates/without.html:33
+msgid "Frequently Asked Questions "
+msgstr "Các câu hỏi thường gặp"
+
+#: templates/watermark.html:36
 msgid "How to Download Tiktok Videos with Watermark:"
 msgstr "Cách tải video Tiktok bằng Watermark:"
 
-#: templates/without.html:41
-#, fuzzy
-#| msgid "Go to TikTok official website and copy the video link."
+#: templates/watermark.html:41
 msgid "Go to Tik tok official website or app and copy the video url."
 msgstr ""
 "Truy cập trang web hoặc ứng dụng chính thức của Tik tok và sao chép url "
 "video."
 
-#: templates/without.html:44
-#, fuzzy
-#| msgid ""
-#| "Select a video URL on TikTok which you want to convert into mp3 format."
+#: templates/watermark.html:44
 msgid "Select a video which you want to download in mp4 format."
 msgstr "Chọn video bạn muốn tải xuống ở định dạng mp4."
 
-#: templates/without.html:47
-#, fuzzy
-#| msgid ""
-#| "Copy the selected video link on your smartphone / computer or Laptop"
+#: templates/watermark.html:47
 msgid "Copy the selected video link on your smartphone / computer or Laptop."
 msgstr ""
 "Sao chép liên kết video đã chọn trên điện thoại thông minh / máy tính hoặc "
 "Máy tính xách tay của bạn."
 
-#: templates/without.html:50
-#, fuzzy
-#| msgid ""
-#| "Insert the TikTok video link in the field and press \"Convert Button\""
+#: templates/watermark.html:50
 msgid ""
 "Paste the TikTok video url in the given field on our tool page and click on "
 "\"download button\"."
@@ -2123,11 +2057,60 @@ msgstr ""
 "Dán url video TikTok vào trường nhất định trên trang công cụ của chúng tôi "
 "và nhấp vào &quot;nút tải xuống&quot;."
 
-#: templates/without.html:53
+#: templates/watermark.html:53
 msgid ""
 "It will take up to 5 to 10 seconds to download Tik tok video in your device."
 msgstr ""
 "Sẽ mất tới 5 đến 10 giây để tải xuống video Tik tok trong thiết bị của bạn."
+
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "Tải xuống video Tiktok không có watermark trực tuyến - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"Tải xuống video Tiktok không có watermark trực tuyến miễn phí trên trang web"
+" Tiksss.com của chúng tôi. Bạn có thể dễ dàng tải video Tiktok mà không cần "
+"watermark trong điện thoại và máy tính xách tay của mình."
+
+#: templates/without.html:13
+msgid "video without watermark"
+msgstr "video không có hình mờ"
+
+#: templates/without.html:29
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"Tải xuống TikTok Video mà không có Hình mờ hoặc Không có Hình mờ. Phương "
+"pháp này rất độc đáo để tải xuống video mà không có hình mờ ở chất lượng "
+"gốc. Chúng tôi đã tạo ra công cụ này rất dễ dàng và nó hoạt động trơn tru "
+"trên các thiết bị windows, Mac OS, Ipad, Android. Đặc biệt đối với người "
+"dùng Pc, họ không cần cài đặt thêm bất kỳ phần mềm hay ứng dụng nào và đây "
+"là điểm đặc biệt duy nhất của công cụ tải video TikTok no watermark này. Đi "
+"đến"
+
+#: templates/without.html:29
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"và bạn sẽ thấy menu thả xuống nhấp vào nó và chọn “Không có Hình mờ”. Trên "
+"trang tiếp theo, chỉ cần dán liên kết và nhấp vào “Nút Tải xuống”. Chờ một "
+"vài giây để bắt đầu tải xuống video của bạn. Bạn cũng có thể “Tải xuống "
+"TikTok Video với Watermark” và để làm điều này, hãy truy cập Trang chủ trang"
+" web của chúng tôi và tải xuống video yêu thích của bạn dưới 10 giây."
 
 #: tiktok/settings.py:145
 msgid "English"

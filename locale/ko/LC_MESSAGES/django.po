@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:25+0530\n"
+"POT-Creation-Date: 2021-07-14 23:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -88,7 +88,7 @@ msgstr ""
 msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr "mp3 변환기 온라인 무료 - TikTok 비디오를 mp3 변환기 온라인으로"
 
-#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "여기에 URL을 입력하세요"
 
@@ -137,7 +137,7 @@ msgid ""
 msgstr "mp3 형식으로 변환하려는 TikTok의 비디오 URL을 선택하십시오."
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr "선택한 비디오 링크를 스마트폰/컴퓨터 또는 노트북에 복사합니다."
 
@@ -154,7 +154,7 @@ msgid "Insert the TikTok video link in the field and press \"Convert Button\""
 msgstr "필드에 TikTok 비디오 링크를 삽입하고 &quot;변환 버튼&quot;을 누르십시오."
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/watermark.html:50
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "이제 다운로드 버튼이 표시되면 다운로드를 클릭합니다."
 
@@ -190,7 +190,7 @@ msgid ""
 msgstr "mp3 절단기 및 변환기 온라인 - TikTok 비디오를 mp3 온라인 무료 도구로 다듬기"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
-#: templates/without.html:14
+#: templates/watermark.html:14 templates/without.html:14
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
 msgstr "여기에 URL을 입력하고 10~15초 동안 기다립니다."
 
@@ -469,15 +469,15 @@ msgid ""
 " machine"
 msgstr "몇 초만 기다리면 컴퓨터에서 직접 비디오를 다운로드할 수 있습니다."
 
-#: templates/faq.html:67 templates/watermark.html:36
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "워터마크 없이 Tiktok 비디오를 다운로드하는 방법:"
 
-#: templates/faq.html:72 templates/watermark.html:41
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "다운로드하려는 TikTok 앱 또는 웹에서 비디오를 선택하십시오."
 
-#: templates/faq.html:78 templates/watermark.html:47
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -485,7 +485,7 @@ msgstr ""
 "선택한 TikTok 비디오 링크를 &quot;워터마크 없는 Tiktok 비디오 다운로드&quot;인 웹 사이트 도구에 붙여넣고 "
 "&quot;검색 버튼&quot;을 누릅니다."
 
-#: templates/faq.html:84 templates/watermark.html:53
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -684,8 +684,8 @@ msgid ""
 "share this tool with your friends and family member with the help of social "
 "media because they will definitely like and use this for sure."
 msgstr ""
-"우리는 이 도구를 매우 쉽고 간단하게 만들었습니다. 사람들은 제한 없이 원하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 수"
-" 있도록 이 도구 페이지를 북마크에 추가해야 합니다. 우리는 사람들이 어떻게 사용하고 혜택을 받을 수 있는지 이 도구의 모든 지침을 "
+"우리는 이 도구를 매우 쉽고 간단하게 만들었습니다. 사람들은 제한 없이 선호하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 "
+"수 있도록 이 도구 페이지를 북마크에 추가해야 합니다. 우리는 사람들이 어떻게 사용하고 혜택을 받을 수 있는지 이 도구의 모든 지침을 "
 "추가했습니다. 소셜 미디어의 도움을 받아 이 도구를 친구 및 가족과 공유하십시오. 친구 및 가족은 분명히 이것을 좋아하고 사용할 것이기 "
 "때문입니다."
 
@@ -1662,64 +1662,10 @@ msgstr ""
 "웹사이트와 웹사이트의 정보 및 서비스가 무료로 제공되는 한 당사는 어떠한 종류의 손실이나 손해에 대해서도 책임을 지지 않습니다."
 
 #: templates/watermark.html:4
-msgid "Download Tiktok videos without watermark online - Tiksss.com"
-msgstr "온라인으로 워터마크 없는 Tiktok 비디오 다운로드 - Tiksss.com"
-
-#: templates/watermark.html:6
-msgid ""
-"Download Tiktok videos without watermark online free on Our website "
-"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
-"phone and laptop."
-msgstr ""
-"당사 웹사이트 Tikss.com에서 워터마크가 없는 Tiktok 비디오를 온라인으로 무료로 다운로드하십시오. 휴대폰과 노트북에 워터마크 "
-"없이 틱톡 영상을 쉽게 다운로드할 수 있습니다."
-
-#: templates/watermark.html:13
-msgid "video without watermark"
-msgstr "워터마크 없는 영상"
-
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "워터마크 없는 TikTok 비디오 온라인 무료 다운로드:"
-
-#: templates/watermark.html:29
-msgid ""
-"Download TikTok Videos without Watermark or No Watermark. This method is "
-"very unique to get download video without watermark in original quality. We "
-"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
-"Android devices. Especially for Pc users, they don’t need to install any "
-"extra software or App and this is the only specialty of this TikTok no "
-"watermark video download tool. Go to"
-msgstr ""
-"워터마크 또는 워터마크가 없는 TikTok 비디오를 다운로드하십시오. 이 방법은 원본 품질의 워터마크 없이 다운로드 비디오를 얻는 매우 "
-"독특합니다. 우리는 이 도구를 매우 쉽게 만들었으며 Windows, Mac OS, Ipad, Android 장치에서 원활하게 작동합니다."
-" 특히 PC 사용자의 경우 추가 소프트웨어나 앱을 설치할 필요가 없으며 이것이 이 TikTok 워터마크 없는 비디오 다운로드 도구의 "
-"유일한 특징입니다. 이동"
-
-#: templates/watermark.html:29
-msgid ""
-"and you will see dropdown menu click on it and select “Without Watermark”. "
-"On the next page just paste the link and click “Download Button”. Wait a few"
-" seconds to get start downloading of your video. You can also “Download "
-"TikTok Video with Watermark” and for this visit our website Home Page and "
-"download you favorite video less than 10 seconds."
-msgstr ""
-"드롭다운 메뉴가 표시되고 이를 클릭하고 &quot;워터마크 없음&quot;을 선택합니다. 다음 페이지에서 링크를 붙여넣고 "
-"&quot;다운로드 버튼&quot;을 클릭하십시오. 비디오 다운로드를 시작하려면 몇 초 정도 기다리십시오. 또한 &quot;워터마크가 "
-"있는 TikTok 비디오 다운로드&quot;를 할 수 있으며 이를 위해 당사 웹사이트 홈 페이지를 방문하여 10초 이내에 좋아하는 "
-"비디오를 다운로드할 수 있습니다."
-
-#: templates/watermark.html:33 templates/without.html:33
-msgid "Frequently Asked Questions "
-msgstr "자주 묻는 질문"
-
-#: templates/without.html:4
-#, fuzzy
-#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgid "Download TikTok video with watermark Online - Tiksss.Com"
 msgstr "워터마크가 있는 TikTok 비디오 다운로드 온라인 - Tiksss.Com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Here you can download TikTok video with watermark online free without any "
 "signup or registration. Its totally free on Tiksss.Com"
@@ -1727,13 +1673,15 @@ msgstr ""
 "여기에서 가입이나 등록 없이 워터마크가 있는 TikTok 비디오를 온라인으로 무료로 다운로드할 수 있습니다. Tikss.Com에서 완전 "
 "무료입니다."
 
-#: templates/without.html:13
-#, fuzzy
-#| msgid "video without watermark"
+#: templates/watermark.html:13
 msgid "video with watermark"
 msgstr "워터마크가 있는 동영상"
 
-#: templates/without.html:29
+#: templates/watermark.html:28 templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "워터마크 없는 TikTok 비디오 온라인 무료 다운로드:"
+
+#: templates/watermark.html:29
 msgid ""
 "Here on this page you people can easily download TikTok video with watermark"
 " online free. This tool is totally free and very easy to use. There is no "
@@ -1761,51 +1709,86 @@ msgstr ""
 "목록에서 비디오를 열고 화면 오른쪽에서 공유를 선택한 다음 하단에 링크 복사 옵션이 표시됩니다. 링크를 복사하고 도구 페이지로 이동하여 "
 "비디오 링크를 붙여넣고 다운로드 버튼을 클릭하면 됩니다. 기기에 동영상을 다운로드하는 데 5~10초밖에 걸리지 않습니다. 우리는 또한"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 " online tool which is also totally free to use. For more info visit our "
 "official website"
 msgstr "완전히 무료로 사용할 수 있는 온라인 도구입니다. 더 많은 정보를 원하시면 공식 웹사이트를 방문하세요"
 
-#: templates/without.html:36
-#, fuzzy
-#| msgid "How to Download Tiktok Videos without Watermark:"
+#: templates/watermark.html:33 templates/without.html:33
+msgid "Frequently Asked Questions "
+msgstr "자주 묻는 질문"
+
+#: templates/watermark.html:36
 msgid "How to Download Tiktok Videos with Watermark:"
 msgstr "워터마크가 있는 Tiktok 비디오를 다운로드하는 방법:"
 
-#: templates/without.html:41
-#, fuzzy
-#| msgid "Go to TikTok official website and copy the video link."
+#: templates/watermark.html:41
 msgid "Go to Tik tok official website or app and copy the video url."
 msgstr "틱톡 공식 홈페이지나 앱에 접속하여 동영상 URL을 복사합니다."
 
-#: templates/without.html:44
-#, fuzzy
-#| msgid ""
-#| "Select a video URL on TikTok which you want to convert into mp3 format."
+#: templates/watermark.html:44
 msgid "Select a video which you want to download in mp4 format."
 msgstr "mp4 형식으로 다운로드하려는 비디오를 선택하십시오."
 
-#: templates/without.html:47
-#, fuzzy
-#| msgid ""
-#| "Copy the selected video link on your smartphone / computer or Laptop"
+#: templates/watermark.html:47
 msgid "Copy the selected video link on your smartphone / computer or Laptop."
 msgstr "선택한 비디오 링크를 스마트폰/컴퓨터 또는 노트북에 복사합니다."
 
-#: templates/without.html:50
-#, fuzzy
-#| msgid ""
-#| "Insert the TikTok video link in the field and press \"Convert Button\""
+#: templates/watermark.html:50
 msgid ""
 "Paste the TikTok video url in the given field on our tool page and click on "
 "\"download button\"."
 msgstr "도구 페이지의 지정된 필드에 TikTok 비디오 URL을 붙여넣고 &quot;다운로드 버튼&quot;을 클릭합니다."
 
-#: templates/without.html:53
+#: templates/watermark.html:53
 msgid ""
 "It will take up to 5 to 10 seconds to download Tik tok video in your device."
 msgstr "기기에 Tik tok 비디오를 다운로드하는 데 최대 5~10초가 소요됩니다."
+
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "온라인으로 워터마크 없는 Tiktok 비디오 다운로드 - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"당사 웹사이트 Tikss.com에서 워터마크가 없는 Tiktok 비디오를 온라인으로 무료로 다운로드하십시오. 휴대폰과 노트북에 워터마크 "
+"없이 틱톡 영상을 쉽게 다운로드할 수 있습니다."
+
+#: templates/without.html:13
+msgid "video without watermark"
+msgstr "워터마크 없는 영상"
+
+#: templates/without.html:29
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"워터마크 또는 워터마크가 없는 TikTok 비디오를 다운로드하십시오. 이 방법은 원본 품질의 워터마크 없이 다운로드 비디오를 얻는 매우 "
+"독특합니다. 우리는 이 도구를 매우 쉽게 만들었으며 Windows, Mac OS, Ipad, Android 장치에서 원활하게 작동합니다."
+" 특히 PC 사용자의 경우 추가 소프트웨어나 앱을 설치할 필요가 없으며 이것이 이 TikTok 워터마크 없는 비디오 다운로드 도구의 "
+"유일한 특징입니다. 이동"
+
+#: templates/without.html:29
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"드롭다운 메뉴가 표시되고 이를 클릭하고 &quot;워터마크 없음&quot;을 선택합니다. 다음 페이지에서 링크를 붙여넣고 "
+"&quot;다운로드 버튼&quot;을 클릭하십시오. 비디오 다운로드를 시작하려면 몇 초 정도 기다리십시오. 또한 &quot;워터마크가 "
+"있는 TikTok 비디오 다운로드&quot;를 할 수 있으며 이를 위해 당사 웹사이트 홈 페이지를 방문하여 10초 이내에 좋아하는 "
+"비디오를 다운로드할 수 있습니다."
 
 #: tiktok/settings.py:145
 msgid "English"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:25+0530\n"
+"POT-Creation-Date: 2021-07-14 23:36+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,7 +97,7 @@ msgstr ""
 msgid "to mp3 converter online free - TikTok video to mp3 converter online"
 msgstr "एमपी3 कन्वर्टर ऑनलाइन फ्री - टिकटॉक वीडियो टू एमपी3 कन्वर्टर ऑनलाइन"
 
-#: templates/audio.html:15 templates/index.html:12 templates/watermark.html:14
+#: templates/audio.html:15 templates/index.html:12
 msgid "Enter the URL Here"
 msgstr "यहां यूआरएल दर्ज करें"
 
@@ -152,7 +152,7 @@ msgstr ""
 "टिकटॉक पर एक वीडियो यूआरएल चुनें जिसे आप एमपी3 फॉर्मेट में बदलना चाहते हैं।"
 
 #: templates/audio.html:46 templates/faq.html:22 templates/faq.html:47
-#: templates/faq.html:75 templates/index.html:34 templates/watermark.html:44
+#: templates/faq.html:75 templates/index.html:34 templates/without.html:44
 msgid "Copy the selected video link on your smartphone / computer or Laptop"
 msgstr ""
 "चयनित वीडियो लिंक को अपने स्मार्टफोन / कंप्यूटर या लैपटॉप पर कॉपी करें"
@@ -171,7 +171,7 @@ msgstr ""
 "टिकटॉक वीडियो लिंक को फील्ड में डालें और &quot;कन्वर्ट बटन&quot; दबाएं"
 
 #: templates/audio.html:55 templates/faq.html:28 templates/faq.html:81
-#: templates/index.html:36 templates/watermark.html:50
+#: templates/index.html:36 templates/without.html:50
 msgid "Now you will see a download button, click on download."
 msgstr "अब आपको एक डाउनलोड बटन दिखाई देगा, डाउनलोड पर क्लिक करें।"
 
@@ -213,7 +213,7 @@ msgstr ""
 "ट्रिम करें"
 
 #: templates/audio_cutter.html:15 templates/cutter.html:15
-#: templates/without.html:14
+#: templates/watermark.html:14 templates/without.html:14
 msgid "Enter the URL Here and wait for 10 - 15 Seconds."
 msgstr "यहां URL दर्ज करें और 10 - 15 सेकंड तक प्रतीक्षा करें।"
 
@@ -521,15 +521,15 @@ msgstr ""
 "बस कुछ सेकंड प्रतीक्षा करें जिसमें आप सीधे अपनी मशीन में वीडियो डाउनलोड कर "
 "सकते हैं"
 
-#: templates/faq.html:67 templates/watermark.html:36
+#: templates/faq.html:67 templates/without.html:36
 msgid "How to Download Tiktok Videos without Watermark:"
 msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो कैसे डाउनलोड करें:"
 
-#: templates/faq.html:72 templates/watermark.html:41
+#: templates/faq.html:72 templates/without.html:41
 msgid "Select a video on TikTok app or web which you want to download."
 msgstr "टिकटॉक ऐप या वेब पर एक वीडियो चुनें जिसे आप डाउनलोड करना चाहते हैं।"
 
-#: templates/faq.html:78 templates/watermark.html:47
+#: templates/faq.html:78 templates/without.html:47
 msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
@@ -538,7 +538,7 @@ msgstr ""
 "&quot;टिकटॉक वीडियो डाउनलोड विदाउट वॉटरमार्क&quot; है और &quot;सर्च "
 "बटन&quot; दबाएं।"
 
-#: templates/faq.html:84 templates/watermark.html:53
+#: templates/faq.html:84 templates/without.html:53
 msgid ""
 "Just wait a few seconds in which you can download the Tiktok video Without "
 "Watermark directly in your machine."
@@ -1924,70 +1924,10 @@ msgstr ""
 "तक हम किसी भी प्रकार के नुकसान या क्षति के लिए उत्तरदायी नहीं होंगे।"
 
 #: templates/watermark.html:4
-msgid "Download Tiktok videos without watermark online - Tiksss.com"
-msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन डाउनलोड करें - Tiksss.com"
-
-#: templates/watermark.html:6
-msgid ""
-"Download Tiktok videos without watermark online free on Our website "
-"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
-"phone and laptop."
-msgstr ""
-"हमारी वेबसाइट Tiksss.com पर बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन फ्री में "
-"डाउनलोड करें। आप अपने फोन और लैपटॉप में बिना वॉटरमार्क के टिकटॉक वीडियो "
-"आसानी से डाउनलोड कर सकते हैं।"
-
-#: templates/watermark.html:13
-msgid "video without watermark"
-msgstr "वॉटरमार्क के बिना वीडियो"
-
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "बिना वॉटरमार्क ऑनलाइन टिकटॉक वीडियो डाउनलोड करें:"
-
-#: templates/watermark.html:29
-msgid ""
-"Download TikTok Videos without Watermark or No Watermark. This method is "
-"very unique to get download video without watermark in original quality. We "
-"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
-"Android devices. Especially for Pc users, they don’t need to install any "
-"extra software or App and this is the only specialty of this TikTok no "
-"watermark video download tool. Go to"
-msgstr ""
-"बिना वॉटरमार्क या बिना वॉटरमार्क के टिकटॉक वीडियो डाउनलोड करें। मूल गुणवत्ता"
-" में वॉटरमार्क के बिना डाउनलोड वीडियो प्राप्त करने के लिए यह विधि बहुत ही "
-"अनोखी है। हमने इस टूल को बहुत आसान बना दिया है और यह विंडोज़, मैक ओएस, "
-"आईपैड, एंड्रॉइड डिवाइस पर आसानी से काम करता है। विशेष रूप से पीसी "
-"उपयोगकर्ताओं के लिए, उन्हें कोई अतिरिक्त सॉफ़्टवेयर या ऐप इंस्टॉल करने की "
-"आवश्यकता नहीं है और यह इस टिकटॉक नो वॉटरमार्क वीडियो डाउनलोड टूल की एकमात्र "
-"विशेषता है। के लिए जाओ"
-
-#: templates/watermark.html:29
-msgid ""
-"and you will see dropdown menu click on it and select “Without Watermark”. "
-"On the next page just paste the link and click “Download Button”. Wait a few"
-" seconds to get start downloading of your video. You can also “Download "
-"TikTok Video with Watermark” and for this visit our website Home Page and "
-"download you favorite video less than 10 seconds."
-msgstr ""
-"और आप ड्रॉपडाउन मेनू देखेंगे उस पर क्लिक करें और &quot;वॉटरमार्क के "
-"बिना&quot; चुनें। अगले पेज पर बस लिंक पेस्ट करें और &quot;डाउनलोड बटन&quot; "
-"पर क्लिक करें। अपने वीडियो का डाउनलोड शुरू करने के लिए कुछ सेकंड प्रतीक्षा "
-"करें। आप &quot;वॉटरमार्क के साथ टिकटॉक वीडियो डाउनलोड करें&quot; भी कर सकते "
-"हैं और इसके लिए हमारी वेबसाइट होम पेज पर जाएं और 10 सेकंड से कम समय में अपना"
-" पसंदीदा वीडियो डाउनलोड करें।"
-
-#: templates/watermark.html:33 templates/without.html:33
-msgid "Frequently Asked Questions "
-msgstr "लगातार पूछे जाने वाले प्रश्न"
-
-#: templates/without.html:4
-#, fuzzy
-#| msgid "Download Tiktok videos without watermark online - Tiksss.com"
 msgid "Download TikTok video with watermark Online - Tiksss.Com"
 msgstr "वॉटरमार्क के साथ टिकटॉक वीडियो ऑनलाइन डाउनलोड करें - Tiksss.Com"
 
-#: templates/without.html:6
+#: templates/watermark.html:6
 msgid ""
 "Here you can download TikTok video with watermark online free without any "
 "signup or registration. Its totally free on Tiksss.Com"
@@ -1995,13 +1935,15 @@ msgstr ""
 "यहां आप बिना किसी साइनअप या पंजीकरण के टिकटॉक वीडियो को वॉटरमार्क के साथ "
 "ऑनलाइन मुफ्त में डाउनलोड कर सकते हैं। Tiksss.Com पर यह पूरी तरह से मुफ़्त है"
 
-#: templates/without.html:13
-#, fuzzy
-#| msgid "video without watermark"
+#: templates/watermark.html:13
 msgid "video with watermark"
 msgstr "वॉटरमार्क वाला वीडियो"
 
-#: templates/without.html:29
+#: templates/watermark.html:28 templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "बिना वॉटरमार्क ऑनलाइन टिकटॉक वीडियो डाउनलोड करें:"
+
+#: templates/watermark.html:29
 msgid ""
 "Here on this page you people can easily download TikTok video with watermark"
 " online free. This tool is totally free and very easy to use. There is no "
@@ -2038,7 +1980,7 @@ msgstr ""
 "करें। आपके वीडियो को आपके डिवाइस में डाउनलोड करने में केवल 5 से 10 सेकंड का "
 "समय लगेगा। हमारे पास भी है"
 
-#: templates/without.html:29
+#: templates/watermark.html:29
 msgid ""
 " online tool which is also totally free to use. For more info visit our "
 "official website"
@@ -2046,38 +1988,29 @@ msgstr ""
 "ऑनलाइन टूल जो उपयोग करने के लिए पूरी तरह से मुफ़्त है। अधिक जानकारी के लिए "
 "हमारी आधिकारिक वेबसाइट पर जाएँ"
 
-#: templates/without.html:36
-#, fuzzy
-#| msgid "How to Download Tiktok Videos without Watermark:"
+#: templates/watermark.html:33 templates/without.html:33
+msgid "Frequently Asked Questions "
+msgstr "लगातार पूछे जाने वाले प्रश्न"
+
+#: templates/watermark.html:36
 msgid "How to Download Tiktok Videos with Watermark:"
 msgstr "वॉटरमार्क के साथ टिकटॉक वीडियो कैसे डाउनलोड करें:"
 
-#: templates/without.html:41
-#, fuzzy
-#| msgid "Go to TikTok official website and copy the video link."
+#: templates/watermark.html:41
 msgid "Go to Tik tok official website or app and copy the video url."
 msgstr ""
 "टिक टोक की आधिकारिक वेबसाइट या ऐप पर जाएं और वीडियो यूआरएल को कॉपी करें।"
 
-#: templates/without.html:44
-#, fuzzy
-#| msgid ""
-#| "Select a video URL on TikTok which you want to convert into mp3 format."
+#: templates/watermark.html:44
 msgid "Select a video which you want to download in mp4 format."
 msgstr "एक वीडियो चुनें जिसे आप mp4 फॉर्मेट में डाउनलोड करना चाहते हैं।"
 
-#: templates/without.html:47
-#, fuzzy
-#| msgid ""
-#| "Copy the selected video link on your smartphone / computer or Laptop"
+#: templates/watermark.html:47
 msgid "Copy the selected video link on your smartphone / computer or Laptop."
 msgstr ""
 "चयनित वीडियो लिंक को अपने स्मार्टफोन / कंप्यूटर या लैपटॉप पर कॉपी करें।"
 
-#: templates/without.html:50
-#, fuzzy
-#| msgid ""
-#| "Insert the TikTok video link in the field and press \"Convert Button\""
+#: templates/watermark.html:50
 msgid ""
 "Paste the TikTok video url in the given field on our tool page and click on "
 "\"download button\"."
@@ -2085,12 +2018,62 @@ msgstr ""
 "हमारे टूल पेज पर दिए गए फ़ील्ड में टिकटॉक वीडियो यूआरएल पेस्ट करें और "
 "&quot;डाउनलोड बटन&quot; पर क्लिक करें।"
 
-#: templates/without.html:53
+#: templates/watermark.html:53
 msgid ""
 "It will take up to 5 to 10 seconds to download Tik tok video in your device."
 msgstr ""
 "आपके डिवाइस में टिक टोक वीडियो डाउनलोड करने में 5 से 10 सेकंड तक का समय "
 "लगेगा।"
+
+#: templates/without.html:4
+msgid "Download Tiktok videos without watermark online - Tiksss.com"
+msgstr "बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन डाउनलोड करें - Tiksss.com"
+
+#: templates/without.html:6
+msgid ""
+"Download Tiktok videos without watermark online free on Our website "
+"Tiksss.com. You can easily download Tiktok videos Without watermark in your "
+"phone and laptop."
+msgstr ""
+"हमारी वेबसाइट Tiksss.com पर बिना वॉटरमार्क के टिकटॉक वीडियो ऑनलाइन फ्री में "
+"डाउनलोड करें। आप अपने फोन और लैपटॉप में बिना वॉटरमार्क के टिकटॉक वीडियो "
+"आसानी से डाउनलोड कर सकते हैं।"
+
+#: templates/without.html:13
+msgid "video without watermark"
+msgstr "वॉटरमार्क के बिना वीडियो"
+
+#: templates/without.html:29
+msgid ""
+"Download TikTok Videos without Watermark or No Watermark. This method is "
+"very unique to get download video without watermark in original quality. We "
+"made this tool very easy and it works smoothly on windows, Mac OS, Ipad, "
+"Android devices. Especially for Pc users, they don’t need to install any "
+"extra software or App and this is the only specialty of this TikTok no "
+"watermark video download tool. Go to"
+msgstr ""
+"बिना वॉटरमार्क या बिना वॉटरमार्क के टिकटॉक वीडियो डाउनलोड करें। मूल गुणवत्ता"
+" में वॉटरमार्क के बिना डाउनलोड वीडियो प्राप्त करने के लिए यह विधि बहुत ही "
+"अनोखी है। हमने इस टूल को बहुत आसान बना दिया है और यह विंडोज़, मैक ओएस, "
+"आईपैड, एंड्रॉइड डिवाइस पर आसानी से काम करता है। विशेष रूप से पीसी "
+"उपयोगकर्ताओं के लिए, उन्हें कोई अतिरिक्त सॉफ़्टवेयर या ऐप इंस्टॉल करने की "
+"आवश्यकता नहीं है और यह इस टिकटॉक नो वॉटरमार्क वीडियो डाउनलोड टूल की एकमात्र "
+"विशेषता है। के लिए जाओ"
+
+#: templates/without.html:29
+msgid ""
+"and you will see dropdown menu click on it and select “Without Watermark”. "
+"On the next page just paste the link and click “Download Button”. Wait a few"
+" seconds to get start downloading of your video. You can also “Download "
+"TikTok Video with Watermark” and for this visit our website Home Page and "
+"download you favorite video less than 10 seconds."
+msgstr ""
+"और आप ड्रॉपडाउन मेनू देखेंगे उस पर क्लिक करें और &quot;वॉटरमार्क के "
+"बिना&quot; चुनें। अगले पेज पर बस लिंक पेस्ट करें और &quot;डाउनलोड बटन&quot; "
+"पर क्लिक करें। अपने वीडियो का डाउनलोड शुरू करने के लिए कुछ सेकंड प्रतीक्षा "
+"करें। आप &quot;वॉटरमार्क के साथ टिकटॉक वीडियो डाउनलोड करें&quot; भी कर सकते "
+"हैं और इसके लिए हमारी वेबसाइट होम पेज पर जाएं और 10 सेकंड से कम समय में अपना"
+" पसंदीदा वीडियो डाउनलोड करें।"
 
 #: tiktok/settings.py:145
 msgid "English"
