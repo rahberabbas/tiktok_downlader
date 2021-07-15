@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:36+0530\n"
+"POT-Creation-Date: 2021-07-15 22:46+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -518,7 +518,7 @@ msgstr ""
 " "
 "Tokビデオを見るのが大好きです。これらのビデオをもう一度見たい場合は、ログに残りますが、プラットフォームが毎日生成する素晴らしいフィードバックのために、ビデオが利用できなくなり、失われることを経験しました。完全に過剰。"
 " "
-"TikTokでは、好みのデバイスにビデオをダウンロードまたは保存することはできません。しかし、ユーザー側からアップロードされた動画は、多くの制限付きで公式ウェブサイトやアプリで利用できます。したがって、問題は、これらすべてのビデオダウンロードの問題をどのように解決するかということです。そこで、私を含めて、このプラットフォームにはモバイルやラップトップでTikTokビデオを視聴する人が何百万人もいるが、ダウンロードできないため、誰にとっても使いやすいツールを作成することにしました。だから心配しないでください。私はあなたのためだけにこのツールを作りました"
+"TikTokでは、好みのデバイスにビデオをダウンロードまたは保存することはできません。しかし、ユーザー側からアップロードされた動画は、多くの制限付きで公式ウェブサイトやアプリで利用できます。したがって、問題は、これらすべてのビデオダウンロードの問題をどのように解決するかということです。そこで、私を含めて、モバイルやラップトップでTikTokビデオを視聴する人が何百万人もいるのに、ダウンロードできないため、誰にとっても使いやすいツールを作成することにしました。だから心配しないでください。私はあなたのためだけにこのツールを作りました"
 
 #: templates/index.html:23
 msgid "I proud myself to introduce an amazing "
@@ -888,7 +888,7 @@ msgid ""
 "device. If you choose to refuse our cookies, you may not be able to use some"
 " portions of this Service."
 msgstr ""
-"このサービスは、これらの「Cookie」を明示的に使用しません。ただし、アプリは、情報を収集してサービスを改善するために「Cookie」を使用するサードパーティのコードとライブラリを使用する場合があります。これらのCookieを受け入れるか拒否するかを選択し、Cookieがデバイスに送信されるタイミングを知ることができます。当社のCookieを拒否することを選択した場合、本サービスの一部を使用できない場合があります。"
+"このサービスは、これらの「Cookie」を明示的に使用しません。ただし、アプリは「Cookie」を使用して情報を収集し、サービスを改善するサードパーティのコードとライブラリを使用する場合があります。これらのCookieを受け入れるか拒否するかを選択し、Cookieがデバイスに送信されるタイミングを知ることができます。当社のCookieを拒否することを選択した場合、本サービスの一部を使用できない場合があります。"
 
 #: templates/privacypolicy.html:52
 msgid "Service Providers"
@@ -1204,7 +1204,7 @@ msgid ""
 "affiliate/advertising partners may also use cookies"
 msgstr ""
 "ほとんどのインタラクティブなWebサイトでは、Cookieを使用して、訪問ごとにユーザーの詳細を取得できます。 "
-"Cooは、特定の領域の機能を有効にして、Webサイトにアクセスする人々が簡単に利用できるようにするために、当社のWebサイトで使用されています。一部のアフィリエイト/広告パートナーもCookieを使用する場合があります"
+"Cooは、特定の領域の機能を有効にして、Webサイトにアクセスしやすいようにするために、当社のWebサイトで使用されています。一部のアフィリエイト/広告パートナーもCookieを使用する場合があります"
 
 #: templates/tandc.html:18
 msgid "License"
@@ -1360,7 +1360,7 @@ msgstr "以下の種類の組織からの他のリンクリクエストを検討
 
 #: templates/tandc.html:77
 msgid "commonly-known consumer and/or business information sources"
-msgstr "一般的に知られている消費者および/またはビジネス情報源"
+msgstr "一般的に知られている消費者および/またはビジネス情報ソース"
 
 #: templates/tandc.html:80
 msgid "dot.com community sites"
@@ -1471,7 +1471,7 @@ msgid ""
 "violates, or advocates the infringement or other violation of, any third "
 "party rights"
 msgstr ""
-"当社は、お客様のWebサイトに表示されるコンテンツについて責任を負わないものとします。あなたはあなたのウェブサイトで起きているすべての主張から私たちを保護し、守ることに同意します。猥褻、猥褻、または犯罪と解釈される可能性のある、または第三者の権利を侵害する、さもなければ侵害する、または侵害またはその他の侵害を主張するリンクは、いかなるWebサイトにも表示されるべきではありません。"
+"当社は、お客様のWebサイトに表示されるコンテンツについて責任を負わないものとします。あなたはあなたのウェブサイトで起きているすべての主張から私たちを保護し、守ることに同意します。猥褻、猥褻、犯罪と解釈される可能性のある、または第三者の権利を侵害する、さもなければ侵害する、または侵害またはその他の侵害を主張するリンクは、いかなるWebサイトにも表示されるべきではありません。"
 
 #: templates/tandc.html:119
 msgid "Your Privacy"
@@ -1584,9 +1584,9 @@ msgstr ""
 msgid "video with watermark"
 msgstr "透かし入りのビデオ"
 
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "透かしなしのTikTokビデオをオンラインで無料でダウンロード："
+#: templates/watermark.html:28
+msgid "Download TikTok Video with Watermark Online Free:"
+msgstr "透かし付きのTikTokビデオをオンラインで無料でダウンロード："
 
 #: templates/watermark.html:29
 msgid ""
@@ -1665,6 +1665,10 @@ msgstr ""
 #: templates/without.html:13
 msgid "video without watermark"
 msgstr "透かしのないビデオ"
+
+#: templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "透かしなしのTikTokビデオをオンラインで無料でダウンロード："
 
 #: templates/without.html:29
 msgid ""

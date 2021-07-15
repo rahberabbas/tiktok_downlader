@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:36+0530\n"
+"POT-Creation-Date: 2021-07-15 22:46+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -455,7 +455,7 @@ msgid ""
 "Tiksss.com. You can easily download Tiktok videos Without watermark in your "
 "phone and laptop."
 msgstr ""
-"Unduh Video Tiktok Tanpa Watermark Online Gratis di situs web Kami "
+"Unduh Video Tiktok Tanpa Watermark Online Gratis di situs web kami "
 "Tiksss.com. Anda dapat dengan mudah mengunduh video Tiktok Tanpa tanda air "
 "di ponsel dan laptop Anda."
 
@@ -587,7 +587,7 @@ msgid ""
 msgstr ""
 "adalah alat luar biasa bagi pecinta TikTok untuk menyimpan video TikTok ke "
 "perangkat Anda dengan satu klik. Alat ini dirancang sangat sederhana dan "
-"semua orang dapat menggunakannya dengan mudah tanpa kerumitan. Kami semua "
+"semua orang dapat menggunakannya dengan mudah tanpa kesulitan. Kami semua "
 "suka menonton video Tik Tok di perangkat kami yang tetap ada di log kami "
 "jika kami ingin melihat video itu lagi, tetapi saya telah mengalami bahwa "
 "video tidak lagi tersedia dan hilang karena umpan balik luar biasa yang "
@@ -1191,7 +1191,7 @@ msgstr ""
 " 13 tahun telah memberi kami informasi pribadi, kami segera menghapusnya "
 "dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui "
 "bahwa anak Anda telah memberikan informasi pribadi kepada kami, silakan "
-"hubungi kami agar kami dapat melakukan tindakan yang diperlukan."
+"hubungi kami sehingga kami dapat melakukan tindakan yang diperlukan."
 
 #: templates/privacypolicy.html:75
 msgid "Google Double-Click DART Cookie"
@@ -1656,8 +1656,8 @@ msgid ""
 "they hyperlink to the Websites of other listed businesses; and"
 msgstr ""
 "Distributor direktori online dapat menautkan ke Situs Web kami dengan cara "
-"yang sama seperti mereka menautkan tautan ke Situs Web bisnis lain yang "
-"terdaftar; dan"
+"yang sama seperti mereka menautkan ke Situs Web bisnis lain yang terdaftar; "
+"dan"
 
 #: templates/tandc.html:70
 msgid ""
@@ -1825,7 +1825,7 @@ msgstr ""
 "Kami tidak akan bertanggung jawab atas konten apa pun yang muncul di Situs "
 "Web Anda. Anda setuju untuk melindungi dan membela kami dari semua klaim "
 "yang muncul di Situs Web Anda. Tidak boleh ada tautan yang muncul di Situs "
-"Web mana pun yang dapat ditafsirkan sebagai fitnah, cabul, atau kriminal, "
+"Web apa pun yang dapat ditafsirkan sebagai fitnah, cabul, atau kriminal, "
 "atau yang melanggar, jika tidak, melanggar, atau mendukung pelanggaran atau "
 "pelanggaran lain terhadap, hak pihak ketiga mana pun"
 
@@ -1911,7 +1911,7 @@ msgid ""
 "misrepresentation;"
 msgstr ""
 "membatasi atau mengecualikan tanggung jawab kami atau Anda atas penipuan "
-"atau pernyataan yang salah;"
+"atau misrepresentasi yang curang;"
 
 #: templates/tandc.html:136
 msgid ""
@@ -1969,9 +1969,9 @@ msgstr ""
 msgid "video with watermark"
 msgstr "video dengan tanda air"
 
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "Unduh Video TikTok Tanpa Watermark Online Gratis:"
+#: templates/watermark.html:28
+msgid "Download TikTok Video with Watermark Online Free:"
+msgstr "Unduh Video TikTok dengan Watermark Online Gratis:"
 
 #: templates/watermark.html:29
 msgid ""
@@ -2036,7 +2036,8 @@ msgstr "Pilih video yang ingin Anda unduh dalam format mp4."
 
 #: templates/watermark.html:47
 msgid "Copy the selected video link on your smartphone / computer or Laptop."
-msgstr "Copy link video yang dipilih di smartphone/komputer atau Laptop."
+msgstr ""
+"Salin tautan video yang dipilih di smartphone / komputer atau Laptop Anda."
 
 #: templates/watermark.html:50
 msgid ""
@@ -2070,6 +2071,10 @@ msgstr ""
 #: templates/without.html:13
 msgid "video without watermark"
 msgstr "video tanpa tanda air"
+
+#: templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Unduh Video TikTok Tanpa Watermark Online Gratis:"
 
 #: templates/without.html:29
 msgid ""
@@ -2779,7 +2784,7 @@ msgstr "Menghapus"
 #: venv/lib/python3.8/site-packages/django/forms/models.py:763
 #, python-format
 msgid "Please correct the duplicate data for %(field)s."
-msgstr "Perbaiki data duplikat untuk %(field)s."
+msgstr "Harap perbaiki data duplikat untuk %(field)s."
 
 #: venv/lib/python3.8/site-packages/django/forms/models.py:767
 #, python-format

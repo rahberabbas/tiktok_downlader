@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:36+0530\n"
+"POT-Creation-Date: 2021-07-15 22:46+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,7 +51,7 @@ msgid ""
 "watermark or with watermark in just few seconds which you can view here in "
 "our website"
 msgstr ""
-"우리 플랫폼은 TikTok을 Mp4, Mp3, Video Cutter로 변환하는 다양한 유형의 TikTok 비디오 도구를 지원하며 "
+"우리 플랫폼은 TikTok을 Mp4, Mp3, Video Cutter로 변환하는 다양한 유형의 TikTok 비디오 변환 도구를 지원하며 "
 "워터마크가 없거나 몇 초 안에 워터마크가 있는 TikTok 비디오를 다운로드하여 여기 웹사이트에서 볼 수 있습니다."
 
 #: templates/about.html:13
@@ -115,7 +115,7 @@ msgid ""
 "sure. For more Info visit our Website"
 msgstr ""
 "음악 애호가라면 이 TikTok to Mp3 Converter Online Tool의 가치를 알게 될 것입니다. 우리는 이 도구를 매우 "
-"쉽고 간단하게 만들었습니다. 사람들은 제한 없이 선호하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 수 있도록 이 도구 "
+"쉽고 간단하게 만들었습니다. 사람들은 제한 없이 원하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 수 있도록 이 도구 "
 "페이지를 북마크에 추가해야 합니다. 우리는 사람들이 어떻게 사용하고 혜택을 받을 수 있는지 이 도구의 모든 지침을 추가했습니다. 소셜 "
 "미디어의 도움을 받아 이 도구를 친구 및 가족과 공유하십시오. 친구 및 가족은 분명히 이것을 좋아하고 사용할 것이기 때문입니다. 더 많은"
 " 정보를 원하시면 저희 웹사이트를 방문하십시오"
@@ -441,7 +441,7 @@ msgstr "자주 묻는 질문 - Tikss.com"
 msgid ""
 "In this page we have added some useful frequently asked questions of our "
 "website Tiksss.com."
-msgstr "이 페이지에서 우리 웹사이트 Tikss.com의 유용한 자주 묻는 질문을 추가했습니다."
+msgstr "이 페이지에서 우리는 우리 웹사이트 Tikss.com의 몇 가지 유용한 자주 묻는 질문을 추가했습니다."
 
 #: templates/faq.html:13
 msgid "How to Download TikTok Videos Online Free?"
@@ -482,8 +482,8 @@ msgid ""
 "Copy paste the selected TikTok video link on our Website Tool Which is "
 "\"Tiktok Videos Download Without watermark\" and press \"Search Button\"."
 msgstr ""
-"선택한 TikTok 비디오 링크를 &quot;워터마크 없는 Tiktok 비디오 다운로드&quot;인 웹 사이트 도구에 붙여넣고 "
-"&quot;검색 버튼&quot;을 누릅니다."
+"선택한 TikTok 비디오 링크를 &quot;워터마크 없이 다운로드&quot;인 웹 사이트 도구에 붙여넣고 &quot;검색 "
+"버튼&quot;을 누릅니다."
 
 #: templates/faq.html:84 templates/without.html:53
 msgid ""
@@ -527,7 +527,7 @@ msgid ""
 msgstr ""
 "TikTok 애호가가 클릭 한 번으로 TikTok 비디오를 장치에 저장할 수 있는 놀라운 도구입니다. 설계된 이 도구는 매우 간단하며 "
 "모든 사람이 번거로움 없이 쉽게 사용할 수 있습니다. 우리는 모두 비디오를 다시 보고 싶다면 로그에 남아 있는 장치에서 Tik Tok "
-"비디오를 보는 것을 좋아하지만 플랫폼에서 매일 생성하는 멋진 피드백으로 인해 비디오를 더 이상 사용할 수 없고 손실된다는 것을 "
+"비디오를 보는 것을 좋아하지만 플랫폼이 매일 생성하는 멋진 피드백으로 인해 비디오를 더 이상 사용할 수 없고 손실된다는 것을 "
 "경험했습니다. 완전 과잉. TikTok은 선호하는 장치에 비디오를 다운로드하거나 저장하는 것을 허용하지 않습니다. 그러나 사용자 측에서 "
 "업로드한 동영상은 많은 제한이 있는 공식 웹사이트나 앱에서 사용할 수 있습니다. 따라서 문제는 이러한 모든 비디오 다운로드 문제를 "
 "해결하는 방법입니다. 그래서 저는 이 플랫폼에 수백만 명의 사람들이 모바일이나 노트북에서 TikTok 비디오를 시청하지만 다운로드할 수 "
@@ -543,7 +543,7 @@ msgstr "TikTok 비디오를 mp4 형식으로 다운로드할 수 있는 웹 앱�
 
 #: templates/index.html:30
 msgid "How to Download TikTok Videos to Mp4 with Tiksss.com"
-msgstr "Tikss.com을 사용하여 TikTok 비디오를 Mp4로 다운로드하는 방법"
+msgstr "Tiksss.com을 사용하여 TikTok 비디오를 Mp4로 다운로드하는 방법"
 
 #: templates/index.html:47
 msgid "Introduction of TikTok"
@@ -684,8 +684,8 @@ msgid ""
 "share this tool with your friends and family member with the help of social "
 "media because they will definitely like and use this for sure."
 msgstr ""
-"우리는 이 도구를 매우 쉽고 간단하게 만들었습니다. 사람들은 제한 없이 선호하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 "
-"수 있도록 이 도구 페이지를 북마크에 추가해야 합니다. 우리는 사람들이 어떻게 사용하고 혜택을 받을 수 있는지 이 도구의 모든 지침을 "
+"우리는 이 도구를 매우 쉽고 간단하게 만들었습니다. 사람들은 제한 없이 원하는 장치에서 이 도구를 사용할 수 있습니다. 나중에 사용할 수"
+" 있도록 이 도구 페이지를 북마크에 추가해야 합니다. 우리는 사람들이 어떻게 사용하고 혜택을 받을 수 있는지 이 도구의 모든 지침을 "
 "추가했습니다. 소셜 미디어의 도움을 받아 이 도구를 친구 및 가족과 공유하십시오. 친구 및 가족은 분명히 이것을 좋아하고 사용할 것이기 "
 "때문입니다."
 
@@ -716,8 +716,8 @@ msgid ""
 "Privacy Policy. If you have any question regarding this than kindly let us "
 "know. Thanks."
 msgstr ""
-"이 페이지에서 우리 웹사이트 Tikss.com 개인정보 보호정책에 대한 몇 가지 유용한 정보를 추가했습니다. 이와 관련하여 질문이 있으면"
-" 친절하게 알려주십시오. 감사."
+"이 페이지에서 우리 웹사이트 Tikss.com 개인정보 보호정책에 대한 몇 가지 유용한 정보를 추가했습니다. 이와 관련하여 질문이 "
+"있으시면 저희에게 알려주십시오. 감사."
 
 #: templates/privacypolicy.html:13
 msgid "By using"
@@ -738,7 +738,7 @@ msgid ""
 " address, or any other personally identifiable information."
 msgstr ""
 "이 웹사이트는 귀하가 웹사이트를 탐색하고 당사 서버에서 페이지를 요청할 때 귀하의 컴퓨터에서 개인 식별 정보를 수집하지 않습니다. 이는 "
-"귀하가 자발적으로 고의로 개인 식별 정보를 제공하지 않는 한 귀하의 이름, 이메일 주소 또는 기타 개인 식별 정보를 알 수 없음을 "
+"귀하가 자발적으로 의도적으로 개인 식별 정보를 제공하지 않는 한 귀하의 이름, 이메일 주소 또는 기타 개인 식별 정보를 알 수 없음을 "
 "의미합니다."
 
 #: templates/privacypolicy.html:19
@@ -770,7 +770,7 @@ msgid ""
 " browser and capture and remember certain information)"
 msgstr ""
 "우리는 Google Analytics 쿠키를 사용하여 향후 방문을 위해 귀하의 기본 설정을 이해하고 저장합니다. 쿠키는 사이트 또는 "
-"서비스 제공자가 귀하의 웹 브라우저(허용하는 경우)를 통해 귀하의 컴퓨터 하드 드라이브에 전송하는 작은 파일로, 이를 통해 사이트 또는 "
+"서비스 제공자가 귀하의 웹 브라우저(허용하는 경우)를 통해 귀하의 컴퓨터 하드 드라이브로 전송하는 작은 파일로, 이를 통해 사이트 또는 "
 "서비스 제공자 시스템이 귀하의 브라우저를 인식하고 특정 정보를 캡처 및 기억할 수 있습니다."
 
 #: templates/privacypolicy.html:25
@@ -801,7 +801,7 @@ msgid ""
 "identifiable visitor information may be provided to other parties for "
 "marketing, advertising, or other uses"
 msgstr ""
-"우리는 귀하의 개인 식별 정보를 판매, 거래 또는 외부 당사자에게 이전하지 않습니다. 여기에는 해당 당사자가 이 정보를 기밀로 유지하는 "
+"당사는 귀하의 개인 식별 정보를 외부 당사자에게 판매, 거래 또는 전송하지 않습니다. 여기에는 해당 당사자가 이 정보를 기밀로 유지하는 "
 "데 동의하는 한 웹 사이트 운영, 비즈니스 수행 또는 귀하에게 서비스를 제공하는 데 도움을 주는 신뢰할 수 있는 제3자는 포함되지 "
 "않습니다. 또한 공개가 법을 준수하거나 사이트 정책을 시행하거나 당사 또는 다른 사람의 권리, 재산 또는 안전을 보호하기 위해 적절하다고"
 " 판단되는 경우 귀하의 정보를 공개할 수 있습니다. 그러나 개인 식별이 불가능한 방문자 정보는 마케팅, 광고 또는 기타 용도로 제3자에게"
@@ -856,8 +856,8 @@ msgid ""
 "share your information with anyone except as described in this Privacy "
 "Policy"
 msgstr ""
-"서비스를 사용하기로 선택하면 이 정책과 관련된 정보 수집 및 사용에 동의하는 것입니다. 수집한 개인 정보는 서비스 제공 및 개선을 위해 "
-"사용됩니다. 우리는 이 개인 정보 보호 정책에 설명된 경우를 제외하고 귀하의 정보를 사용하거나 그 누구와도 공유하지 않을 것입니다"
+"당사 서비스를 사용하기로 선택하면 이 정책과 관련된 정보 수집 및 사용에 동의하는 것입니다. 수집한 개인 정보는 서비스 제공 및 개선을 "
+"위해 사용됩니다. 우리는 이 개인 정보 보호 정책에 설명된 경우를 제외하고 귀하의 정보를 사용하거나 그 누구와도 공유하지 않을 것입니다"
 
 #: templates/privacypolicy.html:41
 msgid ""
@@ -1221,8 +1221,8 @@ msgid ""
 "Terms and Services. If you have any question regarding this than kindly let "
 "us know. Thanks."
 msgstr ""
-"이 페이지에서 우리 웹사이트 Tikss.com 약관 및 서비스에 대한 몇 가지 유용한 정보를 추가했습니다. 이와 관련하여 질문이 있으면 "
-"친절하게 알려주십시오. 감사."
+"이 페이지에서 우리 웹사이트 Tikss.com 약관 및 서비스에 대한 몇 가지 유용한 정보를 추가했습니다. 이와 관련하여 질문이 있으시면"
+" 저희에게 알려주십시오. 감사."
 
 #: templates/tandc.html:11
 msgid "Welcome to"
@@ -1240,7 +1240,7 @@ msgid ""
 "Do not continue to use Tiksss.com if you do not agree to take all of the "
 "terms and conditions stated on this page."
 msgstr ""
-"이 웹사이트에 액세스함으로써 귀하가 이러한 이용 약관에 동의하는 것으로 간주합니다. 이 페이지에 명시된 모든 이용 약관에 동의하지 않는 "
+"이 웹사이트에 접속함으로써 우리는 귀하가 이 이용약관에 동의하는 것으로 간주합니다. 이 페이지에 명시된 모든 이용 약관에 동의하지 않는 "
 "경우 Tikss.com을 계속 사용하지 마십시오."
 
 #: templates/tandc.html:14
@@ -1259,14 +1259,14 @@ msgid ""
 "plural, capitalization and/or he/she or they, are take interchangeable and "
 "therefore as referring to same."
 msgstr ""
-"다음 용어는 본 이용 약관, 개인 정보 보호 정책 및 면책 조항 및 모든 계약에 적용됩니다. &quot;고객&quot;, "
-"&quot;귀하&quot; 및 &quot;귀하의&quot;는 회사의 이용 약관을 준수하여 이 웹사이트에 로그인하는 사람인 귀하를 "
-"나타냅니다. &quot;회사&quot;, &quot;우리 자신&quot;, &quot;우리&quot;, &quot;우리&quot; 및 "
+"다음 용어는 본 이용약관, 개인정보 보호정책, 면책조항 및 모든 계약에 적용됩니다. &quot;고객&quot;, "
+"&quot;귀하&quot; 및 &quot;귀하의&quot;는 회사의 이용약관을 준수하여 이 웹사이트에 로그인하는 사람인 귀하를 "
+"의미합니다. &quot;회사&quot;, &quot;우리 자신&quot;, &quot;우리&quot;, &quot;우리&quot; 및 "
 "&quot;우리&quot;는 회사를 의미합니다. &quot;당사자&quot;, &quot;당사자&quot; 또는 "
 "&quot;저희&quot;는 고객과 우리 모두를 나타냅니다. 모든 조건은 다음 조건에 따라 회사의 명시된 서비스 제공과 관련하여 고객의 "
-"요구를 충족시키기 위한 명시적 목적을 위해 가장 적절한 방식으로 고객에 대한 지원 프로세스를 수행하는 데 필요한 지불을 수락하고 고려하는"
-" 것을 의미합니다. , 네덜란드의 지배적인 법률. 단수, 복수, 대문자 및/또는 그/그녀의 위의 용어 또는 기타 단어의 사용은 상호 교환"
-" 가능하므로 동일한 것으로 간주합니다."
+"요구를 충족시키기 위한 명시적 목적을 위해 고객에 대한 가장 적절한 지원 프로세스를 수행하는 데 필요한 지불을 수락하고 고려하는 것을 "
+"의미합니다. , 네덜란드의 지배적인 법률. 단수, 복수, 대문자 및/또는 그/그녀의 위의 용어 또는 기타 단어의 사용은 상호 교환 "
+"가능하므로 동일한 것으로 간주합니다."
 
 #: templates/tandc.html:16
 msgid ""
@@ -1315,7 +1315,7 @@ msgstr "Tiksss.com에서 자료 판매, 임대 또는 재라이센스 부여"
 
 #: templates/tandc.html:29
 msgid "Reproduce, duplicate or copy material from Tiksss.com"
-msgstr "Tiksss.com에서 자료를 복제, 복제 또는 복사"
+msgstr "Tiksss.com에서 자료를 복제, 복제 또는 복사하십시오."
 
 #: templates/tandc.html:32
 msgid "Redistribute content from Tiksss.com"
@@ -1339,7 +1339,7 @@ msgid ""
 msgstr ""
 "이 웹사이트의 일부는 사용자가 웹사이트의 특정 영역에 의견과 정보를 게시하고 교환할 수 있는 기회를 제공합니다. Tiksss.com은 "
 "웹사이트에 존재하기 전에 댓글을 필터링, 편집, 게시 또는 검토하지 않습니다. 댓글은 Tiksss.com의 대리인 계열사의 견해와 의견을"
-" 반영하지 않습니다. 댓글은 자신의 견해와 의견을 게시한 사람의 견해와 의견을 반영합니다. 해당 법률이 허용하는 범위 내에서, "
+" 반영하지 않습니다. 댓글은 자신의 견해와 의견을 게시한 사람의 견해와 의견을 반영합니다. 관련 법률이 허용하는 범위 내에서 "
 "Tiksss.com은 이 웹사이트에서 댓글의 사용 및/또는 게시 및/또는 출현으로 인해 발생 및/또는 발생한 모든 책임 손해 또는 비용에"
 " 대해 책임을 지지 않습니다. ."
 
@@ -1482,7 +1482,7 @@ msgid ""
 " general resource information."
 msgstr ""
 "우리는 다음과 같이 결정하는 경우 이러한 조직의 연결 요청을 승인할 것입니다. (b) 조직에 부정적인 기록이 없습니다. (c) "
-"하이퍼링크의 가시성으로 인한 이점은 Tikss.com의 부재를 보상합니다. (d) 링크가 일반 자원 정보의 컨텍스트에 있습니다."
+"하이퍼링크의 가시성으로 인한 이점은 Tikss.com의 부재를 보상합니다. (d) 링크가 일반 자원 정보의 맥락에 있습니다."
 
 #: templates/tandc.html:99
 msgid ""
@@ -1618,7 +1618,7 @@ msgid ""
 "representations, warranties and conditions relating to our website and the "
 "use of this website. Nothing in this disclaimer will"
 msgstr ""
-"해당 법률이 허용하는 최대 범위 내에서 당사는 당사 웹사이트 및 이 웹사이트 사용과 관련된 모든 진술, 보증 및 조건을 배제합니다. 이 "
+"관련 법률이 허용하는 최대 범위 내에서 당사는 당사 웹사이트 및 이 웹사이트 사용과 관련된 모든 진술, 보증 및 조건을 배제합니다. 이 "
 "면책 조항의 어떤 내용도"
 
 #: templates/tandc.html:130
@@ -1677,9 +1677,9 @@ msgstr ""
 msgid "video with watermark"
 msgstr "워터마크가 있는 동영상"
 
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "워터마크 없는 TikTok 비디오 온라인 무료 다운로드:"
+#: templates/watermark.html:28
+msgid "Download TikTok Video with Watermark Online Free:"
+msgstr "워터마크가 있는 TikTok 비디오 다운로드 온라인 무료:"
 
 #: templates/watermark.html:29
 msgid ""
@@ -1762,6 +1762,10 @@ msgstr ""
 #: templates/without.html:13
 msgid "video without watermark"
 msgstr "워터마크 없는 영상"
+
+#: templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "워터마크 없는 TikTok 비디오 온라인 무료 다운로드:"
 
 #: templates/without.html:29
 msgid ""
@@ -1960,7 +1964,7 @@ msgid ""
 msgid_plural ""
 "Ensure this value has at least %(limit_value)d characters (it has "
 "%(show_value)d)."
-msgstr[0] "이 값에 최소 %(limit_value)d 문자가 있어야 합니다( %(show_value)d포함)."
+msgstr[0] "이 값에 최소 %(limit_value)d 문자가 있는지 확인하십시오( %(show_value)d포함)."
 msgstr[1] "이 값에 최소 %(limit_value)d 문자가 있어야 합니다( %(show_value)d포함)."
 
 #: venv/lib/python3.8/site-packages/django/core/validators.py:413
@@ -2093,7 +2097,7 @@ msgstr "&quot;%(value)s&quot; 값의 날짜 형식이 잘못되었습니다. YYY
 msgid ""
 "“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
-msgstr "&quot;%(value)s&quot; 값의 형식(YYYY-MM-DD)이 올바르지만 날짜가 잘못되었습니다."
+msgstr "&quot;%(value)s&quot; 값의 형식은 정확하지만(YYYY-MM-DD) 유효하지 않은 날짜입니다."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1150
 msgid "Date (without time)"
@@ -2932,7 +2936,7 @@ msgid ""
 msgstr ""
 "당신이 사용하는 경우<meta name=\"referrer\" content=\"no-referrer\"> 태그 또는 "
 "&quot;Referrer-Policy: no-referrer&quot; 헤더를 포함하는 경우 제거하십시오. CSRF 보호에는 엄격한 "
-"참조자 검사를 수행하기 위해 &quot;Referer&quot; 헤더가 필요합니다. 개인 정보가 우려되는 경우 <a "
+"참조자 검사를 수행하기 위해 &quot;Referer&quot; 헤더가 필요합니다. 개인 정보가 염려되는 경우 <a "
 "rel=\"noreferrer\" …>타사 사이트에 대한 링크와 같은 대안을 사용하십시오.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:36+0530\n"
+"POT-Creation-Date: 2021-07-15 22:46+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -251,7 +251,7 @@ msgstr "Jak wyciąć i przyciąć wideo TikTok do Mp3 Online za darmo"
 #: templates/audio_cutter.html:45 templates/cutter.html:45
 #: templates/faq.html:97
 msgid "Go to TikTok official website and copy the video link."
-msgstr "Wejdź na oficjalną stronę TikTok i skopiuj link do filmu."
+msgstr "Przejdź na oficjalną stronę TikTok i skopiuj link do filmu."
 
 #: templates/audio_cutter.html:48
 msgid ""
@@ -368,7 +368,7 @@ msgstr ""
 #: templates/cutter.html:40 templates/faq.html:92
 msgid "How to Cut and Trim TikTok Videos in Mobile or PC:"
 msgstr ""
-"Jak wycinać i przycinać filmy TikTok w telefonie komórkowym lub komputerze:"
+"Jak wycinać i przycinać filmy TikTok na telefonie komórkowym lub komputerze:"
 
 #: templates/cutter.html:48 templates/faq.html:100
 msgid ""
@@ -706,7 +706,7 @@ msgstr "Obsługa MP3:"
 
 #: templates/index.html:76
 msgid "Easily Convert TikTok to Mp3 with high quality."
-msgstr "Łatwo przekonwertuj TikTok na Mp3 z wysoką jakością."
+msgstr "Łatwo przekonwertuj TikTok na Mp3 o wysokiej jakości."
 
 #: templates/index.html:88
 msgid "Download TikTok Video to Mp4 HD On Mobile Device:"
@@ -864,7 +864,7 @@ msgstr ""
 "podane w nagłówku żądania HTTP, JavaScript lub podobnych narzędziach "
 "technicznych, w tym numer IP, czas żądania, adres URL żądania i inne "
 "informacje. Zbieramy te informacje, aby nasza Witryna działała poprawnie i "
-"aby zapewnić Ci funkcjonalność, którą widzisz w Witrynie, ponieważ nasze "
+"zapewniała Ci funkcjonalność, którą widzisz w Witrynie, ponieważ nasze "
 "serwery wykorzystują te informacje, aby dostarczać Ci strony w tej Witrynie."
 " Korzystamy również z tych informacji, aby lepiej zrozumieć, w jaki sposób "
 "odwiedzający korzystają z naszej Witryny i jak możemy lepiej dostosować "
@@ -882,7 +882,7 @@ msgid ""
 msgstr ""
 "Używamy plików cookie Google Analytics, aby zrozumieć i zapisać Twoje "
 "preferencje dla przyszłych wizyt. Pliki cookie to małe pliki, które witryna "
-"lub jej usługodawca przesyła na dysk twardy komputera użytkownika za "
+"lub jej usługodawca przesyła na dysk twardy Twojego komputera za "
 "pośrednictwem przeglądarki internetowej (jeśli na to zezwolisz), które "
 "umożliwiają witrynom lub systemom usługodawców rozpoznanie przeglądarki oraz"
 " przechwytywanie i zapamiętywanie określonych informacji)"
@@ -922,12 +922,12 @@ msgstr ""
 "Nie sprzedajemy, nie handlujemy ani w żaden inny sposób nie przekazujemy "
 "podmiotom zewnętrznym Twoich danych osobowych. Nie obejmuje to zaufanych "
 "stron trzecich, które pomagają nam w prowadzeniu naszej strony internetowej,"
-" prowadzeniu naszej działalności lub obsłudze Ciebie, o ile strony te "
+" prowadzeniu naszej działalności lub obsłudze użytkownika, o ile strony te "
 "zgadzają się zachować poufność tych informacji. Możemy również ujawnić Twoje"
 " dane, jeśli uważamy, że jest to zgodne z prawem, egzekwowanie naszych zasad"
 " dotyczących witryny lub ochrona naszych lub innych praw, własności lub "
-"bezpieczeństwa. Jednak informacje o odwiedzających, które nie pozwalają na "
-"identyfikację osoby, mogą być przekazywane innym stronom w celach "
+"bezpieczeństwa. Jednak informacje o odwiedzających, które nie umożliwiają "
+"identyfikacji użytkownika, mogą być przekazywane innym stronom w celach "
 "marketingowych, reklamowych lub innych"
 
 #: templates/privacypolicy.html:31
@@ -1074,7 +1074,7 @@ msgstr ""
 "Pliki cookie to pliki z niewielką ilością danych, które są powszechnie "
 "używane jako anonimowe unikalne identyfikatory. Są one wysyłane do Twojej "
 "przeglądarki z odwiedzanych przez Ciebie stron internetowych i są "
-"przechowywane w pamięci wewnętrznej Twojego urządzenia device"
+"przechowywane w pamięci wewnętrznej Twojego urządzenia"
 
 #: templates/privacypolicy.html:51
 msgid ""
@@ -1293,7 +1293,7 @@ msgstr ""
 " Dlatego zalecamy zapoznanie się z odpowiednimi Politykami prywatności tych "
 "zewnętrznych serwerów reklamowych w celu uzyskania bardziej szczegółowych "
 "informacji. Może obejmować ich praktyki i instrukcje dotyczące rezygnacji z "
-"niektórych opcji. Pełną listę tych zasad ochrony prywatności i ich linki "
+"niektórych opcji. Pełną listę tych zasad ochrony prywatności oraz ich linki "
 "można znaleźć tutaj: Linki do polityki prywatności. Możesz wyłączyć pliki "
 "cookie za pomocą indywidualnych opcji przeglądarki. Aby uzyskać bardziej "
 "szczegółowe informacje na temat zarządzania plikami cookie w określonych "
@@ -1345,7 +1345,7 @@ msgstr ""
 
 #: templates/privacypolicy.html:97
 msgid "GDPR Data Protection Rights"
-msgstr "Prawa do ochrony danych RODO"
+msgstr "Prawa do ochrony danych osobowych RODO"
 
 #: templates/privacypolicy.html:98
 msgid ""
@@ -1482,8 +1482,8 @@ msgid ""
 "We employ the use of cookies. By accessing Tiksss.com, you agreed to use "
 "cookies in agreement  the Tiksss.com Privacy Policy"
 msgstr ""
-"Używamy plików cookie. Uzyskując dostęp do Tiksss.com, wyrażasz zgodę na "
-"używanie plików cookie zgodnie z Polityką prywatności Tiksss.com"
+"Używamy plików cookie. Wchodząc na Tiksss.com, zgadzasz się na używanie "
+"plików cookie zgodnie z Polityką prywatności Tiksss.com"
 
 #: templates/tandc.html:17
 msgid ""
@@ -1964,9 +1964,9 @@ msgstr ""
 msgid "video with watermark"
 msgstr "wideo ze znakiem wodnym"
 
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "Pobierz wideo TikTok bez znaku wodnego online za darmo:"
+#: templates/watermark.html:28
+msgid "Download TikTok Video with Watermark Online Free:"
+msgstr "Pobierz wideo TikTok ze znakiem wodnym online za darmo:"
 
 #: templates/watermark.html:29
 msgid ""
@@ -2003,8 +2003,8 @@ msgstr ""
 "otwórz dowolny film z listy i po prawej stronie ekranu wybierz udostępnij, a"
 " następnie w na dole zobaczysz opcję kopiowania linku, po prostu skopiuj "
 "link i przejdź do strony naszego narzędzia, wklej link wideo i kliknij "
-"przycisk pobierania. Pobranie filmu na urządzenie zajmie od 5 do 10 sekund. "
-"Mamy również"
+"przycisk pobierania. Pobranie filmu na urządzenie zajmie tylko od 5 do 10 "
+"sekund. Mamy również"
 
 #: templates/watermark.html:29
 msgid ""
@@ -2066,6 +2066,10 @@ msgstr ""
 #: templates/without.html:13
 msgid "video without watermark"
 msgstr "wideo bez znaku wodnego"
+
+#: templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Pobierz wideo TikTok bez znaku wodnego online za darmo:"
 
 #: templates/without.html:29
 msgid ""
@@ -2553,7 +2557,7 @@ msgid ""
 "format."
 msgstr ""
 "Wartość „%(value)s” ma nieprawidłowy format. Musi być w formacie "
-"GG:MM[:ss[.uuuuu]]."
+"GG:MM[:ss[.uuuuuu]]."
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/__init__.py:2183
 #, python-format
@@ -2626,7 +2630,7 @@ msgstr "%(from)s-%(to)s relacji"
 
 #: venv/lib/python3.8/site-packages/django/db/models/fields/related.py:1142
 msgid "Many-to-many relationship"
-msgstr "Relacja wiele do wielu"
+msgstr "Relacja wiele-do-wielu"
 
 #. Translators: If found as last label character, these punctuation
 #. characters will prevent the default label_suffix to be appended to the
@@ -2692,7 +2696,7 @@ msgstr[1] ""
 
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:545
 msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr "Prześlij plik lub zaznacz wyczyść pole wyboru, a nie jedno i drugie."
+msgstr "Prześlij plik lub zaznacz wyczyść pole wyboru, nie jedno i drugie."
 
 #: venv/lib/python3.8/site-packages/django/forms/fields.py:606
 msgid ""
@@ -2751,14 +2755,14 @@ msgstr ""
 #, python-format
 msgid "Please submit at most %d form."
 msgid_plural "Please submit at most %d forms."
-msgstr[0] "Prześlij maksymalnie %d formularz."
+msgstr[0] "Prześlij maksymalnie formularz %d ."
 msgstr[1] "Prześlij maksymalnie %d formularzy."
 
 #: venv/lib/python3.8/site-packages/django/forms/formsets.py:377
 #, python-format
 msgid "Please submit at least %d form."
 msgid_plural "Please submit at least %d forms."
-msgstr[0] "Prześlij co najmniej %d formularz."
+msgstr[0] "Prześlij co najmniej formularz %d ."
 msgstr[1] "Prześlij co najmniej %d formularzy."
 
 #: venv/lib/python3.8/site-packages/django/forms/formsets.py:405
@@ -3278,9 +3282,9 @@ msgid ""
 msgstr ""
 "Jeśli używasz<meta name=\"referrer\" content=\"no-referrer\"> lub dołączając"
 " nagłówek „Referrer-Policy: no-referrer”, usuń je. Ochrona CSRF wymaga, aby "
-"nagłówek „Referer” przeprowadzał ścisłą kontrolę referera. Jeśli martwisz "
-"się o prywatność, użyj alternatyw, takich jak <a rel=\"noreferrer\" …>linki "
-"do witryn stron trzecich.</a>"
+"nagłówek „Referer” wykonał ścisłe sprawdzenie referencji. Jeśli martwisz się"
+" o prywatność, użyj alternatyw, takich jak <a rel=\"noreferrer\" …>linki do "
+"witryn stron trzecich.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132
 msgid ""

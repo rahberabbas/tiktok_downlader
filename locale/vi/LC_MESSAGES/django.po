@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 23:36+0530\n"
+"POT-Creation-Date: 2021-07-15 22:46+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -589,10 +589,10 @@ msgid ""
 "mobile or laptop but they can’t download it. So do not worry about it. I "
 "have made this tool for you people only to "
 msgstr ""
-"là một công cụ tuyệt vời cho những người yêu thích TikTok để lưu video "
+"là một công cụ tuyệt vời dành cho những người yêu thích TikTok để lưu video "
 "TikTok vào thiết bị của bạn chỉ với một cú nhấp chuột. Công cụ này được "
-"thiết kế rất đơn giản và mọi người đều có thể sử dụng nó một cách dễ dàng mà"
-" không gặp bất kỳ rắc rối nào. Tất cả chúng ta đều thích xem video Tik Tok "
+"thiết kế rất đơn giản và mọi người có thể sử dụng nó một cách dễ dàng mà "
+"không gặp bất kỳ rắc rối nào. Tất cả chúng ta đều thích xem video Tik Tok "
 "trên thiết bị của chúng ta. Các video này vẫn còn trong nhật ký của chúng ta"
 " nếu chúng ta muốn xem lại những video đó nhưng tôi đã nhận thấy rằng các "
 "video đó không còn khả dụng nữa và nó bị mất do phản hồi tuyệt vời mà nền "
@@ -777,9 +777,9 @@ msgid ""
 "share this tool with your friends and family member with the help of social "
 "media because they will definitely like and use this for sure."
 msgstr ""
-"Chúng tôi đã làm cho công cụ này rất dễ dàng và đơn giản. Bạn mọi người có "
-"thể sử dụng công cụ này trên các thiết bị ưa thích của mình mà không có bất "
-"kỳ giới hạn nào. Đảm bảo rằng bạn phải đánh dấu trang công cụ này cho tương "
+"Chúng tôi đã làm cho công cụ này rất dễ dàng và đơn giản. Mọi người có thể "
+"sử dụng công cụ này trên các thiết bị ưa thích của mình mà không có bất kỳ "
+"giới hạn nào. Đảm bảo rằng bạn phải đánh dấu trang công cụ này cho tương "
 "lai. Chúng tôi đã thêm tất cả các hướng dẫn của công cụ này để mọi người có "
 "thể sử dụng và tận dụng lợi ích từ nó. Vui lòng chia sẻ công cụ này với bạn "
 "bè và thành viên gia đình của bạn với sự trợ giúp của phương tiện truyền "
@@ -925,9 +925,9 @@ msgstr ""
 "bên đó đồng ý giữ bí mật thông tin này. Chúng tôi cũng có thể tiết lộ thông "
 "tin của bạn khi chúng tôi tin rằng việc phát hành là phù hợp để tuân thủ "
 "luật pháp, thực thi các chính sách trang web của chúng tôi hoặc bảo vệ "
-"quyền, tài sản hoặc sự an toàn của chúng tôi hoặc người khác. Tuy nhiên, "
-"thông tin khách truy cập không nhận dạng cá nhân có thể được cung cấp cho "
-"các bên khác để tiếp thị, quảng cáo hoặc các mục đích sử dụng khác"
+"quyền, tài sản hoặc sự an toàn của chúng tôi hoặc những người khác. Tuy "
+"nhiên, thông tin khách truy cập không nhận dạng cá nhân có thể được cung cấp"
+" cho các bên khác để tiếp thị, quảng cáo hoặc các mục đích sử dụng khác"
 
 #: templates/privacypolicy.html:31
 msgid ""
@@ -1058,7 +1058,7 @@ msgstr ""
 " chúng tôi, trong trường hợp xảy ra lỗi trong ứng dụng, chúng tôi thu thập "
 "dữ liệu và thông tin (thông qua các sản phẩm của bên thứ ba) trên điện thoại"
 " của bạn được gọi là Dữ liệu nhật ký. Dữ liệu nhật ký này có thể bao gồm "
-"thông tin như địa chỉ Giao thức Internet (&quot;IP&quot;) của thiết bị của "
+"thông tin như địa chỉ Giao thức Internet (&quot;IP&quot;) trên thiết bị của "
 "bạn, tên thiết bị, phiên bản hệ điều hành, cấu hình của ứng dụng khi sử dụng"
 " Dịch vụ của chúng tôi, ngày giờ bạn sử dụng Dịch vụ và các số liệu thống kê"
 " khác"
@@ -1075,7 +1075,7 @@ msgid ""
 msgstr ""
 "Cookie là các tệp có một lượng nhỏ dữ liệu thường được sử dụng làm mã định "
 "danh duy nhất ẩn danh. Chúng được gửi đến trình duyệt của bạn từ các trang "
-"web bạn truy cập và được lưu trữ trên bộ nhớ trong của thiết bị của bạn"
+"web mà bạn truy cập và được lưu trữ trên bộ nhớ trong của thiết bị của bạn"
 
 #: templates/privacypolicy.html:51
 msgid ""
@@ -1232,7 +1232,7 @@ msgstr ""
 "chúng tôi được liệt kê dưới đây. Mỗi đối tác quảng cáo của chúng tôi có "
 "Chính sách bảo mật riêng cho các chính sách của họ về dữ liệu người dùng. Để"
 " truy cập dễ dàng hơn, chúng tôi đã liên kết siêu liên kết với Chính sách "
-"bảo mật của họ bên dưới."
+"quyền riêng tư của họ bên dưới."
 
 #: templates/privacypolicy.html:82
 msgid "Changes to This Privacy Policy"
@@ -1564,10 +1564,10 @@ msgstr ""
 "trên trang web. Nhận xét không phản ánh quan điểm và ý kiến của Tiksss.com, "
 "đại lý của nó, một chi nhánh. Bình luận phản ánh quan điểm và ý kiến của "
 "người đăng quan điểm và ý kiến của họ. Trong phạm vi luật pháp hiện hành cho"
-" phép, Tiksss.com sẽ không chịu trách nhiệm đối với Nhận xét hoặc bất kỳ "
-"thiệt hại hoặc chi phí hợp pháp nào gây ra và / hoặc phải chịu do bất kỳ "
-"việc sử dụng và / hoặc đăng và / hoặc sự xuất hiện của Nhận xét trên trang "
-"web này ."
+" phép, Tiksss.com sẽ không chịu trách nhiệm đối với các Nhận xét hoặc bất kỳ"
+" thiệt hại hoặc chi phí liên quan nào gây ra và / hoặc phải gánh chịu do bất"
+" kỳ việc sử dụng và / hoặc đăng và / hoặc sự xuất hiện của các Nhận xét trên"
+" trang web này ."
 
 #: templates/tandc.html:37
 msgid ""
@@ -1708,7 +1708,7 @@ msgstr "các hiệp hội hoặc các nhóm khác đại diện cho các tổ ch
 
 #: templates/tandc.html:86
 msgid "online directory distributors"
-msgstr "nhà phân phối danh bạ trực tuyến"
+msgstr "nhà phân phối thư mục trực tuyến"
 
 #: templates/tandc.html:89
 msgid "internet portals"
@@ -1716,7 +1716,7 @@ msgstr "cổng thông tin internet"
 
 #: templates/tandc.html:92
 msgid "accounting, law and consulting firms; and"
-msgstr "các công ty kế toán, luật và tư vấn; và"
+msgstr "công ty kế toán, luật và tư vấn; và"
 
 #: templates/tandc.html:95
 msgid "Educational institutions and trade associations."
@@ -1976,9 +1976,9 @@ msgstr ""
 msgid "video with watermark"
 msgstr "video có hình mờ"
 
-#: templates/watermark.html:28 templates/without.html:28
-msgid "Download TikTok Video Without Watermark Online Free:"
-msgstr "Tải xuống TikTok Video Không có Watermark Trực tuyến Miễn phí:"
+#: templates/watermark.html:28
+msgid "Download TikTok Video with Watermark Online Free:"
+msgstr "Tải xuống TikTok Video với Watermark trực tuyến miễn phí:"
 
 #: templates/watermark.html:29
 msgid ""
@@ -2013,8 +2013,8 @@ msgstr ""
 " nhấp chuột phải và chọn địa chỉ liên kết sao chép và nếu bạn đang sử dụng "
 "một ứng dụng, hãy mở bất kỳ video nào từ danh sách và ở phía bên phải của "
 "màn hình, chọn chia sẻ và sau đó trong dưới cùng, bạn sẽ thấy tùy chọn sao "
-"chép liên kết, chỉ cần sao chép liên kết và đi đến trang công cụ của chúng "
-"tôi và dán liên kết video và nhấp vào nút tải xuống. Chỉ mất 5 đến 10 giây "
+"chép liên kết, chỉ cần sao chép liên kết và truy cập trang công cụ của chúng"
+" tôi và dán liên kết video và nhấp vào nút tải xuống. Chỉ mất 5 đến 10 giây "
 "để tải video của bạn xuống thiết bị của bạn. Chúng tôi cũng có một"
 
 #: templates/watermark.html:29
@@ -2080,6 +2080,10 @@ msgstr ""
 #: templates/without.html:13
 msgid "video without watermark"
 msgstr "video không có hình mờ"
+
+#: templates/without.html:28
+msgid "Download TikTok Video Without Watermark Online Free:"
+msgstr "Tải xuống TikTok Video Không có Watermark Trực tuyến Miễn phí:"
 
 #: templates/without.html:29
 msgid ""
@@ -3284,9 +3288,9 @@ msgid ""
 msgstr ""
 "Nếu bạn đang sử dụng<meta name=\"referrer\" content=\"no-referrer\"> hoặc "
 "bao gồm tiêu đề “Liên kết giới thiệu-Chính sách: không có liên kết giới "
-"thiệu”, vui lòng xóa chúng. Việc bảo vệ CSRF yêu cầu tiêu đề &quot;Người "
-"giới thiệu&quot; phải thực hiện kiểm tra người giới thiệu nghiêm ngặt. Nếu "
-"bạn lo lắng về quyền riêng tư, hãy sử dụng các lựa chọn thay thế như <a "
+"thiệu”, vui lòng xóa chúng. Việc bảo vệ CSRF yêu cầu tiêu đề “Người giới "
+"thiệu” phải thực hiện kiểm tra người giới thiệu nghiêm ngặt. Nếu bạn lo lắng"
+" về quyền riêng tư, hãy sử dụng các lựa chọn thay thế như <a "
 "rel=\"noreferrer\" …>cho các liên kết đến các trang web của bên thứ ba.</a>"
 
 #: venv/lib/python3.8/site-packages/django/views/csrf.py:132
@@ -3468,4 +3472,4 @@ msgstr "Giá trị không được hỗ trợ cho thuật toán pw: %s."
 
 #: venv/lib/python3.8/site-packages/httplib2/__init__.py:1448
 msgid "Redirected but the response is missing a Location: header."
-msgstr "Đã chuyển hướng nhưng phản hồi thiếu tiêu đề Location:."
+msgstr "Được chuyển hướng nhưng phản hồi thiếu tiêu đề Location:."
