@@ -8,6 +8,6 @@ class StaticViewSitemap(Sitemap):
     i18n = True
 
     def items(self):
-        return ['index', 'about', 'privacy', 'tandc', 'faq', 'cutter', 'down', 'audio', 'without'] # path's name
+        return ['index', 'about', 'privacy', 'tandc', 'faq', 'cutter', 'down', 'audio', 'without', 'watermark'] # path's name
     def location(self, item):
         return reverse(item)
