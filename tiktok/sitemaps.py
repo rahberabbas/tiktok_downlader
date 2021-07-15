@@ -4,6 +4,7 @@ from django.shortcuts import reverse
 
 class StaticViewSitemap(Sitemap):
     changefreq = "weekly"
+    protocol = 'https'
     priority = 1.0
     i18n = True
 
