@@ -26,8 +26,8 @@ def download5(request):
             t2 = request.POST.get('t2')
             tt2 = int(t2)
             rts = functions.without(url=url)
-            r = uuid.uuid4()
-            file_hello = f"tiksss.com_{r}.mp3"
+            r = uuid.uuid4().hex
+            file_hello = f"tiksss_{r}.mp3"
             filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
             ffmpeg_extract_subclip(filename=rts, t1=tt1, t2=tt2, targetname=(os.path.join(BASE_DIR+"/video_cut",filename) + '.mp4'))
 

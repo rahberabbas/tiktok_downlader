@@ -21,8 +21,8 @@ def download1(request):
             
             url = url
             rtr = functions.withwater_download(urls=url)
-            r = uuid.uuid4()
-            file_hello = f"tiksss.com_{r}.mp3"
+            r = uuid.uuid4().hex
+            file_hello = f"tiksss_{r}.mp3"
             data = rtr.content
             filename = str(uuid.uuid4())
             with open(os.path.join(BASE_DIR+"/audio_down",filename) + '.mp4', 'wb') as f:

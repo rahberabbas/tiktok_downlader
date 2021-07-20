@@ -19,8 +19,8 @@ def download2(request):
         if "tiktok.com" in url:
             url = url
             rtr = functions.without(url=url)
-            r = uuid.uuid4()
-            file_hello = f"tiksss.com_{r}.mp4"
+            r = uuid.uuid4().hex
+            file_hello = f"tiksss_{r}.mp4"
             data = rtr.content
             filename = str(uuid.uuid4())
 
