@@ -37,7 +37,7 @@ def download5(request):
             with open(os.path.join(BASE_DIR+"/audio_cut",filename+'.mp3'), 'rb') as f:
                 data = f.read()
 
-            response = HttpResponse(data, content_type='application/audio.mp3')
+            response = HttpResponse(data, content_type='audio/webm')
             response['Content-Disposition'] = "attachment; filename=%s" % file_hello
             return response
         else:

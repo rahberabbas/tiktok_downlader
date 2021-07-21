@@ -30,7 +30,7 @@ def download8(request):
             with open(os.path.join(BASE_DIR+"/video_down",filename+'.mp4'), 'rb') as f:
                 data = f.read()
             time.sleep(7)
-            response = HttpResponse(data, content_type='application/vnd.mp4')
+            response = HttpResponse(data, content_type='video/webm')
             response['Content-Disposition'] = "attachment; filename=%s" % file_hello
             return response
         else:
