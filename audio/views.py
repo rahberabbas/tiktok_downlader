@@ -5,7 +5,6 @@ from moviepy.editor import *
 from .import functions
 import uuid
 import time
-import mimetypes
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -35,8 +34,7 @@ def download1(request):
             with open(os.path.join(BASE_DIR+"/audio_down2",filename+'.mp3'), 'rb') as f:
                 data = f.read()
             time.sleep(7)
-            mime_type, _ = mimetypes.guess_type(file_hello)
-            response = HttpResponse(data, content_type=mime_type)
+            response = HttpResponse(data, content_type='application/aud.mp3')
             response['Content-Disposition'] = "attachment; filename=%s"  % file_hello
             return response
         else:

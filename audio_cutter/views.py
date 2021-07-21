@@ -6,7 +6,6 @@ from .import functions
 from moviepy.editor import *
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 import uuid
-import mimetypes
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -37,8 +36,8 @@ def download5(request):
 
             with open(os.path.join(BASE_DIR+"/audio_cut",filename+'.mp3'), 'rb') as f:
                 data = f.read()
-            mime_type, _ = mimetypes.guess_type(file_hello)
-            response = HttpResponse(data, content_type=mime_type)
+
+            response = HttpResponse(data, content_type='application/audio.mp3')
             response['Content-Disposition'] = "attachment; filename=%s" % file_hello
             return response
         else:
