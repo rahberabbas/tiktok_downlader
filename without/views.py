@@ -4,6 +4,7 @@ import os
 from moviepy.editor import *
 from datetime import datetime
 import uuid
+import mimetypes
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -29,8 +30,8 @@ def download2(request):
 
             with open(os.path.join(BASE_DIR+"/without_video",filename+'.mp4'), 'rb') as f:
                 data = f.read()
-
-            response = HttpResponse(data, content_type='application/vnd.mp4')
+            mime_type, _ = mimetypes.guess_type(file_hello)
+            response = HttpResponse(data, content_type=mime_type)
             response['Content-Disposition'] = "attachment; filename=%s" % file_hello
             return response
         else:

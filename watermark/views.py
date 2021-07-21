@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 from .import function
 import uuid
-
+import mimetypes
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -31,7 +31,8 @@ def download8(request):
             with open(os.path.join(BASE_DIR+"/video_down",filename+'.mp4'), 'rb') as f:
                 data = f.read()
             time.sleep(7)
-            response = HttpResponse(data, content_type='application/vnd.mp4')
+            mime_type, _ = mimetypes.guess_type(file_hello)
+            response = HttpResponse(data, content_type=mime_type)
             response['Content-Disposition'] = "attachment; filename=%s" % file_hello
             return response
         else:
