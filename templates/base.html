@@ -89,7 +89,7 @@
             </li>
             <li>
                 <img src="{% static 'images/whatsapp_img.png' %}" width="32" height="32">
-                <p><a href="https://api.whatsapp.com/send?text=tiksss.com" target="_blank">Share us on<br>Whatsapp</a></p>
+                <p><a href="https://api.whatsapp.com/send?text={{ request.build_absolute_uri }}" target="_blank">Share us on<br>Whatsapp</a></p>
             </li>
         </ul>
     </div>
